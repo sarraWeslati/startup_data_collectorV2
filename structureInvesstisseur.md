@@ -1,55 +1,186 @@
 {
-  "investor_name": "string",
-  "type": "angel | vc | corporate | accelerator | other",
+  "entity_type": "investor",
 
-  "country": "string",
-  "city": "string",
+  "name": "",
+  "description": "",
+  "tagline": "",
 
-  "bio": "string",
-  "website": "string",
-  "logo_url": "string",
+  "investor_type": "",
+  
+  "country": "",
+  "city": "",
+  "headquarters": "",
 
-  "focus_sectors": ["string"],
+  "founded_year": "",
 
-  "investment_stage": [
-    "idea",
-    "pre-seed",
-    "seed",
-    "series A",
-    "series B",
-    "growth"
-  ],
+  "website": "",
+  "linkedin_url": "",
 
-  "typical_ticket_size": {
-    "min": "number",
-    "max": "number",
-    "currency": "string"
+  "social_media": {
+    "linkedin": "",
+    "facebook": "",
+    "youtube": "",
+    "instagram": ""
   },
-
-  "portfolio_companies": ["string"],
 
   "contact": {
-    "email": "string",
-    "phone": "string",
-    "address": "string"
+    "emails": [],
+    "phones": [],
+    "address": ""
   },
 
-  "others": {
-    "linkedin": "string",
-    "twitter": "string",
+  "leadership": [
+    {
+      "name": "",
+      "role": "",
+      "linkedin": "",
+      "bio": ""
+    }
+  ],
 
-    "founded_year": "number",
-    "aum": "string",
+  "partners": [
+    {
+      "name": "",
+      "role": "",
+      "linkedin": ""
+    }
+  ],
 
-    "notable_investments": ["string"],
-    "co_investors": ["string"],
+  "investment_focus": {
+    "industries": [],
+    "technologies": [],
+    "business_models": []
+  },
 
-    "investment_thesis": "string",
+  "geographic_focus": [
+    "Tunisia",
+    "North Africa",
+    "Africa",
+    "MENA"
+  ],
 
-    "team_size": "number",
+  "investment_stages": [
+    "Pre-Seed",
+    "Seed",
+    "Series A"
+  ],
 
-    "tags": ["string"],
+  "ticket_size": {
+    "min": null,
+    "max": null,
+    "currency": "USD"
+  },
 
-    "extra_notes": "string"
+  "assets_under_management": null,
+
+  "funds": [
+    {
+      "name": "",
+      "size": null,
+      "currency": "",
+      "launch_year": ""
+    }
+  ],
+
+  "portfolio": [
+    {
+      "startup_name": "",
+      "industry": "",
+      "country": "",
+      "investment_stage": ""
+    }
+  ],
+
+  "successful_exits": [
+    {
+      "startup_name": "",
+      "exit_type": "",
+      "year": ""
+    }
+  ],
+
+  "co_investors": [],
+
+  "accelerator_programs": [],
+
+  "incubator_programs": [],
+
+  "awards": [],
+
+  "certifications": [],
+
+  "recent_investments": [
+    {
+      "startup": "",
+      "date": "",
+      "amount": null,
+      "currency": ""
+    }
+  ],
+
+  "recent_news": [
+    {
+      "title": "",
+      "date": "",
+      "source": "",
+      "url": ""
+    }
+  ],
+
+  "extra_notes": "string",
+
+  "business_metrics": {
+    "portfolio_size": null,
+    "number_of_exits": null,
+    "number_of_investments": null,
+    "aum": null
+  },
+
+  "sources": [
+    {
+      "type": "website",
+      "url": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "linkedin",
+      "url": "",
+      "confidence": 0.95
+    },
+    {
+      "type": "crunchbase",
+      "url": "",
+      "confidence": 0.90
+    }
+  ],
+
+  "confidence": {
+    "overall": 0.0,
+    "leadership": 0.0,
+    "portfolio": 0.0,
+    "funds": 0.0,
+    "investment_stages": 0.0
+  },
+
+  "enrichment": {
+    "status": "completed",
+    "sources_used": [
+      "website",
+      "linkedin",
+      "tavily",
+      "crunchbase",
+      "news"
+    ],
+    "collection_date": "",
+    "last_updated": ""
+  },
+
+  "stats": {
+    "has_website": false,
+    "has_linkedin": false,
+    "portfolio_size": 0,
+    "funds_count": 0,
+    "news_count": 0
   }
 }
+  
