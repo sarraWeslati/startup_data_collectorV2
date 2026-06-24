@@ -2,34 +2,45 @@ import requests
 from bs4 import BeautifulSoup
 
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
+def get_article_links(base_url):
 
+    page = 1
+    all_links = set()
 
-def get_article_links(category_url):
+    while True:
 
-    r = requests.get(category_url, headers=HEADERS)
-    soup = BeautifulSoup(r.text, "html.parser")
+        url = f"{base_url}?paged={page}"
+        print(f"📄 Crawling page {page}: {url}")
 
-    links = set()
+        try:
+            r = requests.get(url, timeout=10)
 
-    for a in soup.select("a[href]"):
-        href = a["href"]
+            if r.status_code != 200:
+                break
 
-        # garder uniquement articles managers.tn
-        if "managers.tn/" in href and "/category/" not in href:
-            if href.startswith("https://managers.tn/"):
-                links.add(href)
+            soup = BeautifulSoup(r.text, "html.parser")
 
-    return list(links)
+            links = soup.find_all("a")
 
+            new_links = 0
 
-def get_all_pages(base_url, max_pages=10):
+            for a in links:
+                href = a.get("href")
 
-    pages = [base_url]
+                if href and "managers.tn" in href:
+                    if "/2026/" in href or "/2025/" in href:
+                        if href not in all_links:
+                            all_links.add(href)
+                            new_links += 1
 
-    for i in range(2, max_pages + 1):
-        pages.append(f"{base_url}page/{i}/")
+            # 🛑 stop condition
+            if new_links == 0:
+                break
 
-    return pages
+            page += 1
+
+        except Exception as e:
+            print(f"ERROR page {page}: {e}")
+            break
+
+    return list(all_links)
