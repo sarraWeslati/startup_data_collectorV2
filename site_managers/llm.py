@@ -1,100 +1,73 @@
-import os
+from openai import OpenAI
 import json
-import time
-import requests
+import os
 from dotenv import load_dotenv
-from pathlib import Path
+load_dotenv()
 
-load_dotenv(Path(__file__).resolve().parents[1] / ".env")
-
-API_KEY = os.getenv("OPENROUTER_API_KEY")
-MODEL = os.getenv("DEFAULT_MODEL", "openai/gpt-4o-mini")
-BASE_URL = os.getenv("BASE_URL", "https://openrouter.ai/api/v1")
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
 
 
-def extract_with_llm(url: str, text: str, max_retries: int = 1):
+# Charge les variables du fichier .env
 
-    if not text:
-        return None
 
-    # 🔥 reduce cost
-    text = text[:2500]
+# Récupère la clé depuis l'environnement
+api_key = os.getenv("OPENROUTER_API_KEY"))
 
-    prompt = f"""
-Extract structured data from this article.
+SYSTEM_PROMPT = """
+You are a precise data extraction engine for startup/news articles.
 
-Return ONLY JSON:
+Return ONLY valid JSON.
 
-{{
-  "summary": "short summary",
-  "type": "funding|news|regulation|interview|other",
-  "startups": [],
-  "companies": [],
-  "banks": [],
-  "people": []
-}}
+Rules:
+- startup_name must be real (not generic words like "Après", "C’est")
+- entities must be real organizations, companies, people, products
+- remove noise words
+- ignore numbers that are not meaningful
+- funding must include amount + currency if possible
+- if unknown, return null
 
-ARTICLE:
-{text}
+Output format:
+{
+  "startup_name": "",
+  "year": "",
+  "funding": [
+    {"amount": "", "currency": ""}
+  ],
+  "entities": [],
+  "summary": ""
+}
 """
 
-    payload = {
-        "model": MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.2,
-        "max_tokens": 300   # 🔥 IMPORTANT COST CONTROL
-    }
 
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json"
-    }
+def llm_extract(url: str, title: str, text: str):
 
-    for _ in range(max_retries + 1):
+    # 🧠 token control (VERY IMPORTANT)
+    text = text[:1800]
 
-        try:
-            response = requests.post(
-                f"{BASE_URL}/chat/completions",
-                headers=headers,
-                json=payload,
-                timeout=30
-            )
+    prompt = f"""
+URL: {url}
+TITLE: {title}
 
-            data = response.json()
+CONTENT:
+{text}
 
-            # ❌ API error handling
-            if "choices" not in data:
+Extract structured data.
+"""
 
-                print("\n❌ LLM ERROR:", data)
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-20b:free",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.2
+        )
 
-                # stop wasting time on quota errors
-                if data.get("error", {}).get("code") in [401, 402]:
-                    return {
-                        "summary": "",
-                        "type": "error",
-                        "startups": [],
-                        "companies": [],
-                        "banks": [],
-                        "people": []
-                    }
+        content = response.choices[0].message.content
+        return json.loads(content)
 
-                return None
-
-            content = data["choices"][0]["message"]["content"]
-
-            try:
-                return json.loads(content)
-
-            except:
-                return {
-                    "summary": content[:200],
-                    "type": "unknown",
-                    "startups": [],
-                    "companies": [],
-                    "banks": [],
-                    "people": []
-                }
-
-        except Exception as e:
-            print("❌ Request error:", e)
-            return None
+    except Exception as e:
+        print("LLM ERROR:", e)
+        return None

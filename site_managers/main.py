@@ -5,47 +5,39 @@ from crawler import get_article_links
 from scraper import scrape_article
 from extractor import extract_structured_data
 
-
 BASE_URL = "https://managers.tn/category/startup/"
 
 
 def main():
-    print("🚀 START CLEAN SCRAPING")
+
+    print("🚀 SMART LLM SCRAPING PIPELINE STARTED")
 
     links = get_article_links(BASE_URL)
-
-    if not links:
-        print("❌ No links found")
-        return
 
     results = []
 
     for i, url in enumerate(links):
 
-        print(f"[{i+1}/{len(links)}] {url}")
+        print(f"[{i+1}/{len(links)}] Processing {url}")
 
         text = scrape_article(url)
 
-        if not text or len(text) < 200:
-            print("⚠️ skipped empty article")
+        if not text:
             continue
 
-        title = text.split("\n")[0][:120]  # meilleur fallback
+        title = text[:120]
 
         data = extract_structured_data(url, title, text)
 
         if data:
             results.append(data)
 
-    # dossier storage
     Path("storage").mkdir(exist_ok=True)
 
-    output_path = Path("storage/startups_clean.json")
-
-    with open(output_path, "w", encoding="utf-8") as f:
+    with open("storage/startups_final.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✅ DONE CLEAN DATA -> {output_path}")
+    print("\n✅ DONE - CLEAN + INTELLIGENT DATA READY")
 
 
 if __name__ == "__main__":
