@@ -1,18 +1,10 @@
 from openai import OpenAI
 import json
-import os
-from dotenv import load_dotenv
-load_dotenv()
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-
-
-# Charge les variables du fichier .env
-
-
-# Récupère la clé depuis l'environnement
-api_key = os.getenv("OPENROUTER_API_KEY"))
+    api_key="YOUR_API_KEY"
+)
 
 SYSTEM_PROMPT = """
 You are a precise data extraction engine for startup/news articles.
