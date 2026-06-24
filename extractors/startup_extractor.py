@@ -5,6 +5,9 @@ from typing import Dict, Any
 
 from llm.openrouter_client import call_llm
 
+from utils.url_normalizer import (
+    normalize_website
+)
 
 def build_startup_prompt(content: str) -> str:
 
@@ -85,4 +88,7 @@ def extract_startup(content: str) -> Dict[str, Any]:
         max_tokens=2500
     )
 
-    return parse_startup_response(response)
+    startup = parse_startup_response(response)
+    website = startup.get("website", "")
+    startup["website"] = normalize_website(website)
+    return startup

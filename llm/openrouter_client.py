@@ -20,7 +20,7 @@ client = OpenAI(
 
 
 DEFAULT_MODEL = (
-    "openai/gpt-oss-20b:free"
+    "openai/gpt-oss-120b:free"
 )
 
 

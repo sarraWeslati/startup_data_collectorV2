@@ -4,6 +4,9 @@ import json
 from typing import Dict, Any
 
 from llm.openrouter_client import call_llm
+from utils.url_normalizer import (
+    normalize_website
+)
 
 
 def build_investor_prompt(content: str) -> str:
@@ -49,39 +52,85 @@ CONTENT:
 """
 
 
-def parse_investor_response(response: str) -> Dict[str, Any]:
+def parse_investor_response(
+    response: str
+) -> Dict[str, Any]:
 
     try:
 
         response = response.strip()
-        response = response.replace("```json", "")
-        response = response.replace("```", "")
+
+        response = response.replace(
+            "```json",
+            ""
+        )
+
+        response = response.replace(
+            "```",
+            ""
+        )
 
         start = response.find("{")
         end = response.rfind("}")
 
         if start == -1 or end == -1:
-            raise ValueError("JSON not found")
 
-        json_text = response[start:end + 1]
+            raise ValueError(
+                "JSON not found"
+            )
 
-        return json.loads(json_text)
+        json_text = response[
+            start:end + 1
+        ]
+
+        return json.loads(
+            json_text
+        )
 
     except Exception as e:
 
         return {
-            "entity_type": "investor",
-            "error": str(e)
+
+            "entity_type":
+            "investor",
+
+            "error":
+            str(e)
         }
 
 
-def extract_investor(content: str) -> Dict[str, Any]:
+def extract_investor(
+    content: str
+) -> Dict[str, Any]:
 
-    prompt = build_investor_prompt(content)
+    prompt = build_investor_prompt(
+        content
+    )
 
     response = call_llm(
         prompt=prompt,
         max_tokens=2500
     )
 
-    return parse_investor_response(response)
+    investor = (
+        parse_investor_response(
+            response
+        )
+    )
+
+    # --------------------------
+    # Website normalization
+    # --------------------------
+
+    website = investor.get(
+        "website",
+        ""
+    )
+
+    investor[
+        "website"
+    ] = normalize_website(
+        website
+    )
+
+    return investor
