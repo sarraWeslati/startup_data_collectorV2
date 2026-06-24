@@ -10,15 +10,33 @@ BASE_URL = "https://managers.tn/category/startup/"
 
 def main():
 
-    print("🚀 SMART LLM SCRAPING PIPELINE STARTED")
+    print("🚀 SMART SCRAPING PIPELINE STARTED")
+
+    # 🎯 MODE INTERACTIF
+    print("\nChoisis le mode :")
+    print("1 - TEST (20 articles)")
+    print("2 - FULL (tous les articles)")
+
+    choice = input("👉 Tape 1 ou 2 : ").strip()
 
     links = get_article_links(BASE_URL)
+
+    if choice == "1":
+        links = links[:10]
+        print(f"🧪 MODE TEST ACTIVÉ : {len(links)} articles")
+
+    elif choice == "2":
+        print(f"🚀 MODE FULL ACTIVÉ : {len(links)} articles")
+
+    else:
+        print("❌ Choix invalide, mode TEST par défaut")
+        links = links[:10]
 
     results = []
 
     for i, url in enumerate(links):
 
-        print(f"[{i+1}/{len(links)}] Processing {url}")
+        print(f"[{i+1}/{len(links)}] {url}")
 
         text = scrape_article(url)
 
@@ -34,10 +52,12 @@ def main():
 
     Path("storage").mkdir(exist_ok=True)
 
-    with open("storage/startups_final.json", "w", encoding="utf-8") as f:
+    filename = "startups_test.json" if choice == "1" else "startups_full.json"
+
+    with open(f"storage/{filename}", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
 
-    print("\n✅ DONE - CLEAN + INTELLIGENT DATA READY")
+    print(f"\n✅ DONE → {filename} created")
 
 
 if __name__ == "__main__":
