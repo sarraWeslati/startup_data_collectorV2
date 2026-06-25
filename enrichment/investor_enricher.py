@@ -7,7 +7,11 @@ from enrichment.website_enricher import (
 )
 
 from enrichment.tavily_client import (
-    search_investor
+    search_investor,
+    extract_company_website,
+    extract_linkedin_url,
+    extract_crunchbase_url,
+    extract_social_links
 )
 
 from enrichment.llm_enricher import (
@@ -22,7 +26,7 @@ async def enrich_investor(
     Investor enrichment pipeline
 
     1. Website enrichment
-    2. Tavily search
+    2. Tavily Deep Search
     3. LLM enrichment
     4. Metadata generation
     """
@@ -45,7 +49,6 @@ async def enrich_investor(
     )
 
     # =====================================
-    # STEP 1
     # WEBSITE ENRICHMENT
     # =====================================
 
@@ -62,9 +65,16 @@ async def enrich_investor(
         )
 
     # =====================================
-    # STEP 2
-    # TAVILY SEARCH
+    # TAVILY DEEP SEARCH
     # =====================================
+
+    tavily_data = {}
+
+    website = ""
+    linkedin = ""
+    crunchbase = ""
+
+    socials = {}
 
     try:
 
@@ -79,6 +89,88 @@ async def enrich_investor(
 
             tavily_data = {}
 
+        website = (
+            extract_company_website(
+                tavily_data
+            )
+        )
+
+        linkedin = (
+            extract_linkedin_url(
+                tavily_data
+            )
+        )
+
+        crunchbase = (
+            extract_crunchbase_url(
+                tavily_data
+            )
+        )
+
+        socials = (
+            extract_social_links(
+                tavily_data
+            )
+        )
+
+        # Website
+
+        if (
+            website
+            and not investor.get(
+                "website"
+            )
+        ):
+
+            investor[
+                "website"
+            ] = website
+
+        # LinkedIn
+
+        if (
+            linkedin
+            and not investor.get(
+                "linkedin"
+            )
+        ):
+
+            investor[
+                "linkedin"
+            ] = linkedin
+
+        # Crunchbase
+
+        if crunchbase:
+
+            investor[
+                "crunchbase"
+            ] = crunchbase
+
+        # Social Media
+
+        existing_socials = (
+            investor.get(
+                "social_media",
+                {}
+            )
+        )
+
+        if not isinstance(
+            existing_socials,
+            dict
+        ):
+
+            existing_socials = {}
+
+        existing_socials.update(
+            socials
+        )
+
+        investor[
+            "social_media"
+        ] = existing_socials
+
     except Exception as e:
 
         print(
@@ -88,7 +180,6 @@ async def enrich_investor(
         tavily_data = {}
 
     # =====================================
-    # STEP 3
     # WEBSITE CONTENT
     # =====================================
 
@@ -104,7 +195,6 @@ async def enrich_investor(
         )
 
     # =====================================
-    # STEP 4
     # LLM ENRICHMENT
     # =====================================
 
@@ -138,7 +228,78 @@ async def enrich_investor(
         return investor
 
     # =====================================
-    # STEP 5
+    # PRESERVE TAVILY DATA
+    # =====================================
+
+    if (
+        website
+        and not enriched_investor.get(
+            "website"
+        )
+    ):
+
+        enriched_investor[
+            "website"
+        ] = website
+
+    if (
+        linkedin
+        and not enriched_investor.get(
+            "linkedin"
+        )
+    ):
+
+        enriched_investor[
+            "linkedin"
+        ] = linkedin
+
+    if crunchbase:
+
+        enriched_investor[
+            "crunchbase"
+        ] = crunchbase
+
+    existing_socials = (
+        enriched_investor.get(
+            "social_media",
+            {}
+        )
+    )
+
+    if not isinstance(
+        existing_socials,
+        dict
+    ):
+
+        existing_socials = {}
+
+    existing_socials.update(
+        socials
+    )
+
+    enriched_investor[
+        "social_media"
+    ] = existing_socials
+
+    # =====================================
+    # EXTERNAL PROFILES
+    # =====================================
+
+    enriched_investor[
+        "external_profiles"
+    ] = {
+
+        "website":
+        website,
+
+        "linkedin":
+        linkedin,
+
+        "crunchbase":
+        crunchbase
+    }
+
+    # =====================================
     # ENTITY TYPE
     # =====================================
 
@@ -150,7 +311,6 @@ async def enrich_investor(
     )
 
     # =====================================
-    # STEP 6
     # ENRICHMENT METADATA
     # =====================================
 
@@ -172,7 +332,6 @@ async def enrich_investor(
     }
 
     # =====================================
-    # STEP 7
     # TAVILY METADATA
     # =====================================
 
@@ -199,7 +358,6 @@ async def enrich_investor(
     }
 
     # =====================================
-    # STEP 8
     # STATS
     # =====================================
 
@@ -235,8 +393,23 @@ async def enrich_investor(
                 "investment_focus",
                 []
             )
+        ),
+
+        "partners_count":
+        len(
+            enriched_investor.get(
+                "partners",
+                []
+            )
+        ),
+
+        "team_members_count":
+        len(
+            enriched_investor.get(
+                "team_members",
+                []
+            )
         )
     }
 
     return enriched_investor
-

@@ -52,7 +52,11 @@ def tavily_search(
             True,
 
             "include_raw_content":
-            True
+            True,
+
+            "include_images": False,
+
+            "topic": "general"
         }
 
         response = requests.post(
@@ -96,30 +100,41 @@ def search_startup(
 ) -> Dict:
 
     query = f"""
-    {startup_name}
+Create a complete startup profile for:
 
-    startup company
+{startup_name}
 
-    founders
+Find:
 
-    linkedin
+- official website
+- LinkedIn page
+- founders
+- CEO
+- executive team
+- headquarters
+- country
+- city
+- industry
+- products
+- services
+- technology stack
+- funding stage
+- funding amount
+- investors
+- partnerships
+- customers
+- awards
+- accelerators
+- incubators
+- social media profiles
 
-    website
-
-    funding
-
-    investors
-
-    products
-
-    services
-
-    technologies
-    """
+Return the most reliable information available.
+"""
 
     return tavily_search(
         query=query,
-        max_results=15
+        max_results=20,
+        search_depth="advanced"
     )
 
 
@@ -132,24 +147,35 @@ def search_investor(
 ) -> Dict:
 
     query = f"""
-    {investor_name}
+Create a complete investor profile for:
 
-    venture capital
+{investor_name}
 
-    investment fund
+Find:
 
-    portfolio startups
+- official website
+- LinkedIn page
+- description
+- investment thesis
+- investment focus
+- industries
+- geographic focus
+- investment stages
+- ticket size
+- assets under management
+- portfolio startups
+- partners
+- managing directors
+- team members
+- social media profiles
 
-    investment stages
-
-    investment focus
-
-    partners
-    """
+Return the most reliable information available.
+"""
 
     return tavily_search(
         query=query,
-        max_results=15
+        max_results=20,
+        search_depth="advanced"
     )
 
 
@@ -332,6 +358,50 @@ def extract_social_links(
 
     return socials
 
+def extract_company_website(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    excluded_domains = [
+
+        "linkedin.com",
+        "crunchbase.com",
+        "wellfound.com",
+        "angel.co",
+
+        "facebook.com",
+        "instagram.com",
+
+        "twitter.com",
+        "x.com",
+
+        "youtube.com",
+        "reddit.com",
+        "github.com"
+    ]
+
+    for result in tavily_result.get(
+        "results",
+        []
+    ):
+
+        url = result.get(
+            "url",
+            ""
+        )
+
+        if not url:
+            continue
+
+        if any(
+            domain in url.lower()
+            for domain in excluded_domains
+        ):
+            continue
+
+        return url
+
+    return None
 
 # =====================================================
 # Test
