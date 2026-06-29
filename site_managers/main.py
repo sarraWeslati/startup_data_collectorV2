@@ -1,63 +1,96 @@
-import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+import json
+import sys
 
 from crawler import get_article_links
-from scraper import scrape_article
 from extractor import extract_structured_data
+from scraper import scrape_article
+
 
 BASE_URL = "https://managers.tn/category/startup/"
+MAX_WORKERS = 3
+ROOT_DIR = Path(__file__).resolve().parent
+STORAGE_DIR = ROOT_DIR / "storage"
+
+
+def process_article(url):
+    try:
+        text = scrape_article(url)
+        if not text:
+            return None
+
+        title = text.split(".")[0][:250]
+        return extract_structured_data(url, title, text)
+
+    except Exception as e:
+        print(f"[ERROR] {url}: {e}")
+        return None
+
+
+def save_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as file:
+        json.dump(data, file, indent=4, ensure_ascii=False)
 
 
 def main():
+    print("START MANAGERS PIPELINE")
 
-    print("🚀 SMART SCRAPING PIPELINE STARTED")
-
-    # 🎯 MODE INTERACTIF
-    print("\nChoisis le mode :")
-    print("1 - TEST (20 articles)")
-    print("2 - FULL (tous les articles)")
-
-    choice = input("👉 Tape 1 ou 2 : ").strip()
+    if len(sys.argv) > 1:
+        mode = sys.argv[1].strip().lower()
+    else:
+        mode = input("Mode (20 / full): ").strip().lower()
 
     links = get_article_links(BASE_URL)
 
-    if choice == "1":
-        links = links[:10]
-        print(f"🧪 MODE TEST ACTIVÉ : {len(links)} articles")
-
-    elif choice == "2":
-        print(f"🚀 MODE FULL ACTIVÉ : {len(links)} articles")
-
+    if mode == "20":
+        links = links[:20]
+        print("TEST MODE")
     else:
-        print("❌ Choix invalide, mode TEST par défaut")
-        links = links[:10]
+        print("FULL MODE")
 
-    results = []
+    print(f"Total links: {len(links)}")
+    print(f"Workers: {MAX_WORKERS}")
 
-    for i, url in enumerate(links):
+    startups = []
+    investors = []
+    others = []
 
-        print(f"[{i+1}/{len(links)}] {url}")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(process_article, url): url for url in links}
 
-        text = scrape_article(url)
+        for completed, future in enumerate(as_completed(futures), start=1):
+            url = futures[future]
+            print(f"[{completed}/{len(links)}] Done: {url}")
 
-        if not text:
-            continue
+            try:
+                data = future.result()
+                if not data:
+                    continue
 
-        title = text[:120]
+                entity_type = data.get("entity_type", "other")
 
-        data = extract_structured_data(url, title, text)
+                if entity_type == "startup":
+                    startups.append(data)
+                elif entity_type == "investor":
+                    investors.append(data)
+                else:
+                    others.append(data)
 
-        if data:
-            results.append(data)
+            except Exception as e:
+                print(f"[PROCESS ERROR] {url}: {e}")
 
-    Path("storage").mkdir(exist_ok=True)
+    save_json(STORAGE_DIR / "startups.json", startups)
+    save_json(STORAGE_DIR / "investors.json", investors)
+    save_json(STORAGE_DIR / "other_articles.json", others)
 
-    filename = "startups_test.json" if choice == "1" else "startups_full.json"
-
-    with open(f"storage/{filename}", "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=4, ensure_ascii=False)
-
-    print(f"\n✅ DONE → {filename} created")
+    print("\n================================")
+    print("DONE")
+    print("STARTUPS :", len(startups))
+    print("INVESTORS:", len(investors))
+    print("OTHERS   :", len(others))
+    print("================================")
 
 
 if __name__ == "__main__":

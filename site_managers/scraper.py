@@ -1,31 +1,23 @@
 import requests
 import trafilatura
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 def scrape_article(url):
 
     try:
-        response = requests.get(url, headers=HEADERS, timeout=12)
+        r = requests.get(url, headers=HEADERS, timeout=10)
 
-        if response.status_code != 200:
+        if r.status_code != 200:
             return None
 
-        text = trafilatura.extract(
-            response.text,
-            include_comments=False,
-            include_tables=False,
-            favor_recall=False
-        )
+        text = trafilatura.extract(r.text)
 
-        if text:
-            text = " ".join(text.split())  # clean whitespace
+        if not text:
+            return None
 
-        return text
+        return " ".join(text.split())
 
     except Exception as e:
-        print(f"[SCRAPER ERROR] {url}: {e}")
+        print("[SCRAPER ERROR]", e)
         return None

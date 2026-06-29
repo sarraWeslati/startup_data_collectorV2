@@ -11,97 +11,143 @@ client = OpenAI(
 )
 
 SYSTEM_PROMPT = """
-You are a strict startup data extraction engine.
+You are a high-precision startup ecosystem extraction system.
 
-Return ONLY valid JSON.
+TASK:
+1. Classify article into ONLY ONE:
+   - startup
+   - investor
+   - other
+
+=================================================
+CLASSIFICATION RULES
+=================================================
+
+STARTUP:
+- company, startup, product, app
+- founded, launched
+- funding, seed, series A, B, C
+- raising money
+
+INVESTOR:
+- VC, venture capital
+- fund, investor, accelerator, incubator
+- investment activity
+
+OTHER:
+- ecosystem news
+- stats
+- trends
+- events (no specific company/investor)
+
+IMPORTANT:
+If funding is mentioned AND a company exists → startup
+
+=================================================
+OUTPUT (STRICT JSON ONLY)
+=================================================
+
+{
+  "entity_type": "startup | investor | other",
+  "data": {}
+}
+
+=================================================
+STARTUP FIELDS
+=================================================
+If startup:
+{
+  "name": "",
+  "industry": "",
+  "country": "",
+  "city": "",
+  "website": "",
+  "founders": [],
+  "funding": {},
+  "investors": [],
+  "tags": [],
+  "others": {}
+}
+
+=================================================
+INVESTOR FIELDS
+=================================================
+If investor:
+{
+  "name": "",
+  "investor_type": "",
+  "country": "",
+  "website": "",
+  "focus": [],
+  "portfolio": [],
+  "others": {}
+}
+
+=================================================
+OTHER FIELDS
+=================================================
+If other:
+{
+  "title": "",
+  "summary": "",
+  "tags": [],
+  "relevance": "low | medium | high",
+  "others": {}
+}
 
 RULES:
-
-1. startup_name:
-- must be a REAL startup/company
-- reject: programs, events, articles, generic words
-- if not real → return null
-
-2. funding:
-- always return numeric values (NOT strings)
-- include:
-  amount (float)
-  currency
-  type (equity/debt/grant/unknown)
-  meaning (short explanation of what the money represents)
-
-3. summary:
-- 2-3 lines max
-- MUST explain meaning of funding (not just numbers)
-
-4. entities:
-- only real companies, investors, organizations, countries
-
-OUTPUT FORMAT:
-{
-  "startup_name": "",
-  "year": "",
-  "funding": [],
-  "entities": [],
-  "summary": ""
-}
+- Never invent data
+- Unknown = empty value
+- Return ONLY JSON
 """
 
-
-# =========================
-# SAFE JSON PARSER
-# =========================
-def safe_parse_json(text: str):
+def safe_json(raw):
     try:
-        data = json.loads(text)
+        raw = raw.strip()
 
-        # 🔥 Fix: sometimes LLM returns list instead of dict
-        if isinstance(data, list):
-            return data[0] if len(data) > 0 else {}
+        if raw.startswith("```json"):
+            raw = raw.replace("```json", "").replace("```", "").strip()
 
-        if isinstance(data, dict):
-            return data
+        return json.loads(raw)
 
-        return {}
+    except Exception as e:
+        print("JSON ERROR:", e)
+        return {
+            "entity_type": "other",
+            "data": {}
+        }
 
-    except Exception:
-        return {}
 
+def llm_extract(url, title, text):
 
-# =========================
-# LLM CALL WITH RETRY
-# =========================
-def llm_extract(url: str, title: str, text: str):
-
-    text = text[:2500]
+    text = text[:3000]
 
     prompt = f"""
 URL: {url}
 TITLE: {title}
 
-CONTENT:
+ARTICLE:
 {text}
 
-Extract structured startup intelligence in strict JSON.
+Extract structured data.
 """
 
     try:
         response = client.chat.completions.create(
-            model="openai/gpt-oss-20b:free",
+            model="openai/gpt-oss-120b:free",
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.2
+            temperature=0
         )
 
         raw = response.choices[0].message.content
-
-        # 🔥 DEBUG (utile en dev)
-        # print("RAW LLM:", raw)
-
-        return safe_parse_json(raw)
+        return safe_json(raw)
 
     except Exception as e:
-        print("❌ LLM ERROR:", e)
-        return {}
+        print("LLM ERROR:", e)
+        return {
+            "entity_type": "other",
+            "data": {}
+        }
