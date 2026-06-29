@@ -7,7 +7,6 @@ from utils.url_loader import load_urls
 from collectors.website_collector import scrape_url
 from storage.file_storage import save_raw_content
 
-
 async def process_url(url: str) -> dict:
     """
     Traite une URL :

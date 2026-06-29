@@ -1,94 +1,193 @@
 # extractors/startup_extractor.py
 
-import json
-from typing import Dict, Any
+from typing import Dict
 
-from llm.openrouter_client import call_llm
+from llm.openrouter_client import call_llm_json
 
-from utils.url_normalizer import (
-    normalize_website
-)
+from schemas.startup_schema import (get_empty_startup)
 
-def build_startup_prompt(content: str) -> str:
+from utils.json_tools import (parse_llm_json)
+
+from utils.url_normalizer import (normalize_website)
+
+# =====================================================
+# PROMPT
+# =====================================================
+
+def build_startup_prompt(
+    content: str
+) -> str:
 
     content = content[:20000]
 
     return f"""
-You are a startup intelligence analyst.
+You are an expert startup intelligence analyst.
 
-Extract all startup information available in the content.
+Extract ONLY information explicitly present in the text.
+
+Do NOT invent information.
 
 Return ONLY valid JSON.
+
+Return ONLY the fields below.
 
 Schema:
 
 {{
-    "entity_type": "startup",
     "name": "",
     "description": "",
+    "tagline": "",
+
     "industry": "",
+    "sub_industry": "",
+    "keywords": [],
+
     "country": "",
     "city": "",
+    "headquarters": "",
+
+    "founded_year": "",
+    "startup_stage": "",
+
     "website": "",
-    "linkedin": "",
+    "linkedin_url": "",
+
+    "contact": {{
+        "emails": [],
+        "phones": [],
+        "address": ""
+    }},
+
     "founders": [],
-    "team_members": [],
+
+    "leadership": [],
+
     "products": [],
+
+    "services": [],
+
     "technologies": [],
-    "emails": [],
-    "phones": []
+
+    "customer_segments": [],
+
+    "target_market": "",
+
+    "partners": [],
+
+    "accelerators": [],
+
+    "incubators": [],
+
+    "investors": [],
+
+    "awards": [],
+
+    "certifications": [],
+
+    "patents": []
 }}
 
 Rules:
 
-- Use empty string if unknown.
-- Use empty array if unknown.
-- Do not invent information.
 - Return ONLY JSON.
+- Empty string if unknown.
+- Empty array if unknown.
+- Never guess.
 
 CONTENT:
 
 {content}
 """
 
+# =====================================================
+# MERGE
+# =====================================================
 
-def parse_startup_response(response: str) -> Dict[str, Any]:
+def merge_startup_data(
+    startup: Dict,
+    extracted: Dict
+) -> Dict:
 
-    try:
+    for key, value in extracted.items():
 
-        response = response.strip()
+        if value in (
+            "",
+            None,
+            [],
+            {}
+        ):
+            continue
 
-        response = response.replace("```json", "")
-        response = response.replace("```", "")
+        if key == "website":
 
-        start = response.find("{")
-        end = response.rfind("}")
+            startup["website"] = normalize_website(
+                value
+            )
 
-        if start == -1 or end == -1:
-            raise ValueError("JSON not found")
+            continue
 
-        json_text = response[start:end + 1]
+        existing = startup.get(key)
 
-        return json.loads(json_text)
+        if isinstance(value, dict) and isinstance(existing, dict):
 
-    except Exception as e:
+            existing.update(value)
 
-        return {
-            "entity_type": "startup",
-            "error": str(e)
-        }
+            startup[key] = existing
 
+        elif isinstance(value, list) and isinstance(existing, list):
 
-def extract_startup(content: str) -> Dict[str, Any]:
+            merged = existing.copy()
 
-    prompt = build_startup_prompt(content)
+            for item in value:
 
-    response = call_llm(
-        prompt=prompt,
-        max_tokens=2500
+                if item not in merged:
+
+                    merged.append(item)
+
+            startup[key] = merged
+
+        else:
+
+            startup[key] = value
+
+    return startup
+
+# =====================================================
+# MAIN
+# =====================================================
+
+def extract_startup(
+    content: str
+) -> Dict:
+
+    startup = get_empty_startup()
+
+    prompt = build_startup_prompt(
+        content
     )
 
-    startup = parse_startup_response(response)
-    website = startup.get("website", "")
-    startup["website"] = normalize_website(website)
+    response = call_llm_json(
+        prompt=prompt,
+        max_tokens=3000
+    )
+
+    extracted = parse_llm_json(
+        response
+    )
+
+    if not extracted:
+
+        startup["extraction_error"] = (
+            "Unable to parse LLM response."
+        )
+
+        return startup
+
+    startup = merge_startup_data(
+        startup,
+        extracted
+    )
+
+    startup["entity_type"] = "startup"
+
     return startup

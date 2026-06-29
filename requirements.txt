@@ -17,3 +17,5 @@ trafilatura
 validators
 
 tldextract
+
+phonenumbers

@@ -3,7 +3,7 @@
 import json
 from typing import Dict, Any
 
-from llm.openrouter_client import call_llm
+from llm.openrouter_client import call_llm_json
 
 
 def build_prompt(content: str) -> str:
@@ -114,7 +114,7 @@ def extract_accelerator(
         content
     )
 
-    response = call_llm(
+    response = call_llm_json(
         prompt=prompt,
         max_tokens=1500
     )

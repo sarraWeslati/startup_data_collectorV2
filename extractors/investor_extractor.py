@@ -1,50 +1,42 @@
 # extractors/investor_extractor.py
 
-import json
-from typing import Dict, Any
+from typing import Dict
 
-from llm.openrouter_client import call_llm
-from utils.url_normalizer import (
-    normalize_website
-)
+from llm.openrouter_client import call_llm_json
+from schemas.investor_schema import get_empty_investor
+from utils.json_tools import parse_llm_json
+from utils.url_normalizer import normalize_website
 
 
 def build_investor_prompt(content: str) -> str:
 
     content = content[:20000]
 
-    return f"""
-You are an investor intelligence analyst.
+    schema = get_empty_investor()
 
-Extract all information about the investor organization.
+    return f"""
+You are a venture capital and investor intelligence analyst.
+
+Extract every piece of information that is explicitly present in the content.
+
+Do NOT invent information.
+
+If a field is missing, keep the default value.
 
 Return ONLY valid JSON.
 
-Schema:
+JSON Schema:
 
-{{
-    "entity_type": "investor",
-    "name": "",
-    "description": "",
-    "country": "",
-    "city": "",
-    "website": "",
-    "linkedin": "",
-    "investment_focus": [],
-    "ticket_size": "",
-    "portfolio_companies": [],
-    "partners": [],
-    "team_members": [],
-    "emails": [],
-    "phones": []
-}}
+{schema}
 
 Rules:
 
-- Do not invent information.
-- Use empty strings if unknown.
-- Use empty arrays if unknown.
 - Return ONLY JSON.
+- Do not add explanations.
+- Do not use markdown.
+- Do not invent information.
+- Preserve the JSON structure exactly.
+- Keep empty strings, empty arrays, empty objects and null values if information is missing.
 
 CONTENT:
 
@@ -52,85 +44,49 @@ CONTENT:
 """
 
 
-def parse_investor_response(
-    response: str
-) -> Dict[str, Any]:
-
-    try:
-
-        response = response.strip()
-
-        response = response.replace(
-            "```json",
-            ""
-        )
-
-        response = response.replace(
-            "```",
-            ""
-        )
-
-        start = response.find("{")
-        end = response.rfind("}")
-
-        if start == -1 or end == -1:
-
-            raise ValueError(
-                "JSON not found"
-            )
-
-        json_text = response[
-            start:end + 1
-        ]
-
-        return json.loads(
-            json_text
-        )
-
-    except Exception as e:
-
-        return {
-
-            "entity_type":
-            "investor",
-
-            "error":
-            str(e)
-        }
-
-
 def extract_investor(
     content: str
-) -> Dict[str, Any]:
+) -> Dict:
 
-    prompt = build_investor_prompt(
-        content
-    )
+    prompt = build_investor_prompt(content)
 
-    response = call_llm(
+    response = call_llm_json(
         prompt=prompt,
-        max_tokens=2500
+        max_tokens=3500
     )
 
-    investor = (
-        parse_investor_response(
-            response
-        )
-    )
+    investor = parse_llm_json(response)
 
-    # --------------------------
+    if not investor:
+
+        investor = get_empty_investor()
+
+    # =====================================================
     # Website normalization
-    # --------------------------
+    # =====================================================
 
-    website = investor.get(
-        "website",
-        ""
+    investor["website"] = normalize_website(
+        investor.get("website", "")
     )
 
-    investor[
-        "website"
-    ] = normalize_website(
-        website
+
+    # =====================================================
+    # Contact normalization
+    # =====================================================
+
+    investor.setdefault(
+        "emails",
+        []
+    )
+
+    investor.setdefault(
+        "phones",
+        []
+    )
+
+    investor.setdefault(
+        "address",
+        ""
     )
 
     return investor

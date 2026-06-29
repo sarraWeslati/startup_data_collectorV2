@@ -4,7 +4,7 @@ import json
 import re
 from pathlib import Path
 from typing import Dict, Any
-
+from copy import deepcopy
 
 def slugify(text: str) -> str:
     """
@@ -44,6 +44,56 @@ def get_entity_folder(entity_type: str) -> str:
 
     return mapping.get(entity_type, "others")
 
+def merge_entities(
+    old: Dict[str, Any],
+    new: Dict[str, Any]
+) -> Dict[str, Any]:
+    """
+    Fusion intelligente de deux entités.
+    Les nouvelles données complètent les anciennes
+    sans les écraser.
+    """
+
+    merged = deepcopy(old)
+
+    for key, value in new.items():
+
+        if value in ("", None, [], {}):
+            continue
+
+        old_value = merged.get(key)
+
+        # Fusion des listes
+        if (
+            isinstance(old_value, list)
+            and isinstance(value, list)
+        ):
+
+            merged[key] = list(
+                dict.fromkeys(
+                    old_value + value
+                )
+            )
+
+        # Fusion des dictionnaires
+        elif (
+            isinstance(old_value, dict)
+            and isinstance(value, dict)
+        ):
+
+            merged[key] = merge_entities(
+                old_value,
+                value
+            )
+
+        # Valeurs simples
+        else:
+
+            if old_value in ("", None):
+                merged[key] = value
+
+    return merged
+
 
 def save_entity(entity: Dict[str, Any]) -> str:
     """
@@ -74,6 +124,30 @@ def save_entity(entity: Dict[str, Any]) -> str:
     filename = slugify(entity_name) + ".json"
 
     filepath = output_dir / filename
+
+    # Si le fichier existe déjà,
+    # on fusionne les données.
+
+    if filepath.exists():
+
+        try:
+
+            with open(
+                filepath,
+                "r",
+                encoding="utf-8"
+            ) as f:
+
+                existing = json.load(f)
+
+        except Exception:
+
+            existing = {}
+
+        entity = merge_entities(
+            existing,
+            entity
+        )
 
     with open(
         filepath,
