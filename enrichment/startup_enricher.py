@@ -88,6 +88,7 @@ async def enrich_startup(
             tavily_data = {}
 
         package = build_enrichment_package(
+            startup_name,
             tavily_data
         )
 

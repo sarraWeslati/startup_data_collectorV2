@@ -85,6 +85,7 @@ async def enrich_investor(
             tavily_data = {}
 
         package = build_enrichment_package(
+            investor_name,
             tavily_data
         )
 

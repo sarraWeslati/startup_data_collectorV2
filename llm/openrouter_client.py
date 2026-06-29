@@ -21,7 +21,7 @@ client = OpenAI(
 
 
 DEFAULT_MODEL = (
-    "openrouter/owl-alpha"
+    "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
 )
 DEFAULT_TEMPERATURE = 0.1
 
