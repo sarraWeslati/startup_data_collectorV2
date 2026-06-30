@@ -17,3 +17,6 @@ trafilatura
 validators
 
 tldextract
+pdfplumber
+config
+fitz
