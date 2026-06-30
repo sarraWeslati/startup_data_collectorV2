@@ -3,6 +3,7 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
+import time
 
 load_dotenv()
 
@@ -20,47 +21,120 @@ client = OpenAI(
 
 
 DEFAULT_MODEL = (
-    "openai/gpt-oss-120b:free"
+    "openrouter/owl-alpha"
 )
+DEFAULT_TEMPERATURE = 0.1
 
+DEFAULT_MAX_TOKENS = 2000
+
+DEFAULT_TIMEOUT = 120
+
+MAX_RETRIES = 3
+
+RETRY_DELAY = 2
+
+HTTP_REFERER = "https://github.com/sarraWeslati/startup_data_collectorV2.git"
+
+APP_TITLE = "Startup Data Collection"
 
 def call_llm(
     prompt: str,
     model: str = DEFAULT_MODEL,
-    max_tokens: int = 2000,
-    temperature: float = 0.1,
+    max_tokens: int = DEFAULT_MAX_TOKENS,
+    temperature: float = DEFAULT_TEMPERATURE,
 ) -> str:
     """
-    Envoie un prompt à OpenRouter
-    et retourne la réponse texte.
+    Envoie un prompt à OpenRouter avec
+    plusieurs tentatives automatiques.
     """
 
-    try:
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1
+    ):
 
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt
+        try:
+
+            response = client.chat.completions.create(
+
+                model=model,
+
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
+                ],
+
+                temperature=temperature,
+
+                max_tokens=max_tokens,
+
+                timeout=DEFAULT_TIMEOUT,
+
+                extra_headers={
+
+                    "HTTP-Referer":
+                    HTTP_REFERER,
+
+                    "X-Title":
+                    APP_TITLE
                 }
-            ],
-            temperature=temperature,
-            max_tokens=max_tokens,
-        )
 
-        return (
-            response
-            .choices[0]
-            .message
-            .content
-            .strip()
-        )
+            )
 
-    except Exception as e:
+            if (
+                not response.choices
+                or
+                not response.choices[0].message.content
+            ):
 
-        print(
-            f"[OPENROUTER ERROR] {e}"
-        )
+                raise ValueError(
+                    "Empty response from model."
+                )
 
-        return ""
+            return (
+                response
+                .choices[0]
+                .message
+                .content
+                .strip()
+            )
+
+        except Exception as e:
+
+            print(
+                f"[OPENROUTER ERROR] Attempt "
+                f"{attempt}/{MAX_RETRIES}: {e}"
+            )
+
+            if attempt < MAX_RETRIES:
+
+                time.sleep(
+                    RETRY_DELAY
+                )
+
+    return ""
+
+def call_llm_json(
+    prompt: str,
+    model: str = DEFAULT_MODEL,
+    max_tokens: int = DEFAULT_MAX_TOKENS,
+    temperature: float = DEFAULT_TEMPERATURE,
+) -> str:
+    """
+    Appelle le LLM en demandant
+    explicitement une réponse JSON.
+    """
+
+    prompt = (
+        "You must answer ONLY with valid JSON.\n\n"
+        + prompt
+    )
+
+    return call_llm(
+        prompt=prompt,
+        model=model,
+        max_tokens=max_tokens,
+        temperature=temperature
+    )

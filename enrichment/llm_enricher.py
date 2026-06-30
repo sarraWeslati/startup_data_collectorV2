@@ -2,9 +2,8 @@
 # enrichment/llm_enricher.py
 
 import json
-from typing import Dict, Any
-
-from llm.openrouter_client import call_llm
+from typing import Dict
+from llm.openrouter_client import call_llm_json
 from utils.json_tools import parse_llm_json
 
 
@@ -15,6 +14,44 @@ from utils.json_tools import parse_llm_json
 def compact_tavily_data(
     tavily_data: Dict
 ) -> Dict:
+    """
+    Réduit la réponse Tavily afin d'envoyer
+    uniquement les informations utiles au LLM.
+    """
+
+    compact_results = []
+
+    for result in tavily_data.get(
+        "results",
+        []
+    )[:10]:
+
+        compact_results.append({
+
+            "title":
+            result.get(
+                "title",
+                ""
+            ),
+
+            "url":
+            result.get(
+                "url",
+                ""
+            ),
+
+            "content":
+            result.get(
+                "content",
+                ""
+            )[:1000],
+
+            "score":
+            result.get(
+                "score",
+                0
+            )
+        })
 
     return {
 
@@ -24,27 +61,8 @@ def compact_tavily_data(
             ""
         ),
 
-        "results": [
-
-            {
-                "title":
-                result.get(
-                    "title",
-                    ""
-                ),
-
-                "url":
-                result.get(
-                    "url",
-                    ""
-                )
-            }
-
-            for result in tavily_data.get(
-                "results",
-                []
-            )[:10]
-        ]
+        "results":
+        compact_results
     }
 
 
@@ -52,11 +70,16 @@ def merge_data(
     original: Dict,
     enriched: Dict
 ) -> Dict:
+    """
+    Fusion intelligente entre les données déjà connues
+    et les données retournées par le LLM.
+    """
 
     merged = original.copy()
 
     for key, value in enriched.items():
 
+        # Ignore les valeurs vides
         if value in (
             "",
             None,
@@ -65,45 +88,102 @@ def merge_data(
         ):
             continue
 
-        existing = merged.get(
-            key
-        )
+        existing = merged.get(key)
+
+        # ----------------------------------
+        # LISTES
+        # ----------------------------------
 
         if (
-            isinstance(value, list)
-            and isinstance(
-                existing,
-                list
-            )
+            isinstance(existing, list)
+            and isinstance(value, list)
         ):
 
-            merged[key] = list(
-                {
-                    *existing,
-                    *value
-                }
-            )
+            merged[key] = list(dict.fromkeys(
+
+                item
+
+                for item in (
+                    existing + value
+                )
+
+                if item not in (
+                    "",
+                    None
+                )
+            ))
+
+        # ----------------------------------
+        # DICTIONNAIRES
+        # ----------------------------------
 
         elif (
-            isinstance(value, dict)
-            and isinstance(
-                existing,
-                dict
-            )
+            isinstance(existing, dict)
+            and isinstance(value, dict)
         ):
 
-            existing.update(
-                value
-            )
+            merged_dict = existing.copy()
 
-            merged[key] = existing
+            for sub_key, sub_value in value.items():
+
+                if sub_value not in (
+                    "",
+                    None,
+                    [],
+                    {}
+                ):
+
+                    merged_dict[sub_key] = sub_value
+
+            merged[key] = merged_dict
+
+        # ----------------------------------
+        # VALEURS SIMPLES
+        # ----------------------------------
 
         else:
 
-            merged[key] = value
+            if not existing:
+
+                merged[key] = value
 
     return merged
 
+# =====================================================
+# GENERIC LLM ENRICHMENT
+# =====================================================
+
+def enrich_with_llm(
+    entity: Dict,
+    prompt: str,
+    entity_name: str,
+    max_tokens: int = 3000
+) -> Dict:
+    """
+    Fonction générique d'enrichissement LLM.
+    """
+
+    response = call_llm_json(
+        prompt=prompt,
+        max_tokens=max_tokens
+    )
+
+    result = parse_llm_json(
+        response
+    )
+
+    if not result:
+
+        print(
+            f"[LLM] {entity_name} enrichment failed"
+        )
+
+        return entity
+
+    return merge_data(
+        entity,
+        result
+    )
 
 # =====================================================
 # STARTUP PROMPT
@@ -128,15 +208,25 @@ def build_startup_enrichment_prompt(
     )
 
     return f"""
-You are a startup intelligence analyst.
+You are an expert startup intelligence analyst.
 
-Your task is to enrich the startup profile.
+Your task is to enrich an existing startup profile using ONLY the information provided.
 
-Use ONLY the information provided.
+Important rules:
 
-Do NOT invent information.
+- Never invent facts.
+- Never guess missing information.
+- Preserve existing information whenever possible.
+- Only fill fields when there is clear evidence.
+- Keep existing values if the evidence is uncertain.
+- Merge complementary information instead of replacing valid data.
+- Return ONLY valid JSON.
+- Do not include markdown.
+- Do not include explanations.
+- Keep arrays unique (no duplicates).
+- Keep URLs complete and valid.
 
-Return ONLY valid JSON.
+Complete the following schema as much as possible.
 
 Schema:
 
@@ -236,15 +326,25 @@ def build_investor_enrichment_prompt(
     )
 
     return f"""
-You are a venture capital intelligence analyst.
+You are an expert venture capital and investor intelligence analyst.
 
-Your task is to enrich the investor profile.
+Your task is to enrich an existing investor profile using ONLY the information provided.
 
-Use ONLY the information provided.
+Important rules:
 
-Do NOT invent information.
+- Never invent facts.
+- Never guess missing information.
+- Preserve existing information whenever possible.
+- Only fill fields when there is clear evidence.
+- Keep existing values if the evidence is uncertain.
+- Merge complementary information instead of replacing valid data.
+- Return ONLY valid JSON.
+- Do not include markdown.
+- Do not include explanations.
+- Keep arrays unique (no duplicates).
+- Keep URLs complete and valid.
 
-Return ONLY valid JSON.
+Complete the following schema as much as possible.
 
 Schema:
 
@@ -314,34 +414,17 @@ def enrich_startup_with_llm(
     website_content: str
 ) -> Dict:
 
-    prompt = (
-        build_startup_enrichment_prompt(
-            startup,
-            tavily_data,
-            website_content
-        )
-    )
-
-    response = call_llm(
-        prompt=prompt,
-        max_tokens=3000
-    )
-
-    result = parse_llm_json(
-        response
-    )
-
-    if not result:
-
-        print(
-            "[LLM] Startup enrichment failed"
-        )
-
-        return startup
-
-    return merge_data(
+    prompt = build_startup_enrichment_prompt(
         startup,
-        result
+        tavily_data,
+        website_content
+    )
+
+    return enrich_with_llm(
+        entity=startup,
+        prompt=prompt,
+        entity_name="Startup",
+        max_tokens=3500
     )
 
 
@@ -355,32 +438,15 @@ def enrich_investor_with_llm(
     website_content: str
 ) -> Dict:
 
-    prompt = (
-        build_investor_enrichment_prompt(
-            investor,
-            tavily_data,
-            website_content
-        )
-    )
-
-    response = call_llm(
-        prompt=prompt,
-        max_tokens=3000
-    )
-
-    result = parse_llm_json(
-        response
-    )
-
-    if not result:
-
-        print(
-            "[LLM] Investor enrichment failed"
-        )
-
-        return investor
-
-    return merge_data(
+    prompt = build_investor_enrichment_prompt(
         investor,
-        result
+        tavily_data,
+        website_content
+    )
+
+    return enrich_with_llm(
+        entity=investor,
+        prompt=prompt,
+        entity_name="Investor",
+        max_tokens=3500
     )

@@ -1,63 +1,54 @@
-# enrichment/tavily_client.py
-
 import os
-import requests
 from typing import Dict, List, Optional
 
+import requests
 from dotenv import load_dotenv
+
+from utils.entity_matcher import (is_matching_company)
 
 load_dotenv()
 
-TAVILY_API_KEY = os.getenv(
-    "TAVILY_API_KEY"
-)
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
 if not TAVILY_API_KEY:
-
     raise ValueError(
         "TAVILY_API_KEY introuvable dans le fichier .env"
     )
-
 
 BASE_URL = "https://api.tavily.com/search"
 
 
 # =====================================================
-# Core Search
+# CORE SEARCH
 # =====================================================
 
 def tavily_search(
     query: str,
-    max_results: int = 10,
-    search_depth: str = "advanced"
+    max_results: int = 15,
+    search_depth: str = "advanced",
+    topic: str = "general"
 ) -> Dict:
 
+    payload = {
+
+        "api_key": TAVILY_API_KEY,
+
+        "query": query,
+
+        "topic": topic,
+
+        "search_depth": search_depth,
+
+        "max_results": max_results,
+
+        "include_answer": True,
+
+        "include_raw_content": True,
+
+        "include_images": False
+    }
+
     try:
-
-        payload = {
-
-            "api_key":
-            TAVILY_API_KEY,
-
-            "query":
-            query,
-
-            "search_depth":
-            search_depth,
-
-            "max_results":
-            max_results,
-
-            "include_answer":
-            True,
-
-            "include_raw_content":
-            True,
-
-            "include_images": False,
-
-            "topic": "general"
-        }
 
         response = requests.post(
             BASE_URL,
@@ -67,120 +58,60 @@ def tavily_search(
 
         response.raise_for_status()
 
-        return response.json()
+        data = response.json()
+
+        data.setdefault(
+            "results",
+            []
+        )
+
+        data.setdefault(
+            "answer",
+            ""
+        )
+
+        return data
+
+    except requests.exceptions.HTTPError as e:
+
+        print("\n======================")
+
+        print("[TAVILY ERROR]")
+
+        print(e)
+
+        if e.response is not None:
+
+            print(e.response.text)
+
+        print("======================\n")
+
+        return {
+            "results": []
+        }
 
     except Exception as e:
 
-        print(
-            f"[TAVILY ERROR] {e}"
-        )
+        print(e)
+
+        return {
+            "results": []
+        }
 
         return {
 
-            "query":
-            query,
+            "query": query,
 
-            "results":
-            [],
+            "results": [],
 
-            "answer":
-            "",
+            "answer": "",
 
-            "error":
-            str(e)
+            "error": str(e)
         }
 
 
 # =====================================================
-# Startup Search
-# =====================================================
-
-def search_startup(
-    startup_name: str
-) -> Dict:
-
-    query = f"""
-Create a complete startup profile for:
-
-{startup_name}
-
-Find:
-
-- official website
-- LinkedIn page
-- founders
-- CEO
-- executive team
-- headquarters
-- country
-- city
-- industry
-- products
-- services
-- technology stack
-- funding stage
-- funding amount
-- investors
-- partnerships
-- customers
-- awards
-- accelerators
-- incubators
-- social media profiles
-
-Return the most reliable information available.
-"""
-
-    return tavily_search(
-        query=query,
-        max_results=20,
-        search_depth="advanced"
-    )
-
-
-# =====================================================
-# Investor Search
-# =====================================================
-
-def search_investor(
-    investor_name: str
-) -> Dict:
-
-    query = f"""
-Create a complete investor profile for:
-
-{investor_name}
-
-Find:
-
-- official website
-- LinkedIn page
-- description
-- investment thesis
-- investment focus
-- industries
-- geographic focus
-- investment stages
-- ticket size
-- assets under management
-- portfolio startups
-- partners
-- managing directors
-- team members
-- social media profiles
-
-Return the most reliable information available.
-"""
-
-    return tavily_search(
-        query=query,
-        max_results=20,
-        search_depth="advanced"
-    )
-
-
-# =====================================================
-# URL Extraction
+# GENERIC HELPERS
 # =====================================================
 
 def extract_urls(
@@ -197,24 +128,18 @@ def extract_urls(
         url = result.get(
             "url",
             ""
-        )
+        ).strip()
 
-        if (
-            url
-            and url not in urls
-        ):
+        if url and url not in urls:
 
             urls.append(url)
 
     return urls
 
 
-# =====================================================
-# LinkedIn Extraction
-# =====================================================
-
-def extract_linkedin_url(
-    tavily_result: Dict
+def find_first_domain(
+    tavily_result: Dict,
+    domains: List[str]
 ) -> Optional[str]:
 
     for result in tavily_result.get(
@@ -227,158 +152,42 @@ def extract_linkedin_url(
             ""
         )
 
-        if (
-            "linkedin.com"
-            in url.lower()
-        ):
+        lower = url.lower()
 
-            return url
+        for domain in domains:
 
-    return None
+            if domain in lower:
 
-
-# =====================================================
-# Crunchbase Extraction
-# =====================================================
-
-def extract_crunchbase_url(
-    tavily_result: Dict
-) -> Optional[str]:
-
-    for result in tavily_result.get(
-        "results",
-        []
-    ):
-
-        url = result.get(
-            "url",
-            ""
-        )
-
-        if (
-            "crunchbase.com"
-            in url.lower()
-        ):
-
-            return url
+                return url
 
     return None
 
 
-# =====================================================
-# Wellfound Extraction
-# =====================================================
-
-def extract_wellfound_url(
+def filter_official_websites(
     tavily_result: Dict
-) -> Optional[str]:
+) -> List[str]:
 
-    for result in tavily_result.get(
-        "results",
-        []
-    ):
-
-        url = result.get(
-            "url",
-            ""
-        )
-
-        if (
-            "wellfound.com"
-            in url.lower()
-            or
-            "angel.co"
-            in url.lower()
-        ):
-
-            return url
-
-    return None
-
-
-# =====================================================
-# Social Links
-# =====================================================
-
-def extract_social_links(
-    tavily_result: Dict
-) -> Dict:
-
-    socials = {
-
-        "linkedin": "",
-        "facebook": "",
-        "twitter": "",
-        "instagram": "",
-        "youtube": ""
-    }
-
-    for result in tavily_result.get(
-        "results",
-        []
-    ):
-
-        url = result.get(
-            "url",
-            ""
-        ).lower()
-
-        if (
-            "linkedin.com"
-            in url
-        ):
-            socials["linkedin"] = url
-
-        elif (
-            "facebook.com"
-            in url
-        ):
-            socials["facebook"] = url
-
-        elif (
-            "twitter.com"
-            in url
-            or
-            "x.com"
-            in url
-        ):
-            socials["twitter"] = url
-
-        elif (
-            "instagram.com"
-            in url
-        ):
-            socials["instagram"] = url
-
-        elif (
-            "youtube.com"
-            in url
-        ):
-            socials["youtube"] = url
-
-    return socials
-
-def extract_company_website(
-    tavily_result: Dict
-) -> Optional[str]:
-
-    excluded_domains = [
+    excluded = {
 
         "linkedin.com",
+        "facebook.com",
+        "instagram.com",
+        "twitter.com",
+        "x.com",
+        "youtube.com",
+        "github.com",
         "crunchbase.com",
         "wellfound.com",
         "angel.co",
+        "pitchbook.com",
+        "dealroom.co",
+        "startupblink.com",
+        "medium.com",
+        "wikipedia.org",
+        "reddit.com"
+    }
 
-        "facebook.com",
-        "instagram.com",
-
-        "twitter.com",
-        "x.com",
-
-        "youtube.com",
-        "reddit.com",
-        "github.com"
-    ]
+    websites = []
 
     for result in tavily_result.get(
         "results",
@@ -393,73 +202,438 @@ def extract_company_website(
         if not url:
             continue
 
+        lower = url.lower()
+
         if any(
-            domain in url.lower()
-            for domain in excluded_domains
+            domain in lower
+            for domain in excluded
         ):
             continue
 
-        return url
+        if url not in websites:
+
+            websites.append(url)
+
+    return websites
+
+
+def extract_official_website(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    websites = filter_official_websites(
+        tavily_result
+    )
+
+    if websites:
+
+        return websites[0]
 
     return None
+# =====================================================
+# STARTUP SEARCH
+# =====================================================
+
+def search_startup(
+    startup_name: str
+) -> Dict:
+
+    query = (
+    f"{startup_name} startup "
+    "official website "
+    "LinkedIn "
+    "Crunchbase "
+    "Wellfound "
+    "founders "
+    "CEO "
+    "headquarters "
+    "country "
+    "city "
+    "industry "
+    "products "
+    "services "
+    "technologies "
+    "funding "
+    "investors "
+    "partners "
+    "awards"
+)
+
+    return tavily_search(
+        query=query,
+        max_results=20,
+        search_depth="advanced"
+    )
+
 
 # =====================================================
-# Test
+# INVESTOR SEARCH
+# =====================================================
+
+def search_investor(
+    investor_name: str
+) -> Dict:
+
+    query = (
+    f"{investor_name} investor "
+    "official website "
+    "LinkedIn "
+    "Crunchbase "
+    "PitchBook "
+    "Dealroom "
+    "investment focus "
+    "portfolio "
+    "partners "
+    "ticket size "
+    "assets under management "
+    "headquarters "
+    "country "
+    "city"
+)
+
+    return tavily_search(
+        query=query,
+        max_results=20,
+        search_depth="advanced"
+    )
+# =====================================================
+# PLATFORM EXTRACTION
+# =====================================================
+
+def extract_linkedin_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["linkedin.com"]
+    )
+
+
+def extract_crunchbase_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["crunchbase.com"]
+    )
+
+
+def extract_wellfound_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        [
+            "wellfound.com",
+            "angel.co"
+        ]
+    )
+
+
+def extract_github_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["github.com"]
+    )
+
+
+def extract_dealroom_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["dealroom.co"]
+    )
+
+
+def extract_pitchbook_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["pitchbook.com"]
+    )
+
+
+def extract_startupblink_url(
+    tavily_result: Dict
+) -> Optional[str]:
+
+    return find_first_domain(
+        tavily_result,
+        ["startupblink.com"]
+    )
+
+
+# =====================================================
+# SOCIAL MEDIA
+# =====================================================
+
+def extract_social_links(
+    tavily_result: Dict
+) -> Dict:
+
+    return {
+
+        "linkedin":
+        extract_linkedin_url(
+            tavily_result
+        ) or "",
+
+        "facebook":
+        find_first_domain(
+            tavily_result,
+            ["facebook.com"]
+        ) or "",
+
+        "instagram":
+        find_first_domain(
+            tavily_result,
+            ["instagram.com"]
+        ) or "",
+
+        "youtube":
+        find_first_domain(
+            tavily_result,
+            ["youtube.com"]
+        ) or "",
+
+        "github":
+        extract_github_url(
+            tavily_result
+        ) or ""
+    }
+
+
+# =====================================================
+# EXTERNAL PROFILES
+# =====================================================
+
+def extract_external_profiles(
+    tavily_result: Dict
+) -> Dict:
+
+    return {
+
+        "website":
+        extract_official_website(
+            tavily_result
+        ),
+
+        "linkedin":
+        extract_linkedin_url(
+            tavily_result
+        ),
+
+        "crunchbase":
+        extract_crunchbase_url(
+            tavily_result
+        ),
+
+        "wellfound":
+        extract_wellfound_url(
+            tavily_result
+        ),
+
+        "github":
+        extract_github_url(
+            tavily_result
+        ),
+
+        "dealroom":
+        extract_dealroom_url(
+            tavily_result
+        ),
+
+        "pitchbook":
+        extract_pitchbook_url(
+            tavily_result
+        ),
+
+        "startupblink":
+        extract_startupblink_url(
+            tavily_result
+        )
+    }
+# =====================================================
+# ENRICHMENT PACKAGE
+# =====================================================
+
+def build_enrichment_package(
+    company_name: str,
+    tavily_result: Dict
+) -> Dict:
+    """
+    Construit un package complet d'informations
+    à partir de la réponse Tavily.
+    """
+
+    filtered_results = []
+
+    for result in tavily_result.get(
+        "results",
+        []
+    ):
+
+        url = result.get(
+            "url",
+            ""
+        )
+
+        if is_matching_company(
+            company_name,
+            url
+        ):
+
+            filtered_results.append(
+                result
+            )
+    filtered_tavily = {
+        **tavily_result,
+        "results": filtered_results
+    }
+
+    return {
+
+        "website":
+        extract_official_website(
+            filtered_tavily
+        ),
+
+        "linkedin":
+        extract_linkedin_url(
+            filtered_tavily
+        ),
+
+        "crunchbase":
+        extract_crunchbase_url(
+            filtered_tavily
+        ),
+
+        "wellfound":
+        extract_wellfound_url(
+            filtered_tavily
+        ),
+
+        "github":
+        extract_github_url(
+            filtered_tavily
+        ),
+
+        "dealroom":
+        extract_dealroom_url(
+            filtered_tavily
+        ),
+
+        "pitchbook":
+        extract_pitchbook_url(
+            filtered_tavily
+        ),
+
+        "startupblink":
+        extract_startupblink_url(
+            filtered_tavily
+        ),
+
+        "social_media":
+        extract_social_links(
+            filtered_tavily
+        ),
+
+        "urls":
+        extract_urls(
+            filtered_tavily
+        ),
+
+        "answer":
+        filtered_tavily.get(
+            "answer",
+            ""
+        ),
+
+        "results":
+        filtered_tavily.get(
+            "results",
+            []
+        ),
+
+        "results_count":
+        len(
+            filtered_tavily.get(
+                "results",
+                []
+            )
+        )
+    }
+
+
+# =====================================================
+# TEST
 # =====================================================
 
 if __name__ == "__main__":
 
-    result = search_startup(
-        "Kumulus"
+    company_name = "Kumulus"
+
+    tavily_result = search_startup(
+        company_name
     )
 
-    print(
-        "\nANSWER:\n"
+    package = build_enrichment_package(
+        company_name,
+        tavily_result
     )
 
-    print(
-        result.get(
-            "answer",
-            ""
-        )
-    )
+    print("\n==============================")
+    print("OFFICIAL WEBSITE")
+    print("==============================")
+    print(package["website"])
 
-    print(
-        "\nLINKEDIN:"
-    )
+    print("\n==============================")
+    print("LINKEDIN")
+    print("==============================")
+    print(package["linkedin"])
 
-    print(
-        extract_linkedin_url(
-            result
-        )
-    )
+    print("\n==============================")
+    print("CRUNCHBASE")
+    print("==============================")
+    print(package["crunchbase"])
 
-    print(
-        "\nCRUNCHBASE:"
-    )
+    print("\n==============================")
+    print("WELLFOUND")
+    print("==============================")
+    print(package["wellfound"])
 
-    print(
-        extract_crunchbase_url(
-            result
-        )
-    )
+    print("\n==============================")
+    print("DEALROOM")
+    print("==============================")
+    print(package["dealroom"])
 
-    print(
-        "\nWELLFOUND:"
-    )
+    print("\n==============================")
+    print("PITCHBOOK")
+    print("==============================")
+    print(package["pitchbook"])
 
-    print(
-        extract_wellfound_url(
-            result
-        )
-    )
+    print("\n==============================")
+    print("STARTUPBLINK")
+    print("==============================")
+    print(package["startupblink"])
 
-    print(
-        "\nSOCIALS:"
-    )
+    print("\n==============================")
+    print("SOCIAL MEDIA")
+    print("==============================")
+    print(package["social_media"])
 
-    print(
-        extract_social_links(
-            result
-        )
-    )
+    print("\n==============================")
+    print("RESULTS")
+    print("==============================")
+    print(package["results_count"])
+    

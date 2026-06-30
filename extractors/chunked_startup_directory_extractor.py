@@ -3,10 +3,10 @@
 import json
 from typing import Dict, List
 
-from llm.openrouter_client import call_llm
+from llm.openrouter_client import call_llm_json
 
 
-CHUNK_SIZE = 5000
+CHUNK_SIZE = 3000
 
 
 def chunk_text(
@@ -33,9 +33,11 @@ def build_prompt(content: str) -> str:
     return f"""
 You are an expert startup ecosystem analyst.
 
-Extract ALL startups mentioned in the text.
+Extract every startup that appears in this chunk only.
 
-Return ONLY valid JSON.
+Do not continue beyond this chunk.
+
+Return one JSON object with the startups found in this chunk.
 
 Schema:
 
@@ -147,9 +149,9 @@ def extract_chunk(
 
     prompt = build_prompt(chunk)
 
-    response = call_llm(
+    response = call_llm_json(
         prompt=prompt,
-        max_tokens=1500
+        max_tokens=3500
     )
 
     return parse_response(

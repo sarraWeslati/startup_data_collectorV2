@@ -1,6 +1,8 @@
 # enrichment/investor_enricher.py
-
-from datetime import datetime
+from datetime import (
+    datetime,
+    timezone
+)
 
 from enrichment.website_enricher import (
     enrich_from_website
@@ -8,10 +10,7 @@ from enrichment.website_enricher import (
 
 from enrichment.tavily_client import (
     search_investor,
-    extract_company_website,
-    extract_linkedin_url,
-    extract_crunchbase_url,
-    extract_social_links
+    build_enrichment_package
 )
 
 from enrichment.llm_enricher import (
@@ -65,16 +64,12 @@ async def enrich_investor(
         )
 
     # =====================================
-    # TAVILY DEEP SEARCH
+    # TAVILY SEARCH
     # =====================================
 
     tavily_data = {}
 
-    website = ""
-    linkedin = ""
-    crunchbase = ""
-
-    socials = {}
+    package = {}
 
     try:
 
@@ -89,87 +84,9 @@ async def enrich_investor(
 
             tavily_data = {}
 
-        website = (
-            extract_company_website(
-                tavily_data
-            )
+        package = build_enrichment_package(
+            tavily_data
         )
-
-        linkedin = (
-            extract_linkedin_url(
-                tavily_data
-            )
-        )
-
-        crunchbase = (
-            extract_crunchbase_url(
-                tavily_data
-            )
-        )
-
-        socials = (
-            extract_social_links(
-                tavily_data
-            )
-        )
-
-        # Website
-
-        if (
-            website
-            and not investor.get(
-                "website"
-            )
-        ):
-
-            investor[
-                "website"
-            ] = website
-
-        # LinkedIn
-
-        if (
-            linkedin
-            and not investor.get(
-                "linkedin"
-            )
-        ):
-
-            investor[
-                "linkedin"
-            ] = linkedin
-
-        # Crunchbase
-
-        if crunchbase:
-
-            investor[
-                "crunchbase"
-            ] = crunchbase
-
-        # Social Media
-
-        existing_socials = (
-            investor.get(
-                "social_media",
-                {}
-            )
-        )
-
-        if not isinstance(
-            existing_socials,
-            dict
-        ):
-
-            existing_socials = {}
-
-        existing_socials.update(
-            socials
-        )
-
-        investor[
-            "social_media"
-        ] = existing_socials
 
     except Exception as e:
 
@@ -178,6 +95,94 @@ async def enrich_investor(
         )
 
         tavily_data = {}
+
+        package = {}
+
+       
+    
+    # =====================================
+    # APPLY TAVILY ENRICHMENT
+    # =====================================
+
+    if (
+        package.get("website")
+        and not investor.get("website")
+    ):
+
+        investor["website"] = (
+            package["website"]
+        )
+
+    if (
+        package.get("linkedin")
+        and not investor.get("linkedin")
+    ):
+
+        investor["linkedin"] = (
+            package["linkedin"]
+        )
+
+    external_profiles = {
+
+        "website":
+        package.get("website"),
+
+        "linkedin":
+        package.get("linkedin"),
+
+        "crunchbase":
+        package.get("crunchbase"),
+
+        "wellfound":
+        package.get("wellfound"),
+
+        "github":
+        package.get("github"),
+
+        "dealroom":
+        package.get("dealroom"),
+
+        "pitchbook":
+        package.get("pitchbook"),
+
+        "startupblink":
+        package.get("startupblink")
+    }
+
+    investor[
+        "external_profiles"
+    ] = external_profiles
+
+    existing_socials = investor.get(
+        "social_media"
+    )
+
+    if not isinstance(
+        existing_socials,
+        dict
+    ):
+
+        existing_socials = {}
+
+    for platform, url in package.get(
+        "social_media",
+        {}
+    ).items():
+
+        if (
+            url
+            and not existing_socials.get(
+                platform
+            )
+        ):
+
+            existing_socials[
+                platform
+            ] = url
+
+    investor[
+        "social_media"
+    ] = existing_socials
 
     # =====================================
     # WEBSITE CONTENT
@@ -198,6 +203,7 @@ async def enrich_investor(
     # LLM ENRICHMENT
     # =====================================
 
+    llm_success = False
     try:
 
         enriched_investor = (
@@ -207,6 +213,8 @@ async def enrich_investor(
                 website_content=website_content
             )
         )
+
+        llm_success = True
 
         if not isinstance(
             enriched_investor,
@@ -225,45 +233,36 @@ async def enrich_investor(
             f"[LLM ERROR] {e}"
         )
 
-        return investor
+        enriched_investor = investor
 
     # =====================================
     # PRESERVE TAVILY DATA
     # =====================================
 
     if (
-        website
+        package.get("website")
         and not enriched_investor.get(
             "website"
         )
     ):
 
-        enriched_investor[
-            "website"
-        ] = website
+        enriched_investor["website"] = (
+            package["website"]
+        )
 
     if (
-        linkedin
+        package.get("linkedin")
         and not enriched_investor.get(
             "linkedin"
         )
     ):
 
-        enriched_investor[
-            "linkedin"
-        ] = linkedin
-
-    if crunchbase:
-
-        enriched_investor[
-            "crunchbase"
-        ] = crunchbase
-
-    existing_socials = (
-        enriched_investor.get(
-            "social_media",
-            {}
+        enriched_investor["linkedin"] = (
+            package["linkedin"]
         )
+
+    existing_socials = enriched_investor.get(
+        "social_media"
     )
 
     if not isinstance(
@@ -273,32 +272,58 @@ async def enrich_investor(
 
         existing_socials = {}
 
-    existing_socials.update(
-        socials
-    )
+    for platform, url in package.get(
+        "social_media",
+        {}
+    ).items():
+
+        if (
+            url
+            and not existing_socials.get(
+                platform
+            )
+        ):
+
+            existing_socials[
+                platform
+            ] = url
 
     enriched_investor[
         "social_media"
     ] = existing_socials
 
-    # =====================================
-    # EXTERNAL PROFILES
-    # =====================================
+    external_profiles = {
+
+        "website":
+        package.get("website"),
+
+        "linkedin":
+        package.get("linkedin"),
+
+        "crunchbase":
+        package.get("crunchbase"),
+
+        "wellfound":
+        package.get("wellfound"),
+
+        "github":
+        package.get("github"),
+
+        "dealroom":
+        package.get("dealroom"),
+
+        "pitchbook":
+        package.get("pitchbook"),
+
+        "startupblink":
+        package.get("startupblink")
+    }
 
     enriched_investor[
         "external_profiles"
-    ] = {
+    ] = external_profiles
 
-        "website":
-        website,
-
-        "linkedin":
-        linkedin,
-
-        "crunchbase":
-        crunchbase
-    }
-
+    
     # =====================================
     # ENTITY TYPE
     # =====================================
@@ -328,7 +353,25 @@ async def enrich_investor(
         ],
 
         "date":
-        datetime.utcnow().isoformat()
+        datetime.now(
+            timezone.utc
+        ).isoformat(),
+
+        "website_enriched":
+        bool(
+            investor.get(
+                "website_content"
+            )
+        ),
+
+        "tavily_results":
+        package.get(
+            "results_count",
+            0
+        ),
+
+        "llm_enriched":
+        llm_success
     }
 
     # =====================================
@@ -342,18 +385,22 @@ async def enrich_investor(
         "query":
         investor_name,
 
-        "results_count":
-        len(
-            tavily_data.get(
-                "results",
-                []
-            )
-        ),
-
         "answer":
-        tavily_data.get(
+        package.get(
             "answer",
             ""
+        ),
+
+        "results_count":
+        package.get(
+            "results_count",
+            0
+        ),
+
+        "urls":
+        package.get(
+            "urls",
+            []
         )
     }
 
@@ -379,6 +426,56 @@ async def enrich_investor(
             )
         ),
 
+        "has_crunchbase":
+        bool(
+            enriched_investor.get(
+                "external_profiles",
+                {}
+            ).get(
+                "crunchbase"
+            )
+        ),
+
+        "has_wellfound":
+        bool(
+            enriched_investor.get(
+                "external_profiles",
+                {}
+            ).get(
+                "wellfound"
+            )
+        ),
+
+        "has_github":
+        bool(
+            enriched_investor.get(
+                "external_profiles",
+                {}
+            ).get(
+                "github"
+            )
+        ),
+
+        "has_dealroom":
+        bool(
+            enriched_investor.get(
+                "external_profiles",
+                {}
+            ).get(
+                "dealroom"
+            )
+        ),
+
+        "has_pitchbook":
+        bool(
+            enriched_investor.get(
+                "external_profiles",
+                {}
+            ).get(
+                "pitchbook"
+            )
+        ),
+
         "portfolio_count":
         len(
             enriched_investor.get(
@@ -387,10 +484,26 @@ async def enrich_investor(
             )
         ),
 
-        "focus_count":
+        "investment_focus_count":
         len(
             enriched_investor.get(
                 "investment_focus",
+                []
+            )
+        ),
+
+        "investment_stages_count":
+        len(
+            enriched_investor.get(
+                "investment_stages",
+                []
+            )
+        ),
+
+        "geographic_focus_count":
+        len(
+            enriched_investor.get(
+                "geographic_focus",
                 []
             )
         ),
@@ -409,6 +522,18 @@ async def enrich_investor(
                 "team_members",
                 []
             )
+        ),
+
+        "social_profiles":
+        len(
+            [
+                url
+                for url in enriched_investor.get(
+                    "social_media",
+                    {}
+                ).values()
+                if url
+            ]
         )
     }
 

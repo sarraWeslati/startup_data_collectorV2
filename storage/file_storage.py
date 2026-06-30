@@ -16,6 +16,7 @@ def generate_filename(url: str) -> str:
 
 
 def save_raw_content(
+    #entity_name: str,
     url: str,
     content: str
 ):

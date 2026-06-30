@@ -3,7 +3,7 @@
 import json
 from typing import Dict, Any
 
-from llm.openrouter_client import call_llm
+from llm.openrouter_client import call_llm_json
 
 
 ALLOWED_ENTITY_TYPES = {
@@ -113,6 +113,6 @@ def detect_entity_type(content: str) -> Dict[str, Any]:
 
     prompt = build_detection_prompt(content)
 
-    response = call_llm(prompt)
+    response = call_llm_json(prompt)
 
     return parse_detection_response(response)

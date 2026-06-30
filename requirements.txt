@@ -17,6 +17,11 @@ trafilatura
 validators
 
 tldextract
+<<<<<<< HEAD
 pdfplumber
 config
 fitz
+=======
+
+phonenumbers
+>>>>>>> b5d99af529f5ccf316fa7e04f233706cdd26a81e
