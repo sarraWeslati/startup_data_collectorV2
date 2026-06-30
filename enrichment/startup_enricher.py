@@ -13,10 +13,15 @@ from enrichment.llm_enricher import (
     enrich_startup_with_llm
 )
 
+from enrichment.investor_search import (
+    search_startup_investors
+)
+
 from utils.confidence_score import (
     compute_confidence_score
 )
 
+from utils.website_resolver import resolve_official_website
 from validators.entity_validator import (
     validate_entity
 )
@@ -71,8 +76,12 @@ async def enrich_startup(
     # =====================================
 
     tavily_data = {}
-
+    investors_data = {}
     package = {}
+
+    # -------------------------
+    # Recherche startup
+    # -------------------------
 
     try:
 
@@ -87,20 +96,45 @@ async def enrich_startup(
 
             tavily_data = {}
 
-        package = build_enrichment_package(
-            startup_name,
-            tavily_data
+    except Exception as e:
+
+        print(
+            f"[TAVILY STARTUP ERROR] {e}"
+        )
+
+        tavily_data = {}
+
+    # -------------------------
+    # Construction du package
+    # -------------------------
+
+    package = build_enrichment_package(
+        startup_name,
+        tavily_data
+    )
+
+    startup["website"] = resolve_official_website(
+        startup.get("website", ""),
+        package
+    )
+
+    # -------------------------
+    # Recherche investisseurs
+    # -------------------------
+
+    try:
+
+        investors_data = search_startup_investors(
+            startup_name
         )
 
     except Exception as e:
 
         print(
-            f"[TAVILY ERROR] {e}"
+            f"[TAVILY INVESTORS ERROR] {e}"
         )
 
-        tavily_data = {}
-
-        package = {}
+        investors_data = {}
             # =====================================
     # APPLY TAVILY ENRICHMENT
     # =====================================
@@ -206,6 +240,7 @@ async def enrich_startup(
             enrich_startup_with_llm(
                 startup=startup,
                 tavily_data=tavily_data,
+                investors_data=investors_data,
                 website_content=website_content
             )
         )

@@ -2,9 +2,10 @@ import copy
 import re
 from typing import Any, Dict
 
-from collectors.website_collector import scrape_url
+from collectors.website_collector import clean_text, scrape_url
 from llm.openrouter_client import call_llm
 from utils.json_tools import parse_llm_json
+from utils.url_normalizer import normalize_website
 
 
 # =====================================================
@@ -62,11 +63,12 @@ def extract_emails(
     content: str
 ) -> list[str]:
 
-    return sorted(
-        set(
-            EMAIL_REGEX.findall(content)
-        )
-    )
+    emails = {
+        email.lower().strip()
+        for email in EMAIL_REGEX.findall(content)
+    }
+
+    return sorted(emails)
 
 
 def extract_phone_numbers(
@@ -360,11 +362,26 @@ async def enrich_from_website(
     website = entity.get(
         "website",
         ""
-    )
+    ).strip()
 
     if not website:
 
         return entity
+    
+    #normalize website URL
+    website = normalize_website(website)
+
+    if not website.startswith(
+        ("http://", "https://")
+    ):
+
+        print(
+            f"[INVALID WEBSITE] {website}"
+        )
+
+        return entity
+
+    entity["website"] = website
 
     print(
         f"[WEBSITE ENRICHMENT] {website}"
@@ -391,12 +408,16 @@ async def enrich_from_website(
     if not content:
 
         return entity
+    
+    content = clean_text(content)
+    content = content[:15000]
 
     # -------------------------------------------------
     # SAVE RAW WEBSITE CONTENT
     # -------------------------------------------------
 
-    entity["website_content"] = content[:15000]
+    content = content[:15000]
+    entity["website_content"] = content
 
     entity["website_metadata"] = {
 

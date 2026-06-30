@@ -21,7 +21,7 @@ client = OpenAI(
 
 
 DEFAULT_MODEL = (
-    "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
+    "openai/gpt-oss-120b:free"
 )
 DEFAULT_TEMPERATURE = 0.1
 

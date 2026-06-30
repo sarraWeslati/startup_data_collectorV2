@@ -265,6 +265,23 @@ def search_startup(
         search_depth="advanced"
     )
 
+def search_startup_investors(
+    startup_name: str
+):
+    """
+    Recherche les investisseurs d'une startup via Tavily.
+    """
+
+    query = (
+        f'"{startup_name}" investors '
+        f'funding OR seed OR series A OR venture capital'
+    )
+
+    return tavily_search(
+        query=query,
+        max_results=10
+    )
+
 
 # =====================================================
 # INVESTOR SEARCH
