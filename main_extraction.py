@@ -9,6 +9,10 @@ from extractors.chunked_startup_directory_extractor import (
     extract_startup_directory_chunked
 )
 
+from extractors.chunked_investor_directory_extractor import (
+    extract_investor_directory_chunked
+)
+
 from extractors.entity_splitter import (
     save_directory_result
 )
@@ -135,6 +139,34 @@ def process_file(filepath: Path):
 
             print(
                 f"[SAVED] {len(files)} startups"
+            )
+
+            return True
+        
+        # -----------------------------------
+        # INVESTOR DIRECTORY
+        # -----------------------------------
+
+        elif entity_type == "investor_directory":
+
+            directory_result = (
+                extract_investor_directory_chunked(
+                    content
+                )
+            )
+
+            print("\n" + "=" * 80)
+            print("[DIRECTORY RESULT]")
+            print("=" * 80)
+            print(directory_result)
+            print("=" * 80)
+
+            files = save_directory_result(
+                directory_result
+            )
+
+            print(
+                f"[SAVED] {len(files)} investors"
             )
 
             return True

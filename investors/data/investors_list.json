@@ -1,0 +1,1552 @@
+[
+  {
+    "name": "Accueil",
+    "url": "https://216capital.vc",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Venture Accelerator",
+    "url": "https://216capital.vc/venture-accelerator",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Our Companies",
+    "url": "https://216capital.vc/our-companies",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Our DNA",
+    "url": "https://216capital.vc/our-dna",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Join Us",
+    "url": "https://216capital.vc/for-startups",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Our Stories",
+    "url": "https://216capital.vc/our-stories",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Investment",
+    "url": "https://216capital.vc/our-stories/216capital-investment",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-robocare/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-eyst/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "About 216 Capital",
+    "url": "https://216capital.vc/our-stories/about-216-capital",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/hassen-arfaoui-stanford-500-global-vc-unlocked-program-silicon-valley/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-deplike-the-startup-revolutionizing-music-learning-through-ai/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/216-capital-venture-accelerator-by-plug-and-play/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-addvocate-ai/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-talenteo-the-african-hrtech-startup-digitizing-talent-management/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-juridoc-startup-to-accelerate-the-digitalization-of-legal-services-in-africa-and-the-middle-east/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/216-capital-participates-in-a-15m-funding-round-for-the-startup-arcube-/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Read More",
+    "url": "https://216capital.vc/our-stories/in-africa-and-always-women-and-entrepreneurship-go-hand-in-hand-/show",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Fintech",
+    "url": "https://216capital.vc/our-stories?tag=Fintech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Our news",
+    "url": "https://216capital.vc/our-stories?tag=Our news",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "E-commerce",
+    "url": "https://216capital.vc/our-stories?tag=E-commerce",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "FashionTech",
+    "url": "https://216capital.vc/our-stories?tag=FashionTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "RetailTech",
+    "url": "https://216capital.vc/our-stories?tag=RetailTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "SaaS",
+    "url": "https://216capital.vc/our-stories?tag=SaaS",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "InsurTech",
+    "url": "https://216capital.vc/our-stories?tag=InsurTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "AgriTech",
+    "url": "https://216capital.vc/our-stories?tag=AgriTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "AI",
+    "url": "https://216capital.vc/our-stories?tag=AI",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "url": "https://216capital.vc/our-stories?tag=Artificial Intelligence",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Cleantech",
+    "url": "https://216capital.vc/our-stories?tag=Cleantech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Sustainability",
+    "url": "https://216capital.vc/our-stories?tag=Sustainability",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "GreenTech",
+    "url": "https://216capital.vc/our-stories?tag=GreenTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Marketplace",
+    "url": "https://216capital.vc/our-stories?tag=Marketplace",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Logistic",
+    "url": "https://216capital.vc/our-stories?tag=Logistic",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "DigitalTransformation",
+    "url": "https://216capital.vc/our-stories?tag=DigitalTransformation",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "HealthTech",
+    "url": "https://216capital.vc/our-stories?tag=HealthTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Africa",
+    "url": "https://216capital.vc/our-stories?tag=Africa",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "WomenInTech",
+    "url": "https://216capital.vc/our-stories?tag=WomenInTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "Entrepreneurs",
+    "url": "https://216capital.vc/our-stories?tag=Entrepreneurs",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "TravelTech",
+    "url": "https://216capital.vc/our-stories?tag=TravelTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "LegalTech",
+    "url": "https://216capital.vc/our-stories?tag=LegalTech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "RH Tech",
+    "url": "https://216capital.vc/our-stories?tag=RH Tech",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "VC",
+    "url": "https://216capital.vc/our-stories?tag=VC",
+    "source": "https://www.216capital.vc/our-stories"
+  },
+  {
+    "name": "linkedIn",
+    "url": "https://www.linkedin.com/company/216capital/",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "twitter",
+    "url": "https://twitter.com/216Capital",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-tunisian-french-retail-startup-winshot/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-invests-in-avidea-helping-insurance-companies-improve-customer-experience-and-reduce-fraud/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/wattnow-secures-13-million-funding-round-with-backing-from-216-capital/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216capital-invest-in-startup-drest/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216capital-invest-in-startup-actum/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216capital-invest-in-fintech-startup-myeasytransfer/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216-capital-is-leading-an-850000-round-of-financing-for-startup-cynoia/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "Read more",
+    "url": "https://216capital.vc/our-stories/216capital-leads-imaginario-ai-1m-preseed-investment-round/show",
+    "source": "https://www.216capital.vc/our-companies"
+  },
+  {
+    "name": "The Firm",
+    "url": "https://www.africinvest.com/the-firm/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "At a glance",
+    "url": "https://www.africinvest.com/the-firm/at-a-glance/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Values and mission",
+    "url": "https://www.africinvest.com/the-firm/values-and-mission/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Investment approach",
+    "url": "https://www.africinvest.com/the-firm/investment-approach/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://www.africinvest.com/portfolio/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Sustainability",
+    "url": "https://www.africinvest.com/sustainability/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Our policy",
+    "url": "https://www.africinvest.com/sustainability/our-policy/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Impact verification",
+    "url": "https://www.africinvest.com/sustainability/impact-verification/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Impact outlook 2024",
+    "url": "https://www.africinvest.com/sustainability/impact-outlook-2024/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "News and media",
+    "url": "https://www.africinvest.com/news-and-media/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "News",
+    "url": "https://www.africinvest.com/news-and-media/news/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "In the media",
+    "url": "https://www.africinvest.com/news-and-media/in-the-media/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Videos",
+    "url": "https://www.africinvest.com/news-and-media/videos/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "AfricInvest private credit",
+    "url": "http://www.africinvest.com/africinvest-private-credit/?id_article=137",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Africinvest Europe",
+    "url": "http://www.africinvest.com/africinvest-europe/?id_article=124",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.africinvest.com/contacts/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Careers",
+    "url": "https://www.africinvest.com/contacts/careers/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Comments and feedback",
+    "url": "https://www.africinvest.com/contacts/comments-and-feedback/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Whistleblowing and Grievance",
+    "url": "https://www.africinvest.com/contacts/whistleblowing-and-grievance/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "private equity investors",
+    "url": "http://www.africinvest.com/site/en/article.php?id_article=7",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Kredete",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/kredete/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "OZE",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/oze/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "AURA",
+    "url": "https://www.africinvest.com/portfolio/company/security-and-service-provider/aura/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "GOMYCODE",
+    "url": "https://www.africinvest.com/portfolio/company/education/gomycode/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "PayTic",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/paytic/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Tecofi",
+    "url": "https://www.africinvest.com/portfolio/company/design-production-and-distribution-of-industrial-valves/tecofi/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Hemodia",
+    "url": "https://www.africinvest.com/portfolio/company/design-and-manufacturing-of-medical-and-electro-medical-devices/hemodia/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Jems",
+    "url": "https://www.africinvest.com/portfolio/company/big-data-consulting/jems/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Technamm",
+    "url": "https://www.africinvest.com/portfolio/company/manufacturing-and-transformation-of-professional-vehicles/technamm/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Africa Healthcare Network",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/africa-healthcare-network/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Turaco",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/turaco/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Altereo",
+    "url": "https://www.africinvest.com/portfolio/company/services/altereo/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Etude Généalogique Guénifey",
+    "url": "https://www.africinvest.com/portfolio/company/legal-services/article/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Amerigo Group",
+    "url": "https://www.africinvest.com/portfolio/company/distribution-amp-retailing/amerigo-group/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Fondasol",
+    "url": "https://www.africinvest.com/portfolio/company/council/fondasol/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "BAOBAG",
+    "url": "https://www.africinvest.com/portfolio/company/packaging/baobag/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Ragni",
+    "url": "https://www.africinvest.com/portfolio/company/environment/ragni/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "GSH Group",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/gsh-group/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Moove",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/moove/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "ISGA",
+    "url": "https://www.africinvest.com/portfolio/company/education/isga/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "MFS Africa",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/mfs-africa/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "RAYNAL Assurances IARD",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/raynal-assurances-iard/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Royal Exchange General Insurance Company",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/royal-exchange-general-insurance-company/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Palmpay",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/palmpay/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Aerobotics",
+    "url": "https://www.africinvest.com/portfolio/company/agritech-data-analysis-platform/aerobotics/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Boomplay",
+    "url": "https://www.africinvest.com/portfolio/company/music-streaming/boomplay/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Fidelity Bank Ghana Limited",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/fidelity-bank-ghana-limited/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Landor",
+    "url": "https://www.africinvest.com/portfolio/company/agribusiness/landor/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Carbon Holdings",
+    "url": "https://www.africinvest.com/portfolio/company/petro-chemical-and-plastic-industries/carbon-holdings/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Instadeep",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/instadeep/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "LeWagon",
+    "url": "https://www.africinvest.com/portfolio/company/education/lewagon/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Piriou",
+    "url": "https://www.africinvest.com/portfolio/company/shipbuilding-and-ship-repair/piriou/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Clayens NP",
+    "url": "https://www.africinvest.com/portfolio/company/multi-material-transformation/clayens-np/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Masria Digital Payments - mdp",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/masria-digital-payments-mdp/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "KaiOS",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/kaios/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Heetch",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/heetch/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "I&M Rwanda",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/i-amp-m-rwanda/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Ison",
+    "url": "https://www.africinvest.com/portfolio/company/customer-relationship-management/ison/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Mathevon",
+    "url": "https://www.africinvest.com/portfolio/company/construction-amp-building-products/mathevon/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Pharmatis",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/pharmatis/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Britam",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/britam/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Les Centaures Routiers",
+    "url": "https://www.africinvest.com/portfolio/company/transport-and-logistics/les-centaures-routiers/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Prime Bank",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/prime-bank/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "CFG Bank",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/cfg-bank/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Blue Health",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/blue-health/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Promamec",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/promamec/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Buzzkito",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/buzzkito/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "SJL Med",
+    "url": "https://www.africinvest.com/portfolio/company/transport-and-logistics/sjl-med/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Somalev",
+    "url": "https://www.africinvest.com/portfolio/company/construction-amp-building-products/somalev/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Afitex",
+    "url": "https://www.africinvest.com/portfolio/company/manufacturing/afitex/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Piex",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/piex/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Advyteam",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/advyteam/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Azalai Hotels",
+    "url": "https://www.africinvest.com/portfolio/company/tourism-hotels-restaurants-amp-leisure/azalai-hotels/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "International Community School Limited",
+    "url": "https://www.africinvest.com/portfolio/company/education/international-community-school-limited/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Vneuron",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/vneuron/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Paylogic",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/paylogic/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Silafrica Plastics and Packaging International Limited",
+    "url": "https://www.africinvest.com/portfolio/company/plastics-and-packaging/silafrica-plastics-and-packaging-international-limited/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "La Voie Express",
+    "url": "https://www.africinvest.com/portfolio/company/transport-and-logistics/la-voie-express/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Auto Distribution Maroc",
+    "url": "https://www.africinvest.com/portfolio/company/auto-distribution/auto-distribution-maroc/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Outsourcia",
+    "url": "https://www.africinvest.com/portfolio/company/customer-relationship-management/outsourcia/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "TMF",
+    "url": "https://www.africinvest.com/portfolio/company/transport-and-logistics/tmf/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Crédit Communautaire d’Afrique (CCA)",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/article/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "RIM Pharma",
+    "url": "https://www.africinvest.com/portfolio/company/health-care-and-health-equipment/rim-pharma/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "One Tech Group",
+    "url": "https://www.africinvest.com/portfolio/company/electrical-equipment/one-tech-group/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Salvador Caetano Auto Africa",
+    "url": "https://www.africinvest.com/portfolio/company/auto-distribution/salvador-caetano-auto-africa/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Platinum Power",
+    "url": "https://www.africinvest.com/portfolio/company/renewable-energy/platinum-power/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Elephant Group",
+    "url": "https://www.africinvest.com/portfolio/company/agribusiness/elephant-group/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Valencia",
+    "url": "https://www.africinvest.com/portfolio/company/agribusiness/valencia/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Microcred Mali",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/microcred-mali/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Omteq",
+    "url": "https://www.africinvest.com/portfolio/company/services/omteq/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Bridge Bank",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/bridge-bank/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Broron Oil & Gas services",
+    "url": "https://www.africinvest.com/portfolio/company/oil-amp-gas/broron-oil-amp-gas-services/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "EFC Uganda",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/efc-uganda/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "NMBZ",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/nmbz/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Maille Club",
+    "url": "https://www.africinvest.com/portfolio/company/distribution-amp-retailing/maille-club/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Disty Technologies",
+    "url": "https://www.africinvest.com/portfolio/company/it-telecom-and-electronics/disty-technologies/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Inpackt",
+    "url": "https://www.africinvest.com/portfolio/company/manufacturing/inpackt/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "EFC Tanzania",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/efc-tanzania/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "EFC Zambia",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/efc-zambia/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Marietton",
+    "url": "https://www.africinvest.com/portfolio/company/tourism-hotels-restaurants-amp-leisure/marietton/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Amimer Energie",
+    "url": "https://www.africinvest.com/portfolio/company/electrical-equipment/amimer-energie/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "GAT",
+    "url": "https://www.africinvest.com/portfolio/company/financial-services/gat/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Sitemap",
+    "url": "http://www.africinvest.com/site-map/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Privacy statement",
+    "url": "http://www.africinvest.com/privacy-statement-for-africinvest-fund-raising-and-investment-activities/",
+    "source": "https://www.africinvest.com/portfolio/companies"
+  },
+  {
+    "name": "Key figures",
+    "url": "https://www.africinvest.com/portfolio/key-figures/",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Companies",
+    "url": "https://www.africinvest.com/portfolio/companies/",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "French-African Fund 3 Completes First Investment in HTDS, Supporting Next Growth Phase29.06.2026",
+    "url": "https://www.africinvest.com/news-and-media/news/french-african-fund-3-completes-first-investment-in-htds-supporting-next-growth-phase",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest III Initiates Phased Exit from Groupe Centaures Following USD 16 Million Fundraising03.06.2026",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-iii-initiates-phased-exit-from-groupe-centaures-following-usd-16-million-fundraising",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest's FIVE Leads Growth Round in BFREE to Accelerate its Pan-African Expansion11.05.2026",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-s-five-leads-growth-round-in-bfree-to-accelerate-its-pan-african-expansion",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest’s Transform Health Fund Invests USD 8.5 million in Promamec Strengthening Access to Medical Equipment in Morocco22.12.2025",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-s-transform-health-fund-invests-usd-8-5-million-in-promamec-strengthening-access-to-medical-equipment-in-morocco",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest Europe Reaches First Close of French-African Fund 326.09.2025",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-europe-reaches-first-close-of-french-african-fund-3",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest Leads USD 22M Series A in Kredete to Expand Credit-Building and Cross-Border Payment Infrastructure15.09.2025",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-leads-usd-22m-series-a-in-kredete-to-expand-credit-building-and-cross-border-payment-infrastructure",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest’s legal team shares its experience related to the use of contractual mechanisms to enhance the compliance standards in Africa.23.10.2019To read the Interview please click the link below",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-s-legal-team-shares-its-experience-related-to-the-use-of-contractual-mechanisms-to-enhance-the-compliance-standards-in-africa",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest’s permanent vehicle FIVE achieves its fourth close bringing AfDB as investor02.05.2019AfricInvest, a leading pan-African private equity firm, today announced the fourth close of FIVE, an evergreen platform for investing in financial",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-s-permanent-vehicle-five-achieves-its-fourth-close-bringing-afdb-as-investor",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest and Catalyst Invest in Kenya's Prime Bank09.01.2019AfricInvest and Catalyst Principal Partners, leading pan-African and regional private equity firms, are pleased to announce their investment in Prime Bank",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-and-catalyst-invest-in-kenya-s-prime-bank",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest announces Maghreb Private Equity Fund IV final close05.12.2018AfricInvest is pleased to announce the final close of its North African Fund, Maghreb Private Equity IV (“MPEF IV”). The African",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-announces-maghreb-private-equity-fund-iv-final-close",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "AfricInvest invests in Les Centaures Routiers, a leading freight transport and logistics company in West Africa26.11.2018AfricInvest is pleased to announce that it has invested in Les Centaures Routiers (“LCR”), the largest independent transportation company in Côte",
+    "url": "https://www.africinvest.com/news-and-media/news/africinvest-invests-in-les-centaures-routiers-a-leading-freight-transport-and-logistics-company-in-west-africa",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "KPMG West Africa Doing The Deal: AfricInvest’s investment in Justrite",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=UcM3zPDg1yg",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Esprit... Prospection et sélection des étudiants à Yaoundé.",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=XJBI5wc_Enc&feature=youtu.be",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "ICS Ghana (International Community School)",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=PK3jgLl13rc&feature=youtu.be",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "BpiFrance, AfricInvest et le développement du capital investissement et de l’innovation en Afrique",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=Ef18cm2Hn_8&feature=youtu.be",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Talking about our Portfolio Company « Outsourcia » in the 20H of France 2",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=84IidUqEhNw",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "NCA-Rouiba ou l'histoire d'une entreprise qui innove",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://www.youtube.com/watch?v=BlDtQaJHgRU",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Film AfricInvest",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://vimeo.com/127584169",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Saïss Lait (Maroc) a pu lancer Yoplait",
+    "url": "https://www.africinvest.com/site/en/open_video.php?path=https://vimeo.com/90662742",
+    "source": "https://www.africinvest.com/news-and-media/news"
+  },
+  {
+    "name": "Mission",
+    "url": "https://smartcapital.tn/?page_id=302",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "découvrir l’équipe",
+    "url": "https://smartcapital.tn/?page_id=278",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "en savoir plus",
+    "url": "https://smartcapital.tn/?page_id=326",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "en savoir plus",
+    "url": "https://smartcapital.tn/?page_id=114",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "en savoir plus",
+    "url": "https://smartcapital.tn/?page_id=1135",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Actualités",
+    "url": "https://smartcapital.tn/?page_id=428",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "contactez nous",
+    "url": "https://smartcapital.tn/?page_id=252",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Réclamations",
+    "url": "https://smartcapital.tn/?page_id=1491",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "notre mission",
+    "url": "https://smartcapital.tn/mission/",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Carrières",
+    "url": "https://smartcapital.tn/?page_id=336",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Presse",
+    "url": "https://smartcapital.tn/?page_id=698",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Mentions Légales",
+    "url": "https://smartcapital.tn/?page_id=348",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Publications",
+    "url": "https://smartcapital.tn/?page_id=361",
+    "source": "https://smartcapital.tn"
+  },
+  {
+    "name": "Français",
+    "url": "https://startup.gov.tn/fr/node/43?destination=/en&_exception_statuscode=404",
+    "source": "https://startup.gov.tn/en/startup_ecosystem"
+  },
+  {
+    "name": "Get your label",
+    "url": "https://portail.startup.gov.tn/register",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Contact",
+    "url": "https://startup.gov.tn/en/contact",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Startup Act",
+    "url": "https://startup.gov.tn/en/startup_act/discover",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Benefits to entrepreneurs",
+    "url": "https://startup.gov.tn/startup_act/benefits_to_entrepreneurs",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Benefits to startups",
+    "url": "https://startup.gov.tn/en/startup_act/benefits_to_Startups",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Benefits to investors",
+    "url": "https://startup.gov.tn/en/startup_act/benefits_to_investors",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "How to obtain the label?",
+    "url": "https://startup.gov.tn/en/startup_act/how_to_obtain_the_label",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "The College of Startups",
+    "url": "https://startup.gov.tn/en/startup_act/startup_college",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Results",
+    "url": "https://startup.gov.tn/en/startup_act/results",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Startup Ecosystem",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/discover",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Greentech Tunisie",
+    "url": "https://startup.gov.tn/fr/startup_ecosystem/Greentech",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "VAIR",
+    "url": "https://startup.gov.tn/fr/startup_ecosystem/Greentech/vair",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "MAIR",
+    "url": "https://startup.gov.tn/fr/startup_ecosystem/Greentech/MAIR",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Flywheel",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "AIR",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel/air",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "AIR²",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel/air2",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "DEAL",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel/deal",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "SAIL",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel/sail",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Partner Network",
+    "url": "https://startup.gov.tn/en/startup_ecosystem/flywheel/Partner-Network",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Partners List",
+    "url": "https://startup.gov.tn/en/sso-partners",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Startup Invest",
+    "url": "https://startup.gov.tn/en/startup_invest/discover",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "The Fund of Funds",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Investment strategy",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/investment_strategy",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Eligibility Criteria",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/eligibility_criteria",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Selection process",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/selection_process",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Investment committee",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/investment_committee",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Submit",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/apply",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Database",
+    "url": "https://startup.gov.tn/en/database",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Partners programs",
+    "url": "https://startup.gov.tn/en/partners-programs",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Programs",
+    "url": "https://startup.gov.tn/en/programs",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "News",
+    "url": "https://startup.gov.tn/en/news",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "FAQ",
+    "url": "https://support.startup.gov.tn/",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Annual reports",
+    "url": "https://startup.gov.tn/en/annual-reports",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Smart Capital",
+    "url": "https://startup.gov.tn/en/smart-capital",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Back to Home Page",
+    "url": "https://startup.gov.tn/",
+    "source": "https://startup.gov.tn/en/startup_ecosystem"
+  },
+  {
+    "name": "Startup",
+    "url": "https://startup.gov.tn/en/home/startups",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Ecosystem",
+    "url": "https://startup.gov.tn/en/home/ecosystem",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Investor",
+    "url": "https://startup.gov.tn/en/home/investors",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Careers",
+    "url": "https://careers.smartrecruiters.com/SmartCapital",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "Français",
+    "url": "https://startup.gov.tn/fr/startup_act/benefits_to_investors",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "General NewsReport exceptionnel de l’ouverture de la session d’octobre – Label & Pré-label Startup ActL’ouverture de la session de candidature du mois d’octobre 2025, relative au Label et au Pré-label Startup Act, initialement prévue le 1er octobre puis reportée au 2 octobre 2025, sera exceptionnellement reprogrammée pour le mardi 7 octobre 2025 à minuit.1 Oct,2025",
+    "url": "https://startup.gov.tn/en/node/311",
+    "source": "https://startup.gov.tn/en/startup_act/benefits_to_investors"
+  },
+  {
+    "name": "VenturesGame changing startups.",
+    "url": "https://vc4a.com/ventures/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Benefits for Investors",
+    "url": "https://vc4a.com/investors/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Upcoming ProgramsOverview of opportunities.",
+    "url": "https://vc4a.com/programs/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Mentorship MarketplaceFind mentors or become one.",
+    "url": "https://mentors.vc4a.com/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Startup AcademyOnline courses and learning materials.",
+    "url": "https://academy.vc4a.com/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "BlogStartup related news.",
+    "url": "https://vc4a.com/blog/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Directory of Partner Organizations",
+    "url": "https://vc4a.com/organizations/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Calendar of Events",
+    "url": "https://vc4a.com/events/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "VC4A LatAm",
+    "url": "https://latam.vc4a.com/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "What is VC4A?Our thesis and background.",
+    "url": "https://vc4a.com/about-us/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Our TeamThe VC4A team.",
+    "url": "https://vc4a.com/our-team/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "ConsultingVC4A for business.",
+    "url": "https://vc4a.com/vc4a-consulting/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Hosted CommunitiesDedicated communities on VC4A.",
+    "url": "https://vc4a.com/my/community/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "FAQsFrequently asked questions.",
+    "url": "https://vc4a.com/help/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Benefits for Entrepreneurs",
+    "url": "https://vc4a.com/entrepreneurs/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Benefits for Support Organizations",
+    "url": "https://vc4a.com/vc4a-services/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Case Studies",
+    "url": "https://vc4a.com/case-studies/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Careers at VC4A",
+    "url": "https://vc4a.com/jobs/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Terms",
+    "url": "https://vc4a.com/terms/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Disclaimer",
+    "url": "https://vc4a.com/disclaimer/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Guidelines",
+    "url": "https://vc4a.com/guidelines/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Sign in",
+    "url": "https://vc4a.com/login/?redirect_to=https%3A%2F%2Fvc4a.com%2Fventure-capital%2F&ref=142163",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "ProgramsUpcoming programs for aspiring entrepreneurs and venture founders.",
+    "url": "https://vc4a.com/programs/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "EventsOpen events for aspiring entrepreneurs and venture founders.",
+    "url": "https://vc4a.com/events/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "VenturesA directory of game-changing startups on the platform.",
+    "url": "https://vc4a.com/ventures/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "OrganizationsA directory of eco-system entrepreneurs support organizations.",
+    "url": "https://vc4a.com/organizations/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "ArticlesStartup news, updates and annoucements from the VC4A team.",
+    "url": "https://vc4a.com/blog/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "FAQsFrequently asked questions and helpful resources.",
+    "url": "https://vc4a.com/help/ ",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "benefits for entrepreneurs",
+    "url": "https://vc4a.com/benefits-entrepreneurs/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Mentorship Marketplace",
+    "url": "https://vc4a.com/mentors/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "pro Account",
+    "url": "https://vc4a.com/pro/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Nigeria",
+    "url": "https://vc4a.com/nigeria/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Kenya",
+    "url": "https://vc4a.com/kenya/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "View course",
+    "url": "https://academy.vc4a.com/start/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "View course",
+    "url": "https://academy.vc4a.com/grow/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "View course",
+    "url": "https://academy.vc4a.com/your-legal-business/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "View course",
+    "url": "https://academy.vc4a.com/finance/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "View course",
+    "url": "https://academy.vc4a.com/mentor-driven-capital/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "For Organizations",
+    "url": "https://vc4a.com/vc4a-services",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Fundraising",
+    "url": "https://vc4a.com/fundraising/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/vc4africa",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://twitter.com/VC4A_Africa",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/company/vc4africa/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/vc4a_africa/",
+    "source": "https://vc4a.com/venture-capital"
+  },
+  {
+    "name": "Sign in",
+    "url": "https://vc4a.com/login/?redirect_to=https%3A%2F%2Fvc4a.com%2Faccelerators",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "Go to Homepage",
+    "url": "https://vc4a.com/",
+    "source": "https://vc4a.com/accelerators"
+  },
+  {
+    "name": "About",
+    "url": "https://tlcomcapital.com/about",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://tlcomcapital.com/portfolio",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Team",
+    "url": "https://tlcomcapital.com/team",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Ecosystem",
+    "url": "https://tlcomcapital.com/ecosystem-1",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Blog",
+    "url": "https://tlcomcapital.com/blog",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Contact us",
+    "url": "https://tlcomcapital.com/contact-us",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Press",
+    "url": "https://tlcomcapital.com/press",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "Media",
+    "url": "https://tlcomcapital.com/media",
+    "source": "https://tlcomcapital.com/portfolio"
+  },
+  {
+    "name": "NewsVentures Platform Secures $64M First Close for Pan-African Fund II to Power Africa’s Next Tech WaveNovember 6, 2025",
+    "url": "https://www.venturesplatform.com/stories/ventures-platform-secures-64m-first-close-for-pan-african-fund-ii-to-power-africas-next-tech-wave",
+    "source": "https://www.venturesplatform.com"
+  },
+  {
+    "name": "How we Invest",
+    "url": "https://www.venturesplatform.com/thesis",
+    "source": "https://www.venturesplatform.com"
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://www.venturesplatform.com/portfolio",
+    "source": "https://www.venturesplatform.com"
+  },
+  {
+    "name": "InsightsHarnessing the Power of Your Portfolio: Lessons from the VP Founders’ RetreatMarch 6, 2026",
+    "url": "https://www.venturesplatform.com/stories/harnessing-the-power-of-your-portfolio-lessons-from-the-vp-founders-retreat",
+    "source": "https://www.venturesplatform.com"
+  },
+  {
+    "name": "HOME",
+    "url": "https://loftyinc.vc/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "PORTFOLIO",
+    "url": "https://loftyinc.vc/portfolio",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "TEAM",
+    "url": "https://loftyinc.vc/team/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "STRATEGY",
+    "url": "https://loftyinc.vc/learn-and-apply/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "VALUE ADD",
+    "url": "https://loftyinc.vc/value-add",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "View More",
+    "url": "https://loftyinc.vc/blog",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "LINKEDIN",
+    "url": "https://www.linkedin.com/company/loftyincvc",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/loftyincvc/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "TWITTER",
+    "url": "https://twitter.com/loftyincvc",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "JOBS",
+    "url": "https://loftyinc.vc/jobs",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "INVESTOR LOGIN",
+    "url": "https://www.navconsulting.net/navportalcore/login",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "Courageous Capital: How Africa Built its Own Tech Ecosystem",
+    "url": "https://loftyinc.vc/courageous-capital-how-africa-built-its-own-tech-ecosystem/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "LoftyInc Capital Announces $43M First Close of Its New Pan-African Seed Fund",
+    "url": "https://loftyinc.vc/loftyinc-capital-announces-43m-first-close-of-its-new-pan-african-seed-fund/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "The Rise of Africa's Digital Economy: A Detailed Analysis of Key Acquisitions",
+    "url": "https://loftyinc.vc/the-rise-of-africas-digital-economy-a-detailed-analysis-of-key-acquisitions/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://www.twitter.com/loftyincvc/",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "Linkedin",
+    "url": "https://ng.linkedin.com/company/loftyincvc",
+    "source": "https://www.loftyinc.vc"
+  },
+  {
+    "name": "Read more",
+    "url": "https://fortune.com/2026/04/05/vc-ai-investing-saaspocalypse-emerging-markets-africa-novitske/",
+    "source": "https://www.norrsken22.com"
+  },
+  {
+    "name": "Read more",
+    "url": "https://techcabal.com/2025/04/15/south-africas-payments-startup-stitch-raises-55-million-series-b-funding/",
+    "source": "https://www.norrsken22.com"
+  },
+  {
+    "name": "Read more",
+    "url": "https://www.wamda.com/2025/02/67-5-million-pre-series-b-funding-round-taager-sets-sights-mena-growth",
+    "source": "https://www.norrsken22.com"
+  },
+  {
+    "name": "Read more",
+    "url": "https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/",
+    "source": "https://www.norrsken22.com"
+  }
+]

@@ -7,7 +7,7 @@ from pathlib import Path
 # PATHS
 # =====================================================
 
-INPUT_FILE = Path("pdfExtractor/pdf_output.json")
+INPUT_FILE = Path("csvBDD/startupsCSV.json")
 
 EXTRACTED_DIR = Path("storage/extracted/startups")
 ENRICHED_DIR = Path("storage/enriched/startups")

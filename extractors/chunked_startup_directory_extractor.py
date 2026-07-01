@@ -3,66 +3,66 @@
 import json
 from typing import Dict, List
 
+from utils.json_tools import parse_llm_json
+
 from llm.openrouter_client import call_llm_json
+from utils.smart_chunker import (
+    smart_chunk
+)
 
 
-CHUNK_SIZE = 3000
-
-
-def chunk_text(
-    text: str,
-    chunk_size: int = CHUNK_SIZE
-) -> List[str]:
-
-    chunks = []
-
-    for i in range(
-        0,
-        len(text),
-        chunk_size
-    ):
-        chunks.append(
-            text[i:i + chunk_size]
-        )
-
-    return chunks
-
-
-def build_prompt(content: str) -> str:
+def build_prompt(
+    content: str
+) -> str:
 
     return f"""
-You are an expert startup ecosystem analyst.
+You are an expert startup intelligence analyst.
 
-Extract every startup that appears in this chunk only.
+The document is a STARTUP DIRECTORY.
 
-Do not continue beyond this chunk.
+It contains multiple independent startup profiles.
 
-Return one JSON object with the startups found in this chunk.
+Each startup profile must be extracted independently.
+
+Never merge information from two startups.
+
+Never copy the description of one startup into another.
+
+Extract ONLY startups explicitly present in THIS chunk.
+
+Never use information from previous chunks.
+
+Return ONLY valid JSON.
 
 Schema:
 
 {{
-  "startups": [
-    {{
-      "name": "",
-      "description": "",
-      "industry": "",
-      "country": "",
-      "city": "",
-      "website": "",
-      "linkedin": "",
-      "founders": []
-    }}
-  ]
+    "startups":[
+        {{
+            "name":"",
+            "description":"",
+            "industry":"",
+            "country":"",
+            "city":"",
+            "website":"",
+            "linkedin":"",
+            "founders":[]
+        }}
+    ]
 }}
 
 Rules:
 
-- Return ONLY JSON.
-- No markdown.
-- No explanations.
+- One JSON object = one startup.
+- One description = one startup.
+- Never merge two startups.
+- Never invent information.
 - Empty string if unknown.
 - Empty array if unknown.
+- Ignore advertisements.
+- Ignore navigation menus.
+- Ignore footer links.
+- Ignore contact pages.
 
 TEXT:
 
@@ -73,43 +73,28 @@ TEXT:
 def parse_response(
     response: str
 ) -> List[Dict]:
+    """
+    Parse la réponse du LLM et retourne
+    la liste des startups.
+    """
 
-    try:
+    data = parse_llm_json(
+        response
+    )
 
-        response = response.strip()
-
-        response = response.replace(
-            "```json",
-            ""
-        )
-
-        response = response.replace(
-            "```",
-            ""
-        )
-
-        start = response.find("{")
-        end = response.rfind("}")
-
-        if start == -1 or end == -1:
-            return []
-
-        json_text = response[start:end + 1]
-
-        data = json.loads(json_text)
-
-        return data.get(
-            "startups",
-            []
-        )
-
-    except Exception as e:
-
-        print(
-            f"[PARSE ERROR] {e}"
-        )
-
+    if not data:
         return []
+
+    if not isinstance(
+        data,
+        dict
+    ):
+        return []
+
+    return data.get(
+        "startups",
+        []
+    )
 
 
 def deduplicate_startups(
@@ -163,7 +148,7 @@ def extract_startup_directory_chunked(
     content: str
 ) -> Dict:
 
-    chunks = chunk_text(content)
+    chunks = smart_chunk(content)
 
     print(
         f"[CHUNKS] {len(chunks)}"

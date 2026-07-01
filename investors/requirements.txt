@@ -1,0 +1,6 @@
+requests
+trafilatura
+tqdm
+google-generativeai
+lxml
+python-dotenv

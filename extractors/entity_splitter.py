@@ -1,106 +1,39 @@
-# extractors/entity_splitter.py
-
 from typing import Dict, List
 
 from storage.entity_storage import save_entity
 
 
-def save_startups(directory_result: Dict) -> List[str]:
-    """
-    Sauvegarde toutes les startups trouvées.
-    """
+DIRECTORY_MAPPING = {
 
-    startups = directory_result.get(
+    "startup_directory": (
         "startups",
-        []
-    )
+        "startup"
+    ),
 
-    saved_files = []
-
-    for startup in startups:
-
-        startup["entity_type"] = "startup"
-
-        filepath = save_entity(startup)
-
-        saved_files.append(filepath)
-
-    return saved_files
-
-
-def save_investors(directory_result: Dict) -> List[str]:
-    """
-    Sauvegarde tous les investisseurs trouvés.
-    """
-
-    investors = directory_result.get(
+    "investor_directory": (
         "investors",
-        []
-    )
+        "investor"
+    ),
 
-    saved_files = []
-
-    for investor in investors:
-
-        investor["entity_type"] = "investor"
-
-        filepath = save_entity(investor)
-
-        saved_files.append(filepath)
-
-    return saved_files
-
-
-def save_incubators(directory_result: Dict) -> List[str]:
-    """
-    Sauvegarde tous les incubateurs trouvés.
-    """
-
-    incubators = directory_result.get(
+    "incubator_directory": (
         "incubators",
-        []
-    )
+        "incubator"
+    ),
 
-    saved_files = []
-
-    for incubator in incubators:
-
-        incubator["entity_type"] = "incubator"
-
-        filepath = save_entity(incubator)
-
-        saved_files.append(filepath)
-
-    return saved_files
-
-
-def save_accelerators(directory_result: Dict) -> List[str]:
-    """
-    Sauvegarde tous les accélérateurs trouvés.
-    """
-
-    accelerators = directory_result.get(
+    "accelerator_directory": (
         "accelerators",
-        []
+        "accelerator"
     )
 
-    saved_files = []
-
-    for accelerator in accelerators:
-
-        accelerator["entity_type"] = "accelerator"
-
-        filepath = save_entity(accelerator)
-
-        saved_files.append(filepath)
-
-    return saved_files
+}
 
 
-def save_directory_result(directory_result: Dict) -> List[str]:
+def save_directory_result(
+    directory_result: Dict
+) -> List[str]:
     """
-    Détecte automatiquement le type du répertoire
-    et appelle la bonne fonction.
+    Sauvegarde automatiquement toutes les entités
+    extraites d'un annuaire.
     """
 
     entity_type = directory_result.get(
@@ -108,41 +41,64 @@ def save_directory_result(directory_result: Dict) -> List[str]:
         ""
     )
 
-    if entity_type == "startup_directory":
-        return save_startups(directory_result)
-
-    if entity_type == "investor_directory":
-        return save_investors(directory_result)
-
-    if entity_type == "incubator_directory":
-        return save_incubators(directory_result)
-
-    if entity_type == "accelerator_directory":
-        return save_accelerators(directory_result)
-
-    print(
-        f"[WARNING] Type non supporté : {entity_type}"
+    mapping = DIRECTORY_MAPPING.get(
+        entity_type
     )
 
-    return []
+    if mapping is None:
+
+        print(
+            f"[WARNING] Unsupported directory type: {entity_type}"
+        )
+
+        return []
+
+    collection_name, entity_name = mapping
+
+    entities = directory_result.get(
+        collection_name,
+        []
+    )
+
+    saved_files = []
+
+    for entity in entities:
+
+        entity["entity_type"] = entity_name
+
+        filepath = save_entity(
+            entity
+        )
+
+        saved_files.append(
+            filepath
+        )
+
+    return saved_files
 
 
 if __name__ == "__main__":
 
     test_data = {
+
         "entity_type": "startup_directory",
+
         "startups": [
+
             {
                 "name": "Deplike",
                 "description": "MusicTech startup",
                 "country": "Tunisia"
             },
+
             {
                 "name": "Konnect",
                 "description": "FinTech startup",
                 "country": "Tunisia"
             }
+
         ]
+
     }
 
     files = save_directory_result(
@@ -152,4 +108,5 @@ if __name__ == "__main__":
     print("\nFichiers créés :")
 
     for file in files:
+
         print(file)

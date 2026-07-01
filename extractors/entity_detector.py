@@ -8,19 +8,30 @@ from llm.openrouter_client import call_llm_json
 
 ALLOWED_ENTITY_TYPES = {
     "startup",
+    "startup_directory",
+
     "investor",
     "venture_capital_fund",
-    "incubator",
-    "accelerator",
-    "support_organization",
-    "startup_directory",
     "investor_directory",
+
+    "incubator",
+    "incubator_directory",
+
+    "accelerator",
+    "accelerator_directory",
+
+    "support_organization",
+    "support_organization_directory",
+
     "government_program",
+
     "other"
 }
 
 
-def build_detection_prompt(content: str) -> str:
+def build_detection_prompt(
+    content: str
+) -> str:
     """
     Construit le prompt envoyé au LLM.
     """
@@ -28,31 +39,112 @@ def build_detection_prompt(content: str) -> str:
     truncated_content = content[:15000]
 
     return f"""
-You are an expert in startup ecosystem analysis.
+You are an expert in startup ecosystem intelligence.
 
-Your task is to identify the primary entity type represented by the content below.
+Your task is to identify the SINGLE primary entity represented by the document.
+
+Return ONLY valid JSON.
 
 Allowed entity types:
 
 - startup
+- startup_directory
 - investor
 - venture_capital_fund
+- investor_directory
 - incubator
 - accelerator
 - support_organization
-- startup_directory
-- investor_directory
 - government_program
 - other
 
-Return ONLY valid JSON.
+Definitions:
+
+startup
+- A company building products or services.
+- Usually contains founders, products, customers,
+website, contact information.
+
+startup_directory
+- A page listing multiple startups.
+- Examples:
+    - Startup directory
+    - Startup catalog
+    - Startup list
+    - Startup ranking
+
+investor
+- A single investor.
+- Examples:
+    - Angel Investor
+    - Venture Capital Firm
+    - Investment Company
+
+venture_capital_fund
+- A single Venture Capital fund.
+- Usually contains:
+    - portfolio
+    - investment focus
+    - investment stages
+    - partners
+
+investor_directory
+- A page listing multiple investors.
+- Examples:
+    - VC directory
+    - Top Investors
+    - Investors List
+    - Venture Capital Directory
+
+incubator
+- One incubator.
+
+accelerator
+- One accelerator.
+
+support_organization
+- One ecosystem support organization.
+
+government_program
+- Government initiative,
+public funding program,
+innovation agency,
+public startup support.
+
+other
+- None of the above.
+
+Important rules:
+
+- Choose ONLY one entity type.
+- If the page mainly describes one company,
+choose the company type.
+
+Examples:
+
+216capital.vc
+→ venture_capital_fund
+
+Flat6Labs Tunisia
+→ accelerator
+
+Top VC Funds in Africa
+→ investor_directory
+
+Top 100 Startups Tunisia
+→ startup_directory
+
+The Dot
+→ support_organization
+
+Return ONLY JSON.
 
 Example:
 
 {{
-    "entity_type": "startup",
-    "confidence": 0.95,
-    "reason": "The page describes a startup, its product and founders."
+    "entity_type":"startup",
+    "confidence":0.98,
+    "reason":"The page describes one startup."
 }}
 
 CONTENT:

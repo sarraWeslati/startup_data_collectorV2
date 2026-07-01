@@ -41,7 +41,7 @@ async def enrich_startup(
     startup_name = startup.get(
         "name",
         ""
-    ).strip()
+    )
 
     if not startup_name:
 

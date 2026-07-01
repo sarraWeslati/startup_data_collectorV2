@@ -2,6 +2,7 @@
 
 import asyncio
 import json
+import traceback
 
 from pathlib import Path
 from datetime import datetime
@@ -144,13 +145,13 @@ async def process_file(
 
         return True
 
-    except Exception as e:
+    except Exception:
 
         print(
             f"[ERROR] {filepath.name}"
         )
 
-        print(str(e))
+        traceback.print_exc()
 
         return False
 
