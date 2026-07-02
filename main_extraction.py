@@ -234,6 +234,33 @@ def process_file(filepath: Path):
 
         return False
 
+def count_extracted_entities():
+    """
+    Compte le nombre total d'entités extraites.
+    """
+
+    extracted_folder = Path("storage/extracted")
+
+    startup_count = 0
+    investor_count = 0
+
+    startup_folder = extracted_folder / "startups"
+    investor_folder = extracted_folder / "investors"
+
+    if startup_folder.exists():
+
+        startup_count = len(
+            list(startup_folder.glob("*.json"))
+        )
+
+    if investor_folder.exists():
+
+        investor_count = len(
+            list(investor_folder.glob("*.json"))
+        )
+
+    return startup_count, investor_count
+
 
 def main():
 
@@ -297,6 +324,25 @@ def main():
 
     print(
         f"Duration        : {elapsed:.2f}s"
+    )
+
+    startup_count, investor_count = count_extracted_entities()
+
+    print("\n")
+    print("=" * 80)
+    print("EXTRACTED ENTITIES")
+    print("=" * 80)
+
+    print(
+        f"Total startups   : {startup_count}"
+    )
+
+    print(
+        f"Total investors  : {investor_count}"
+    )
+
+    print(
+        f"Total entities   : {startup_count + investor_count}"
     )
 
     print("\nDone.\n")

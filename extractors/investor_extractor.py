@@ -12,7 +12,7 @@ def build_investor_prompt(
     content: str
 ) -> str:
 
-    content = content[:20000]
+    content = content[:40000]
 
     return f"""
 You are an expert Venture Capital, Angel Investor and Investment Intelligence analyst.
@@ -229,7 +229,9 @@ def merge_investor_data(
 
         if key == "linkedin":
 
-            investor["linkedin"] = value.strip()
+            if isinstance(value, str):
+
+                investor["linkedin"] = value.strip()
 
             continue
 
@@ -466,6 +468,14 @@ def extract_investor(
         response
     )
 
+    if not isinstance(extracted, dict):
+
+        investor["extraction_error"] = (
+            "LLM returned invalid JSON."
+        )
+
+        return investor
+
     if not extracted:
 
         investor["extraction_error"] = (
@@ -483,9 +493,12 @@ def extract_investor(
     # Website normalization
     # =====================================================
 
-    investor["website"] = normalize_website(
-        investor.get("website", "")
-    )
+    website = investor.get("website", "")
+
+    if isinstance(website, str):
+        investor["website"] = normalize_website(website)
+    else:
+        investor["website"] = ""
 
 
     # =====================================================
@@ -514,6 +527,35 @@ def extract_investor(
     investor = update_investor_confidence(
         investor
     )
+
+    LIST_FIELDS = [
+
+        "emails",
+        "phones",
+        "investment_focus",
+        "investment_stages",
+        "preferred_industries",
+        "geographic_focus",
+        "portfolio_startups",
+        "partners",
+        "team_members",
+        "co_investors",
+        "accelerators",
+        "incubators",
+        "awards",
+        "certifications",
+        "recent_news",
+        "events"
+
+    ]
+
+    for field in LIST_FIELDS:
+
+        if not isinstance(
+            investor.get(field),
+            list
+        ):
+            investor[field] = []
 
     investor = normalize_investor(
         investor

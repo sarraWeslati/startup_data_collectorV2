@@ -32,6 +32,24 @@ Extract ONLY startups explicitly present in THIS chunk.
 
 Never use information from previous chunks.
 
+This chunk may contain dozens of startups.
+
+Return EVERY startup appearing in this chunk.
+
+Continue until the end of the chunk.
+
+Do NOT stop after extracting only a few startups.
+
+The JSON array must contain one object for EVERY startup present in this chunk.
+
+Do not skip any startup.
+
+If 25 startups appear, return 25 JSON objects.
+
+If 50 startups appear, return 50 JSON objects.
+
+The response must include ALL startups before finishing.
+
 Return ONLY valid JSON.
 
 Schema:
@@ -136,7 +154,7 @@ def extract_chunk(
 
     response = call_llm_json(
         prompt=prompt,
-        max_tokens=3500
+        max_tokens=5000
     )
 
     return parse_response(
