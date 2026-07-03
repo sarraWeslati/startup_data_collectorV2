@@ -273,9 +273,18 @@ def merge_investor_data(
 
             for item in value:
 
-                if item not in merged:
+                if isinstance(item, dict):
 
-                    merged.append(item)
+                    if not any(
+                        isinstance(x, dict) and x == item
+                        for x in merged
+                    ):
+                        merged.append(item)
+
+                else:
+
+                    if item not in merged:
+                        merged.append(item)
 
             investor[key] = merged
 

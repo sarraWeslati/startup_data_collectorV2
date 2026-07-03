@@ -55,21 +55,7 @@ async def enrich_startup(
         f"[ENRICHING STARTUP] {startup_name}"
     )
 
-    # =====================================
-    # WEBSITE ENRICHMENT
-    # =====================================
-
-    try:
-
-        startup = await enrich_from_website(
-            startup
-        )
-
-    except Exception as e:
-
-        print(
-            f"[WEBSITE ERROR] {e}"
-        )
+    
 
     # =====================================
     # TAVILY SEARCH
@@ -115,8 +101,24 @@ async def enrich_startup(
 
     startup["website"] = resolve_official_website(
         startup.get("website", ""),
-        package
+        package.get("website", "")
     )
+
+    # =====================================
+    # WEBSITE ENRICHMENT
+    # =====================================
+
+    try:
+
+        startup = await enrich_from_website(
+            startup
+        )
+
+    except Exception as e:
+
+        print(
+            f"[WEBSITE ERROR] {e}"
+        )
 
     # -------------------------
     # Recherche investisseurs

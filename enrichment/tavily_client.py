@@ -1,9 +1,10 @@
 import os
 from typing import Dict, List, Optional
 
+import re
 import requests
 from dotenv import load_dotenv
-
+from utils.website_resolver import (resolve_official_website)
 from utils.entity_matcher import (is_matching_company)
 
 load_dotenv()
@@ -220,16 +221,44 @@ def filter_official_websites(
 def extract_official_website(
     tavily_result: Dict
 ) -> Optional[str]:
+    """
+    Sélectionne le meilleur site officiel parmi
+    les résultats Tavily.
+    """
 
     websites = filter_official_websites(
         tavily_result
     )
 
-    if websites:
+    if not websites:
+        return None
 
-        return websites[0]
+    return resolve_official_website(
+        *websites
+    )
 
-    return None
+def normalize_company_name(
+    name: str
+) -> str:
+    """
+    Normalise un nom d'entreprise
+    pour faciliter les comparaisons.
+    """
+
+    if not name:
+        return ""
+
+    name = name.lower()
+
+    # Supprime toute ponctuation
+    name = re.sub(
+        r"[^a-z0-9]",
+        "",
+        name
+    )
+
+    return name
+
 # =====================================================
 # STARTUP SEARCH
 # =====================================================
@@ -238,32 +267,100 @@ def search_startup(
     startup_name: str
 ) -> Dict:
 
+    return search_company(
+        startup_name
+    )
+
+
+def search_official_website(
+    company_name: str
+) -> Dict:
+    """
+    Recherche uniquement le site officiel.
+    """
+
     query = (
-    f"{startup_name} startup "
-    "official website "
-    "LinkedIn "
-    "Crunchbase "
-    "Wellfound "
-    "founders "
-    "CEO "
-    "headquarters "
-    "country "
-    "city "
-    "industry "
-    "products "
-    "services "
-    "technologies "
-    "funding "
-    "investors "
-    "partners "
-    "awards"
-)
+        f'"{company_name}" official website'
+    )
 
     return tavily_search(
         query=query,
-        max_results=20,
+        max_results=5,
         search_depth="advanced"
     )
+
+
+def search_linkedin(
+    company_name: str
+) -> Dict:
+    """
+    Recherche uniquement LinkedIn.
+    """
+
+    query = (
+        f'"{company_name}" LinkedIn'
+    )
+
+    return tavily_search(
+        query=query,
+        max_results=5,
+        search_depth="advanced"
+    )
+
+
+def search_crunchbase(
+    company_name: str
+) -> Dict:
+    """
+    Recherche Crunchbase.
+    """
+
+    query = (
+        f'"{company_name}" Crunchbase'
+    )
+
+    return tavily_search(
+        query=query,
+        max_results=5,
+        search_depth="advanced"
+    )
+
+
+def search_wellfound(
+    company_name: str
+) -> Dict:
+    """
+    Recherche Wellfound.
+    """
+
+    query = (
+        f'"{company_name}" Wellfound'
+    )
+
+    return tavily_search(
+        query=query,
+        max_results=5,
+        search_depth="advanced"
+    )
+
+def search_dealroom(
+    company_name: str
+) -> Dict:
+    """
+    Recherche Dealroom.
+    """
+
+    query = (
+        f'"{company_name}" Dealroom'
+    )
+
+    return tavily_search(
+        query=query,
+        max_results=5,
+        search_depth="advanced"
+    )
+
+
 
 def search_startup_investors(
     startup_name: str
@@ -291,28 +388,10 @@ def search_investor(
     investor_name: str
 ) -> Dict:
 
-    query = (
-    f"{investor_name} investor "
-    "official website "
-    "LinkedIn "
-    "Crunchbase "
-    "PitchBook "
-    "Dealroom "
-    "investment focus "
-    "portfolio "
-    "partners "
-    "ticket size "
-    "assets under management "
-    "headquarters "
-    "country "
-    "city"
-)
-
-    return tavily_search(
-        query=query,
-        max_results=20,
-        search_depth="advanced"
+    return search_company(
+        investor_name
     )
+
 # =====================================================
 # PLATFORM EXTRACTION
 # =====================================================
@@ -480,6 +559,181 @@ def extract_external_profiles(
             tavily_result
         )
     }
+
+
+
+def is_relevant_result(
+    company_name: str,
+    result: Dict
+) -> bool:
+    """
+    Vérifie si un résultat Tavily parle réellement
+    de l'entreprise recherchée.
+    """
+
+    company = company_name.lower().strip()
+
+    title = result.get(
+        "title",
+        ""
+    ).lower()
+
+    content = result.get(
+        "content",
+        ""
+    ).lower()
+
+    raw = result.get(
+        "raw_content",
+        ""
+    ).lower()
+
+    url = result.get(
+        "url",
+        ""
+    ).lower()
+
+    # Nettoyage du nom
+    words = [
+        w
+        for w in re.split(r"[\s\-_]+", company)
+        if len(w) > 2
+    ]
+
+    score = 0
+
+    for word in words:
+
+        if word in title:
+            score += 4
+
+        if word in content:
+            score += 2
+
+        if word in raw:
+            score += 1
+
+        if word in url:
+            score += 3
+
+    # Le nom complet apparaît
+    if company in title:
+        score += 8
+
+    if company in content:
+        score += 5
+
+    if company in url:
+        score += 6
+
+    return score >= 8
+
+def merge_tavily_results(
+    *responses: Dict
+) -> Dict:
+    """
+    Fusionne plusieurs réponses Tavily.
+    """
+
+    merged = {
+
+        "results": [],
+
+        "answer": ""
+    }
+
+    seen = set()
+
+    answers = []
+
+    for response in responses:
+
+        if not response:
+            continue
+
+        answer = response.get(
+            "answer",
+            ""
+        )
+
+        if answer:
+
+            answers.append(
+                answer
+            )
+
+        for result in response.get(
+            "results",
+            []
+        ):
+
+            url = result.get(
+                "url",
+                ""
+            )
+
+            if not url:
+
+                continue
+
+            if url in seen:
+
+                continue
+
+            seen.add(url)
+
+            merged["results"].append(
+                result
+            )
+
+    merged["answer"] = "\n".join(
+        answers
+    )
+
+    return merged
+
+def search_company(
+    company_name: str
+) -> Dict:
+    """
+    Effectue plusieurs recherches spécialisées
+    puis fusionne les résultats.
+    """
+
+    website = search_official_website(
+        company_name
+    )
+
+    linkedin = search_linkedin(
+        company_name
+    )
+
+    crunchbase = search_crunchbase(
+        company_name
+    )
+
+    wellfound = search_wellfound(
+        company_name
+    )
+
+    dealroom = search_dealroom(
+        company_name
+    )
+
+    return merge_tavily_results(
+
+        website,
+
+        linkedin,
+
+        crunchbase,
+
+        wellfound,
+
+        dealroom
+
+    )
+
 # =====================================================
 # ENRICHMENT PACKAGE
 # =====================================================
@@ -505,14 +759,26 @@ def build_enrichment_package(
             ""
         )
 
-        if is_matching_company(
+        matching = is_matching_company(
             company_name,
             url
-        ):
+        )
 
-            filtered_results.append(
-                result
-            )
+        relevant = is_relevant_result(
+            company_name,
+            result
+        )
+
+        if matching or relevant:
+
+            filtered_results.append(result)
+
+            print(f"[KEEP] {url}")
+        else:
+
+            print(f"[SKIP] {url}")
+
+
     filtered_tavily = {
         **tavily_result,
         "results": filtered_results

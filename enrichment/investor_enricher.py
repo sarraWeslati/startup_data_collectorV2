@@ -17,6 +17,9 @@ from enrichment.llm_enricher import (
     enrich_investor_with_llm
 )
 
+from utils.website_resolver import (
+    resolve_official_website
+)
 
 async def enrich_investor(
     investor: dict
@@ -43,25 +46,9 @@ async def enrich_investor(
 
         return investor
 
-    print(
-        f"[ENRICHING INVESTOR] {investor_name}"
-    )
+    
 
-    # =====================================
-    # WEBSITE ENRICHMENT
-    # =====================================
-
-    try:
-
-        investor = await enrich_from_website(
-            investor
-        )
-
-    except Exception as e:
-
-        print(
-            f"[WEBSITE ERROR] {e}"
-        )
+    
 
     # =====================================
     # TAVILY SEARCH
@@ -88,6 +75,27 @@ async def enrich_investor(
             investor_name,
             tavily_data
         )
+
+        investor["website"] = resolve_official_website(
+            investor.get("website", ""),
+            package.get("website", "")
+        )
+
+        # =====================================
+        # WEBSITE ENRICHMENT
+        # =====================================
+
+        try:
+
+            investor = await enrich_from_website(
+                investor
+            )
+
+        except Exception as e:
+
+            print(
+                f"[WEBSITE ERROR] {e}"
+            )
 
     except Exception as e:
 

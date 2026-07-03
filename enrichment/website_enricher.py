@@ -194,6 +194,54 @@ def deep_merge(
         return incoming
 
     return original
+
+def prepare_llm_content(
+    content: str
+) -> str:
+    """
+    Prépare le contenu envoyé au LLM
+    en privilégiant les sections importantes.
+    """
+
+    KEYWORDS = [
+
+        "about",
+        "company",
+        "who we are",
+        "our story",
+        "our team",
+        "leadership",
+        "founders",
+        "products",
+        "services",
+        "solutions",
+        "technology",
+        "platform",
+        "partners",
+        "customers",
+        "portfolio",
+        "contact"
+
+    ]
+
+    lines = content.splitlines()
+
+    selected = []
+
+    for line in lines:
+
+        lower = line.lower()
+
+        if any(keyword in lower for keyword in KEYWORDS):
+
+            selected.append(line)
+
+    if not selected:
+
+        return content[:15000]
+
+    return "\n".join(selected)[:15000]
+
 # =====================================================
 # PROMPT
 # =====================================================
@@ -574,8 +622,11 @@ async def enrich_from_website(
     # LLM EXTRACTION
     # -------------------------------------------------
 
-    prompt = build_prompt(
+    llm_content = prepare_llm_content(
         content
+    )
+    prompt = build_prompt(
+        llm_content
     )
 
     response = call_llm(

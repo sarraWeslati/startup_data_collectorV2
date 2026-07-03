@@ -1,20 +1,67 @@
 from urllib.parse import urlparse
+import unicodedata
 import re
 
+STOP_WORDS = {
 
-def normalize_name(name: str) -> str:
-    """
-    Normalise un nom d'entreprise.
-    """
+    "inc",
+    "llc",
+    "ltd",
+    "limited",
+    "group",
+    "holding",
+    "holdings",
+    "company",
+    "corp",
+    "corporation",
+    "sa",
+    "sas",
+    "sarl",
+    "plc"
+
+}
+
+def normalize_name(
+    name: str
+) -> str:
 
     if not name:
         return ""
 
+    # Supprime les accents
+    name = unicodedata.normalize(
+        "NFKD",
+        name
+    )
+
+    name = "".join(
+
+        c
+
+        for c in name
+
+        if not unicodedata.combining(c)
+
+    )
+
     name = name.lower()
 
-    name = re.sub(r"[^a-z0-9]", "", name)
+    words = re.findall(
+        r"[a-z0-9]+",
+        name
+    )
 
-    return name
+    words = [
+
+        w
+
+        for w in words
+
+        if w not in STOP_WORDS
+
+    ]
+
+    return "".join(words)
 
 
 def get_domain(url: str) -> str:

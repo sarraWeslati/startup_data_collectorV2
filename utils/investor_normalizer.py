@@ -119,19 +119,27 @@ def normalize_investor(
     un investisseur.
     """
 
-    investor["website"] = normalize_website(
-        investor.get(
-            "website",
-            ""
-        )
-    )
+    website = investor.get("website")
 
-    if investor.get(
-        "linkedin"
-    ):
-        investor["linkedin"] = investor[
-            "linkedin"
-        ].strip()
+    if isinstance(website, str):
+
+        investor["website"] = normalize_website(
+            website
+        )
+
+    else:
+
+        investor["website"] = ""
+
+    linkedin = investor.get("linkedin")
+
+    if isinstance(linkedin, str):
+
+        investor["linkedin"] = linkedin.strip()
+
+    else:
+
+        investor["linkedin"] = ""
 
     investor["emails"] = normalize_list(
         investor.get(
