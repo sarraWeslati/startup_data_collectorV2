@@ -5,7 +5,7 @@ from typing import Optional
 from llm.providers.openrouter_provider import OpenRouterProvider
 from llm.providers.groq_provider import GroqProvider
 from llm.providers.gemini_provider import GeminiProvider
-
+from llm.providers.nvidia_provider import NvidiaProvider
 
 # =====================================================
 # INITIALISATION DES PROVIDERS
@@ -32,8 +32,9 @@ def register_provider(provider_class):
             f"[LLM] {provider_class.__name__} disabled : {e}"
         )
 
-
 register_provider(OpenRouterProvider)
+
+register_provider(NvidiaProvider)
 
 register_provider(GroqProvider)
 

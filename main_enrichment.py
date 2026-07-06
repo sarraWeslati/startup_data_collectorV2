@@ -15,6 +15,13 @@ from enrichment.investor_enricher import (
     enrich_investor
 )
 
+from utils.entity_loader import (
+    load_best_entity
+)
+
+from utils.entity_merger import (
+    merge_entities
+)
 
 EXTRACTED_DIR = Path(
     "storage/extracted"
@@ -71,17 +78,40 @@ async def process_file(
 
     try:
 
-        data = load_json(
+        # ==================================
+        # Load extracted entity
+        # ==================================
+
+        extracted_data = load_json(
             filepath
         )
 
-        entity_type = data.get(
+        entity_type = extracted_data.get(
             "entity_type",
             ""
         )
 
+        # ==================================
+        # Load best available version
+        # ==================================
+
+        data = load_best_entity(
+            filepath,
+            extracted_data
+        )
+
         print(
             f"[TYPE] {entity_type}"
+        )
+
+        # ==================================
+        # Merge extracted data with existing
+        # enriched entity if available.
+        # ==================================
+
+        data = merge_entities(
+            data,
+            extracted_data
         )
 
         # ==================================
