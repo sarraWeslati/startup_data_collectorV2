@@ -1,5 +1,5 @@
-import requests
 from bs4 import BeautifulSoup
+from bs4 import FeatureNotFound
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urldefrag, urlparse
 
@@ -7,10 +7,8 @@ from config import (
     DISCOVERY_WORKERS,
     MAX_LINKS_PER_SOURCE,
     MAX_PAGES_PER_SOURCE,
-    REQUEST_TIMEOUT,
 )
-
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+from http_client import get_html
 
 ARTICLE_HINTS = (
     "/20", "202", "/news/", "/article/", "/articles/", "/startup/", "/startups/",
@@ -73,9 +71,11 @@ def reached_link_limit(article_urls):
 
 
 def fetch_soup(url):
-    r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    r.raise_for_status()
-    return BeautifulSoup(r.text, "lxml")
+    html = get_html(url)
+    try:
+        return BeautifulSoup(html, "lxml")
+    except FeatureNotFound:
+        return BeautifulSoup(html, "html.parser")
 
 
 def add_article_links(soup, source_url, page_url, article_urls, seen_urls):
