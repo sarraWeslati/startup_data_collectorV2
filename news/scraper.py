@@ -1,69 +1,35 @@
-import requests
 from bs4 import BeautifulSoup
-
-from config import REQUEST_TIMEOUT
-
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+from http_client import fetch
 
 
-def content_length(tag):
-    if not tag:
-        return 0
-    return len(tag.get_text(" ", strip=True))
-
-
-def find_best_content(soup):
-    selectors = [
-        "article",
-        "main",
-        ".entry-content",
-        ".post-content",
-        ".td-post-content",
-        ".jeg_singlepage",
-        ".jeg_main_content",
-        "[class*=article]",
-        "[class*=content]",
-    ]
-    candidates = []
-
-    for selector in selectors:
-        candidates.extend(soup.select(selector))
-
-    return max(candidates, key=content_length, default=soup)
+def parse(html):
+    try:
+        return BeautifulSoup(html, "lxml")
+    except:
+        return BeautifulSoup(html, "html.parser")
 
 
 def scrape_url(url):
     try:
-        print(f"[SCRAPER] Fetching: {url}")
+        html = fetch(url)
 
-        r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        r.raise_for_status()
+        if not html:
+            return None
 
-        soup = BeautifulSoup(r.text, "lxml")
+        soup = parse(html)
 
-        for tag in soup(["script", "style", "noscript"]):
-            tag.decompose()
+        for t in soup(["script", "style", "noscript"]):
+            t.decompose()
 
-        article = find_best_content(soup)
-        paragraphs = article.find_all("p")
-        text = " ".join(p.get_text(" ", strip=True) for p in paragraphs)
-
-        if len(text) < 200:
-            text = article.get_text(" ", strip=True)
-
-        if len(text) < 200:
-            text = soup.get_text(" ", strip=True)
-
-        text = " ".join(text.split())
+        text = soup.get_text(" ", strip=True)
 
         if len(text) < 200:
             return None
 
         return {
             "url": url,
-            "content": text[:6000],
+            "content": text[:6000]
         }
 
-    except Exception as e:
-        print("[SCRAPER ERROR]", url, e)
+    except:
         return None

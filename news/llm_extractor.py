@@ -1,7 +1,9 @@
-import requests
 import json
 import re
-from config import NVIDIA_API_KEY
+
+import requests
+
+from config import LLM_TIMEOUT, NVIDIA_API_KEY
 
 API_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 MODEL = "nvidia/nemotron-3-ultra-550b-a55b"
@@ -17,28 +19,32 @@ def extract_json(text):
         text = text.replace("```json", "").replace("```", "")
         match = re.search(r"\{.*\}", text, re.S)
         if not match:
+            print("[LLM ERROR] No JSON object found in response")
             return None
         return json.loads(match.group(0))
-    except:
+    except Exception as e:
+        print("[LLM ERROR] Invalid JSON response:", e)
         return None
 
 
-def call_llm(payload):
+def call_llm(payload, url=""):
     try:
         res = requests.post(
             API_URL,
             headers=HEADERS,
             json=payload,
-            timeout=(10, 180)
+            timeout=(10, LLM_TIMEOUT)
         )
 
         if res.status_code != 200:
+            print(f"[LLM HTTP {res.status_code}] {url}")
             return None
 
         data = res.json()
         return data["choices"][0]["message"]["content"]
 
-    except:
+    except Exception as e:
+        print(f"[LLM REQUEST ERROR] {url} {e}")
         return None
 
 
@@ -79,7 +85,7 @@ TEXT:
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.2,
         "max_tokens": 1800
-    })
+    }, url=url)
 
     if not response:
         return None
