@@ -21,6 +21,19 @@ from utils.website_resolver import (
     resolve_official_website
 )
 
+from validators.entity_validator import (
+    validate_entity
+)
+
+from utils.confidence_score import (
+    compute_confidence_score
+)
+
+from utils.entity_merger import (
+    merge_entities,
+    merge_dicts
+)
+
 async def enrich_investor(
     investor: dict
 ) -> dict:
@@ -76,9 +89,30 @@ async def enrich_investor(
             tavily_data
         )
 
-        investor["website"] = resolve_official_website(
-            investor.get("website", ""),
-            package.get("website", "")
+        website_candidate = resolve_official_website(
+
+            investor.get(
+                "website",
+                ""
+            ),
+
+            package.get(
+                "website",
+                ""
+            )
+
+        )
+
+        investor = merge_entities(
+
+            investor,
+
+            {
+
+                "website": website_candidate
+
+            }
+
         )
 
         # =====================================
@@ -131,67 +165,68 @@ async def enrich_investor(
             package["linkedin"]
         )
 
-    external_profiles = {
+    # =====================================
+    # EXTERNAL PROFILES
+    # =====================================
 
-        "website":
-        package.get("website"),
+    investor = merge_entities(
 
-        "linkedin":
-        package.get("linkedin"),
+        investor,
 
-        "crunchbase":
-        package.get("crunchbase"),
+        {
 
-        "wellfound":
-        package.get("wellfound"),
+            "external_profiles": {
 
-        "github":
-        package.get("github"),
+                "website":
+                package.get("website"),
 
-        "dealroom":
-        package.get("dealroom"),
+                "linkedin":
+                package.get("linkedin"),
 
-        "pitchbook":
-        package.get("pitchbook"),
+                "crunchbase":
+                package.get("crunchbase"),
 
-        "startupblink":
-        package.get("startupblink")
-    }
+                "wellfound":
+                package.get("wellfound"),
 
-    investor[
-        "external_profiles"
-    ] = external_profiles
+                "github":
+                package.get("github"),
 
-    existing_socials = investor.get(
-        "social_media"
+                "dealroom":
+                package.get("dealroom"),
+
+                "pitchbook":
+                package.get("pitchbook"),
+
+                "startupblink":
+                package.get("startupblink")
+
+            }
+
+        }
+
     )
 
-    if not isinstance(
-        existing_socials,
-        dict
-    ):
+    # =====================================
+    # SOCIAL MEDIA
+    # =====================================
 
-        existing_socials = {}
+    investor = merge_entities(
 
-    for platform, url in package.get(
-        "social_media",
-        {}
-    ).items():
+        investor,
 
-        if (
-            url
-            and not existing_socials.get(
-                platform
+        {
+
+            "social_media":
+
+            package.get(
+                "social_media",
+                {}
             )
-        ):
 
-            existing_socials[
-                platform
-            ] = url
+        }
 
-    investor[
-        "social_media"
-    ] = existing_socials
+    )
 
     # =====================================
     # WEBSITE CONTENT
@@ -348,202 +383,306 @@ async def enrich_investor(
     # ENRICHMENT METADATA
     # =====================================
 
-    enriched_investor[
-        "enrichment"
-    ] = {
+    enriched_investor = merge_entities(
 
-        "status":
-        "completed",
+        enriched_investor,
 
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
+        {
 
-        "date":
-        datetime.now(
-            timezone.utc
-        ).isoformat(),
+            "enrichment": {
 
-        "website_enriched":
-        bool(
-            investor.get(
-                "website_content"
-            )
-        ),
+                "status": "completed",
 
-        "tavily_results":
-        package.get(
-            "results_count",
-            0
-        ),
+                "sources": [
 
-        "llm_enriched":
-        llm_success
-    }
+                    "website",
+
+                    "tavily",
+
+                    "llm"
+
+                ],
+
+                "date": datetime.utcnow().isoformat(),
+
+                "website_enriched": bool(
+
+                    investor.get(
+                        "website_content"
+                    )
+
+                ),
+
+                "tavily_results": package.get(
+
+                    "results_count",
+
+                    0
+
+                ),
+
+                "llm_enriched": True
+
+            }
+
+        }
+
+    )
 
     # =====================================
     # TAVILY METADATA
     # =====================================
 
-    enriched_investor[
-        "tavily"
-    ] = {
+    enriched_investor = merge_entities(
 
-        "query":
-        investor_name,
+        enriched_investor,
 
-        "answer":
-        package.get(
-            "answer",
-            ""
-        ),
+        {
 
-        "results_count":
-        package.get(
-            "results_count",
-            0
-        ),
+            "tavily": {
 
-        "urls":
-        package.get(
-            "urls",
-            []
-        )
-    }
+                "query":
+                investor_name,
+
+                "answer":
+                package.get(
+                    "answer",
+                    ""
+                ),
+
+                "results_count":
+                package.get(
+                    "results_count",
+                    0
+                ),
+
+                "urls":
+                package.get(
+                    "urls",
+                    []
+                )
+
+            }
+
+        }
+
+    )
 
     # =====================================
     # STATS
     # =====================================
 
-    enriched_investor[
-        "stats"
-    ] = {
+    enriched_investor = merge_entities(
 
-        "has_website":
-        bool(
-            enriched_investor.get(
-                "website"
-            )
-        ),
+        enriched_investor,
 
-        "has_linkedin":
-        bool(
-            enriched_investor.get(
-                "linkedin"
-            )
-        ),
+        {
 
-        "has_crunchbase":
-        bool(
-            enriched_investor.get(
-                "external_profiles",
-                {}
-            ).get(
-                "crunchbase"
-            )
-        ),
+            "stats": {
 
-        "has_wellfound":
-        bool(
-            enriched_investor.get(
-                "external_profiles",
-                {}
-            ).get(
-                "wellfound"
-            )
-        ),
+                "has_website":
+                bool(
+                    enriched_investor.get(
+                        "website"
+                    )
+                ),
 
-        "has_github":
-        bool(
-            enriched_investor.get(
-                "external_profiles",
-                {}
-            ).get(
-                "github"
-            )
-        ),
+                "has_linkedin":
+                bool(
 
-        "has_dealroom":
-        bool(
-            enriched_investor.get(
-                "external_profiles",
-                {}
-            ).get(
-                "dealroom"
-            )
-        ),
+                    enriched_investor.get(
+                        "linkedin"
+                    )
 
-        "has_pitchbook":
-        bool(
-            enriched_investor.get(
-                "external_profiles",
-                {}
-            ).get(
-                "pitchbook"
-            )
-        ),
+                    or
 
-        "portfolio_count":
-        len(
-            enriched_investor.get(
-                "portfolio_startups",
-                []
-            )
-        ),
+                    enriched_investor.get(
+                        "social_media",
+                        {}
+                    ).get(
+                        "linkedin"
+                    )
 
-        "investment_focus_count":
-        len(
-            enriched_investor.get(
-                "investment_focus",
-                []
-            )
-        ),
+                ),
 
-        "investment_stages_count":
-        len(
-            enriched_investor.get(
-                "investment_stages",
-                []
-            )
-        ),
+                "has_crunchbase":
+                bool(
 
-        "geographic_focus_count":
-        len(
-            enriched_investor.get(
-                "geographic_focus",
-                []
-            )
-        ),
+                    enriched_investor.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "crunchbase"
+                    )
 
-        "partners_count":
-        len(
-            enriched_investor.get(
-                "partners",
-                []
-            )
-        ),
+                ),
 
-        "team_members_count":
-        len(
-            enriched_investor.get(
-                "team_members",
-                []
-            )
-        ),
+                "has_wellfound":
+                bool(
 
-        "social_profiles":
-        len(
-            [
-                url
-                for url in enriched_investor.get(
-                    "social_media",
-                    {}
-                ).values()
-                if url
-            ]
+                    enriched_investor.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "wellfound"
+                    )
+
+                ),
+
+                "has_github":
+                bool(
+
+                    enriched_investor.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "github"
+                    )
+
+                ),
+
+                "has_dealroom":
+                bool(
+
+                    enriched_investor.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "dealroom"
+                    )
+
+                ),
+
+                "has_pitchbook":
+                bool(
+
+                    enriched_investor.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "pitchbook"
+                    )
+
+                ),
+
+                "portfolio_count":
+                len(
+
+                    enriched_investor.get(
+                        "portfolio_startups",
+                        []
+                    )
+
+                ),
+
+                "investment_focus_count":
+                len(
+
+                    enriched_investor.get(
+                        "investment_focus",
+                        []
+                    )
+
+                ),
+
+                "investment_stages_count":
+                len(
+
+                    enriched_investor.get(
+                        "investment_stages",
+                        []
+                    )
+
+                ),
+
+                "geographic_focus_count":
+                len(
+
+                    enriched_investor.get(
+                        "geographic_focus",
+                        []
+                    )
+
+                ),
+
+                "partners_count":
+                len(
+
+                    enriched_investor.get(
+                        "partners",
+                        []
+                    )
+
+                ),
+
+                "team_members_count":
+                len(
+
+                    enriched_investor.get(
+                        "team_members",
+                        []
+                    )
+
+                ),
+
+                "social_profiles":
+                len(
+
+                    [
+
+                        url
+
+                        for url in enriched_investor.get(
+                            "social_media",
+                            {}
+                        ).values()
+
+                        if url
+
+                    ]
+
+                )
+
+            }
+
+        }
+
+    )
+
+    # =====================================
+    # FINAL MERGE
+    # =====================================
+
+    enriched_investor = merge_entities(
+
+        investor,
+
+        enriched_investor
+
+    )
+
+    # =====================================
+    # VALIDATION
+    # =====================================
+
+    enriched_investor = validate_entity(
+
+        enriched_investor
+
+    )
+
+    # =====================================
+    # CONFIDENCE SCORE
+    # =====================================
+
+    enriched_investor["confidence"] = (
+
+        compute_confidence_score(
+
+            enriched_investor
+
         )
-    }
+
+    )
 
     return enriched_investor

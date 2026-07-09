@@ -25,6 +25,10 @@ from utils.website_resolver import resolve_official_website
 from validators.entity_validator import (
     validate_entity
 )
+from utils.entity_merger import (
+    merge_entities,
+    merge_dicts
+)
 
 async def enrich_startup(
     startup: dict
@@ -99,10 +103,27 @@ async def enrich_startup(
         tavily_data
     )
 
-    startup["website"] = resolve_official_website(
-        startup.get("website", ""),
-        package.get("website", "")
+    # =====================================================
+    # Resolve official website
+    # =====================================================
+
+    website_candidate = resolve_official_website(
+
+        startup.get(
+            "website",
+            ""
+        ),
+
+        package.get(
+            "website",
+            ""
+        )
+
     )
+
+    if website_candidate:
+
+        startup["website"] = website_candidate
 
     # =====================================
     # WEBSITE ENRICHMENT
@@ -159,64 +180,57 @@ async def enrich_startup(
             package["linkedin"]
         )
 
-    startup["external_profiles"] = {
+    startup = merge_entities(
 
-        "website":
-        package.get("website"),
+        startup,
 
-        "linkedin":
-        package.get("linkedin"),
+        {
 
-        "crunchbase":
-        package.get("crunchbase"),
+            "external_profiles": {
 
-        "wellfound":
-        package.get("wellfound"),
+                "website": package.get("website"),
 
-        "github":
-        package.get("github"),
+                "linkedin": package.get("linkedin"),
 
-        "dealroom":
-        package.get("dealroom"),
+                "crunchbase": package.get("crunchbase"),
 
-        "pitchbook":
-        package.get("pitchbook"),
+                "wellfound": package.get("wellfound"),
 
-        "startupblink":
-        package.get("startupblink")
-    }
+                "github": package.get("github"),
 
-    existing_socials = startup.get(
-        "social_media",
-        {}
+                "dealroom": package.get("dealroom"),
+
+                "pitchbook": package.get("pitchbook"),
+
+                "startupblink": package.get("startupblink")
+
+            }
+
+        }
+
     )
 
-    if not isinstance(
-        existing_socials,
-        dict
-    ):
+    # =====================================================
+    # SOCIAL MEDIA MERGING
+    # =====================================================
 
-        existing_socials = {}
+    startup = merge_entities(
 
-    for platform, url in package.get(
-        "social_media",
-        {}
-    ).items():
+        startup,
 
-        if (
-            url
-            and not existing_socials.get(
-                platform
+        {
+
+            "social_media":
+
+            package.get(
+                "social_media",
+                {}
             )
-        ):
 
-            existing_socials[
-                platform
-            ] = url
+        }
 
-    startup[
-        "social_media"
-    ] = existing_socials
+    )
+
         # =====================================
     # WEBSITE CONTENT
     # =====================================
@@ -287,66 +301,52 @@ async def enrich_startup(
             package["linkedin"]
         )
 
-    existing_socials = enriched_startup.get(
-        "social_media",
-        {}
+    enriched_startup = merge_entities(
+
+        enriched_startup,
+
+        {
+
+            "social_media":
+
+            package.get(
+                "social_media",
+                {}
+            )
+
+        }
+
     )
 
-    if not isinstance(
-        existing_socials,
-        dict
-    ):
+    enriched_startup = merge_entities(
 
-        existing_socials = {}
+        enriched_startup,
 
-    for platform, url in package.get(
-        "social_media",
-        {}
-    ).items():
+        {
 
-        if (
-            url
-            and not existing_socials.get(
-                platform
-            )
-        ):
+            "external_profiles": {
 
-            existing_socials[
-                platform
-            ] = url
+                "website": package.get("website"),
 
-    enriched_startup[
-        "social_media"
-    ] = existing_socials
+                "linkedin": package.get("linkedin"),
 
-    enriched_startup[
-        "external_profiles"
-    ] = {
+                "crunchbase": package.get("crunchbase"),
 
-        "website":
-        package.get("website"),
+                "wellfound": package.get("wellfound"),
 
-        "linkedin":
-        package.get("linkedin"),
+                "github": package.get("github"),
 
-        "crunchbase":
-        package.get("crunchbase"),
+                "dealroom": package.get("dealroom"),
 
-        "wellfound":
-        package.get("wellfound"),
+                "pitchbook": package.get("pitchbook"),
 
-        "github":
-        package.get("github"),
+                "startupblink": package.get("startupblink")
 
-        "dealroom":
-        package.get("dealroom"),
+            }
 
-        "pitchbook":
-        package.get("pitchbook"),
+        }
 
-        "startupblink":
-        package.get("startupblink")
-    }
+    )
         # =====================================
     # ENTITY TYPE
     # =====================================
@@ -362,190 +362,240 @@ async def enrich_startup(
     # ENRICHMENT METADATA
     # =====================================
 
-    enriched_startup["enrichment"] = {
+    enriched_startup = merge_entities(
 
-        "status":
-        "completed",
+        enriched_startup,
 
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
+        {
 
-        "date":
-        datetime.utcnow().isoformat(),
+            "enrichment": {
 
-        "website_enriched":
-        bool(
-            startup.get(
-                "website_content"
-            )
-        ),
+                "status": "completed",
 
-        "tavily_results":
-        package.get(
-            "results_count",
-            0
-        ),
+                "sources": [
 
-        "llm_enriched":
-        True
-    }
+                    "website",
+
+                    "tavily",
+
+                    "llm"
+
+                ],
+
+                "date": datetime.utcnow().isoformat(),
+
+                "website_enriched": bool(
+
+                    startup.get(
+                        "website_content"
+                    )
+
+                ),
+
+                "tavily_results": package.get(
+
+                    "results_count",
+
+                    0
+
+                ),
+
+                "llm_enriched": True
+
+            }
+
+        }
+
+    )
 
     # =====================================
     # TAVILY METADATA
     # =====================================
 
-    enriched_startup["tavily"] = {
+    enriched_startup = merge_entities(
 
-        "query":
-        startup_name,
+        enriched_startup,
 
-        "answer":
-        package.get(
-            "answer",
-            ""
-        ),
+        {
 
-        "results_count":
-        package.get(
-            "results_count",
-            0
-        ),
+            "tavily": {
 
-        "urls":
-        package.get(
-            "urls",
-            []
-        )
-    }
-        # =====================================
+                "query": startup_name,
+
+                "answer": package.get(
+                    "answer",
+                    ""
+                ),
+
+                "results_count": package.get(
+                    "results_count",
+                    0
+                ),
+
+                "urls": package.get(
+                    "urls",
+                    []
+                )
+
+            }
+
+        }
+
+    )
+
+    # =====================================
     # STATS
     # =====================================
 
-    enriched_startup["stats"] = {
+    enriched_startup = merge_entities(
 
-        "has_website":
-        bool(
-            enriched_startup.get(
-                "website"
-            )
-        ),
+        enriched_startup,
 
-        "has_linkedin":
-        bool(
-            enriched_startup.get(
-                "linkedin"
-            )
-        ),
+        {
 
-        "has_crunchbase":
-        bool(
-            enriched_startup.get(
-                "external_profiles",
-                {}
-            ).get(
-                "crunchbase"
-            )
-        ),
+            "stats": {
 
-        "has_wellfound":
-        bool(
-            enriched_startup.get(
-                "external_profiles",
-                {}
-            ).get(
-                "wellfound"
-            )
-        ),
+                "has_website":
+                bool(
+                    enriched_startup.get(
+                        "website"
+                    )
+                ),
 
-        "has_github":
-        bool(
-            enriched_startup.get(
-                "external_profiles",
-                {}
-            ).get(
-                "github"
-            )
-        ),
+                "has_linkedin":
+                bool(
+                    enriched_startup.get(
+                        "linkedin"
+                    )
+                ),
 
-        "founders_count":
-        len(
-            enriched_startup.get(
-                "founders",
-                []
-            )
-        ),
+                "has_crunchbase":
+                bool(
+                    enriched_startup.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "crunchbase"
+                    )
+                ),
 
-        "team_members_count":
-        len(
-            enriched_startup.get(
-                "team_members",
-                []
-            )
-        ),
+                "has_wellfound":
+                bool(
+                    enriched_startup.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "wellfound"
+                    )
+                ),
 
-        "investors_count":
-        len(
-            enriched_startup.get(
-                "investors",
-                []
-            )
-        ),
+                "has_github":
+                bool(
+                    enriched_startup.get(
+                        "external_profiles",
+                        {}
+                    ).get(
+                        "github"
+                    )
+                ),
 
-        "products_count":
-        len(
-            enriched_startup.get(
-                "products",
-                []
-            )
-        ),
+                "founders_count":
+                len(
+                    enriched_startup.get(
+                        "founders",
+                        []
+                    )
+                ),
 
-        "services_count":
-        len(
-            enriched_startup.get(
-                "services",
-                []
-            )
-        ),
+                "team_members_count":
+                len(
+                    enriched_startup.get(
+                        "team_members",
+                        []
+                    )
+                ),
 
-        "technologies_count":
-        len(
-            enriched_startup.get(
-                "technologies",
-                []
-            )
-        ),
+                "investors_count":
+                len(
+                    enriched_startup.get(
+                        "investors",
+                        []
+                    )
+                ),
 
-        "partners_count":
-        len(
-            enriched_startup.get(
-                "partners",
-                []
-            )
-        ),
+                "products_count":
+                len(
+                    enriched_startup.get(
+                        "products",
+                        []
+                    )
+                ),
 
-        "awards_count":
-        len(
-            enriched_startup.get(
-                "awards",
-                []
-            )
-        ),
+                "services_count":
+                len(
+                    enriched_startup.get(
+                        "services",
+                        []
+                    )
+                ),
 
-        "social_profiles":
-        len(
-            [
-                url
-                for url in enriched_startup.get(
-                    "social_media",
-                    {}
-                ).values()
-                if url
-            ]
-        )
-    }
+                "technologies_count":
+                len(
+                    enriched_startup.get(
+                        "technologies",
+                        []
+                    )
+                ),
+
+                "partners_count":
+                len(
+                    enriched_startup.get(
+                        "partners",
+                        []
+                    )
+                ),
+
+                "awards_count":
+                len(
+                    enriched_startup.get(
+                        "awards",
+                        []
+                    )
+                ),
+
+                "social_profiles":
+                len(
+                    [
+
+                        url
+
+                        for url in enriched_startup.get(
+                            "social_media",
+                            {}
+                        ).values()
+
+                        if url
+
+                    ]
+                )
+
+            }
+
+        }
+
+    )
+
+    # =====================================
+    # FINAL MERGE
+    # =====================================
+
+    enriched_startup = merge_entities(
+
+        startup,
+
+        enriched_startup
+
+    )
 
     # =====================================
     # VALIDATION
@@ -556,7 +606,7 @@ async def enrich_startup(
     )
 
     # =====================================
-    # CONFIDENCE SCORE
+    # CONFIDENCE
     # =====================================
 
     enriched_startup["confidence"] = (
@@ -564,4 +614,5 @@ async def enrich_startup(
             enriched_startup
         )
     )
+
     return enriched_startup
