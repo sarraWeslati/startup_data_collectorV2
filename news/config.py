@@ -21,6 +21,23 @@ MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "0"))
 
 
 URLS = [
-   
-    "https://www.wamda.com/news"
+    # 🇹🇳 Tunisia
+    "https://startup.gov.tn/en/news",
+    "https://www.entreprises-magazine.com",
+    "https://www.africanmanager.com",
+    "https://kapitalis.com/tunisie",
+    "https://www.ilboursa.com",
+    "https://www.tustex.com",
+
+    # 🌍 Africa / MENA
+    "https://disruptafrica.com",
+    "https://techcabal.com",
+    "https://techpoint.africa",
+    "https://weetracker.com",
+    "https://techmoran.com",
+    "https://techbuild.africa",
+    "https://ventureburn.com",
+    "https://www.wamda.com/news",
+    "https://www.menabytes.com/startups",
+    "https://www.wamda.com/"
 ]
