@@ -28,3 +28,6 @@ tqdm
 google-generativeai
 lxml
 python-dotenv
+Playwright
+jiter
+tqdm

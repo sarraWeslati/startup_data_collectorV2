@@ -493,6 +493,7 @@ def build_other(url: str, title: str, text: str) -> dict:
         "relevance": "high" if amounts or tags else "medium",
         "amounts": amounts,
         "source_article": build_source(url, title, text),
+        "date": "",
         "others": {},
     }
 
