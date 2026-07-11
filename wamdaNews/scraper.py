@@ -1,608 +1,378 @@
-﻿# scraper.py
-
-import asyncio
+﻿from bs4 import BeautifulSoup
+from playwright.sync_api import Page
 import re
-from urllib.parse import urljoin, urlparse
-
-import requests
-import trafilatura
-from bs4 import BeautifulSoup
-
-from crawl4ai import (
-    AsyncWebCrawler,
-    BrowserConfig,
-    CrawlerRunConfig,
-    CacheMode
-)
-
-
-WAMDA_BASE = "https://www.wamda.com"
-WAMDA_NEWS = "https://www.wamda.com/news"
-WAMDA_SECTIONS = (
-    "https://www.wamda.com/news",
-    "https://www.wamda.com/articles",
-)
-MAX_CONSECUTIVE_FAILED_PAGES = 2
-ARTICLE_CRAWL_DELAY_SECONDS = 6
-ARTICLE_CONCURRENCY = 1
-ARTICLE_PREVIEWS = {}
-
-BROWSER_USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/126.0.0.0 Safari/537.36"
-)
-
-BROWSER_HEADERS = {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
-    "Referer": WAMDA_BASE,
-}
-
-
-# ---------------------------------------------------------
-# Configuration Crawl4AI
-# ---------------------------------------------------------
-
-browser_config = BrowserConfig(
-    headless=True,
-    verbose=False,
-    enable_stealth=True,
-    user_agent=BROWSER_USER_AGENT,
-    headers=BROWSER_HEADERS,
-    viewport_width=1366,
-    viewport_height=768,
-)
-
-
-crawler_config = CrawlerRunConfig(
-    cache_mode=CacheMode.BYPASS,
-    word_count_threshold=20,
-    remove_overlay_elements=True,
-    process_iframes=False,
-    simulate_user=True,
-    override_navigator=True,
-    magic=True,
-    delay_before_return_html=1.5,
-    mean_delay=2.0,
-    max_range=1.5,
-    page_timeout=30000,
-    verbose=False,
-    user_agent=BROWSER_USER_AGENT,
-)
-
-
-# ---------------------------------------------------------
-# Nettoyage URL
-# ---------------------------------------------------------
-
-def clean_url(url):
-
-    url = url.split("?")[0]
-    url = url.rstrip("/")
-
-    return url
+import time
+import random
 
 
 
-# ---------------------------------------------------------
-# DÃ©tection article Wamda
-# ---------------------------------------------------------
+def clean_text(text):
 
-def is_article(url):
 
-    parsed = urlparse(url)
-    path = parsed.path.rstrip("/")
+    text = " ".join(
+        text.split()
+    )
 
-    skip_patterns = [
-        "/tag/",
-        "/tags/",
-        "/author/",
-        "/authors/",
-        "/category/",
-        "/categories/",
-        "/about",
-        "/contact",
-        "/events",
-        "/research",
-        "/podcasts",
-        "/partner-projects",
+
+    noise = [
+
+        "Sign up to receive our weekly digest",
+        "Please check your email to confirm your subscription",
+        "Subscribe",
+        "Newsletter",
+        "Follow us",
+        "Wamda newsletter"
+
     ]
 
-    if any(p in path for p in skip_patterns):
-        return False
 
-    if re.match(r"^/\d{4}/\d{2}/[a-z0-9-]+$", path):
-        return True
+    for n in noise:
 
-    patterns = [
-        "/articles/",
-        "/startup/",
-        "/investment/",
-        "/news/"
-    ]
+        text=text.replace(
+            n,
+            ""
+        )
 
-    return any(
-        p in path
-        for p in patterns
+
+
+    # corriger mots collés
+
+    text=re.sub(
+
+        r'(?<=[a-z])(?=[A-Z])',
+
+        ' ',
+
+        text
+
     )
 
 
 
-# ---------------------------------------------------------
-# Extraction des liens
-# ---------------------------------------------------------
+    text=re.sub(
 
-def extract_links(html):
+        r'(?<=,)(?=[A-Za-z])',
 
-    links = set()
+        ', ',
 
-    matches = re.findall(
-        r'href=["\'](.*?)["\']',
-        html
+        text
+
     )
 
-    for link in matches:
-
-        if link.startswith("/"):
-
-            link = urljoin(
-                WAMDA_BASE,
-                link
-            )
-
-        if link.startswith("http"):
-
-            link = clean_url(link)
-
-            if "wamda.com" in link:
-                links.add(link)
 
 
-    return links
+    return text.strip()
 
 
-def extract_article_previews(html):
 
-    previews = {}
 
-    try:
 
-        soup = BeautifulSoup(
-            html or "",
-            "lxml"
-        )
 
-    except Exception:
 
-        soup = BeautifulSoup(
-            html or "",
-            "html.parser"
-        )
+def extract_title(soup):
 
-    for anchor in soup.find_all("a", href=True):
 
-        link = anchor["href"]
+    # OpenGraph
 
-        if link.startswith("/"):
+    og=soup.find(
 
-            link = urljoin(
-                WAMDA_BASE,
-                link
-            )
+        "meta",
 
-        link = clean_url(link)
+        property="og:title"
 
-        if not is_article(link):
+    )
 
-            continue
 
-        container = anchor
+    if og:
 
-        for _ in range(5):
+        return og.get(
+            "content",
+            ""
+        ).replace(
+            "- Wamda",
+            ""
+        ).strip()
 
-            parent = container.parent
 
-            if not parent:
 
-                break
+    if soup.title:
 
-            text = parent.get_text(
-                " ",
-                strip=True
-            )
 
-            if len(text) > 120:
+        return soup.title.text.replace(
 
-                container = parent
+            "- Wamda",
 
-                break
+            ""
 
-            container = parent
+        ).strip()
 
-        text = container.get_text(
+
+
+    h1=soup.find(
+        "h1"
+    )
+
+
+    if h1:
+
+        return h1.get_text(
+
             " ",
+
             strip=True
+
         )
 
-        if len(text) > 80:
-
-            previews[link] = text[:3000]
-
-    return previews
-
-
-def fetch_article_with_requests(url):
-
-    try:
-
-        response = requests.get(
-            url,
-            headers={
-                "User-Agent": BROWSER_USER_AGENT,
-                **BROWSER_HEADERS,
-            },
-            timeout=20
-        )
-
-        if response.status_code == 403:
-
-            return None
-
-        response.raise_for_status()
-
-        extracted = trafilatura.extract(
-            response.text,
-            url=url,
-            include_comments=False,
-            include_tables=False,
-        )
-
-        if extracted and len(extracted) > 200:
-
-            return {
-                "url": url,
-                "markdown": extracted,
-                "html": response.text
-            }
-
-    except Exception as e:
-
-        print(
-            "[REQUESTS FALLBACK ERROR]",
-            url,
-            e
-        )
-
-    return None
-
-
-def get_crawl_error(result):
-
-    for attr in ("error_message", "error", "status_code"):
-
-        value = getattr(result, attr, None)
-
-        if value:
-
-            return str(value)
 
     return ""
 
 
 
-# ---------------------------------------------------------
-# DÃ©couverte de toutes les pages articles
-# ---------------------------------------------------------
-
-async def discover_articles(
-        crawler,
-        max_pages=200
-):
-
-    print("ðŸ”Ž Discovering Wamda articles...")
 
 
-    articles = set()
 
 
-    for section_url in WAMDA_SECTIONS:
 
-        failed_pages = 0
-
-        for page in range(1, max_pages + 1):
-
-            if page == 1:
-
-                url = section_url
-
-            else:
-
-                url = (
-                    f"{section_url}"
-                    f"?page={page}"
-                )
+def extract_content(soup):
 
 
-            print(
-                f"[DISCOVERY] {section_url} page {page}"
+    for tag in soup([
+
+        "script",
+        "style",
+        "nav",
+        "footer",
+        "header",
+        "aside",
+        "form"
+
+    ]):
+
+        tag.decompose()
+
+
+
+    paragraphs=[]
+
+
+
+    for p in soup.find_all(
+        "p"
+    ):
+
+
+        txt=p.get_text(
+
+            " ",
+
+            strip=True
+
+        )
+
+
+        if len(txt)>40:
+
+            paragraphs.append(
+                txt
             )
 
 
-            try:
 
-                result = await crawler.arun(
-                    url=url,
-                    config=crawler_config
-                )
+    if paragraphs:
 
 
-                if not result.success:
-
-                    failed_pages += 1
-
-                    error = get_crawl_error(
-                        result
-                    )
-
-                    print(
-                        f"  ! skipped page {page}: {error or 'crawl failed'}"
-                    )
-
-                    if "403" in error or failed_pages >= MAX_CONSECUTIVE_FAILED_PAGES:
-
-                        print(
-                            f"  ! stopping {section_url}: Wamda blocked or pages are unavailable"
-                        )
-
-                        break
-
-                    continue
-
-                failed_pages = 0
+        content=" ".join(
+            paragraphs
+        )
 
 
-                links = extract_links(
-                    result.html
-                )
-
-                ARTICLE_PREVIEWS.update(
-                    extract_article_previews(result.html)
-                )
+    else:
 
 
-                before = len(articles)
+        content=soup.get_text(
 
+            " ",
 
-                for link in links:
+            strip=True
 
-                    if is_article(link):
-
-                        articles.add(link)
+        )
 
 
 
-                after = len(articles)
-
-
-
-                print(
-                    f"  +{after-before} articles"
-                )
-
-
-
-                # arrÃªt automatique
-                if after == before:
-
-                    if page > 5:
-
-                        break
-
-
-
-            except Exception as e:
-
-                print(
-                    "[DISCOVERY ERROR]",
-                    e
-                )
-
-
-
-    print(
-        f"âœ… Total articles found : {len(articles)}"
+    return clean_text(
+        content
     )
 
 
-    return list(articles)
 
 
 
 
-# ---------------------------------------------------------
-# Crawl d'un article
-# ---------------------------------------------------------
 
-async def crawl_article(
-        crawler,
+
+
+
+def scrape_page(page:Page,url):
+
+
+    print(
+        "\n[SCRAPE]",
         url
-):
+    )
 
 
-    try:
 
-        result = await crawler.arun(
-            url=url,
-            config=crawler_config
-        )
+    for attempt in range(3):
 
 
-        if not result.success:
+        try:
 
-            fallback = await asyncio.to_thread(
-                fetch_article_with_requests,
-                url
+
+            page.goto(
+
+                url,
+
+                wait_until="domcontentloaded",
+
+                timeout=60000
+
             )
 
-            if fallback:
 
-                print(
-                    "[CRAWL FALLBACK]",
-                    url
+
+            page.wait_for_timeout(
+
+                random.randint(
+                    3000,
+                    6000
                 )
 
-                return fallback
-
-            preview = ARTICLE_PREVIEWS.get(
-                clean_url(url)
             )
 
-            if preview:
 
-                print(
-                    "[CRAWL PREVIEW]",
-                    url
-                )
 
-                return {
-                    "url": url,
-                    "markdown": preview,
-                    "html": ""
-                }
+            html=page.content()
+
+
+
+            soup=BeautifulSoup(
+
+                html,
+
+                "lxml"
+
+            )
+
+
+
+            title=extract_title(
+                soup
+            )
+
+
+            content=extract_content(
+                soup
+            )
+
+
 
             print(
-                "[CRAWL SKIP]",
-                url,
-                get_crawl_error(result) or "crawl failed"
+
+                "[TITLE]",
+
+                title
+
             )
 
-            return None
+
+
+            print(
+
+                "[CONTENT]",
+
+                len(content)
+
+            )
 
 
 
-        markdown = result.markdown
+            # détecter blocage
+
+            if (
+
+                "403 Forbidden" in title
+
+                or
+
+                len(content)<300
+
+            ):
 
 
+                print(
 
-        if not markdown:
+                    "BLOCKED RETRY",
 
-            return None
+                    attempt+1
 
-
-
-        return {
-
-            "url": url,
-
-            "markdown": markdown,
-
-            "html": result.html
-
-        }
-
-
-
-    except Exception as e:
-
-        print(
-            "[CRAWL ERROR]",
-            url,
-            e
-        )
-
-        return None
-
-
-
-
-# ---------------------------------------------------------
-# Crawl complet
-# ---------------------------------------------------------
-
-async def crawl_all_articles(
-        max_pages=200
-):
-
-
-    async with AsyncWebCrawler(
-        config=browser_config
-    ) as crawler:
-
-
-        urls = await discover_articles(
-            crawler,
-            max_pages
-        )
-
-
-        print(
-            "\nðŸš€ Crawling articles..."
-        )
-
-
-        articles = []
-
-
-        semaphore = asyncio.Semaphore(ARTICLE_CONCURRENCY)
-
-
-
-        async def worker(url):
-
-            async with semaphore:
-
-                await asyncio.sleep(
-                    ARTICLE_CRAWL_DELAY_SECONDS
                 )
 
-                data = await crawl_article(
-                    crawler,
-                    url
-                )
 
-                if data:
+                time.sleep(5)
 
-                    articles.append(data)
+                continue
 
 
 
-        tasks = [
-
-            worker(url)
-
-            for url in urls
-
-        ]
 
 
-        await asyncio.gather(
-            *tasks
-        )
+            return {
+
+
+                "title":
+
+                title,
+
+
+                "content":
+
+                content[:8000],
+
+
+                "url":
+
+                url
+
+
+            }
 
 
 
-        print(
-            f"âœ… Crawled : {len(articles)}"
-        )
+
+        except Exception as e:
 
 
-        return articles
+            print(
+
+                "SCRAPER ERROR",
+
+                e
+
+            )
 
 
-
-# ---------------------------------------------------------
-# Test direct
-# ---------------------------------------------------------
-
-if __name__ == "__main__":
+            time.sleep(5)
 
 
-    data = asyncio.run(
-        crawl_all_articles()
-    )
 
 
     print(
-        len(data)
+
+        "FAILED",
+
+        url
+
     )
+
+
+    return None

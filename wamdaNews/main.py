@@ -1,93 +1,46 @@
-# main.py
-
-import asyncio
-import os
-from dotenv import load_dotenv
+from crawler import get_article_links
 
 from pipeline import run_pipeline
 
-
-# -------------------------------------------------
-# Chargement environnement
-# -------------------------------------------------
-
-load_dotenv()
+from utils import save_json
 
 
 
-# -------------------------------------------------
-# Vérification NVIDIA KEY
-# -------------------------------------------------
-
-def check_environment():
-
-    api_key = os.getenv(
-        "NVIDIA_API_KEY"
-    )
 
 
-    if not api_key:
-
-        raise Exception(
-            """
-❌ NVIDIA_API_KEY manquante.
-
-Ajoute dans ton fichier .env :
-
-NVIDIA_API_KEY=xxxxxxxxxxxxxxxx
-
-"""
-        )
+if __name__=="__main__":
 
 
     print(
-        "✅ NVIDIA API key detected"
+        "🚀 WAMDA NEWS PIPELINE"
     )
 
 
 
-
-
-# -------------------------------------------------
-# Main
-# -------------------------------------------------
-
-async def main():
-
-
-    print(
-        """
-====================================
-🚀 WAMDA AFRICA NEWS PIPELINE
-====================================
-"""
-    )
-
-
-    check_environment()
-
-
-
-    await run_pipeline()
+    urls=get_article_links()
 
 
 
     print(
-        """
-====================================
-✅ PIPELINE FINISHED
-📄 Output : news.json
-====================================
-"""
+        "TOTAL URLS:",
+        len(urls)
     )
 
 
 
+    news=run_pipeline(
+        urls
+    )
 
 
-if __name__ == "__main__":
+
+    save_json(
+        news
+    )
 
 
-    asyncio.run(
-        main()
+
+    print(
+        "DONE:",
+        len(news)
     )

@@ -1,0 +1,105 @@
+[
+    {
+        "title": "MENA startups raise $454.7 million in May 2026, led by debt financing",
+        "summary": "MENA startups raised $454.7 million in May 2026, with debt financing making up 66% of the total funding.",
+        "content": "At first glance, investment activity across the Middle East and North Africa (MENA) appears to have rebounded strongly in May 2026. Startups in the region raised a combined $454.7 million across 33 deals, marking a 202% month-on-month increase and a 76% rise compared to May 2025. However, a closer look shows that most of this growth was driven by debt financing, which made up 66% of the total funding raised during the month. Even without counting debt deals, startups still raised more capital and completed more transactions than in April , indicating a slight increase in investor activity. Yet the year-on-year picture tells a different story. While capital deployment increased, the deal count declined by 57% compared to May 2025 , suggesting that investors remain selective, favouring larger transactions over broader market participation amid continued regional uncertainty. The UAE maintained its position as the region's most-funded ecosystem in May, attracting $379 million across 15 deals. The figure was largely driven by Trukker's $300 million debt financing, which accounted for nearly 80% of all capital raised in the country during the month. Saudi Arabia ranked second, with startups securing $70 million across 11 deals. The Kingdom recorded a 167% increase in funding value compared to April, reinforcing its position as one of the region's most active startup ecosystems. Egypt followed in third place, with three startups raising a combined $5 million. While the country's funding levels remain subdued compared to its regional peers, Egypt continues to feature among the region's leading startup ecosystems by activity and entrepreneurial depth. Trukker's financing pushed logistics to the top of the sector rankings, attracting $300 million and accounting for nearly two-thirds of all capital deployed in May. Fintech ranked second with $105.7 million raised across five deals, followed by HRtech, which secured $17.5 million through two transactions. In terms of activity, Saa S emerged as the most active sector, recording seven deals worth a combined $1.8 million. Debt dominates as investors favour mature companies Debt financing remained the dominant funding instrument in May, accounting for $300.5 million across two transactions, or 66% of total capital raised. Later-stage startups also attracted significant investor interest, with two Series B rounds raising a combined $68.4 million. Meanwhile, 21 startups at pre-seed, seed and Series A stages secured a total of $52.2 million. B2B startups continue to attract the majority of capital Business-focused startups remained investors' preferred destination, attracting $371.5 million across 24 deals. Consumer-focused startups raised $85.7 million through six transactions, while the remaining capital went to startups operating across both B2B and B2C models. Funding remained heavily concentrated among male-founded startups. Companies founded solely by men secured $442 million across 28 deals. Meanwhile, only two women-founded startups raised a combined $200,000 during the month. Startups founded by mixed-gender teams attracted approximately $12 million across three deals. Year-to-date: $1.5 billion raised despite a challenging environment Five months into 2026, MENA startups have raised approximately $1.5 billion, demonstrating the resilience of the region's entrepreneurial ecosystem despite ongoing geopolitical and macroeconomic challenges. While funding remains below the exceptional levels seen during previous market peaks, activity has proven relatively resilient, supported by continued investor appetite for high-quality companies, particularly in the Gulf's more mature startup ecosystems.",
+        "country": "MENA",
+        "region": "Middle East and North Africa",
+        "category": "funding",
+        "entities": {
+            "investor": [],
+            "startup": [
+                "Trukker"
+            ],
+            "category": [
+                "logistics",
+                "fintech",
+                "HRtech",
+                "Saa S"
+            ]
+        },
+        "funding": {
+            "amount": "$454.7 million",
+            "type": "debt financing",
+            "instrument": "debt financing"
+        },
+        "date": "May 2026",
+        "relevant": "MENA startups, debt financing, investment activity, startup ecosystems",
+        "source": "https://www.wamda.com/2026/06/mena-startups-raise-4547-million-2026-led-debt-financing"
+    },
+    {
+        "title": "UAE's Planno raises strategic investment from Incubayt",
+        "summary": "Planno, a Geospatial AI platform for solar developers, raises strategic investment from Incubayt Investments.",
+        "content": "Planno, the Dubai-headquartered Geospatial AI (Geo AI) platform for solar developers, today announced a strategic investment from Incubayt Investments, the sustainability-focused venture firm founded by Sami Khoreibi, who built the Arab world's first utility-scale solar developer and exited it to a UK pension fund. The investment is Incubayt's first in geospatial AI for solar, and it carried Planno from Dubai into 16 markets.",
+        "country": "UAE",
+        "region": "Middle East",
+        "category": "funding",
+        "entities": {
+            "startup": "Planno",
+            "investor": "Incubayt Investments",
+            "person": "Daniel Domingues"
+        },
+        "funding": {
+            "type": "strategic investment",
+            "amount": "unknown",
+            "stage": "unknown"
+        },
+        "date": "2026-07-xx",
+        "relevant": "startup ecosystem in the UAE and the Middle East",
+        "source": "https://www.wamda.com/2026/07/uae-planno-raises-strategic-investment-incubayt"
+    },
+    {
+        "title": "MENA startup investment falls to $148.2 million in June 2026",
+        "summary": "Investment activity across the Middle East and North Africa (MENA) cooled in June 2026, with 41 startups collectively raising $148.2 million, marking a 76% decline from the previous month.",
+        "content": "The month-on-month decline looks significant at first glance. However, excluding debt financing from both months narrows the gap to just 15%, suggesting that the ecosystem is gradually recovering from the regional turmoil that weighed on investment activity throughout the first half of the year.",
+        "country": "MENA",
+        "region": "Middle East and North Africa",
+        "category": "funding",
+        "entities": {
+            "United Arab Emirates": "top-funded market",
+            "Egypt": "second place among MENA's most-funded startup ecosystems",
+            "Saudi Arabia": "third place",
+            "Morocco": "fourth place",
+            "Oman": "high deal volume"
+        },
+        "funding": {
+            "total": "$148.2 million",
+            "debt financing": "$93.8 million (UAE)",
+            "early-stage founders": "$142.3 million",
+            "female-led startups": "$260,000",
+            "mixed-gender founding teams": "$5.6 million"
+        },
+        "date": "June 2026",
+        "relevant": "Wamda's H1 investment report, to be published on 13 July 2026",
+        "source": "https://www.wamda.com/2026/07/mena-startup-investment-falls-1482-million-june-2026"
+    },
+    {
+        "title": "Keyper raises $11 million Series A to digitise UAE rental market",
+        "summary": "Keyper, a UAE-based proptech company, raises $11 million in a Series A funding round led by Speedinvest, to digitise the UAE rental market.",
+        "content": "Keyper, the UAE-based proptech company transforming how people rent, manage and own residential property, has raised US$11 million in a Series A funding round led by Speedinvest, one of EMEA’s leading venture capital firms, alongside Neo Ventures, a wholly owned subsidiary of Mashreq and the bank’s Corporate Venture Capital Fund, Middle East Venture Partners (MEVP), Dubai Future District Fund (DFDF), Property Finder, Arab National Bank, Ellington Properties, Dar Ventures and Abbey Road Investment Group.",
+        "country": "UAE",
+        "region": "Middle East",
+        "category": "funding",
+        "entities": {
+            "investor": [
+                "Speedinvest",
+                "Neo Ventures",
+                "Middle East Venture Partners (MEVP)",
+                "Dubai Future District Fund (DFDF)",
+                "Property Finder",
+                "Arab National Bank",
+                "Ellington Properties",
+                "Dar Ventures",
+                "Abbey Road Investment Group"
+            ],
+            "startup": "Keyper"
+        },
+        "funding": {
+            "amount": "$11 million",
+            "round": "Series A"
+        },
+        "date": "2026-07-xx",
+        "relevant": "MENA",
+        "source": "https://www.wamda.com/2026/07/keyper-raises-11-million-series-digitise-uae-rental-market"
+    }
+]

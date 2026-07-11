@@ -1,47 +1,332 @@
-# pipeline.py
-
-
-import asyncio
 import json
 import os
 import time
-
-from scraper import crawl_all_articles
-
-from llm_extractor import extract_article
+import random
 
 
-
-OUTPUT = "newsWamda.json"
-
+from playwright.sync_api import sync_playwright
 
 
-def remove_duplicates(news):
+from scraper import scrape_page
+from extractor import extract_news
 
 
-    seen=set()
+from config import (
+    VALID_CATEGORIES,
+    AFRICA_KEYWORDS,
+    MENA_KEYWORDS,
+    STARTUP_KEYWORDS,
+    OUTPUT_FILE
+)
 
-    result=[]
 
 
-    for item in news:
+
+# ============================
+# LOAD EXISTING
+# ============================
 
 
-        key = (
+def load_existing():
 
-            item.get("title","")
-            .lower()
-            .strip()
+
+    if not os.path.exists(
+        OUTPUT_FILE
+    ):
+
+        return []
+
+
+    try:
+
+        with open(
+            OUTPUT_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            return json.load(f)
+
+
+    except:
+
+        return []
+
+
+
+
+# ============================
+# SAVE IMMEDIATE
+# ============================
+
+
+def save_news(news):
+
+
+    existing = load_existing()
+
+
+    urls = {
+
+        x.get("source")
+
+        for x in existing
+
+    }
+
+
+    if news.get("source") in urls:
+
+        print(
+            "DUPLICATE SKIP"
+        )
+
+        return
+
+
+
+    existing.append(news)
+
+
+
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+
+        json.dump(
+
+            existing,
+
+            f,
+
+            indent=4,
+
+            ensure_ascii=False
 
         )
 
 
-        if key and key not in seen:
+
+    print(
+        "💾 JSON UPDATED"
+    )
 
 
-            seen.add(key)
 
-            result.append(item)
+
+
+# ============================
+# AFRICA CHECK
+# ============================
+
+
+def is_africa_related(title, content):
+
+    text = (
+        title +
+        " " +
+        content
+    ).lower()
+
+
+    keywords = (
+        AFRICA_KEYWORDS
+        +
+        MENA_KEYWORDS
+    )
+
+
+    for word in keywords:
+
+        if word.lower() in text:
+
+            return True
+
+
+    return False
+
+
+    text=(
+
+        title
+        +
+        " "
+        +
+        content
+
+    ).lower()
+
+
+
+    for word in AFRICA_KEYWORDS:
+
+
+        if word.lower() in text:
+
+            return True
+
+
+
+    return False
+
+
+
+
+
+# ============================
+# STARTUP CHECK
+# ============================
+
+
+def is_startup_news(
+        title,
+        content
+):
+
+
+    text=(
+
+        title
+        +
+        " "
+        +
+        content
+
+    ).lower()
+
+
+
+    for word in STARTUP_KEYWORDS:
+
+
+        if word.lower() in text:
+
+            return True
+
+
+
+    return False
+
+
+
+
+
+# ============================
+# PROCESS ARTICLE
+# ============================
+
+
+def process(
+        page,
+        url
+):
+
+
+    data = scrape_page(
+
+        page,
+
+        url
+
+    )
+
+
+
+    if not data:
+
+
+        return None
+
+
+
+    title=data.get(
+        "title",
+        ""
+    )
+
+
+    content=data.get(
+        "content",
+        ""
+    )
+
+
+
+    print(
+        "[TITLE]",
+        title
+    )
+
+
+    print(
+        "[CONTENT]",
+        len(content)
+    )
+
+
+
+    if len(content)<1000:
+
+
+        print(
+            "CONTENT TOO SHORT"
+        )
+
+        return None
+
+
+
+
+    if not is_africa_related(
+
+        title,
+
+        content
+
+    ):
+
+
+        print(
+            "❌ NOT AFRICA"
+        )
+
+        return None
+
+
+
+
+    if not is_startup_news(
+
+        title,
+
+        content
+
+    ):
+
+
+        print(
+            "❌ NOT STARTUP NEWS"
+        )
+
+        return None
+
+
+
+
+
+    result = extract_news(
+
+        content,
+
+        url,
+
+        title
+
+    )
+
 
 
     return result
@@ -50,25 +335,85 @@ def remove_duplicates(news):
 
 
 
-def save_news(news):
+# ============================
+# MAIN PIPELINE
+# ============================
 
 
-    with open(
-        OUTPUT,
-        "w",
-        encoding="utf-8"
-    ) as f:
+def run_pipeline(
+        urls
+):
 
 
-        json.dump(
+    print(
+        "TOTAL ARTICLES:",
+        len(urls)
+    )
 
-            news,
 
-            f,
 
-            ensure_ascii=False,
+    saved=0
 
-            indent=2
+
+
+    with sync_playwright() as p:
+
+
+
+        browser=p.chromium.launch(
+
+            headless=False,
+
+            args=[
+
+                "--disable-blink-features=AutomationControlled"
+
+            ]
+
+        )
+
+
+
+        context=browser.new_context(
+
+            user_agent=(
+
+                "Mozilla/5.0 "
+                "(Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 "
+                "Chrome/120 Safari/537.36"
+
+            ),
+
+            viewport={
+
+                "width":1366,
+
+                "height":768
+
+            }
+
+        )
+
+
+
+        page=context.new_page()
+
+
+
+        page.add_init_script(
+
+            """
+
+            Object.defineProperty(
+                navigator,
+                'webdriver',
+                {
+                    get:()=>undefined
+                }
+            )
+
+            """
 
         )
 
@@ -76,104 +421,138 @@ def save_news(news):
 
 
 
-async def run_pipeline():
+        for i,url in enumerate(urls):
 
 
-    print(
-        "🚀 Starting crawl..."
-    )
+            print("\n================")
 
+            print(
 
-    articles = await crawl_all_articles(
-        max_pages=10
-    )
+                f"[{i+1}/{len(urls)}]"
 
-
-
-    print(
-        f"📄 Articles crawled: {len(articles)}"
-    )
-
-
-
-    extracted=[]
-
-
-
-    semaphore = asyncio.Semaphore(3)
-
-
-
-    async def process(article):
-
-
-        async with semaphore:
+            )
 
 
             print(
-                "🧠 Extracting:",
-                article["url"]
-            )
 
+                "[SCRAPE]",
 
-            data = await asyncio.to_thread(
-
-                extract_article,
-
-                article
+                url
 
             )
 
 
-            if data:
 
-                extracted.append(
-                    data
+            try:
+
+
+                time.sleep(
+
+                    random.uniform(
+                        2,
+                        5
+                    )
+
+                )
+
+
+
+                news=process(
+
+                    page,
+
+                    url
+
+                )
+
+
+
+                if news:
+
+
+
+                    category=(
+
+                        news.get(
+                            "category",
+                            ""
+                        )
+                        .lower()
+
+                    )
+
+
+
+                    if category in VALID_CATEGORIES:
+
+
+
+                        save_news(
+
+                            news
+
+                        )
+
+
+                        saved+=1
+
+
+
+                        print(
+
+                            "✅ SAVED",
+
+                            news["title"]
+
+                        )
+
+
+                    else:
+
+
+                        print(
+
+                            "❌ INVALID CATEGORY",
+
+                            category
+
+                        )
+
+
+
+                else:
+
+
+                    print(
+
+                        "❌ NO DATA"
+
+                    )
+
+
+
+
+            except Exception as e:
+
+
+                print(
+
+                    "ERROR",
+
+                    e
+
                 )
 
 
 
 
-
-    tasks=[
-
-        process(a)
-
-        for a in articles
-
-    ]
+        browser.close()
 
 
 
-    await asyncio.gather(
-        *tasks
-    )
+        print(
+    "TOTAL SAVED:",
+    saved
+)
 
-
-
-    print(
-        f"🌍 Africa news kept: {len(extracted)}"
-    )
-
-
-
-    extracted = remove_duplicates(
-        extracted
-    )
-
-
-    print(
-        f"✨ After deduplication: {len(extracted)}"
-    )
-
-
-
-    save_news(
-        extracted
-    )
-
-
-    print(
-        "✅ Saved:",
-        OUTPUT
-    )
+    return load_existing()
