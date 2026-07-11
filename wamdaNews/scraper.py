@@ -1,32 +1,53 @@
 ﻿from bs4 import BeautifulSoup
 from playwright.sync_api import Page
+
 import re
 import time
 import random
 
 
 
+
+
+# =========================
+# TEXT CLEANING
+# =========================
+
+
 def clean_text(text):
 
 
-    text = " ".join(
+    if not text:
+
+        return ""
+
+
+
+    text=" ".join(
         text.split()
     )
 
 
-    noise = [
+
+    noise=[
 
         "Sign up to receive our weekly digest",
         "Please check your email to confirm your subscription",
         "Subscribe",
         "Newsletter",
         "Follow us",
-        "Wamda newsletter"
+        "Wamda newsletter",
+        "Related Articles",
+        "You may also like",
+        "Read more",
+        "Advertisement"
 
     ]
 
 
+
     for n in noise:
+
 
         text=text.replace(
             n,
@@ -35,7 +56,7 @@ def clean_text(text):
 
 
 
-    # corriger mots collés
+    # words joined together
 
     text=re.sub(
 
@@ -49,9 +70,11 @@ def clean_text(text):
 
 
 
+    # missing spaces after punctuation
+
     text=re.sub(
 
-        r'(?<=,)(?=[A-Za-z])',
+        r'(?<=[,.])(?=[A-Za-z])',
 
         ', ',
 
@@ -69,12 +92,17 @@ def clean_text(text):
 
 
 
+# =========================
+# TITLE EXTRACTION
+# =========================
+
+
 def extract_title(soup):
 
 
     # OpenGraph
 
-    og=soup.find(
+    meta=soup.find(
 
         "meta",
 
@@ -83,28 +111,22 @@ def extract_title(soup):
     )
 
 
-    if og:
+    if meta and meta.get("content"):
 
-        return og.get(
-            "content",
-            ""
+
+        return clean_text(
+
+            meta["content"]
+
         ).replace(
-            "- Wamda",
-            ""
-        ).strip()
-
-
-
-    if soup.title:
-
-
-        return soup.title.text.replace(
 
             "- Wamda",
 
             ""
 
-        ).strip()
+        )
+
+
 
 
 
@@ -115,13 +137,32 @@ def extract_title(soup):
 
     if h1:
 
-        return h1.get_text(
 
-            " ",
+        return clean_text(
 
-            strip=True
+            h1.get_text()
 
         )
+
+
+
+
+
+    if soup.title:
+
+
+        return clean_text(
+
+            soup.title.text
+
+        ).replace(
+
+            "- Wamda",
+
+            ""
+
+        )
+
 
 
     return ""
@@ -133,10 +174,106 @@ def extract_title(soup):
 
 
 
+# =========================
+# DATE EXTRACTION
+# =========================
+
+
+def extract_date(soup):
+
+
+    date=None
+
+
+
+    meta_dates=[
+
+        "article:published_time",
+
+        "date",
+
+        "publish_date"
+
+    ]
+
+
+
+    for d in meta_dates:
+
+
+        tag=soup.find(
+
+            "meta",
+
+            property=d
+
+        )
+
+
+        if not tag:
+
+
+            tag=soup.find(
+
+                "meta",
+
+                attrs={"name":d}
+
+            )
+
+
+
+        if tag and tag.get("content"):
+
+
+            date=tag["content"]
+
+            break
+
+
+
+
+    if not date:
+
+
+        text=soup.get_text(
+            " ",
+            strip=True
+        )
+
+
+        match=re.search(
+
+            r'\b(20\d{2})[-/]\d{2}[-/]\d{2}\b',
+
+            text
+
+        )
+
+
+        if match:
+
+            date=match.group()
+
+
+
+    return date
+
+
+
+
+
+
+
+# =========================
+# CONTENT EXTRACTION
+# =========================
+
+
 def extract_content(soup):
 
 
-    for tag in soup([
+    remove=[
 
         "script",
         "style",
@@ -144,21 +281,58 @@ def extract_content(soup):
         "footer",
         "header",
         "aside",
-        "form"
+        "form",
+        "button",
+        "svg"
 
-    ]):
+    ]
+
+
+
+    for tag in soup.find_all(remove):
+
 
         tag.decompose()
 
 
 
-    paragraphs=[]
+
+
+    # Wamda article body
+
+    article=soup.find(
+
+        "article"
+
+    )
 
 
 
-    for p in soup.find_all(
-        "p"
-    ):
+    if article:
+
+
+        paragraphs=article.find_all(
+            "p"
+        )
+
+
+    else:
+
+
+        paragraphs=soup.find_all(
+            "p"
+        )
+
+
+
+
+
+
+    content=[]
+
+
+
+    for p in paragraphs:
 
 
         txt=p.get_text(
@@ -170,37 +344,106 @@ def extract_content(soup):
         )
 
 
-        if len(txt)>40:
 
-            paragraphs.append(
-                txt
+        txt=clean_text(txt)
+
+
+
+        if len(txt)>50:
+
+
+            content.append(txt)
+
+
+
+
+
+    result=" ".join(content)
+
+
+
+
+
+    if len(result)<300:
+
+
+        result=clean_text(
+
+            soup.get_text(
+
+                " ",
+
+                strip=True
+
             )
 
-
-
-    if paragraphs:
-
-
-        content=" ".join(
-            paragraphs
-        )
-
-
-    else:
-
-
-        content=soup.get_text(
-
-            " ",
-
-            strip=True
-
         )
 
 
 
-    return clean_text(
-        content
+
+
+    return result
+
+
+
+
+
+
+
+# =========================
+# KEYWORD CHECK
+# =========================
+
+
+def is_article(title,content):
+
+
+    text=(
+
+        title+" "+content
+
+    ).lower()
+
+
+
+    keywords=[
+
+
+        "startup",
+
+        "funding",
+
+        "raised",
+
+        "investment",
+
+        "investor",
+
+        "venture",
+
+        "seed",
+
+        "series a",
+
+        "series b",
+
+        "accelerator",
+
+        "acquisition",
+
+        "vc"
+
+    ]
+
+
+
+    return any(
+
+        k in text
+
+        for k in keywords
+
     )
 
 
@@ -209,20 +452,25 @@ def extract_content(soup):
 
 
 
-
+# =========================
+# MAIN SCRAPER
+# =========================
 
 
 def scrape_page(page:Page,url):
 
 
     print(
+
         "\n[SCRAPE]",
+
         url
+
     )
 
 
 
-    for attempt in range(3):
+    for attempt in range(1,4):
 
 
         try:
@@ -243,8 +491,11 @@ def scrape_page(page:Page,url):
             page.wait_for_timeout(
 
                 random.randint(
+
                     3000,
+
                     6000
+
                 )
 
             )
@@ -270,9 +521,18 @@ def scrape_page(page:Page,url):
             )
 
 
+
             content=extract_content(
                 soup
             )
+
+
+
+            date=extract_date(
+                soup
+            )
+
+
 
 
 
@@ -296,24 +556,36 @@ def scrape_page(page:Page,url):
 
 
 
-            # détecter blocage
 
-            if (
 
-                "403 Forbidden" in title
+            # anti bot
 
-                or
+            blocked=[
 
-                len(content)<300
+                "403",
+
+                "access denied",
+
+                "captcha",
+
+                "cloudflare"
+
+            ]
+
+
+
+            if any(
+
+                x in content.lower()
+
+                for x in blocked
 
             ):
 
 
                 print(
 
-                    "BLOCKED RETRY",
-
-                    attempt+1
+                    "BLOCKED"
 
                 )
 
@@ -321,6 +593,47 @@ def scrape_page(page:Page,url):
                 time.sleep(5)
 
                 continue
+
+
+
+
+
+
+            if len(content)<500:
+
+
+                print(
+
+                    "CONTENT TOO SHORT"
+
+                )
+
+
+                time.sleep(3)
+
+                continue
+
+
+
+
+
+            if not is_article(
+
+                title,
+
+                content
+
+            ):
+
+
+                print(
+
+                    "NOT STARTUP ARTICLE"
+
+                )
+
+
+                return None
 
 
 
@@ -334,9 +647,17 @@ def scrape_page(page:Page,url):
                 title,
 
 
+
                 "content":
 
                 content[:8000],
+
+
+
+                "date":
+
+                date,
+
 
 
                 "url":
@@ -349,12 +670,13 @@ def scrape_page(page:Page,url):
 
 
 
+
         except Exception as e:
 
 
             print(
 
-                "SCRAPER ERROR",
+                "SCRAPER ERROR:",
 
                 e
 
@@ -368,7 +690,7 @@ def scrape_page(page:Page,url):
 
     print(
 
-        "FAILED",
+        "FAILED:",
 
         url
 

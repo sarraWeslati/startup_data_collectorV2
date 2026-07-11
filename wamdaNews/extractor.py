@@ -4,55 +4,14 @@ import requests
 
 
 from config import (
-
     NVIDIA_API_KEY,
     NVIDIA_MODEL,
     NVIDIA_URL,
-
     LLM_TIMEOUT,
     MAX_TOKENS,
-
-    AFRICA_KEYWORDS,
-    MENA_KEYWORDS,
-
     VALID_CATEGORIES
-
 )
 
-print("\n========== NVIDIA CONFIG ==========")
-
-print(
-    "MODEL:",
-    NVIDIA_MODEL
-)
-
-print(
-    "URL:",
-    NVIDIA_URL
-)
-
-print(
-    "KEY EXISTS:",
-    bool(NVIDIA_API_KEY)
-)
-
-print(
-    "KEY START:",
-    NVIDIA_API_KEY[:10]
-    if NVIDIA_API_KEY
-    else "EMPTY"
-)
-
-print(
-    "KEY LENGTH:",
-    len(NVIDIA_API_KEY)
-    if NVIDIA_API_KEY
-    else 0
-)
-
-print(
-    "==================================\n"
-)
 
 
 HEADERS = {
@@ -70,66 +29,113 @@ HEADERS = {
 
 
 
-
 SYSTEM_PROMPT = """
 
-You extract startup ecosystem news.
+You are a startup ecosystem intelligence analyst.
 
-Return ONLY JSON.
+Your task:
+Extract ONLY African startup ecosystem news.
+
+Return ONLY valid JSON.
+
+The article is relevant ONLY if it contains:
+
+- startup funding
+- fundraising
+- seed round
+- pre-seed
+- Series A/B/C
+- venture capital investment
+- investor investing in startup
+- startup acquisition
+- accelerator/incubator investing in startups
 
 
-Fields:
+Reject:
 
-title
-summary
-content
-country
-region
-category
-entities
+- UAE news
+- Saudi Arabia news
+- Qatar news
+- Bahrain news
+- GCC news
+- Europe
+- USA
+- Asia
+
+Keep only Africa:
+
+Tunisia
+Egypt
+Morocco
+Algeria
+Nigeria
+Kenya
+Ghana
+Senegal
+South Africa
+Rwanda
+Ivory Coast
+Uganda
+Tanzania
+African countries
+
+
+Return this exact structure:
+
+
+{
+"title":"",
+"summary":"",
+"content":"",
+"country":"",
+"region":"Africa",
+"category":"",
+"entities":{
+    "startup":"",
+    "investor":"",
+    "fund":"",
+    "accelerator":""
+},
+"funding":{
+    "amount":"",
+    "round":"",
+    "investors":""
+},
+"date":"",
+"relevant":true
+}
+
+
+
+category MUST be ONLY one string:
+
 funding
-date
-relevant
+investment
+acquisition
+accelerator
+startup
 
 
-
-Categories:
-
-funding:
-startup raised money, seed, series A/B/C, funding round
-
-
-investment:
-investor invested in startup
-
-
-investor:
-VC or investment fund article
-
-
-startup:
-startup profile
-
-
-report:
-startup ecosystem analysis
-
-
-
-Only keep MENA or Africa startup ecosystem news.
+Never return an object for category.
 
 Never invent information.
 
+If not relevant return:
+
+{
+"relevant":false
+}
+
+
 """
 
-
-
-
 def clean_json(text):
+
 
     if not text:
 
         return None
+
 
 
     text=text.replace(
@@ -146,13 +152,9 @@ def clean_json(text):
 
 
     match=re.search(
-
         r"\{.*\}",
-
         text,
-
         re.S
-
     )
 
 
@@ -160,7 +162,7 @@ def clean_json(text):
     if not match:
 
         print(
-            "❌ NO JSON FOUND"
+            "NO JSON FOUND"
         )
 
         return None
@@ -176,10 +178,12 @@ def clean_json(text):
 
     except Exception as e:
 
+
         print(
-            "JSON ERROR:",
+            "JSON ERROR",
             e
         )
+
 
         return None
 
@@ -187,43 +191,8 @@ def clean_json(text):
 
 
 
+
 def call_llm(prompt):
-
-
-    print("\n========== LLM REQUEST ==========")
-
-
-    print(
-        "MODEL:",
-        NVIDIA_MODEL
-    )
-
-
-    print(
-        "URL:",
-        NVIDIA_URL
-    )
-
-
-    print(
-        "PROMPT LENGTH:",
-        len(prompt)
-    )
-
-
-    print(
-        "PROMPT PREVIEW:"
-    )
-
-    print(
-        prompt[:500]
-    )
-
-
-    print(
-        "================================"
-    )
-
 
 
     payload={
@@ -237,23 +206,29 @@ def call_llm(prompt):
 
 
             {
+
                 "role":
                 "system",
 
                 "content":
                 SYSTEM_PROMPT
+
             },
 
 
             {
+
                 "role":
                 "user",
 
                 "content":
                 prompt
+
             }
 
+
         ],
+
 
 
         "temperature":
@@ -267,85 +242,54 @@ def call_llm(prompt):
 
 
 
-    print(
-        "\nSENDING REQUEST..."
-    )
-
 
     try:
 
 
-        r=requests.post(
+        print(
+            "CALL NVIDIA..."
+        )
 
+
+        r=requests.post(
 
             NVIDIA_URL,
 
-
             headers=HEADERS,
-
 
             json=payload,
 
-
             timeout=LLM_TIMEOUT
 
-
         )
 
 
-        print(
-            "\n========== NVIDIA RESPONSE =========="
-        )
-
 
         print(
-            "STATUS:",
+            "LLM STATUS:",
             r.status_code
-        )
-
-
-        print(
-            "HEADERS:"
-        )
-
-
-        print(
-            dict(r.headers)
-        )
-
-
-        print(
-            "BODY:"
-        )
-
-
-        print(
-            r.text[:1000]
-        )
-
-
-        print(
-            "====================================\n"
         )
 
 
 
         if r.status_code != 200:
 
+
+            print(
+                r.text[:500]
+            )
+
+
             return None
+
 
 
 
         result=r.json()
 
 
-        print(
-            "JSON KEYS:",
-            result.keys()
-        )
 
-
-        content=(
+        return (
 
             result
             ["choices"]
@@ -356,25 +300,12 @@ def call_llm(prompt):
         )
 
 
-        print(
-            "CONTENT LENGTH:",
-            len(content)
-        )
-
-
-        return content
-
-
 
     except Exception as e:
 
 
         print(
-            "REQUEST EXCEPTION:"
-        )
-
-        print(
-            type(e),
+            "LLM ERROR:",
             e
         )
 
@@ -382,160 +313,84 @@ def call_llm(prompt):
         return None
 
 
+
+
+
+
+
 def validate_news(data):
 
 
     if not data:
+        return False
 
+
+    if data.get("relevant") is False:
         return False
 
 
 
-    # =========================
-    # REGION CHECK
-    # =========================
-
-    text = json.dumps(
-        data,
-        ensure_ascii=False
-    ).lower()
-
-
-
-    region_words = (
-        AFRICA_KEYWORDS
-        +
-        MENA_KEYWORDS
+    category=data.get(
+        "category",
+        ""
     )
 
 
-
-    if not any(
-
-        word.lower() in text
-
-        for word in region_words
-
-    ):
+    if isinstance(category,dict):
 
         print(
-            "❌ NOT AFRICA/MENA"
+            "CATEGORY DICT FIX"
         )
 
-        return False
+
+        category=list(category.keys())[0]
+
+        data["category"]=category
 
 
 
-
-    # =========================
-    # CATEGORY CHECK
-    # =========================
-
-
-    category = data.get(
-        "category",
-        ""
-    ).lower()
+    category=category.lower()
 
 
 
-    title = data.get(
-        "title",
-        ""
-    ).lower()
+    allowed=[
+        "funding",
+        "investment",
+        "acquisition",
+        "accelerator",
+        "startup"
+    ]
 
 
-
-    # correction funding automatique
-
-    if any(
-
-        x in title
-
-        for x in [
-
-            "raise",
-            "raised",
-            "raises",
-            "funding",
-            "series",
-            "investment",
-            "million"
-
-        ]
-
-    ):
-
-        data["category"] = "funding"
-
-        category = "funding"
-
-
-
-    if category not in VALID_CATEGORIES:
-
+    if category not in allowed:
 
         print(
-            "❌ INVALID CATEGORY:",
+            "BAD CATEGORY",
             category
         )
 
-
         return False
 
 
 
-
-
-    # =========================
-    # ENTITY CHECK
-    # =========================
-
-
-    entities = data.get(
+    entities=data.get(
         "entities",
         {}
     )
 
 
-
-    if isinstance(
+    if not isinstance(
         entities,
         dict
     ):
-
-
-
-        count = len(
-            entities.keys()
-        )
-
-
-
-    else:
-
-        count = 0
-
-
-
-
-    if count == 0:
-
-
-        print(
-            "❌ NO ENTITIES"
-        )
-
 
         return False
 
 
 
+    if not any(entities.values()):
 
-    print(
-        "✅ ENTITIES:",
-        count
-    )
+        return False
 
 
 
@@ -543,58 +398,69 @@ def validate_news(data):
 
 
 
+
 def extract_news(
-
         content,
-
         url,
-
         title=""
-
 ):
+
 
 
     prompt=f"""
 
-URL:
+ARTICLE URL:
 
 {url}
 
 
-TITLE:
+ARTICLE TITLE:
 
 {title}
 
 
-ARTICLE:
+ARTICLE CONTENT:
 
 {content}
 
 
 
-Extract information as JSON.
+Extract startup ecosystem information.
+
+Return JSON only.
 
 """
 
 
 
-    response=call_llm(prompt)
-
-
-
-    print(
-        "\n===== RESPONSE ====="
-    )
-
-    print(response)
-
-    print(
-        "===================="
+    response=call_llm(
+        prompt
     )
 
 
 
-    data=clean_json(response)
+    if not response:
+
+
+        return None
+
+
+
+
+    print(
+        "LLM RESPONSE:"
+    )
+
+
+    print(
+        response[:1000]
+    )
+
+
+
+    data=clean_json(
+        response
+    )
 
 
 
@@ -604,8 +470,8 @@ Extract information as JSON.
 
 
 
-
     data["source"]=url
+
 
 
 
@@ -622,7 +488,7 @@ Extract information as JSON.
 
 
     print(
-        "FILTERED",
+        "FILTERED:",
         title
     )
 

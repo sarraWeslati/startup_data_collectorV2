@@ -12,29 +12,26 @@ from extractor import extract_news
 
 
 from config import (
-    VALID_CATEGORIES,
-    AFRICA_KEYWORDS,
-    MENA_KEYWORDS,
-    STARTUP_KEYWORDS,
-    OUTPUT_FILE
+    OUTPUT_FILE,
+    VALID_CATEGORIES
 )
 
 
 
 
-# ============================
-# LOAD EXISTING
-# ============================
+
+# =========================
+# LOAD EXISTING DATA
+# =========================
 
 
 def load_existing():
 
 
-    if not os.path.exists(
-        OUTPUT_FILE
-    ):
+    if not os.path.exists(OUTPUT_FILE):
 
         return []
+
 
 
     try:
@@ -45,187 +42,139 @@ def load_existing():
             encoding="utf-8"
         ) as f:
 
-            return json.load(f)
+            data=json.load(f)
 
 
-    except:
+            if isinstance(data,list):
+
+                return data
+
+
+            return []
+
+
+
+    except Exception as e:
+
+
+        print(
+            "LOAD ERROR:",
+            e
+        )
 
         return []
 
 
 
 
-# ============================
-# SAVE IMMEDIATE
-# ============================
+
+
+
+# =========================
+# SAVE NEWS
+# =========================
 
 
 def save_news(news):
 
 
-    existing = load_existing()
+    data=load_existing()
 
 
-    urls = {
 
-        x.get("source")
+    existing_urls={
 
-        for x in existing
+        item.get("source")
+
+        for item in data
 
     }
 
 
-    if news.get("source") in urls:
+
+    if news.get("source") in existing_urls:
+
 
         print(
-            "DUPLICATE SKIP"
-        )
-
-        return
-
-
-
-    existing.append(news)
-
-
-
-    with open(
-        OUTPUT_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-
-        json.dump(
-
-            existing,
-
-            f,
-
-            indent=4,
-
-            ensure_ascii=False
-
+            "DUPLICATE:",
+            news.get("title")
         )
 
 
-
-    print(
-        "💾 JSON UPDATED"
-    )
+        return False
 
 
 
 
-
-# ============================
-# AFRICA CHECK
-# ============================
-
-
-def is_africa_related(title, content):
-
-    text = (
-        title +
-        " " +
-        content
-    ).lower()
-
-
-    keywords = (
-        AFRICA_KEYWORDS
-        +
-        MENA_KEYWORDS
-    )
-
-
-    for word in keywords:
-
-        if word.lower() in text:
-
-            return True
-
-
-    return False
-
-
-    text=(
-
-        title
-        +
-        " "
-        +
-        content
-
-    ).lower()
+    data.append(news)
 
 
 
-    for word in AFRICA_KEYWORDS:
+    try:
 
 
-        if word.lower() in text:
+        with open(
 
-            return True
+            OUTPUT_FILE,
+
+            "w",
+
+            encoding="utf-8"
+
+        ) as f:
 
 
 
-    return False
+            json.dump(
+
+                data,
+
+                f,
+
+                indent=4,
+
+                ensure_ascii=False
+
+            )
+
+
+
+        print(
+            "SAVED:",
+            news.get("title")
+        )
+
+
+        return True
+
+
+
+    except Exception as e:
+
+
+        print(
+            "SAVE ERROR:",
+            e
+        )
+
+
+        return False
 
 
 
 
 
-# ============================
-# STARTUP CHECK
-# ============================
 
 
-def is_startup_news(
-        title,
-        content
-):
-
-
-    text=(
-
-        title
-        +
-        " "
-        +
-        content
-
-    ).lower()
-
-
-
-    for word in STARTUP_KEYWORDS:
-
-
-        if word.lower() in text:
-
-            return True
-
-
-
-    return False
-
-
-
-
-
-# ============================
+# =========================
 # PROCESS ARTICLE
-# ============================
+# =========================
 
 
-def process(
-        page,
-        url
-):
+def process(page,url):
 
 
-    data = scrape_page(
+    article=scrape_page(
 
         page,
 
@@ -235,81 +184,56 @@ def process(
 
 
 
-    if not data:
+    if not article:
 
 
         return None
 
 
 
-    title=data.get(
+
+    title=article.get(
+
         "title",
+
         ""
+
     )
 
 
-    content=data.get(
+
+    content=article.get(
+
         "content",
+
         ""
+
     )
+
 
 
 
     print(
-        "[TITLE]",
+        "\nTITLE:",
         title
     )
 
 
     print(
-        "[CONTENT]",
+        "CONTENT SIZE:",
         len(content)
     )
 
 
 
-    if len(content)<1000:
+
+    if len(content)<500:
 
 
         print(
             "CONTENT TOO SHORT"
         )
 
-        return None
-
-
-
-
-    if not is_africa_related(
-
-        title,
-
-        content
-
-    ):
-
-
-        print(
-            "❌ NOT AFRICA"
-        )
-
-        return None
-
-
-
-
-    if not is_startup_news(
-
-        title,
-
-        content
-
-    ):
-
-
-        print(
-            "❌ NOT STARTUP NEWS"
-        )
 
         return None
 
@@ -317,7 +241,8 @@ def process(
 
 
 
-    result = extract_news(
+
+    news=extract_news(
 
         content,
 
@@ -329,20 +254,81 @@ def process(
 
 
 
-    return result
+    return news
 
 
 
 
 
-# ============================
+
+
+# =========================
+# CATEGORY NORMALIZATION
+# =========================
+
+
+def normalize_category(news):
+
+
+    category=news.get(
+
+        "category",
+
+        ""
+
+    )
+
+
+
+    # LLM returned dict
+
+    if isinstance(category,dict):
+
+
+        print(
+            "FIX CATEGORY DICT"
+        )
+
+
+        category=list(
+
+            category.keys()
+
+        )[0]
+
+
+
+        news["category"]=category
+
+
+
+
+    if not isinstance(
+        category,
+        str
+    ):
+
+
+        return ""
+
+
+
+
+    return category.lower()
+
+
+
+
+
+
+
+
+# =========================
 # MAIN PIPELINE
-# ============================
+# =========================
 
 
-def run_pipeline(
-        urls
-):
+def run_pipeline(urls):
 
 
     print(
@@ -379,19 +365,9 @@ def run_pipeline(
             user_agent=(
 
                 "Mozilla/5.0 "
-                "(Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 "
-                "Chrome/120 Safari/537.36"
+                "(Windows NT 10.0; Win64; x64)"
 
-            ),
-
-            viewport={
-
-                "width":1366,
-
-                "height":768
-
-            }
+            )
 
         )
 
@@ -401,44 +377,23 @@ def run_pipeline(
 
 
 
-        page.add_init_script(
-
-            """
-
-            Object.defineProperty(
-                navigator,
-                'webdriver',
-                {
-                    get:()=>undefined
-                }
-            )
-
-            """
-
-        )
-
-
-
 
 
         for i,url in enumerate(urls):
 
 
-            print("\n================")
-
             print(
-
-                f"[{i+1}/{len(urls)}]"
-
+                "\n===================="
             )
 
 
             print(
+                f"[{i+1}/{len(urls)}]"
+            )
 
-                "[SCRAPE]",
 
+            print(
                 url
-
             )
 
 
@@ -467,56 +422,44 @@ def run_pipeline(
 
 
 
-                if news:
+                if not news:
 
 
-
-                    category=(
-
-                        news.get(
-                            "category",
-                            ""
-                        )
-                        .lower()
-
+                    print(
+                        "NO DATA"
                     )
 
+                    continue
 
 
-                    if category in VALID_CATEGORIES:
 
 
 
-                        save_news(
+                category=normalize_category(
 
-                            news
+                    news
 
-                        )
+                )
+
+
+
+                print(
+                    "CATEGORY:",
+                    category
+                )
+
+
+
+
+                if category in VALID_CATEGORIES:
+
+
+
+                    if save_news(news):
 
 
                         saved+=1
 
-
-
-                        print(
-
-                            "✅ SAVED",
-
-                            news["title"]
-
-                        )
-
-
-                    else:
-
-
-                        print(
-
-                            "❌ INVALID CATEGORY",
-
-                            category
-
-                        )
 
 
 
@@ -525,9 +468,12 @@ def run_pipeline(
 
                     print(
 
-                        "❌ NO DATA"
+                        "FILTERED CATEGORY:",
+
+                        category
 
                     )
+
 
 
 
@@ -537,7 +483,7 @@ def run_pipeline(
 
                 print(
 
-                    "ERROR",
+                    "PIPELINE ERROR:",
 
                     e
 
@@ -546,13 +492,17 @@ def run_pipeline(
 
 
 
+
         browser.close()
 
 
 
-        print(
-    "TOTAL SAVED:",
-    saved
-)
+
+    print(
+        "\nTOTAL SAVED:",
+        saved
+    )
+
+
 
     return load_existing()

@@ -5,26 +5,22 @@ import random
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-from config import (
-    BASE_URL,
-    MAX_PAGES
-)
-
+from config import BASE_URL, MAX_PAGES
 
 
 HEADERS = {
 
     "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 Chrome/138 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
 
     "Accept":
-    "text/html,application/xhtml+xml",
-
-    "Accept-Language":
-    "en-US,en;q=0.9"
+    "text/html",
 
 }
+
+
+session = requests.Session()
+session.headers.update(HEADERS)
 
 
 
@@ -32,60 +28,49 @@ IGNORE = [
 
     "/tag/",
     "/author/",
-    "/contact/",
     "/events/",
     "/subscribe",
-    "/country/",
-    "/podcast"
+    "/podcast",
+    "/category/",
+    "/page/"
 
 ]
 
 
 
-KEYWORDS = [
-
-    "startup",
-    "funding",
-    "investment",
-    "investor",
-    "venture",
-    "capital",
-    "fund",
-    "raised",
-    "million",
-    "billion",
-    "series",
-    "seed",
-    "vc"
-
-]
+def valid_article(url):
 
 
+    if not url.startswith(
+        "https://www.wamda.com/"
+    ):
+        return False
 
 
-session = requests.Session()
+    for x in IGNORE:
 
-session.headers.update(
-    HEADERS
-)
+        if x in url:
 
-
+            return False
 
 
-def relevant(url, title):
+    parts=url.split("/")
 
 
-    text = (
-        url +
-        " " +
-        title
-    ).lower()
+    # https://www.wamda.com/2026/07/article
+
+    if len(parts) < 5:
+
+        return False
 
 
-    return any(
-        k in text
-        for k in KEYWORDS
-    )
+    if not parts[3].isdigit():
+
+        return False
+
+
+    return True
+
 
 
 
@@ -96,37 +81,39 @@ def get_links(page):
     links=[]
 
 
-    url=f"{BASE_URL}?page={page}"
+    url=f"{BASE_URL}/news?page={page}"
+
+
+    print(
+        "FETCH:",
+        url
+    )
 
 
     try:
 
 
-        time.sleep(
-            random.uniform(1,2)
-        )
-
-
         r=session.get(
+
             url,
+
             timeout=30
+
         )
 
 
-        if r.status_code != 200:
-
-            print(
-                "PAGE ERROR",
-                r.status_code
-            )
-
-            return []
-
+        print(
+            "STATUS:",
+            r.status_code
+        )
 
 
         soup=BeautifulSoup(
+
             r.text,
+
             "lxml"
+
         )
 
 
@@ -141,58 +128,25 @@ def get_links(page):
 
 
             full=urljoin(
+
                 BASE_URL,
+
                 href
+
             )
 
 
 
-            if not full.startswith(
-                "https://www.wamda.com/"
-            ):
-                continue
+            if valid_article(full):
 
 
+                links.append(full)
 
-            if any(
-                x in full
-                for x in IGNORE
-            ):
-                continue
-
-
-
-            parts=full.split("/")
-
-
-            # format:
-            # /2025/07/title
-
-            if len(parts)>=5:
-
-
-                if parts[3].isdigit():
-
-
-                    title=a.get_text(
-                        " ",
-                        strip=True
-                    )
-
-
-                    if relevant(
-                        full,
-                        title
-                    ):
-
-
-                        links.append(
-                            full
-                        )
 
 
 
     except Exception as e:
+
 
         print(
             "CRAWLER ERROR",
@@ -200,9 +154,8 @@ def get_links(page):
         )
 
 
-    return list(
-        set(links)
-    )
+
+    return list(set(links))
 
 
 
@@ -215,7 +168,6 @@ def get_article_links():
     results=[]
 
 
-
     for page in range(
         1,
         MAX_PAGES+1
@@ -223,7 +175,7 @@ def get_article_links():
 
 
         print(
-            "[PAGE]",
+            "\n[PAGE]",
             page
         )
 
@@ -234,7 +186,7 @@ def get_article_links():
 
 
         print(
-            "FOUND",
+            "FOUND:",
             len(links)
         )
 
@@ -245,8 +197,18 @@ def get_article_links():
 
 
 
-    results=list(
-        set(results)
+        time.sleep(
+            random.uniform(1,2)
+        )
+
+
+
+    results=list(set(results))
+
+
+    print(
+        "\nTOTAL DISCOVERED:",
+        len(results)
     )
 
 
