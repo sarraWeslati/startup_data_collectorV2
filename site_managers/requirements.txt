@@ -1,19 +1,124 @@
+# =========================
+# SCRAPING / WEB CRAWLING
+# =========================
+
 crawl4ai
 playwright
 
 requests
+httpx
+
 beautifulsoup4
-
 lxml
-
-pandas
-
-python-dotenv
-
-tqdm
-
 trafilatura
 
 validators
-
 tldextract
+
+
+# =========================
+# DATA PROCESSING
+# =========================
+
+pandas
+numpy
+
+python-dotenv
+tqdm
+
+python-dateutil
+
+
+# =========================
+# LLM / API PROVIDERS
+# =========================
+
+openai
+anthropic
+google-generativeai
+
+# OpenRouter compatible avec OpenAI SDK
+# utiliser OpenAI avec base_url
+
+
+# =========================
+# RAG FRAMEWORK
+# =========================
+
+langchain
+langchain-community
+langchain-core
+langchain-openai
+
+llama-index
+
+
+# =========================
+# EMBEDDINGS
+# =========================
+
+sentence-transformers
+transformers
+torch
+
+
+# =========================
+# VECTOR DATABASE
+# =========================
+
+chromadb
+
+# Alternative cloud
+pinecone-client
+
+# Alternative FAISS local
+faiss-cpu
+
+
+# =========================
+# DOCUMENT LOADING
+# =========================
+
+pypdf
+python-docx
+unstructured
+
+
+# =========================
+# TEXT SPLITTING / CLEANING
+# =========================
+
+nltk
+spacy
+
+
+# =========================
+# API BACKEND CHATBOT
+# =========================
+
+fastapi
+uvicorn
+
+
+# =========================
+# VALIDATION / JSON
+# =========================
+
+pydantic
+orjson
+
+
+# =========================
+# DATABASE (OPTIONNEL)
+# =========================
+
+pymongo
+sqlalchemy
+
+
+# =========================
+# ML / ANALYTICS (OPTIONNEL)
+# =========================
+
+scikit-learn
+matplotlib

@@ -83,7 +83,7 @@ def main():
 
     save_json(STORAGE_DIR / "startups.json", startups)
     save_json(STORAGE_DIR / "investors.json", investors)
-    save_json(STORAGE_DIR / "other_articles.json", others)
+    save_json(STORAGE_DIR / "articles.json", others)
 
     print("\n================================")
     print("DONE")
