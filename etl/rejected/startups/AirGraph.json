@@ -1,0 +1,295 @@
+{
+    "entity": {
+        "entity_type": "startup",
+        "name": "AirGraph",
+        "description": "Aerobot, avec le projet AirGraph, est consacré à la conception et le développement d'un système drone ayant pour objectif de mesurer la pollution dans l'air de tous types afin d’être utilisées sur une cartographie digitale.",
+        "tagline": "",
+        "industry": "Advanced Manufacturing & Robotics",
+        "keywords": [],
+        "country": "",
+        "city": "",
+        "headquarters": "",
+        "founded_year": "2019",
+        "startup_stage": "",
+        "startup_label": true,
+        "website": "https://tryairgraph.com",
+        "linkedin_url": "",
+        "social_media": {
+            "linkedin": "https://linkedin.com/in/shawki-sukkar-1622a8373",
+            "github": "https://github.com/sec-airgraph/AirGraph"
+        },
+        "contact": {
+            "emails": [
+                "direction@one-drone.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/in/shawki-sukkar-1622a8373"
+        },
+        "founders": [
+            {
+                "name": "Ghayth Bouagila",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Lafaifia Riadh",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Edouard Guilhot",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Daniel Bollinger",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            }
+        ],
+        "leadership": [],
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "products": [
+            "AirGraph"
+        ],
+        "services": [],
+        "technologies": [],
+        "customer_segments": [],
+        "target_market": "",
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "partners": [],
+        "accelerators": [],
+        "incubators": [],
+        "funding": {
+            "total_raised": null,
+            "currency": "",
+            "stage": "",
+            "rounds": []
+        },
+        "investors": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "business_metrics": {
+            "users_count": null,
+            "customers_count": null,
+            "downloads": null,
+            "monthly_transactions": null,
+            "annual_revenue": null,
+            "revenue_currency": ""
+        },
+        "recent_news": [],
+        "events": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "extra_notes": "",
+        "sources": [],
+        "confidence": {
+            "score": 83,
+            "level": "Medium"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-03T15:02:02.841072",
+            "website_enriched": true,
+            "tavily_results": 9,
+            "llm_enriched": true,
+            "sources_used": [
+                "csv",
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": true,
+            "founders_count": 4,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 1,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 2,
+            "leadership_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 2,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": true,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": [
+                    "one-drone.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "others": {
+            "logo": "undefined",
+            "label_date": "Dec-20"
+        },
+        "external_profiles": {
+            "website": "https://tryairgraph.com",
+            "linkedin": "https://linkedin.com/in/shawki-sukkar-1622a8373",
+            "github": "https://github.com/sec-airgraph/AirGraph"
+        },
+        "emails": [
+            "direction@one-drone.com"
+        ],
+        "phones": [
+            "33611472404"
+        ],
+        "tavily": {
+            "query": "AirGraph",
+            "answer": "",
+            "results_count": 9,
+            "urls": [
+                "https://tryairgraph.com/",
+                "https://github.com/sec-airgraph/AirGraph",
+                "https://sec-airgraph.github.io/AirGraph-doc/",
+                "https://tryairgraph.com/product",
+                "https://tryairgraph.com/magic",
+                "https://linkedin.com/in/shawki-sukkar-1622a8373",
+                "https://tracxn.com/d/companies/airgraph/___atPk32_ycv0GMB8r8xiMgcEvSWKzfao-js3mze9N7Y",
+                "https://linkedin.com/in/airlangayodya",
+                "https://sec-airgraph.github.io/AirGraph-doc/start.html"
+            ]
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "website_content": "# [AirGraph](https://tryairgraph.com/)\n[Product](https://tryairgraph.com/product)[Use Cases](https://tryairgraph.com/use-cases)[Integrations](https://tryairgraph.com/integrations)\nAbout[Sign In](https://tryairgraph.com/signin)\n#  AirGraph is your\nSingle Source of TruthDocs, tasks, and calendar in one place\n[Request access](https://form.typeform.com/to/r9F8uYBU)Integrates with Google Cal 📅\n📠\n[Sign In](https://tryairgraph.com/signin)\n[Privacy Policy](https://tryairgraph.com/privacy-policy)[Terms of Service](https://tryairgraph.com/terms-of-service)[Magic](https://tryairgraph.com/magic)",
+        "website_metadata": {
+            "url": "https://tryairgraph.com/",
+            "content_length": 590
+        },
+        "linkedin": "https://linkedin.com/in/shawki-sukkar-1622a8373",
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\airgraph.json",
+        "normalized_name": "airgraph",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "tryairgraph.com",
+                "website_type": "official",
+                "social_profiles": 2,
+                "external_profiles": 3
+            },
+            "social_validation": {
+                "report": {
+                    "total": 2,
+                    "valid": 2,
+                    "official": 2,
+                    "platforms": [
+                        "github",
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://linkedin.com/in/shawki-sukkar-1622a8373",
+                        "normalized": "https://linkedin.com/in/shawki-sukkar-1622a8373",
+                        "username": "shawki-sukkar-1622a8373",
+                        "valid": true,
+                        "official": true
+                    },
+                    "github": {
+                        "platform": "github",
+                        "original": "https://github.com/sec-airgraph/AirGraph",
+                        "normalized": "https://github.com/sec-airgraph/AirGraph",
+                        "username": "sec-airgraph",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": [
+                        "one-drone.com"
+                    ]
+                },
+                "official": [],
+                "details": [
+                    {
+                        "original": "direction@one-drone.com",
+                        "normalized": "direction@one-drone.com",
+                        "domain": "one-drone.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": false,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "direction@one-drone.com",
+        "quality": {
+            "phones": {
+                "total": 1,
+                "valid": 0,
+                "removed": 1,
+                "duplicates": 0,
+                "invalid": [
+                    "33611472404"
+                ]
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

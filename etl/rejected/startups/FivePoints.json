@@ -1,0 +1,203 @@
+{
+    "entity": {
+        "name": "FivePoints",
+        "description": "Fournisseur de talents - Communauté Tech",
+        "industry": "Edtech",
+        "country": "",
+        "city": "",
+        "website": "https://www.fivepoints.fr",
+        "linkedin": "https://www.linkedin.com/company/five-points-technology-group",
+        "founders": [],
+        "entity_type": "startup",
+        "website_content": "# 404\n**There isn't a GitHub Pages site here.**\nIf you're trying to publish one, [read the full documentation](https://help.github.com/pages/) to learn how to set up **GitHub Pages** for your repository, organization, or user account.\n[GitHub Status](https://githubstatus.com) — [@githubstatus](https://twitter.com/githubstatus)\n[ ![](https://www.fivepoints.fr/) ](https://www.fivepoints.fr/) [ ![](https://www.fivepoints.fr/) ](https://www.fivepoints.fr/)",
+        "website_metadata": {
+            "url": "https://www.fivepoints.fr/",
+            "content_length": 456
+        },
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/company/five-points-technology-group"
+        },
+        "social_media": {
+            "linkedin": "https://linkedin.com/company/five-points-technology-group"
+        },
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "headquarters": "",
+        "linkedin_url": "https://www.linkedin.com/company/five-points-technology-group",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-06-30T14:27:57.204011",
+            "website_enriched": true,
+            "tavily_results": 5,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "founders_count": 0,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 2,
+            "leadership_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 1,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "sources": [],
+        "external_profiles": {
+            "website": "https://fivepointsfv.com",
+            "linkedin": "https://www.linkedin.com/company/five-points-technology-group"
+        },
+        "tavily": {
+            "query": "FivePoints",
+            "answer": "Five Points Technology Group, founded in 1999, specializes in software development for health and human services. Wellfound, launched in 2013, connects startups with job opportunities and has raised $24 million in funding. Both companies are headquartered in the United States.",
+            "results_count": 5,
+            "urls": [
+                "https://www.linkedin.com/company/five-points-technology-group",
+                "https://fivepointsfv.com",
+                "https://partners.columbiachamber.com/list/member/five-points-association-83776",
+                "https://www.fivepointscapital.com/privacy-policy",
+                "https://fivepointsstrategies.com"
+            ]
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 55,
+            "level": "Low"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\fivepoints.json",
+        "normalized_name": "fivepoints",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "fivepoints.fr",
+                "website_type": "official",
+                "social_profiles": 2,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 1,
+                    "valid": 1,
+                    "official": 1,
+                    "platforms": [
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://www.linkedin.com/company/five-points-technology-group",
+                        "normalized": "https://linkedin.com/company/five-points-technology-group",
+                        "username": "five-points-technology-group",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

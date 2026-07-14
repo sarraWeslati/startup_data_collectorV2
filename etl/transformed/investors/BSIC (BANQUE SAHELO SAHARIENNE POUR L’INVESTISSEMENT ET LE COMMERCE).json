@@ -1,0 +1,240 @@
+{
+    "name": "BSIC (BANQUE SAHELO SAHARIENNE POUR L’INVESTISSEMENT ET LE COMMERCE)",
+    "description": "Pan-African bank present in 14 countries, focusing on SME financing.",
+    "organization_type": "",
+    "country": "Senegal",
+    "city": "Dakar",
+    "website": "https://www.bsicci.com/index.html",
+    "linkedin": "https://sn.linkedin.com/company/bsic-s-n-gal",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.bsicci.com/index.html",
+        "linkedin": "https://sn.linkedin.com/company/bsic-s-n-gal"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/bsicbankcom",
+        "twitter": "https://twitter.com/bsicbankcom"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T16:33:19.449224+00:00",
+        "website_enriched": true,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "BSIC (BANQUE SAHELO SAHARIENNE POUR L’INVESTISSEMENT ET LE COMMERCE)",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://bsicbank.com/eng/",
+            "https://bsicbank.com/fra/",
+            "https://bsicbank.com/",
+            "https://bsic-guinee.com/",
+            "https://www.bsicci.com/index.html",
+            "https://sn.linkedin.com/company/bsic-s-n-gal",
+            "https://linkedin.com/in/medoune-gningue-b4597720",
+            "https://linkedin.com/in/astou-diawara-7755a5127",
+            "https://linkedin.com/in/n%E2%80%99deye-astou-diawara-390716131",
+            "https://en.wikipedia.org/wiki/BSIC_Group",
+            "https://www.devex.com/organizations/sahel-saharan-bank-for-investment-242974",
+            "https://uia.org/s/or/en/1122290140",
+            "https://www.bsicbank.com/eng/our-history",
+            "https://www.financialafrik.com/2024/01/28/le-groupe-bancaire-bsic-en-forte-progression/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 2,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 3,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": true,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "# Vous serez redirigé vers\nwww.bsicci.com\ndans 10 secondes\n## CONFIRMATION QUE VOUS ÊTES HUMAIN\n### Votre adresse IP est 102.104.40.192\nComplétez la vérification de sécurité\navant de continuer...\n# Nous n'avons pas pu confirmer que vous êtes humain.\n## LA VÉRIFICATION A ÉCHOUÉ",
+    "website_metadata": {
+        "url": "https://www.bsicci.com/index.html",
+        "content_length": 277
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://twitter.com/bsicbankcom"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "geographic_focus": [
+        "Sahel-Saharan region",
+        "Africa"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 68,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bsic_banque_sahelo_saharienne_pour_l_investissement_et_le_commerce.json",
+    "normalized_name": "bsic banque sahelo saharienne pour linvestissement et le commerce",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "bsicci.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "twitter"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/bsicbankcom",
+                    "normalized": "https://facebook.com/bsicbankcom",
+                    "username": "bsicbankcom",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/bsicbankcom",
+                    "normalized": "https://twitter.com/bsicbankcom",
+                    "username": "bsicbankcom",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Senegal",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Senegal",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

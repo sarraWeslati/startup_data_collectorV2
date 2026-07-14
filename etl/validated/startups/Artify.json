@@ -1,0 +1,293 @@
+{
+    "entity_type": "startup",
+    "name": "Artify",
+    "description": "Artify est une plateforme de vidéos à la demande spécialisée dans le cinéma tunisien",
+    "tagline": "",
+    "industry": "Ad Tech and Creative Tech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://artify.tn",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/artify-ai",
+        "facebook": "https://facebook.com/Artify.tn",
+        "instagram": "https://instagram.com/artify.tn",
+        "youtube": "https://youtube.com/channel/UCm53KJrrPbXZcGTtBhADYmA",
+        "twitter": "https://twitter.com/artifytn"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/artify-ai"
+    },
+    "founders": [
+        {
+            "name": "Yahia Mgarrech",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:13:26.910069",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 5,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 5,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": true,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Nov-19"
+    },
+    "external_profiles": {
+        "website": "https://artify.tn",
+        "linkedin": "https://www.linkedin.com/company/artify-ai",
+        "wellfound": "https://wellfound.com/p/arsenari"
+    },
+    "tavily": {
+        "query": "Artify",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://www.artifyartsupplies.com/",
+            "https://artify.photo/",
+            "https://artify.co/",
+            "https://artify.tn/",
+            "https://www.artify.work/",
+            "https://www.linkedin.com/company/artify-ai",
+            "https://www.linkedin.com/company/artify-co/",
+            "https://ee.linkedin.com/company/artify",
+            "https://www.linkedin.com/company/artify-streaming",
+            "https://in.linkedin.com/company/teamartify",
+            "https://artify.ee/",
+            "https://artify.fr/",
+            "https://teamartify.com/",
+            "https://tracxn.com/d/companies/artify/__OwA1DrSgXCmbIZXudac7pSoPcIM1k8lFHJpANP0Wgxo",
+            "https://linkedin.com/company/artify-app",
+            "https://wellfound.com/p/arsenari",
+            "https://tracxn.com/d/companies/artify/__PpaAOCzicCWwfBGvuEWrpMyfIRm1PrvChDKrfe7lkms",
+            "https://betalist.com/startups/artifylabs",
+            "https://tracxn.com/d/companies/artifyit/__lYejswrs1lr5rbW1E6_ThpRWM5x-iTOFe2Y1FO8wQEA",
+            "https://tracxn.com/d/companies/artify/__d5Mvm6n1V4OTX0bHbxTVLUv638UmXbsLcE1S__xt_6k",
+            "https://tracxn.com/d/companies/artify/__7DanNF-6Sb-xPAJyIarKgBvn8IktpPbsUHdmkZc3QTA"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![Artify Logo](https://pictures.artify.tn/app/artify_logo_yellow_white.png?width=90&aspect_ratio=5%3A2) ](https://artify.tn/) [ Accueil  ](https://artify.tn/) [ Catalogue  ](https://artify.tn/list)\n*     * [ Français ](https://artify.tn/fr/)\n* [ العربية ](https://artify.tn/ar/)\n* [ English ](https://artify.tn/en/)\n* [ S'abonner ](https://artify.tn/subscribe/)\n* [ Se connecter ](https://artify.tn/login)\n* Tapez votre texte ...\n![Logo Artify](https://pictures.artify.tn/app/artify_logo_white.svg?width=80&aspect_ratio=40%3A13)\nCopyright ©2020 Artify Inc.\nTous droits réservés\n* [À propos de nous](https://artify.tn/about-us)\n* [Nos partenaires](https://artify.tn/partners)\n* [FAQ](https://artify.tn/FAQ)\n* [Contactez nous](https://artify.tn/contact)\n* [À propos de nous](https://artify.tn/about-us)\n* [Nos partenaires](https://artify.tn/partners)\n* [FAQ](https://artify.tn/FAQ)\n* [Contactez nous](https://artify.tn/contact)\n![Logo Artify](https://pictures.artify.tn/app/artify_logo_white.svg?width=80&aspect_ratio=40%3A13)\nCopyright ©2020 Artify Inc.\n* [Politique de cookies](https://artify.tn/cookie-policy)\n* [Mentions légales](https://artify.tn/legal-notice)\n* [Conditions d'utilisation](https://artify.tn/terms-of-use)\n* [Politique de confidentialité](https://artify.tn/privacy-policy)\n* [Politique de cookies](https://artify.tn/cookie-policy)\n* [Mentions légales](https://artify.tn/legal-notice)\n* [Conditions d'utilisation](https://artify.tn/terms-of-use)\n* [Politique de confidentialité](https://artify.tn/privacy-policy)\nSuivez-nous sur les réseaux sociaux\n[](https://www.instagram.com/artify.tn/) [](https://www.facebook.com/Artify.tn/) [](https://www.tiktok.com/@artifytn) [](https://www.youtube.com/channel/UCm53KJrrPbXZcGTtBhADYmA) [](https://twitter.com/artifytn)\nLangues\nFrançais  العربية  English\n![Logo Artify](https://pictures.artify.tn/app/artify_logo_white.svg?width=80&aspect_ratio=40%3A13)\nCopyright ©2020 Artify Inc. Tous droits réservés\nArtify utilise les cookies [En savoir plus](https://artify.tn/cookie-policy)",
+    "website_metadata": {
+        "url": "https://artify.tn/",
+        "content_length": 2040
+    },
+    "linkedin": "https://www.linkedin.com/company/artify-ai",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\artify.json",
+    "normalized_name": "artify",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "artify.tn",
+            "website_type": "official",
+            "social_profiles": 5,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 5,
+                "valid": 5,
+                "official": 5,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "twitter",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/artify-ai",
+                    "normalized": "https://linkedin.com/company/artify-ai",
+                    "username": "artify-ai",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/Artify.tn",
+                    "normalized": "https://facebook.com/Artify.tn",
+                    "username": "Artify.tn",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/artify.tn",
+                    "normalized": "https://instagram.com/artify.tn",
+                    "username": "artify.tn",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCm53KJrrPbXZcGTtBhADYmA",
+                    "normalized": "https://youtube.com/channel/UCm53KJrrPbXZcGTtBhADYmA",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/artifytn",
+                    "normalized": "https://twitter.com/artifytn",
+                    "username": "artifytn",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "domain",
+            "confidence": 0.8,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

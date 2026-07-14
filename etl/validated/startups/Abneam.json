@@ -1,0 +1,261 @@
+{
+    "entity_type": "startup",
+    "name": "Abneam",
+    "description": "Abneam est une Startup tunisienne qui crée des applications web et mobiles pour grand public. Derrière nos applications, il y a une énorme quantité de données traitées chaque jour sur nos serveurs. Notre premier produit est Barbechli.tn qui est un moteur de recherche des sites e-commerce Tunisiens.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Sidi Bouzid",
+    "headquarters": "Sidi Bouzid, Tunisia",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.disruptunisia.com/startup-tunisie/barbachli-26277",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/abneam"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/abneam"
+    },
+    "founders": [
+        {
+            "name": "Haythem Hamdi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Amine Hamdi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Seifeddine Hamdi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Abdelbasset Ben Hnia",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": "1-10",
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Barbechli.tn"
+    ],
+    "services": [
+        "Web and mobile application development"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 80,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:08:50.508535",
+        "website_enriched": false,
+        "tavily_results": 7,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 1,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jul-22"
+    },
+    "external_profiles": {
+        "website": "https://www.disruptunisia.com/startup-tunisie/barbachli-26277",
+        "linkedin": "https://linkedin.com/company/abneam"
+    },
+    "tavily": {
+        "query": "Abneam",
+        "answer": "",
+        "results_count": 7,
+        "urls": [
+            "https://linkedin.com/company/abneam",
+            "https://www.linkedin.com/products/abneam-barbechlitn/",
+            "https://chrome-stats.com/d/com.abneam.barbechli",
+            "https://tn.linkedin.com/in/haythem-hamdi-7a446612a",
+            "https://www.disruptunisia.com/startup-tunisie/barbachli-26277",
+            "https://linkedin.com/in/haythem-hamdi-7a446612a",
+            "https://linkedin.com/in/amine-hamdi-19987b83"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "linkedin": "https://linkedin.com/company/abneam",
+    "sub_industry": "E-commerce",
+    "employees_count": "1-10",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\abneam.json",
+    "normalized_name": "abneam",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "disruptunisia.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/abneam",
+                    "normalized": "https://linkedin.com/company/abneam",
+                    "username": "abneam",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

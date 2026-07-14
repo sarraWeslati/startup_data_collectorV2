@@ -1,0 +1,248 @@
+{
+    "entity_type": "startup",
+    "name": "DIGITALIZE",
+    "description": "DIGITALIZE (2019)\nSecteur d’activité / Sector : Business Software and services\ndigitalize.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nAHMED ISMAIL AZZABI\nazzabiahmed@digitalize.tn\ncleopatre center, A1.11, centre urbain nord, 1003, Tunis\nActivité Notre portail met en relation les chercheurs \nd'emploi en IT et les entreprises cherchant des profils IT tout en \nminimisant au maximum les risques d'échec à travers des tests \net des quiz techniques ainsi que des tests psychométriques. \nLes candidats s'enregistrent sur le portail, ils peuvent créer leur \nCVs en étant guidés pas à pas et ensuite ils peuvent passer \nn'importe quel test technique disponible sur le portail, un score \nleur sera attribué et ils peuvent le partager sur les réseaux \nsociaux ce qui aidera à créer une sorte de compétition entre les \ncandidats. Ils peuvent aussi voir les offres d'emploi et postuler \ntout en passant les tests exigés par l'entreprise.\nAspect Technologique Notre portail automatise tout le processus \nde recrutement dans le secteur IT. La base de données bien \nstructurée permet de notifier tous les profils adéquats à un \nposte proposé dès qu'une opportunité leur correspondant \nest mise en ligne, ceci augmente les chances de succès du \nprocessus de recrutement.\nOriginalité \nL'association \nentre \ntests \ntechniques \net \npsychométriques avec l'aide d'algorithmes d'IA et de matching \ntransforme le portail en un vrai head hunter qui vous trouvera le \nprofil idéal que vous cherchez pour combler un poste vacant.\nActivity Our portal connects IT job seekers and \ncompanies looking for IT profiles while minimizing the \nrisk of failure through technical tests and quizzes as well \nas psychometric tests. Candidates register on the portal, \nthey can create their CVs by being guided step by step \nand then they can take any technical test available on \nthe portal, a score will be assigned to them and they can \nshare it on social networks which will help to create a kind \nof competition between candidates. They can also see the \njob offers and apply while taking the tests required by \nthe company.\nTechnological Aspect Our portal automates the entire \nrecruitment process in the IT sector. The well-structured \ndatabase allows us to notify all suitable profiles for \na given position as soon as a suitable opportunity is \nposted online, thus increasing the chances of a successful \nrecruitment process.\nOriginality The combination of technical and psychometric \ntests with the help of AI and matchmaking algorithms \nturns the portal into a real headhunter that will find you \nthe ideal profile you are looking for to fill a vacancy.\nFR\nEN",
+    "tagline": "Formez vos équipes. Certifiez vos expertises.",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "cleopatre center, A1.11, centre urbain nord, 1003, Tunis",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://digitalize.tn",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "azzabiahmed@digitalize.tn"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "CodeDuel",
+            "description": "Plateforme d'évaluation technique et soft skills. Détection des lacunes, parcours adaptatifs, certificats de réussite. Unique en Afrique et dans la région MENA — disponible en français, anglais, arabe et d'autres langues à venir.",
+            "category": "Assessment Platform"
+        }
+    ],
+    "services": [
+        "Formations",
+        "Préparation aux certifications internationales",
+        "Évaluation des compétences via CodeDuel"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [
+        "français",
+        "anglais",
+        "arabe"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 70,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:07:54.369817",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 3,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "digitalize.tn"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ ![Digitalize](https://digitalize.tn/wp-content/themes/kadence-digitalize/assets/logo.png) ](https://digitalize.tn/)\n* [Formations](https://digitalize.tn/formations/)\n* [Certifications](https://digitalize.tn/certifications/)\n* [CodeDuel](https://digitalize.tn/codeduel/)\n* [À propos](https://digitalize.tn/a-propos/)\n* [Blog](https://digitalize.tn/blog/)\n[Contact](https://digitalize.tn/contact/) [Demander un devis](https://digitalize.tn/contact/)\nFormation tech professionnelle\n#  Formez vos équipes.\nCertifiez vos expertises.\nDes formations intensives en Cloud, DevOps, Cybersécurité, Data et IA — conçues pour les entreprises qui veulent des compétences réelles, mesurables et certifiées.\n[Voir les formations](https://digitalize.tn/formations/) [Évaluer mes équipes](https://digitalize.tn/codeduel/)\nPréparation aux certifications internationales · Évaluation via CodeDuel · Sur mesure entreprise\nParcours en cours\nCloud & DevOps Engineer\nDocker · Kubernetes · Terraform · Ansible · CI/CD\nDocker 92%\nKubernetes 74%\nTerraform 61%\n**CKA — Kubernetes Admin** Certification internationale\n* * *\nNos formations\n## Des parcours pensés pour le terrain\nChaque programme est conçu avec des experts en activité. Théorie, pratique et évaluation de compétences incluses.\n[ Intermédiaire Cloud & DevOps Engineer Maîtrisez l'infrastructure cloud et les pratiques DevOps modernes en environnement professionnel. Docker Kubernetes AWS ](https://digitalize.tn/formations/cloud-devops/) [ Avancé Cybersécurité Devenez expert en sécurité offensive et défensive, audit, conformité et réponse aux incidents. CEH CISSP ISO 27001 ](https://digitalize.tn/formations/cybersecurite/) [ Avancé IA & Machine Learning Construisez, entraînez et déployez des modèles de ML en production sur des cas métier réels. Python TensorFlow NLP ](https://digitalize.tn/formations/ia-machine-learning/) [ Intermédiaire Data Engineering Concevez des pipelines de données robustes et scalables pour alimenter les équipes analytiques. Spark Databricks Airflow ](https://digitalize.tn/formations/data-engineering/) [ Fondamental Développeur Full Stack Du frontend au backend, maîtrisez l'ensemble de la chaîne de développement web moderne. React Node.js Docker ](https://digitalize.tn/formations/full-stack-web/) [ Tous niveaux Chef de Projet Agile Pilotez vos projets tech avec les frameworks Agile/Scrum et préparez la certification PSM. Scrum PSM Agile ](https://digitalize.tn/formations/agile-chef-de-projet/)\n[ Voir tous les parcours ](https://digitalize.tn/formations/)\nArchitecte Logiciel & Admin Linux également disponibles\nCertifications\n## Préparez-vous aux certifications qui comptent\nNous assurons la préparation complète. Le voucher d'examen reste à la charge du candidat.\nMicrosoft Azure\nAZ-104 · AZ-305\nAWS\nSolutions Architect\nCEH\nEthical Hacker\nCISSP\nISC² Security\nCKA\nKubernetes Admin\nISO 27001\nLead Implementer\nPSM Scrum\nProfessional Scrum Master\nPréparation uniquement — le voucher d'examen est à la charge du candidat.\nNotre plateforme exclusive\n## Évaluez les compétences de vos équipes avec CodeDuel\nPlateforme d'évaluation technique et soft skills. Détection des lacunes, parcours adaptatifs, certificats de réussite. Unique en Afrique et dans la région MENA — disponible en français, anglais, arabe et d'autres langues à venir.\nÉvaluation technique Soft Skills & comportemental Détection des lacunes Parcours adaptatifs Certificats de réussite\n[Découvrir CodeDuel](https://codeduel.net)\nRapport de compétences — Profil complet\nCompétences techniques\nDocker 88%\nKubernetes 72%\nTerraform 54%\nSoft Skills\nCommunication 85%\nRésolution de problèmes 61%\nLeadership 43%\n![⚠️](https://s.w.org/images/core/emoji/17.0.2/svg/26a0.svg) Lacunes détectées : Terraform, Leadership → recommandation de parcours\n## Prêt à faire monter vos équipes en compétences ?\nParlez-nous de vos besoins. Nous construisons le programme adapté à vos équipes.\n[Nous contacter](https://digitalize.tn/contact/)\n© 2026 Digitalize — DSCF. Tous droits réservés. [Mentions légales](https://digitalize.tn/mentions-legales/)",
+    "website_metadata": {
+        "url": "https://digitalize.tn",
+        "content_length": 4068
+    },
+    "external_profiles": {},
+    "emails": [
+        "azzabiahmed@digitalize.tn"
+    ],
+    "tavily": {
+        "query": "DIGITALIZE",
+        "answer": "Wellfound is a startup based in New York City, focusing on connecting job seekers with tech companies. It was launched in 2013 and offers remote job listings.",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\digitalize.json",
+    "normalized_name": "digitalize",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "digitalize.tn",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "digitalize.tn"
+                ]
+            },
+            "official": [
+                "azzabiahmed@digitalize.tn"
+            ],
+            "details": [
+                {
+                    "original": "azzabiahmed@digitalize.tn",
+                    "normalized": "azzabiahmed@digitalize.tn",
+                    "domain": "digitalize.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "azzabiahmed@digitalize.tn",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

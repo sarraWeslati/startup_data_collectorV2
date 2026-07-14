@@ -1,0 +1,162 @@
+{
+    "name": "Dracoss",
+    "description": "Fabrication de machine à recycler les eaux usées pour les restaurants, les hôtels et les salles de sport afin qu'ils puissent réduire leur consommation d'eau.",
+    "industry": "watertech / greentech",
+    "country": "",
+    "city": "Los Angeles",
+    "website": "https://www.dracosss.com",
+    "linkedin": "https://www.linkedin.com/company/dracoss",
+    "founders": [],
+    "entity_type": "startup",
+    "external_profiles": {
+        "website": "https://www.dracoss.tn/page/168835/a-propos-de-nous",
+        "linkedin": "https://www.linkedin.com/company/dracoss"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/dracoss"
+    },
+    "headquarters": "Los Angeles, California 90017, US",
+    "founded_year": "2021",
+    "employees_count": "2-10",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:12:50.441296",
+        "website_enriched": false,
+        "tavily_results": 4,
+        "llm_enriched": true
+    },
+    "tavily": {
+        "query": "Dracoss",
+        "answer": "Dracoss is a Greentech startup based in Los Angeles, California, focused on wastewater recycling for restaurants. It was founded in 2021 with a small team of 2-10 employees. Specific details on funding and investors are not available.",
+        "results_count": 4,
+        "urls": [
+            "https://www.linkedin.com/company/dracoss",
+            "https://www.dracoss.tn/page/168835/a-propos-de-nous",
+            "https://tracxn.com/d/companies/dracoss/__fFl30Tv38tHklCktBlkbB0juz-731UClGlYyOnJvI00",
+            "https://www.dracoss.tech"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 64,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\dracoss.json",
+    "normalized_name": "dracoss",
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "primary_social": "https://linkedin.com/company/dracoss"
+    },
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "dracosss.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/dracoss",
+                    "normalized": "https://linkedin.com/company/dracoss",
+                    "username": "dracoss",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

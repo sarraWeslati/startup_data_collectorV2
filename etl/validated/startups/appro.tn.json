@@ -1,0 +1,342 @@
+{
+    "entity_type": "startup",
+    "name": "appro.tn",
+    "description": "Appro.Tn est une plateforme en ligne qui permet aux commerçants de passer des commandes a tous leurs fournisseurs avec l'assistance d'une intelligence artificielle",
+    "tagline": "",
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://intilaq.tn/intilaq-fast-track-program",
+    "linkedin_url": "https://www.linkedin.com/company/intilaq-tunisia",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/intilaq-tunisia",
+        "instagram": "https://instagram.com/intilaq"
+    },
+    "contact": {
+        "emails": [
+            "contact@intilaq.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21611113804",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21610022019",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21611113832",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21671858410",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/intilaq-tunisia"
+    },
+    "founders": [
+        {
+            "name": "Slim Amamou",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Nabegh Bechir Hatira",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Hassen Marzouki",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [
+        {
+            "name": "IntilaQ Innovation Hub",
+            "website": "https://intilaq.tn",
+            "linkedin": "https://www.linkedin.com/company/intilaq-tunisia/",
+            "country": "Tunisia",
+            "investment_stage": "seed",
+            "investment_round": "seed",
+            "source": "https://www.tap.info.tn/en/Portal-Society/11113832-intilaq-fast-track"
+        }
+    ],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 87,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:09:08.785996",
+        "website_enriched": true,
+        "tavily_results": 4,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 3,
+        "team_members_count": 0,
+        "investors_count": 1,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "intilaq.tn"
+            ]
+        },
+        "phones": {
+            "count": 4,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 4
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Sep-19"
+    },
+    "external_profiles": {
+        "website": "https://intilaq.tn/intilaq-fast-track-program",
+        "linkedin": "https://www.linkedin.com/company/l6"
+    },
+    "tavily": {
+        "query": "appro.tn",
+        "answer": "",
+        "results_count": 4,
+        "urls": [
+            "https://intilaq.tn/intilaq-fast-track-program/",
+            "https://www.webmanagercenter.com/2019/02/11/430863/intilaq-fast-track-leve-1-mdt-pour-les-5-startups-gagnantes-de-son-appel-a-candidatures/",
+            "https://www.linkedin.com/company/l6",
+            "https://linkedin.com/company/l6"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "[Intilaq](https://intilaq.tn \"Intilaq\")\n[ ](https://intilaq.tn/)\nMenu\n* [Who we are](https://intilaq.tn/who-we-are/)\n* [Portfolio](https://intilaq.tn/portfolio/)\n* [Newsroom](https://intilaq.tn/newsroom/)\n* [Booking](https://intilaq.tn/booking/)\n* [Contact](https://intilaq.tn/contact/)\n[![](https://intilaq.tn/wp-content/uploads/2023/10/search.png)](javascript:void\\(0\\);)\n[![](https://intilaq.tn/wp-content/uploads/2023/10/search.png)](javascript:void\\(0\\);)\n[ Linkedin-in ](https://www.linkedin.com/company/intilaq-tunisia/) [ Instagram ](https://www.instagram.com/intilaq)\n# IntilaQ Fast Track Program\n![](https://intilaq.tn/wp-content/uploads/2023/10/12.jpg)\n11 October 2023\n## [IntilaQ Fast Track Program](https://intilaq.tn/intilaq-fast-track-program/)\n![](https://intilaq.tn/wp-content/uploads/2023/10/cache_660x660_Analog_medium_11113804_31552_10022019.jpg)\n(TAP) – A month after the launch of its call for applications, the programme dedicated to financing startups, “IntilaQ fast track”, was closed with the announcement of the 5 winning startups.\nA sum of 1 million dinars will be released in the coming days for the benefit of the selected companies, in the form of individual investment tickets up to 300 thousand dinars, according to a press release from business and innovation centre “IntilaQ”\nTunisia’s leading startups investors “IntilaQ Innovation Hub” (+14 million dinars investment) launched on January 07, 2019 the “IntilaQ fast track”: a programme strongly inspired by the practice of Business Angels in “Startup Friendly” countries and whose main objective is to shorten the process of the first fundraising, usually time-consuming, to a duration not exceeding one month.\nThis will allow entrepreneurs to focus more on issues inherent to their business, namely, product development, marketing…\nAfter a three-day bootcamp, the 11 shortlisted candidates pitched their respective projects before the IntilaQ Investment Committee. The Committee ended up retaining the following 5 startups:\n1 / Cloudshift (300 thousand dinars investment): publisher of a solution for continuous optimisation of cloud consumption and SAAS plans.\n2 / Deepera (200 thousand dinars of investment): a startup fintech that proposes a solution based on artificial intelligence with the objective of democratising the financial investment.\n3 / Appro.tn (200 thousand dinars investment): publisher of a solution dedicated to the intelligent automation of procurement operations of small and medium enterprises.\n4 / Attila Tel (150 thousand dinars investment): publisher of a solution based on artificial intelligence dedicated to improving customer engagement among telecom operators.\n5 / Wescore (150 thousand dinars of investment): publisher of a community management and loyalty solution (sports, associative …).\nBassem Bouguerra, the Executive Director of IntilaQ, announced that the “fast track” will be renewed every year and that beyond the direct impact on the beneficiary companies, “IntilaQ” aims through this unique programme to root a new investment culture and introduce new funding standards for startups.\nThe web link of the article : <https://www.tap.info.tn/en/Portal-Society/11113832-intilaq-fast-track>\nSearch for:Search Button\n### In the news\n![](https://intilaq.tn/wp-content/uploads/2023/10/12-150x150.jpg)\n11 Oct 2023\n## IntilaQ Fast Track Program\n![](https://intilaq.tn/wp-content/uploads/2023/10/intilaq-insat-press-150x150.webp)\n11 Oct 2023\n## IntilaQ Data Science Academy\n### Financial Statements\n#### 2016 Annual Financial Statements\n###### October 2016\n[ ![Description of the image](https://intilaq.tn/wp-content/uploads/2023/10/pdf.png) ](https://intilaq.tn/wp-content/uploads/2023/10/2016-Annual-Financial-Statements.pdf)\n#### 2015 Annual Financial Statements\n###### October 2015\n[ ![Description of the image](https://intilaq.tn/wp-content/uploads/2023/10/pdf.png) ](https://intilaq.tn/wp-content/uploads/2023/10/2015-Annual-Financial-Statements.pdf)\n[See More](https://intilaq.tn/newsroom-financial-statements)\n###  Announcement\n#### Donation March 2019\n###### March 2019\n[ ![Description of the image](https://intilaq.tn/wp-content/uploads/2023/10/pdf.png) ](https://intilaq.tn/wp-content/uploads/2023/10/Donation-March-2019.pdf)\n#### Donation March 2018\n###### March 2018\n[ ![Description of the image](https://intilaq.tn/wp-content/uploads/2023/10/pdf.png) ](https://intilaq.tn/wp-content/uploads/2023/10/Donation-March-2018.pdf)\n[See More](https://intilaq.tn/newsroom-announcement)\n## Post navigation\n[Next: IntilaQ Data Science Academy](https://intilaq.tn/intilaq-data-science-academy/)\n[ ](https://intilaq.tn/)\n## Get in Touch\n###  contact@intilaq.tn\nEmail\n###  [+216 71 85 84 10](tel:+21671858410)\nPhone\n###  Technopole Elghazela, Bloc E2, Ariana\nAddress\n[ Linkedin-in ](https://www.linkedin.com/company/intilaq-tunisia/) [ Instagram ](https://www.instagram.com/intilaq)\n## ©2024 - Lezarts-Digital\nAll right reserved\nSearch for:Search Button\n[ Powered by ![EssentialPlugin](https://intilaq.tn/wp-content/plugins/popup-anything-on-click/assets/images/essentialplugin-logo-small.png) ](https://www.essentialplugin.com?utm_source=https://intilaq.tn&utm_medium=popup&utm_campaign=credit-link \"Powered by EssentialPlugin\")\n[ ](javascript:void\\(0\\);)\n![](https://intilaq.tn/wp-content/plugins/wpfront-scroll-top/images/icons/1.png)",
+    "website_metadata": {
+        "url": "https://intilaq.tn/intilaq-fast-track-program/",
+        "content_length": 5357
+    },
+    "linkedin": "https://www.linkedin.com/company/l6",
+    "emails": [
+        "contact@intilaq.tn"
+    ],
+    "phones": [
+        "11113804",
+        "10022019",
+        "11113832-",
+        "+216 71 85 84 10",
+        "+21671858410)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\approtn.json",
+    "normalized_name": "approtn",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "intilaq.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/intilaq-tunisia",
+                    "normalized": "https://linkedin.com/company/intilaq-tunisia",
+                    "username": "intilaq-tunisia",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/intilaq",
+                    "normalized": "https://instagram.com/intilaq",
+                    "username": "intilaq",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "intilaq.tn"
+                ]
+            },
+            "official": [
+                "contact@intilaq.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@intilaq.tn",
+                    "normalized": "contact@intilaq.tn",
+                    "domain": "intilaq.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@intilaq.tn",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 4,
+            "removed": 0,
+            "duplicates": 1,
+            "invalid": []
+        }
+    }
+}

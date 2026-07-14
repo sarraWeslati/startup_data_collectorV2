@@ -1,0 +1,207 @@
+{
+    "name": "Iberis",
+    "description": "Plateforme de gestion d'entreprise en ligne",
+    "industry": "Business Software and services",
+    "country": "Tunisia",
+    "city": "",
+    "website": "https://iberis.io",
+    "linkedin": "https://www.linkedin.com/company/iberis-info",
+    "founders": [],
+    "entity_type": "startup",
+    "website_content": "Factures, dÃ©penses, trÃ©sorerie : tout gÃ©rer facilement avec Iberis - Logiciel Facturation Tunisie",
+    "website_metadata": {
+        "url": "https://iberis.io/",
+        "content_length": 100
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/iberis-info"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/iberis-info"
+    },
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:39:12.543900",
+        "website_enriched": true,
+        "tavily_results": 3,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "sources": [
+        {
+            "type": "website",
+            "url": "https://iberis.io/",
+            "confidence": 1.0
+        }
+    ],
+    "external_profiles": {
+        "website": "https://www.iberissoftware.com/about-us",
+        "linkedin": "https://www.linkedin.com/company/iberis-info",
+        "crunchbase": "https://www.crunchbase.com/organization/iberis-capital"
+    },
+    "tavily": {
+        "query": "Iberis",
+        "answer": "iBeris is a consulting firm specializing in IT services, founded in 2012 with offices in Chennai and Edison. Wellfound, a startup platform, was founded in 2013 and is based in New York City. Both companies focus on different aspects of technology and business services.",
+        "results_count": 3,
+        "urls": [
+            "https://www.crunchbase.com/organization/iberis-capital",
+            "https://www.linkedin.com/company/iberis-info",
+            "https://www.iberissoftware.com/about-us"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\iberis.json",
+    "normalized_name": "iberis",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "iberis.io",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/iberis-info",
+                    "normalized": "https://linkedin.com/company/iberis-info",
+                    "username": "iberis-info",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

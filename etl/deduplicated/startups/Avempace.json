@@ -1,0 +1,286 @@
+{
+    "entity_type": "startup",
+    "name": "Avempace",
+    "description": "Grâce à son expertise pointue en IoT et sa technologie innovante ViziaLive, Avempace se positionne comme leader des technologies embarquées pour la communication en temps réel.",
+    "tagline": "",
+    "industry": "Consumer products and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2015",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.avempace-wireless.com/about-us",
+    "linkedin_url": "https://www.linkedin.com/company/avempace",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/avempace",
+        "facebook": "https://facebook.com/AvempaceWireless"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/avempace"
+    },
+    "founders": [
+        {
+            "name": "Haythem Boughzala",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Abdelhamid Kerkeni",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [
+        "custom software development",
+        "product design",
+        "QA",
+        "consultancy services",
+        "IoT Services",
+        "IoT Solutions",
+        "Wireless Audio & Bluetooth",
+        "Real Time Communication",
+        "Smart Agriculture Systems",
+        "RFID and BLE Connectivity"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [
+        "English",
+        "Deutsch",
+        "Français"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:18:55.148851",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 10,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Aug-19"
+    },
+    "external_profiles": {
+        "website": "https://www.avempace-wireless.com/about-us",
+        "linkedin": "https://fr.linkedin.com/company/avempace"
+    },
+    "tavily": {
+        "query": "Avempace",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://avempace-wireless.com/",
+            "https://avempace.com/",
+            "https://www.avempace-wireless.com/about-us/",
+            "https://avempace.io/company/",
+            "https://avempace.io/contact-us/",
+            "https://fr.linkedin.com/company/avempace",
+            "https://www.linkedin.com/company/avempaceio",
+            "https://linkedin.com/in/boughzalahaythem",
+            "https://avempace.io/",
+            "https://www.societe.com/societe/avempace-953993086.html",
+            "https://lespepitestech.com/startup-de-la-french-tech/avempace",
+            "https://aeroleads.com/company/avempace-email-format",
+            "https://prospeo.io/c/avempace-email-format",
+            "https://plato.stanford.edu/entries/ibn-bajja/index.html",
+            "https://en.wikipedia.org/wiki/Avempace",
+            "https://wellcomecollection.org/concepts/p8tv4t9j",
+            "https://www.newadvent.org/cathen/02150a.htm",
+            "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/avempace-ibn-bajjah-abu-bakr-muhammad-ibn-yahya",
+            "https://avempace.io/reach-out/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![IoT and Embedded solutions](https://avempace-wireless.com/wp-content/uploads/2021/07/Logo_Avempace_2018_Horizontal.png) ![IoT and Embedded solutions](https://avempace-wireless.com/wp-content/uploads/2021/07/Logo_Avempace_2018_Horizontal.png) ](https://avempace-wireless.com/)\n* [Home](https://avempace-wireless.com/)\n* [IoT Services](https://www.avempace-wireless.com/about-us/)\n* [Embedded System Development](https://www.avempace-wireless.com/embedded-system-development/)\n* [Cloud Development](https://www.avempace-wireless.com/cloud-development/)\n* [Mobile Applications Development](https://www.avempace-wireless.com/mobile-applications-development/)\n* [IoT Solutions](https://www.avempace-wireless.com/about-us/)\n* [Indusmind Smart energy](https://www.avempace-wireless.com/indusmind-smart-energy/)\n* [Watermon Smart Irrigation Platform](https://www.avempace-wireless.com/portfolio/watermon-agritech-water-system/)\n* [Vizia Live – WebRTC for things stack](https://www.avempace-wireless.com/portfolio/vizia-live-webrtc/)\n* [Our Company](https://www.avempace-wireless.com/about-us/)\n* [About Us](https://www.avempace-wireless.com/about-us/)\n* [Contacts](https://www.avempace-wireless.com/contacts/)\n* [![](https://www.avempace-wireless.com/about-us/)English](https://www.avempace-wireless.com/about-us/#pll_switcher)\n* [![](https://www.avempace-wireless.com/about-us/)English](https://www.avempace-wireless.com/about-us/)\n* [![](https://www.avempace-wireless.com/about-us/)Deutsch](https://www.avempace-wireless.com/de/uber-uns/)\n* [![](https://www.avempace-wireless.com/about-us/)Français](https://www.avempace-wireless.com/fr/a-propos-de-nous/)\n[ ![IoT and Embedded solutions](https://avempace-wireless.com/wp-content/uploads/2021/07/Logo_Avempace_2018_Horizontal.png) ](https://avempace-wireless.com/)\n* [Home](https://avempace-wireless.com/)\n* [IoT Services](https://www.avempace-wireless.com/about-us/)\n* [Embedded System Development](https://www.avempace-wireless.com/embedded-system-development/)\n* [Cloud Development](https://www.avempace-wireless.com/cloud-development/)\n* [Mobile Applications Development](https://www.avempace-wireless.com/mobile-applications-development/)\n* [IoT Solutions](https://www.avempace-wireless.com/about-us/)\n* [Indusmind Smart energy](https://www.avempace-wireless.com/indusmind-smart-energy/)\n* [Watermon Smart Irrigation Platform](https://www.avempace-wireless.com/portfolio/watermon-agritech-water-system/)\n* [Vizia Live – WebRTC for things stack](https://www.avempace-wireless.com/portfolio/vizia-live-webrtc/)\n* [Our Company](https://www.avempace-wireless.com/about-us/)\n* [About Us](https://www.avempace-wireless.com/about-us/)\n* [Contacts](https://www.avempace-wireless.com/contacts/)\n* [![](https://www.avempace-wireless.com/about-us/)English](https://www.avempace-wireless.com/about-us/#pll_switcher)\n* [![](https://www.avempace-wireless.com/about-us/)English](https://www.avempace-wireless.com/about-us/)\n* [![](https://www.avempace-wireless.com/about-us/)Deutsch](https://www.avempace-wireless.com/de/uber-uns/)\n* [![](https://www.avempace-wireless.com/about-us/)Français](https://www.avempace-wireless.com/fr/a-propos-de-nous/)\n# About Us\n* [Home](https://avempace-wireless.com)\n* About Us\n// what we offer\n## Your Partner for\nSoftware Innovation\nAvempace is a trusted partner of several entreprises and Medium Size Companies with established partnerships. We help businesses elevate their value through custom software development, product design, QA and consultancy services.\n_**We can help to maintain and modernize your IT infrastructure and solve various infrastructure-specific issues a business may face.**_\n#### [Our Mission ![Our Mission](https://engitech.s3.amazonaws.com/images/image-box1.jpg) ](https://www.avempace-wireless.com/about-us/)\n#### [Our Philosophy ![Our Philosophy](https://engitech.s3.amazonaws.com/images/image-box3.jpg) ](https://www.avempace-wireless.com/about-us/)\n#### [Our Vision ![Our Vision](https://engitech.s3.amazonaws.com/images/image-box2.jpg) ](https://www.avempace-wireless.com/about-us/)\n#### [Our Strategy ![Our Strategy](https://engitech.s3.amazonaws.com/images/image-box4.jpg) ](https://www.avempace-wireless.com/about-us/)\n[![aedle](https://avempace-wireless.com/wp-content/uploads/2021/08/aedle.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![eissound](https://avempace-wireless.com/wp-content/uploads/2021/08/eissound.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![radioshoplogo](https://avempace-wireless.com/wp-content/uploads/2021/08/radioshoplogo-1.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![head_acoustics](https://avempace-wireless.com/wp-content/uploads/2021/08/head_acoustics.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![Somphy](https://avempace-wireless.com/wp-content/uploads/2021/08/Somphy.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![cvs_logo_v2](https://avempace-wireless.com/wp-content/uploads/2021/08/cvs_logo_v2.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![tonna](https://avempace-wireless.com/wp-content/uploads/2021/08/tonna.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![vwn_transparent](https://avempace-wireless.com/wp-content/uploads/2021/08/vwn_transparent.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![Awox](https://avempace-wireless.com/wp-content/uploads/2021/08/Awox.png)](http://themeforest.net/user/OceanThemes/portfolio)\n[![skideev_v2](https://avempace-wireless.com/wp-content/uploads/2021/08/skideev_v2.png)](http://themeforest.net/user/OceanThemes/portfolio)\n![](https://avempace-wireless.com/wp-content/uploads/2021/08/1601115165214.jpg)\n// Experience. Execution. Excellence.\n## What We Actually Do\n[ ](https://www.avempace-wireless.com/about-us/)\n[ ](https://www.avempace-wireless.com/about-us/)\n[ ](https://www.avempace-wireless.com/about-us/)\n[ ](https://www.avempace-wireless.com/about-us/)\n##### IoT systems Development Services\nAvempace is the partner of choice for many of the world’s leading enterprises, SMEs and technology challengers. We help businesses elevate their value through custom software development, product design, QA and consultancy services.\n[ LEARN MORE](https://www.avempace-wireless.com/about-us/)\n// our services\n## Our Leadership Team\nWe help businesses elevate their value through custom software development,\nproduct design, QA and consultancy services.\n![](https://www.avempace-wireless.com/wp-content/uploads/2021/08/haythem_web.png)\n[ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/)\n#### Haythem Boughzala\nCo-Founder of company, CEO\n![](https://www.avempace-wireless.com/wp-content/uploads/2021/08/abdelhamid_web.png)\n[ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/) [ ](https://www.avempace-wireless.com/about-us/)\n#### Abdelhamid Kerkeni\nCo-Founder of company, CTO\nK+\n###### End Users\n+\n###### Business Partners\n+\n###### team members\n+\n###### Glorious Years\n// An nearshore location for high added value designs\n## Improve and Innovate\nwith a highly qualified team\nWe hire and build your own remote dedicated development teams tailored to your project needs. Based in Tunisia, Avempace provides access to highly qualified engineering ressources and brings a proven expertise in multi-component systems development.\nWeb and mobile development 85%\nIoT systems design 90%\nEmbedded software and Electronics 95%\n![](https://avempace-wireless.com/wp-content/uploads/2021/08/Tunis.png)\n##### We answer your inquiries within one business day !\nHave an IoT project, an inquiry about system architecture, IoT services, our global presence, cooperation model or costs ?\nGet accurate answers from our team and talk to our technical experts. Packages available from few consultation hours to large scale projects !\n[](https://avempace-wireless.com/index.php/contacts/) [ CONTACT US](https://avempace-wireless.com/index.php/contacts/)\n#### IoT Services\n* [ Web & Cloud Development ](https://avempace-wireless.com/cloud-development)\n* [ Mobile Applications Development ](https://avempace-wireless.com/mobile-applications-development)\n* [ Embedded Software  ](https://avempace-wireless.com/embedded-system-development)\n#### IoT Solutions\n* [ Wireless Audio & Bluetooth ](https://www.avempace-wireless.com/about-us/)\n* [ Real Time Communication ](https://avempace-wireless.com/portfolio/vizia-live-webrtc)\n* [ Smart Agriculture Systems ](https://avempace-wireless.com/portfolio/watermon-agritech-water-system)\n* [ RFID and BLE Connectivity ](https://www.avempace-wireless.com/about-us/)\n#### Company\n* [ About Company ](https://avempace-wireless.com/about-us)\n* [ Contact ](https://avempace-wireless.com/contacts)\n#### Social\nFind us on social media\n[ Facebook-f ](https://www.facebook.com/AvempaceWireless) [ Linkedin-in ](https://www.linkedin.com/company/avempace)\n[ ![IoT and Embedded solutions](https://avempace-wireless.com/wp-content/uploads/2020/08/cropped-avempace_new_logo_781x127_transparent-Copie.png) ](https://avempace-wireless.com/)\nCopyright © 2026 **Avempace Technologies**. All Rights Reserved.\n[](https://www.avempace-wireless.com/about-us/)",
+    "website_metadata": {
+        "url": "https://www.avempace-wireless.com/about-us/",
+        "content_length": 9376
+    },
+    "linkedin": "https://fr.linkedin.com/company/avempace",
+    "phones": [
+        "1601115165214"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\avempace.json",
+    "normalized_name": "avempace",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "avempace-wireless.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/avempace",
+                    "normalized": "https://linkedin.com/company/avempace",
+                    "username": "avempace",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/AvempaceWireless",
+                    "normalized": "https://facebook.com/AvempaceWireless",
+                    "username": "AvempaceWireless",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "1601115165214"
+            ]
+        }
+    }
+}

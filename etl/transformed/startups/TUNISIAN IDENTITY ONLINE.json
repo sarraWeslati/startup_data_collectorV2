@@ -1,0 +1,303 @@
+{
+    "entity_type": "startup",
+    "name": "TUNISIAN IDENTITY ONLINE",
+    "description": "TUNISIAN IDENTITY ONLINE (2021)\nSecteur d’activité / Sector : Fintech\ntido.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nKARIM JEBALI / WAEL KASSIS\nKarim.jebali@bankeid.tn\nBloc B.8.3 complexe Yasmine Tower centre urbain nord\nActivité Tido est une plateforme d’identification \nélectronique via le téléphone mobile basée sur l'identité \nbancaire, permet d’accéder aux services fournis par les \ninstitutions de l’état, les banques, les assurances.. Sert à \ns'identifier en ligne, et/ou signer des documents.\nAspect Technologique Nous travaillons sur un système de \nsignature en cloud qui utilise l’authentification UAF FIDO \ncompatible avec le C.S.C.\nOriginalité On utilise les bases de données de la banque \npartenaire pour émettre des signatures électroniques aux \nclients en ligne.\nActivity \"Tido\" mobile application is a secure \nelectronic proof of identity that allows you to digitally \nsign a document.\nTechnological Aspect We're working on a cloud-based \nsignature system that uses UAF FIDO authentication and \nis compatible with the C.S.C.\nOriginality We use our partner bank’s databases to issue \nelectronic signatures to their end-users online.\nFR\nEN",
+    "tagline": "Les sondages du futur, dès aujourd'hui.",
+    "industry": "Fintech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://tido.tn",
+    "linkedin_url": "https://www.linkedin.com/company/tunisianidentityonline",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/tunisianidentityonline",
+        "facebook": "https://facebook.com/profile.php"
+    },
+    "contact": {
+        "emails": [
+            "karim.jebali@bankeid.tn",
+            "sales@tido.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21620251024",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/tunisianidentityonline"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "PollPro",
+            "description": "",
+            "category": ""
+        },
+        {
+            "name": "PollPro Mobile",
+            "description": "",
+            "category": ""
+        },
+        {
+            "name": "Web hooks",
+            "description": "",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://tido.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T16:07:43.565194",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "bankeid.tn",
+                "tido.tn"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[ ![Donnez une voix à votre audience grâce à l'IA](https://www.tido.tn/wp-content/uploads/2026/01/drawing.webp) ![Donnez une voix à votre audience grâce à l'IA](https://www.tido.tn/wp-content/uploads/2026/01/path1.webp) ![Donnez une voix à votre audience grâce à l'IA](https://www.tido.tn/wp-content/uploads/2026/01/drawing.webp) ![Donnez une voix à votre audience grâce à l'IA](https://www.tido.tn/wp-content/uploads/2026/01/path1.webp) ](https://www.tido.tn/)\n* [À propos](https://www.tido.tn/about-us/)\n* [Services](https://www.tido.tn/services/)\n* [Pricing](https://www.tido.tn/pricing/)\n* [Contact](https://www.tido.tn/contact/)\n[ Essayer gratuitement  ](https://sm.ppr.tn/DZs7gHWrj22SSaG2bVEe/MMWeEOIji2wmMZvZtePG)\n[ Essayer gratuitement  ](https://sm.ppr.tn/DZs7gHWrj22SSaG2bVEe/MMWeEOIji2wmMZvZtePG)\n# Les sondages du futur, dès aujourd'hui.\nDe la rédaction des questions à l’analyse finale, laissez PollPro automatiser votre collecte d’avis\n[ Essayer gratuitement ](https://sm.ppr.tn/DZs7gHWrj22SSaG2bVEe/MMWeEOIji2wmMZvZtePG)\n### L’opinion de votre audience, décodée par l’IA.\n[**En savoir plus sur nous**](https://www.tido.tn/wp-content/uploads/2026/01/brochure-pollpro-entreprises.pdf)\n###### Définissez votre Objectif (Prompt-to-Survey)\n_Ne créez plus de listes de questions. Tapez simplement votre besoin : « Je veux comprendre pourquoi les ventes de produits bio stagnent dans le sud-est malgré les promos. » Notre moteur LLM génère instantanément un sondage scientifiquement structuré, évitant les biais cognitifs et optimisé pour le taux de réponse._\n###### PollPro redéfinit le workflow de la donnée.\nPourquoi perdre des heures à concevoir des questions quand une IA peut comprendre vos objectifs ?\n###### Collecte Dynamique & Adaptative\nFini l’ennui des formulaires linéaires. PollPro agit comme un enquêteur chevronné. Si un client mentionne un problème en caisse, l’IA rebondit : « Désolé de l’entendre. Était-ce lié à l’attente ou à un problème technique ? » Le résultat ? Une donnée 4x plus riche et un client qui se sent écouté, pas interrogé.\n### PollPro : L'Intelligence au Cœur de Votre Réussite. Mesurez. Comprenez. Agissez.\n###  L'Entreprise Agile : Piloter par l'Intelligence, pas par l'Intuition\nLes entreprises modernes sont confrontées à des défis sans précédent : fidélisation des clients, engagement des collaborateurs, et adaptation rapide aux évolutions du marché. Dans un environnement ultra-compétitif, une compréhension profonde de votre dynamique interne et de la perception externe n’est plus un luxe, c’est une nécessité stratégique.\n## Analysez des milliers de réponses en un clin d’œil et découvrez ce que pensent vraiment vos clients.\n####  L'Analyse Textuelle Avancée\nAnalyse de sentiment automatisée Ne perdez plus de temps à lire des milliers de commentaires.\n####  La Création Intelligente\nGénération de sondages par IA Transformez une simple idée en un questionnaire structuré.\n####  Le Nettoyage de Données\nZéro bruit, 100% qualité Notre IA filtre automatiquement les réponses inutiles pour fiabiliser vos résultats.\n####  La Synthèse Instantanée\nRésumés automatiques par IA Obtenez un condensé textuel des points clés de votre campagne.\n####  La Logique Dynamique\nGrâce à la logique conditionnelle intelligente, vos sondages s’adaptent en temps réel aux réponses fournies.\n####  24/7 Support\nNotre équipe est disponible 24/7 pour vous accompagner sans jargon, juste avec des solutions.\n![](https://www.tido.tn/wp-content/uploads/2026/01/Screenshot-2025-10-24-at-3.47.56-PM-1.png)\n## L'IA pour la vitesse, l'humain pour la finesse.\nNotre équipe de support ne se contente pas de répondre à vos questions, elle vous aide à perfectionner votre méthodologie et à tirer le meilleur de nos outils intelligents.\n[ Learn more ](https://www.tido.tn/)\n## Prêt à transformer le feedback en moteur de croissance ?\nLe marché n’attend pas. Les habitudes de consommation de vos clients changent chaque jour. PollPro vous donne une longueur d’avance en transformant chaque interaction en une opportunité stratégique.\n[ Get in Touch ](https://www.tido.tn/contact/)\n![](https://www.tido.tn/wp-content/uploads/2026/01/Screenshot-2025-10-24-at-3.48.20-PM-1.png)\n### Une entreprise performante repose sur des collaborateurs engagés et écoutés. PollPro devient votre radar interne :\n**Baromètre d’Engagement :** Mesurez le climat social de manière fluide et non intrusive. Nos sondages intelligents garantissent un taux de participation élevé grâce à une expérience utilisateur moderne.\n**Fluidité Opérationnelle :** Identifiez les processus qui ralentissent vos équipes. En donnant la parole au terrain, vous découvrez les leviers concrets pour améliorer la productivité et le bien-être.\n**Culture du Feedback :** Installez un dialogue continu entre la direction et les employés, transformant les silences organisationnels en insights stratégiques.\n## Trusted by over 150 businesses worldwide\n[ Essai gratuit ](https://sm.ppr.tn/DZs7gHWrj22SSaG2bVEe/MMWeEOIji2wmMZvZtePG)\n[ Parlez à notre équipe ](https://www.tido.tn/contact/)\n##### No credit card required\n## “Le coût d’acquisition d’un nouveau client est aujourd’hui nettement supérieur à celui de sa fidélisation. Sur un marché de plus en plus exigeant, le moindre temps d’attente ou sentiment de manque de considération peut rapidement inciter un consommateur à changer de marque.”\n![](https://www.tido.tn/wp-content/uploads/2026/01/Screenshot-2025-10-24-at-3.47.42-PM.png)\nC’est précisément pour répondre à cet enjeu que nous avons créé  PollPro.\n## We’re here to help\nDu feedback à l’action, propulsé par l’IA.\nName*\nEmail*\nSubject*\nYour Message*\nContact our experts\n##### For general enquiries send an email to sales@tido.tn\n#### Product\n* [PollPro](https://www.tido.tn/)\n* [PollPro Mobile](https://www.tido.tn/)\n* [Web hooks](https://www.tido.tn/)\n#### Company\n* [About Us](https://www.tido.tn/)\n* [Careers](https://www.tido.tn/)\n* [Contact Us](https://www.tido.tn/)\n#### Support\n* [Help Center](https://www.tido.tn/)\n* [Blog](https://www.tido.tn/)\n* [Resources](https://www.tido.tn/)\n#### Customers\n* [Testimonials](https://www.tido.tn/)\n* [Case Studies](https://www.tido.tn/)\n#### Legal\n* [Privacy Policy](https://www.tido.tn/)\n* [Terms of Service](https://www.tido.tn/)\nTido © 2026 All Rights Reserved.\n[](https://www.facebook.com/profile.php?id=61561676416452)[](https://www.tido.tn/)[](https://www.linkedin.com/company/tunisianidentityonline/)\n[ ![Donnez une voix à votre audience grâce à l'IA](https://www.tido.tn/wp-content/uploads/2026/01/drawing.webp) ](https://www.tido.tn/)\n* [À propos](https://www.tido.tn/about-us/)\n* [Services](https://www.tido.tn/services/)\n* [Pricing](https://www.tido.tn/pricing/)\n* [Contact](https://www.tido.tn/contact/)\n[ Essayer gratuitement  ](https://sm.ppr.tn/DZs7gHWrj22SSaG2bVEe/MMWeEOIji2wmMZvZtePG)\nWe respect your privacy\nCookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking **Customize**. Click **Accept All** to consent or **Reject All** to decline non-essential cookies.\nCustomize Reject All Accept All\n[Powered by ](https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer)\nPersonalize Your Cookie Preferences ✖\nWe use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below.\nCookies marked as **Necessary** are stored in your browser because they are essential for basic site functionality. **These cookies do not require your consent under GDPR.**\nWe also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience.\n... show more\n► Necessary Cookies Standard\nNecessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data.\nNone\n► Functional Cookies Remark\nFunctional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools.\nNone\n► Analytical Cookies Remark\nAnalytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources.\nNone\n► Advertisement Cookies Remark\nAdvertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns.\nNone\n► Unclassified Cookies Remark\nUnclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.\nNone\nReject All Save Preferences Accept All\n[Powered by ](https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer)\n![Re-consent](https://www.tido.tn/wp-content/plugins/cookieadmin/assets/images/cookieadmin_icon.svg)",
+    "website_metadata": {
+        "url": "https://tido.tn",
+        "content_length": 8918
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "TUNISIAN IDENTITY ONLINE",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\tunisian_identity_online.json",
+    "normalized_name": "tunisian identity online",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "tido.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/tunisianidentityonline",
+                    "normalized": "https://linkedin.com/company/tunisianidentityonline",
+                    "username": "tunisianidentityonline",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/profile.php?id=61561676416452%29%5B%5D%28https%3A%2F%2Fwww.tido.tn%2F%29%5B%5D%28https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ftunisianidentityonline%2F",
+                    "normalized": "https://facebook.com/profile.php",
+                    "username": "profile.php",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "bankeid.tn",
+                    "tido.tn"
+                ]
+            },
+            "official": [
+                "sales@tido.tn"
+            ],
+            "details": [
+                {
+                    "original": "Karim.jebali@bankeid.tn",
+                    "normalized": "karim.jebali@bankeid.tn",
+                    "domain": "bankeid.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "sales@tido.tn",
+                    "normalized": "sales@tido.tn",
+                    "domain": "tido.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "sales@tido.tn",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 1,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+21661561676416452"
+            ]
+        }
+    }
+}

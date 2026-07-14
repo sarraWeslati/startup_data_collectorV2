@@ -1,0 +1,234 @@
+{
+    "entity_type": "startup",
+    "name": "Above Creation",
+    "description": "ABOVE Creation, utilise la technologie de réalité augmentée pour créer des plateformes qui aident les marques à vendre plus et à réduire leurs retour produits.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.above-creativity.com",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/above-creation"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/above-creation"
+    },
+    "founders": [
+        {
+            "name": "Ahmad Melki",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 59,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:09:07.625239",
+        "website_enriched": false,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-22"
+    },
+    "external_profiles": {
+        "website": "https://www.above-creativity.com",
+        "linkedin": "https://www.linkedin.com/company/above-creation",
+        "crunchbase": "https://www.crunchbase.com/organization/evolution-and-creation"
+    },
+    "tavily": {
+        "query": "Above Creation",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://createdabove.com/",
+            "https://abceventful.com/",
+            "https://www.above-creativity.com/",
+            "https://abovecloudscreation.com/",
+            "https://www.abovecreators.com/about",
+            "https://www.linkedin.com/company/above-creation",
+            "https://linkedin.com/in/abhishek-kate-12592a13a",
+            "https://www.linkedin.com/company/a-b-creation-india",
+            "https://www.linkedin.com/company/above-beyond-creative",
+            "https://opengovus.com/los-angeles-business/0003546089-0001-9",
+            "https://www.crunchbase.com/organization/evolution-and-creation",
+            "https://prospeo.io/c/above-creators-revenue",
+            "https://www.crunchbase.com/organization/uptown-creation",
+            "https://opencorpdata.com/uk/14200715"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "linkedin": "https://www.linkedin.com/company/above-creation",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\above_creation.json",
+    "normalized_name": "above creation",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "above-creativity.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/above-creation",
+                    "normalized": "https://linkedin.com/company/above-creation",
+                    "username": "above-creation",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

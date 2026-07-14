@@ -1,0 +1,377 @@
+{
+    "entity_type": "startup",
+    "name": "LOXBOX SERVICES",
+    "description": "LOXBOX SERVICES (2022)\nSecteur d’activité / Sector : Mobility\nloxbox.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nHAMAMA MED RIADH / HAMAMA HENDA / \nSELMI HELMI\ncontact@loxbox.tn\n3 Rue Kawakibi 1002 Tunis\nActivité LoxBox propose des solutions innovantes \nbasées sur la technologie : nous avons développé une \nplateforme nous permettant de gérer un réseau de points \nrelais & consignes e-Relais. Nos consignes e-Relais sont le \nproduit phare de LoxBox Services ; nous avons développé \nlocalement avec des compétences tunisiennes.\nAspect Technologique Notre e-Relais est opérationnel grâce \nà son système embarqué, son application dédiée et notre \nplateforme web LinX.\nOriginalité Visant l'automatisation du LastMile,LoxBox a \nmis en place une plateforme qui permet la gestion des \nétapes de livraison.\nActivity LoxBox offers innovative solutions based on \ntechnology: we have developed a platform allowing us to \nmanage a network of drop-off points & e-Relais lockers. \nOur e-Relais lockers are the flagship product of LoxBox \nServices; we have developed locally with Tunisian skills.\nTechnological Aspect Our e-Relais is operational thanks to \nits embedded system, its dedicated application and our \nLinX web platform.\nOriginality Aiming at the automation of the LastMile, \nLoxBox has set up a platform that allows the management \nof every step of the delivery process.\nFR\nEN",
+    "tagline": null,
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "1002 Tunis, Tunisia",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://loxbox.tn",
+    "linkedin_url": "https://www.linkedin.com/showcase/linx-by-loxbox",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/riadh-hamama",
+        "facebook": "https://facebook.com/LINX.by.LOXBOX",
+        "instagram": "https://instagram.com",
+        "youtube": "https://youtube.com/@LinXbyLOXBOX"
+    },
+    "contact": {
+        "emails": [
+            "contact@loxbox.tn",
+            "contact@loxbox.fr",
+            "sales@loxbox.fr"
+        ],
+        "phones": [
+            {
+                "number": "+21651800040",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620232026",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "1002 Tunis, Tunisia",
+        "primary_social": "https://linkedin.com/in/riadh-hamama"
+    },
+    "founders": [
+        {
+            "name": "Riadh Hamama",
+            "role": "CEO",
+            "linkedin": "https://www.linkedin.com/in/riadh-hamama/",
+            "bio": ""
+        },
+        {
+            "name": "Helmi Selmi",
+            "role": "CTO",
+            "linkedin": "https://www.linkedin.com/in/helmi-selmi/",
+            "bio": ""
+        },
+        {
+            "name": "Henda Hamama",
+            "role": "COO",
+            "linkedin": "https://www.linkedin.com/in/henda-hamama/",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "LinX Delivery Management Platform",
+            "description": "A platform to manage first and last‑mile deliveries, carrier communication, billing, statistics, multi‑agency management, ticketing, inventory, geolocation, COD, finance, fleet, subcontracting and API integration.",
+            "category": "Software"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [
+        "OST Open Startup Tunisia Premier Prix Winner Award 2022",
+        "Widu.Africa Award Winner Premier Prix First Prize",
+        "Riyeda 2022 Premier Prix / Award Winner",
+        "Forum DSI Prix Abdelwaheb Ben Ayed Poulina"
+    ],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://loxbox.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 92,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:09:41.825866",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 3,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 4,
+        "social_profiles": 4,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "loxbox.fr",
+                "loxbox.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "[best website builder for online stores](https://mobirise.com/website-builder/online-store.html) Mobirise v5.9.4 [it company website builder](https://mobirise.com/website-builder/it-company.html)\n[ ![LinX by LOXBOX - Your Delivery Software Management SYSTEM - TMS](https://loxbox.tn/assets/images/linx-by-loxbox-96x96.png) ](https://loxbox.tn/DeliverySoftware.html#header14-18) [by LOXBOX](https://loxbox.tn/index.html#top)\n* [Features](https://loxbox.tn/DeliverySoftware.html#features1-1a)\n* [Pricing](https://loxbox.tn/DeliverySoftware.html#pricing2-1c)\n* [Team](https://loxbox.tn/DeliverySoftware.html#team1-1h)\n* [Contacts](https://loxbox.tn/DeliverySoftware.html#contacts2-1g)\n[Login](https://loxbox.tn/accounts/login) [](https://loxbox.tn/DeliverySoftware-FR.html)\n![Shipping Postage LinX by LOXBOX](https://loxbox.tn/assets/images/linx-platform-features-pudo-delivery-logistics-plateforme-livraison-1036x797.png)\n# **Looking for a Delivery Management Solution ?**\nWith our unique platform, you can seamlessly manage first and last-mile deliveries, including home delivery, pickup location delivery, and smart-locker delivery.\n**(No Credit Card Needed)****\n**\n[Start For Free](https://loxbox.tn/CreateAccount.html) [Read More](https://loxbox.tn/SaaS-Platform.html#timeline3-21)\n## **Why choose LinX?**\n### App for your carriers\nA dedicated app that facilitates management and communication with your carriers.\n### Billing Module\nEasily generate and track your invoices with our integrated module.\n### Advanced Statistics\nAnalyze your performance to improve your operations.\n### Multi-Agency\nManage multiple agencies in a centralized and efficient way.\n### Ticketing System\nSimplified tracking of requests and incidents for optimized support.\n### Agency Inventory\nKeep a precise eye on your stocks and inventories in each agency.\n### Carrier Geolocation and Route Recording\nReal-time tracking of routes and carrier locations.\n### COD (Cash On Delivery) Management\nSimplified tracking and management of payments on delivery.\n### Finance Module\nAutomatic invoice generation and complete financial management.\n### Fleet Management\nOptimize and monitor your vehicle fleet efficiently.\n### Subcontracting Module\nSimple management of contractors and subcontractors.\n### Up-to-date API Documentation\nFull access to clear and regularly updated API documentation.\n###  **Growth By Numbers**\n#### We have grown from strength to strength over the years\n0\n##### **Successful Deliveries**\n0\n##### **Satisfied Clients**\n0\n##### **Countries**\n0\n##### **Smartlocker Projects**\n0\n##### **Plugins & Features**\n####  **Pricing**\nTND €\n###### **Pay-As-You-Go**\nPar Transaction\n* Unlimited Parcels/Month\n* Backup every 24H\n* Full Support & assistance\n[Get started!](https://loxbox.tn/CreateAccount.html)\n###### **Growth Pack**\n749 TND\n**Monthly**\n* 5.000 Parcels/Month\n* Backup every 24H\n* Full Support & assistance\n[ Get started!  Save 1000 DT  ](https://loxbox.tn/CreateAccount.html)\n###### **Cruise Pack**\n1500 TND\n**Monthly**\n* 10.000 Parcels/Month\n* Backup every 24H\n* Full Support & assistance\n[ Get started!  Save 2000 DT  ](https://loxbox.tn/CreateAccount.html)\n###### **Enterprise Pack**\n2490 TND\n**Monthly**\n* 30.000 Parcels/Month\n* Backup every 24H\n* Full Support & assistance\n[ Get started!  Save 8000 DT  ](https://loxbox.tn/CreateAccount.html)\n## Pack Simulator\nParcels/Month:  0\nThe Best Offer For You:\nPay-As-You-Go\nParcels/Month Range:  0 - 2000\nAverage Parcel Price: 0.350 DT per Transaction\nThe Best Offer For you: Pay-As-You-Go\nPrice: Per Usage\n###  **Our Professional Team**\n[ ![CEO - Chief Executive Officer ](https://loxbox.tn/assets/images/ceo-riadh-500x487.png) ](https://www.linkedin.com/in/riadh-hamama/)\n#####  **M. Riadh**\n**CEO**\n[ ](https://www.linkedin.com/in/riadh-hamama/)\n[![CTO - Chief Technical Officer](https://loxbox.tn/assets/images/cto-helmi-500x500.png)](https://www.linkedin.com/in/helmi-selmi/)\n#####  **M. Helmi**\n######  **CTO**\n[ ](https://www.linkedin.com/in/helmi-selmi/)\n[![COO - Chief Operating Officer](https://loxbox.tn/assets/images/coo-henda-498x500.png)](https://www.linkedin.com/in/henda-hamama/)\n#####  **Mss. Henda**\n######  **COO**\n[ ](https://www.linkedin.com/in/henda-hamama/)\n[![LogistiX Project - Logistics and Delivery First Mile Last Mile: LOXBOX North Africa](https://loxbox.tn/assets/images/untitled-6-800x300.png)](https://loxbox.tn/)\n#####  **Our Story with LOXBOX**\nFinding a platform for parcel management, shipping or a Transport Management System (TMS) is challenging, especially with multiple delivery methods.\nOur Team took the challenge seriously and provided the most convenient solution for Logistics Companies, Marketplaces & Retailers, allowing the full parcel management & automation from creation, delivery to return phases.\nFind out More about our story and how we began our journey as a Logistics Company by clicking the button below.\n[Read More](https://loxbox.tn/)\n### **Write Us a Message**\n#### Got a few questions ? We would be happy to answer :\nSend Message\nLoading...\nBy continuing you agree to our [Terms of Service](https://loxbox.tn/Policy.html) and [Privacy Policy](https://loxbox.tn/Policy.html).\n###  **Awards & Recognitions**\n#### We have been proudly awarded:\n![OST Open Startup Tunisia Premier Prix Winner Award OST Program](https://loxbox.tn/assets/images/OST-PROGRAM-award-Winner-2022-LOXBOX-WINNER-AWARD-CHALLENGE.png)\n![Widu.Africa Award Winner Premier Prix First Prize](https://loxbox.tn/assets/images/Widu-Award-LOXBOX-WINNER-AWARD-CHALLENGE.png)\n![Riyeda 2022 Premier Prix / Award Winner](https://loxbox.tn/assets/images/Riyeda-award-2022-LOXBOX-WINNER-AWARD-CHALLENGE.png)\n![Forum DSI Prix Abdelwaheb Ben Ayed Poulina](https://loxbox.tn/assets/images/Forum-DSI-LOXBOX-WINNER-AWARD-CHALLENGE.png)\n###  **Our References**\n#### Projects Happening Right Now:\n![Carrefour.tn Retailer Grande Distribution](https://loxbox.tn/assets/images/carrefour-logo.svg-240x192.png)\n![Mafalia - Your Growth Partner Senegal](https://loxbox.tn/assets/images/mafalia.svg)\n![Whole Order](https://loxbox.tn/assets/images/wholeorder.png)\n![Fakroun Express Tunisie](https://loxbox.tn/assets/images/Fakroun-Express.jpg)\n![Fasty Logistics And Services Tunisia](https://loxbox.tn/assets/images/Fasty-Logistics-And-Services.jpg)\n![HMA Express](https://loxbox.tn/assets/images/HMA-Express.jpg)\n![Level 1 Coworking Space Lac1 Tunisie](https://loxbox.tn/assets/images/Level1-Lac1-Coworking-Space.jpg)\n![Livreur Urbain Côte d'Ivoire](https://loxbox.tn/assets/images/Livreur-Urbain.jpg)\n![Oppa Delivery](https://loxbox.tn/assets/images/Oppa-Delivery.jpg)\n![Presto Express](https://loxbox.tn/assets/images/Presto-Express.jpg)\n![Rapid Colis](https://loxbox.tn/assets/images/Rapid-Colis.jpg)\n![Saden Delivery](https://loxbox.tn/assets/images/Saden-Delivery.jpg)\n![Salama Delivery](https://loxbox.tn/assets/images/Salama-Delivery.jpg)\n![Sayhi Delivery](https://loxbox.tn/assets/images/Sayhi-Delivery.jpg)\n![Shoes On Top Bruxelles Brussels](https://loxbox.tn/assets/images/Shoes-On-Top-Brussels-Bruxelles.jpg)\n![Delivery X](https://loxbox.tn/assets/images/DeliveryX.jpg)\n![Rapidus Express](https://loxbox.tn/assets/images/Rapidus-Express.jpg)\n![Kadex Delivery](https://loxbox.tn/assets/images/Kadex-Delivery.jpg)\n###  **Our Partners**\n#### Ask Them About Us.\n![Carrefour Retailer Grande Distribution](https://loxbox.tn/assets/images/ITALIAN-TRADE-AGENCY-LOXBOX.png)\n![LogistiX by LOXBOX](https://loxbox.tn/assets/images/RedStart-Tunisie-Tunis-Mohammed-V-5.png)\n![Mawlety Cosmetics - Cosmetic brand](https://loxbox.tn/assets/images/OST-OPEN-STARTUP-TUNISIA-INTERNATIONAL-LOXBOX.png)\n![Mafalia - Your Growth Partner](https://loxbox.tn/assets/images/IMPACT-PARTNER-SFT-SAMSUNG-FAST-TRACK-LOXBOX.png)\n![Whole Order](https://loxbox.tn/assets/images/TUNISIE-NUMERIQUE-LOXBOX-SERVICES.png)\n![Whole Order](https://loxbox.tn/assets/images/The-Dot-Lac1-Tunis-Tunisia.png)\n![](https://loxbox.tn/assets/images/logo-tiktak.svg)\n![](https://loxbox.tn/assets/images/logo_winsms_266.png)\n##  **Follow Us**\nKeep your social media shining with our new updates !\n[ ](https://www.linkedin.com/showcase/linx-by-loxbox/) [ ](https://www.facebook.com/LINX.by.LOXBOX) [ ](https://www.youtube.com/@LinXbyLOXBOX) [ ](https://instagram.com/)\n###  **Contacts**\n######  **Phone**\nFrance : + (33) 766534092\nTunisia : +216 51800040\n######  **Email**\nContact@loxbox.fr\nSales@loxbox.fr\n######  **Address**\n69000 Lyon, France\n1002 Tunis, Tunisia\n######  **Working Hours**\nMonday-Friday 9:00 - 18:00\nSaturday 9:00 - 14:00\n### **Our Locations**\n#### Lyon, France\n#### Tunis, Tunisia\n* [Home](https://loxbox.tn/index.html#top)\n* [Features](https://loxbox.tn/index.html#features1-1a)\n* [About](https://loxbox.tn/index.html#content10-1d)\n* [Pricing](https://loxbox.tn/index.html#pricing2-1c)\n* [Teams](https://loxbox.tn/index.html#team1-1h)\n* [Contacts](https://loxbox.tn/index.html#contacts4-1i)\n[ ](https://www.linkedin.com/showcase/linx-by-loxbox/)\n[ ](https://www.facebook.com/LINX.by.LOXBOX)\n[ ](https://www.youtube.com/@LinXbyLOXBOX)\n[ ](https://instagram.com/)\n© Copyright 2023 - 2026 LOXBOX Services. All Rights Reserved. | [Terms of Service (CGU)](https://loxbox.tn/cgu.html)\n##### Subscribe to Our Newsletter\nEnter your email address\nSubscribe\nLoading...",
+    "website_metadata": {
+        "url": "https://loxbox.tn",
+        "content_length": 9278
+    },
+    "external_profiles": {},
+    "linkedin": "https://www.linkedin.com/showcase/linx-by-loxbox/",
+    "emails": [
+        "contact@loxbox.tn",
+        "contact@loxbox.fr",
+        "sales@loxbox.fr",
+        "Contact@loxbox.fr",
+        "Sales@loxbox.fr"
+    ],
+    "phones": [
+        "0 - 2000",
+        "33) 766534092",
+        "+216 51800040",
+        "2023 - 2026",
+        "+ (33) 766534092"
+    ],
+    "tavily": {
+        "query": "LOXBOX SERVICES",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\loxbox_services.json",
+    "normalized_name": "loxbox services",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "loxbox.tn",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/in/riadh-hamama",
+                    "normalized": "https://linkedin.com/in/riadh-hamama",
+                    "username": "riadh-hamama",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/LINX.by.LOXBOX",
+                    "normalized": "https://facebook.com/LINX.by.LOXBOX",
+                    "username": "LINX.by.LOXBOX",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://instagram.com",
+                    "normalized": "https://instagram.com",
+                    "username": "",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@LinXbyLOXBOX",
+                    "normalized": "https://youtube.com/@LinXbyLOXBOX",
+                    "username": "@LinXbyLOXBOX",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "loxbox.fr",
+                    "loxbox.tn"
+                ]
+            },
+            "official": [
+                "contact@loxbox.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@loxbox.tn",
+                    "normalized": "contact@loxbox.tn",
+                    "domain": "loxbox.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@loxbox.fr",
+                    "normalized": "contact@loxbox.fr",
+                    "domain": "loxbox.fr",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "sales@loxbox.fr",
+                    "normalized": "sales@loxbox.fr",
+                    "domain": "loxbox.fr",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 5,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@loxbox.tn",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 2,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+21602000",
+                "+21633766534092",
+                "+33766534092"
+            ]
+        }
+    }
+}

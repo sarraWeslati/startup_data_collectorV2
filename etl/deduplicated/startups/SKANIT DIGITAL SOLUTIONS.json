@@ -1,0 +1,220 @@
+{
+    "entity_type": "startup",
+    "name": "SKANIT DIGITAL SOLUTIONS",
+    "description": "30\nAPII / CIDT – SEPTEMBER 2022\nSKANIT DIGITAL SOLUTIONS (2022)\nSecteur d’activité / Sector : FoodTech & New Food\nskanit.net\nFondateur / Founder\nE-mail\nAdresse / Address\nABDELKARIM RAHAL / NADA DKHIL\nrahal.kerim@gmail.com\n03, Rue des tulipes, Ezzahra 2034\nActivité SKANIT est une application web de gestion \nde restaurants, de bars, de cafés... qui aide le restaurateur \nà bien gérer son établissement, à améliorer ses services \net donc à augmenter son chiffre d'affaires grâce à un \nsystème simple et facile à utiliser !\nAspect TechnologiqueNous avons choisi le framework de \ndéveloppement web Laravel (en PHP), MySQL, le machine \nlearning (python), BI...\nOriginalité On offre une nouvelle expérience à notre client, \ndigitalisation de menus, prévision de ventes, programme \nde fidélité...\nActivity SKANIT is a web application for managing \nrestaurants, bars, cafes... which helps the restaurateur to \nmanage his establishment, to improve his services and \ntherefore to increase his turnover using a simple and \neasy-to-use system !\nTechnological Aspect We chose Laravel framework (PHP) \nfor web development, MySQL, machine learning (python), \nBI...\nOriginality We offer a new experience to our client, \ndigitization of menus, sales forecast, loyalty program...\nFR\nEN",
+    "tagline": null,
+    "industry": "FoodTech & New Food",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://skanit.net",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "rahal.kerim@gmail.com"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [
+        "Laravel (PHP)",
+        "MySQL",
+        "Python (machine learning)",
+        "Business Intelligence"
+    ],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 57,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:42:54.253125",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 4,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 0,
+            "generic_count": 1,
+            "official_count": 0,
+            "domains": [
+                "gmail.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "external_profiles": {},
+    "emails": [
+        "rahal.kerim@gmail.com"
+    ],
+    "tavily": {
+        "query": "SKANIT DIGITAL SOLUTIONS",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\skanit_digital_solutions.json",
+    "normalized_name": "skanit digital solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "skanit.net",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 0,
+                "generic": 1,
+                "official": 0,
+                "domains": [
+                    "gmail.com"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "rahal.kerim@gmail.com",
+                    "normalized": "rahal.kerim@gmail.com",
+                    "domain": "gmail.com",
+                    "valid": true,
+                    "generic": true,
+                    "business": false,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "rahal.kerim@gmail.com",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

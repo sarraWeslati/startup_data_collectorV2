@@ -1,0 +1,360 @@
+{
+    "entity_type": "startup",
+    "name": "SOCIETE B QUBE",
+    "description": "32\nAPII / CIDT – SEPTEMBER 2022\nSOCIETE B QUBE (2017)\nSecteur d’activité / Sector : Business Software and services\nbqubeits.com\nFondateur / Founder\nE-mail\nAdresse / Address\nABED BECHIRI\na.bechiri@bqubeits.com\nImmeuble Abdeljabbar Staali Bureau N° D1, rue Moussa \nSadhi, Borj el Baccouch, 2027, Ariana, Tunisia\nActivité BQube ITs est une start-up spécialiste en \nIndustrie4.0. Elle offre la solution QMES en mode SAAS \n(Software as a Service) exploitable au sein ou en dehors \nde la structure (accessible de partout), qui permet \nune gestion et un contrôle h24 du déroulement des \nactivités. Afin de permettre les entreprises industrielles \nde maîtriser tous les détails du processus de production \nqui ont un impact négatif sur l’efficacité et la qualité de \nleurs opérations QMES 4.0 a été conçu pour: -Avoir une \nmeilleure gestion du flux de l'usine -Améliorer les pertes \nde performance, de qualité et de disponibilité -Faire le \nsuivi de l'usine en temps réel. -Analyser le rendement et \nl'identification des problèmes. QMES 4.0 est également \ncapable de prévoir les risques via un système de \nprédiction des défauts et de la production.\nAspect Technologique L'application QMES est Full Web, \nen mode SAAS, hébergée EN CLOUD ou en Serveur \nlocale dépendamment du besoin du client, communique \ndirectement avec les automates et les capteurs (IoT) \npour la collecte automatique des données.\nOriginalité Application performante et interactive: le temps \nde réponse permet de gérer un nombre considérable de \ntransactions simultanées (Actuellement, la solution gère \nune production de 3 pièces par seconde et par ligne \nchez une industrie comportant 30 lignes). -Protocole de \ncommunication standard et multicanal. - La solution est en \nmode SAAS (Hébergé en Cloud ou sur un serveur local) \naccessible à distance permettant le contrôle et le suivi h24 \nvia tout appareil connecté. -La solution est développée \nd'une manière à obéir parfaitement aux attentes des \nprofessionnelles en industrie grâce aux collaborateurs qui \nsont des consultants métiers et qui maîtrisent les besoins. \n-La modularité: QMES intègre plusieurs modules à la fois: \nTraçabilité, qualité et production.\nActivity BQube ITs is a start-up specialized in Industry \n4.0. It offers the QMES solution in SAAS mode (Software \nas a Service), which can be used inside or outside the \ncompany (accessible from anywhere), and which allows \na -24hour management and control of the activities. In \norder to allow industrial companies to control all the \ndetails of the production process that have a negative \nimpact on the efficiency and quality of their operations \nQMES 4.0 has been designed to - Have a better \nmanagement of the plant flow - Improve performance, \nquality and availability losses -Monitor the plant in real \ntime. -Analyze performance and identify problems. QMES \n4.0 is also capable of predicting risks via a defect and \nproduction prediction system.\nTechnological Aspect The QMES application is Full Web, \nin SAAS mode, hosted in the cloud or on a local server \ndepending on the customer's needs, communicates \ndirectly with the automatons and sensors (IoT) for \nautomatic data collection.\nOriginality Powerful and interactive application: the \nresponse time allows managing a considerable number \nof simultaneous transactions (Currently, the solution \nmanages a production of 3 parts per second and per line \nin an industry with 30 lines). Standard and multi-channel \ncommunication protocol. - The solution is in SAAS mode \n(hosted in the cloud or on a local server) and is remotely \naccessible, allowing control and monitoring 24 hours a \nday via any connected device. -The solution is developed \nin such a way as to perfectly meet the expectations of \nindustry professionals, thanks to the employees who \nare business consultants and who master the needs. \n-Modularity: QMES integrates several modules at once: \nTraceability, quality and production.\nFR\nEN",
+    "tagline": "Industrie 4.0",
+    "industry": "Business Software and services",
+    "keywords": [
+        "MES",
+        "CRM",
+        "LIMS",
+        "SaaS",
+        "Industrial Software"
+    ],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://bqubeits.com",
+    "linkedin_url": "https://www.linkedin.com/company/bqube-its",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/bqube-its",
+        "facebook": "https://facebook.com/Bqube-its-579830202375030",
+        "youtube": "https://youtube.com/channel/UCc8LbAmilpzu8J0NWcaJ2lA"
+    },
+    "contact": {
+        "emails": [
+            "a.bechiri@bqubeits.com",
+            "b.contact@bqubeits.com",
+            "contact@bqubeits.com"
+        ],
+        "phones": [
+            {
+                "number": "+21670146565",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21692657554",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/bqube-its"
+    },
+    "founders": [],
+    "leadership": [
+        {
+            "name": "Abed Bechiri",
+            "role": "Manager",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "QMES",
+            "description": "Solution MES for production management, integrable within a BPM or as a stand‑alone full‑web application, offering real‑time data capture, traceability and quality control.",
+            "category": "MES"
+        },
+        {
+            "name": "QLABO",
+            "description": "LIMS solution for laboratory management, modular, full‑web and integrable with BPMs, supporting ISO/CE methods, sample traceability and equipment management.",
+            "category": "LIMS"
+        },
+        {
+            "name": "QVISITE",
+            "description": "CRM solution to manage sales processes, visits, projects and customer relations, with mobile offline/online capabilities and automated workflows.",
+            "category": "CRM"
+        }
+    ],
+    "services": [
+        "Aide à la décision",
+        "Développement spécifique",
+        "Interfaçage avec d'autres systèmes d’informations",
+        "Infogérance de vos serveurs et maintenance",
+        "Hébergement Cloud"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [
+        "avocarbon.com",
+        "stc-chaffoteaux.com",
+        "somef.tn",
+        "plast-tech.tn",
+        "oilyssa.com",
+        "softyclean.tn"
+    ],
+    "partners": [
+        "avocarbon.com",
+        "stc-chaffoteaux.com",
+        "somef.tn",
+        "plast-tech.tn",
+        "oilyssa.com",
+        "softyclean.tn"
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://bqubeits.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 60,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:48:35.229531",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 5,
+        "technologies_count": 0,
+        "partners_count": 6,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 3,
+            "domains": [
+                "bqubeits.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "* _![](https://bqubeits.com/images\\\\icons\\\\telephone.png)_Téléphone : +216 70 14 65 65\n* _![](https://bqubeits.com/images\\\\icons\\\\email.png)_E-Mail : b.contact@bqubeits.com\n* _![](https://bqubeits.com/images\\\\icons\\\\whatsapp.png)_Whatsapp : +216 92 65 75 54\n* [](https://www.facebook.com/Bqube-its-579830202375030/)\n* [](https://www.linkedin.com/company/bqube-its/)\n* [](https://www.youtube.com/channel/UCc8LbAmilpzu8J0NWcaJ2lA)\n[![](https://bqubeits.com/images/logo/logo.png)](https://bqubeits.com/index.html)\n[](javascript:void\\(0\\))\n* [Accueil](https://bqubeits.com/index.html)\n* [Présentation](javascript:animateScrollTo\\(900\\);)\n* [Nos produits](javascript:animateScrollTo\\(1300\\);)\n* [Nos services](javascript:animateScrollTo\\(2000\\);)\n* [Ils nous font confiance](javascript:animateScrollTo\\(2400\\);)\n* [Contact](javascript:scontact_nous\\(\\);)\n* # Industrie 4.0\nRejoignez la nouvelle génération avant vos concurrents !\n[contactez-nous](javascript:scontact_nous\\(\\);)\n* # Nos modèles sont conçus pour\nvous offrir des solutions clefs en main\nTout comme nos produits facilement intégrables au sein d'un BPM,\nnous savons nous intégrer au sein de vos équipes.\n[Contactez-nous](javascript:scontact_nous\\(\\);)\n* # Nos applications sont sécurisées,\nintuitives et modulables\nElles permettent de se concentrer sur l'essentiel de votre activité\n[contactez-nous](javascript:scontact_nous\\(\\);)\n* # Adaptabilité\nC’est la garantie d'une intégration sans heurts\nà vos méthodes de travail et aux flux de données.\n[contactez-nous](javascript:scontact_nous\\(\\);)\n* # Solutions hébergées en Cloud\nPas d’investissement en infrastructures pour vous faciliter l’accès\n[contactez-nous](javascript:scontact_nous\\(\\);)\n## Présentation\nL'erreur humaine et le gaspillage de temps deviennet une menace pour le monde entrepreneurial actuel qui tend à être plus agile et plus évolutif. Pur cela, en tant que expert de domaine, BQube ITs offre des solutions métiers développées d'une manière spécifique et sur-mesure pour s'intégrer facilement aux systèmes d'information.\nAvec des solutions en mode SAAS, FullWeb et modulaires, BQube ITs vous apporte plus de fléxibilité à votre modèle d'entreprise et vous garantie la traçabilité en temps réel et la facilité d'accès à l'application.\nAvec le savoir faire d'une équipe pluridisciplinaire, motivée et toujours à l'écoute, BQube ITs assure l'accompagnement et l'encadrement pour la mise en place et la manipulation de vos applications pour vous permettre une expérience complète et satisfaisante\n## Nos produits\n![](https://bqubeits.com/images/produit/QMESBLEU.png)\n#### QMES\n![](https://bqubeits.com/images/produit/QMESBLANC.png)\nSolution MES pour la gestion de production, conçue pour être intégrée au sein d'un BPM ou en stand-alone full-web ...\n[read more ](javascript:hideProd1\\(QMES\\);)\n![](https://bqubeits.com/images/produit/QVISITEBLEU.png)\n#### QVISITE\n![](https://bqubeits.com/images/produit/QVISITEBLANC.png)\nSolution CRM conçue pour être adaptée à votre processus commercial ...\n[read more ](javascript:hideProd3\\(QVISITE\\);)\n![](https://bqubeits.com/images/produit/QLABOBLEU.png)\n#### QLABO\n![](https://bqubeits.com/images/produit/QLABOBLANC.png)\nSolution LIMS pour la gestion de laboratoire orienté processus ...\n[read more ](javascript:hideProd2\\(QLABO\\);)\n### Présentation du QMES\nQMES, est une solution MES de gestion de production, est conçue pour être intégrée au sein d'un BPM ou en stand-alone full-web, orienté processus, modulaire et heavy-duty. Il est en outre un système de contrôle de gestion et de suivi des travaux en cours dans un atelier ou dans une usine.\nQMES vous permet la saisie en temps réel de vos données de production par les opérateurs ou les machines et offre à vos responsables un outil de suivi et de traçabilité en temps réel des données de production.\nGestion de réception\n- Gestion de réception\n- Gestion et suivi des fournisseurs (statuts : CR, AQP)\n- Contrôle à la réception\n- Traitement des FNC et des incidents\n- Contrôle qualitatif et quantitatif automatisé, qualification des fournisseurs et automatisation des flux magasin et qualité.\nGestion de stock\n- Inventaire du stock par lot\n- Stock de sécurité\n- Dates de préemption produit (DLC, DLU…)\n- Approvisionnement (poussé - tiré)\n- Gestion des dépôts (MP, SF, PF, rebut et quarantaine)\n- Méthodes de gestion (FIFO, LIFO, NSERIE, Manuel)\nProduction\n- Check-list de démarrage\n- Production par phase\n- Consommation matière première et semi-fini configurable\n- Déclarations simplifiées par lecture CàB\n- Détection et déclaration des non conformités\n- Contrôle qualité intégré\n- Impression automatique des étiquettes par conditionnement avec leur CàB\n- Approvisionnement inter OF\nQualité\n- Suivi des non-conformités.\n- Suivi en temps réel des contrôles réalisés et ceux restant à faire\n- Contrôle Qualité sur mesure tout au long du cycle de la production\n- QRQC et plans d'actions\n- Suivi des réclamations\nTraçabilité\n- Ascendante et descendante, par lot ou numéro de série à travers les phases du cycle de vie du produit avec monitoring en temps réel durant les phases de production\n- Les réceptions fournisseurs.\n- Les opérateurs sur chaîne, les superviseurs et les opérateurs Qualité\n- Les défauts et leurs fiches de non conformités, les dérogations\nPour plus d'informations sur QMES [Cliquer ici ](https://bqubeits.com/QMESV2.pdf)\n### Présentation du QLABO\nQLABO est une solution LIMS de gestion de laboratoire orienté processus. Celle-ci est conçue pour être intégré au sein d’un BPM ou en stand alone, full-web, modulaire et heavy-duty. Le socle applicatif est entièrement ouvert, il s’intègre d’une manière transparente aux applicatifs existants.\nLes laboratoires d'analyse en évolution continue cherchent à maîtriser davantage leurs processus et à s'aligner avec leurs systèmes d’information, QLABO est hautement qualifiée pour y être intégrée tout en étant configurable et paramétrable. De plus, sa conception et son approche permettent l'adaptation entière à leurs métiers.\nMéthodes d'analyse ISO, CE ou clients\n- Les méthodes ou les spécifications clients\n• Valeur de référence\n• Nombre d'essais\n• Limite de détection, limite de quantification\n- Veille normative\nAnalyses\n- Nomenclatures réactifs et consommables\n- Valeur de référence par type échantillon\n- Équipements et outils\n- Traçabilité par échantillon\n- Consommation des stocks par lecture CB ou saisie manuelle\nPacks d'analyse\n- Par paramètre et par échantillon\nPlan de contrôle ou surveillance\n- Automatisation, planification des surveillances sur les lieux de prélèvements locaux ou distants\n- Un système de check-lists pour les prélèvements :\n• Les conditions de stockage et transport\n• quantités à prélever au point de prélèvement\nGestion des réceptions\n- Gestion des check-lists de réception\n- Non-conformité réception, dérogations\nRapports et certificats d'analyses\n- Génération automatique et envoi par mail aux destinataires.\n- Un mécanisme de notification mobile\nGestion des équipements\n- Planification et suivi des interventions : Préventives, Curatives, Étalonnages (Certificat d'étalonnage)\n- Check-list de réceptions\n- Fiches de vie : Préventives et curatives, suivi des déclassements\n- Étalonnages : Suivi des EMT\nPour plus d'informations sur QLABO [Cliquer ici ](https://bqubeits.com/QLABOV2.pdf)\n### Présentation du QVISITE\nQVISTE est une solution CRM dédiée à votre processus commercial. Full web, modulaire et évolutive, elle est conçue afin de gérer, appuyer et orienter votre force de vente, en se basant sur un suivi détaillé et méticuleux de vos ressources ainsi que la qualification des tiers.\nFidéliser vos clients\n- Qualification des fiches clients\n- Suivi des : Visites, phases de chantiers, phases de projet…\n- Traitement des réclamations\n- Gestion des relances\nConquérir de nouveaux marchés\n- Planification de visites et cadencier par tiers et par zone\n- Détection, qualification et évaluation des opportunités, et des projets\n- Localisation automatique des intervenants (revendeurs, chantiers…)\nGrande réactivité sur le terrain : Application mobile\n- Mode OnLine et OffLine\n- Saisie des rapports de visites\n- Détection des opportunités et des projets\n- Localisations des chantiers et des visites (GPS)\nAutomatisation du processus\n- Remontée d’informations\n- Notifications automatiques\n- Workflows et systèmes de validation\n- Suivi des réalisations\nPour plus d'informations sur QVISITE [Cliquer ici ](https://bqubeits.com/QVISITEV2.pdf)\n### Présentation du produit 4\nWe are experts in this industry with over 100 years experience. What that means is you are going to get right solution. please find our services.\nSuivi de la force de vente\n- Planning des visites et des actions.\n- Calendrier configurable (par groupe, commercial, zone…).\n- Actions commerciales entreprises : Par campagnes et par actions ponctuelles.\n- Suivi des réalisations (Visites, Actions).\n- Plan de charge des tournées embarqué :\n• Saisie des rapports de visite sur smartphone\n• Positionnement GPS.\n• Notification des clients à proximité.\n- Gestion des incentives par contact et par projet.\nVisibilité globale des affaires (opportunités, projets)\n-Suivi par Commercial, porteur d'affaire, prescripteur…\n-Qualification et classification des opportunités.\n-Suivi des objectifs par article, famille d’article, commercial, zone…\n-Notifications paramétrables et configurables.\n-Relances automatiques.\n-Suivi des réclamations.\nSuivi des phases des opportunités et des projets\n- étape pre-sale.\n- Suivi des offres techniques et financières.\n- Suivi des livraisons.\nProcessus de gestion des risques intégrables à vos processus par\n- Opportunité.\n- projet.\n- phase.\n## Nos services\n[![News](https://bqubeits.com/images/service/decision.jpg)](https://bqubeits.com/#openModal1)\n#### [Aide à la décision ](https://bqubeits.com/#openModal1)\n[![News](https://bqubeits.com/images/service/dev_specifique.jpg)](https://bqubeits.com/#openModal2)\n#### [Développement spécifique ](https://bqubeits.com/#openModal2)\n[![News](https://bqubeits.com/images/service/interfa%C3%A7age.jpg)](https://bqubeits.com/#openModal3)\n#### [Interfaçage avec d'autres systèmes d’informations](https://bqubeits.com/#openModal3)\n[![News](https://bqubeits.com/images/service/infogerance.jpg)](https://bqubeits.com/#openModal4)\n#### [Infogérance de vos serveurs et maintenance ](https://bqubeits.com/#openModal4)\n[![News](https://bqubeits.com/images/service/cloud.png)](https://bqubeits.com/#openModal5)\n#### [Hébergement Cloud](https://bqubeits.com/#openModal5)\n[X](https://bqubeits.com/#close \"Close\")\n### Aide à la décision\nCroisez vos données par simple glisser-déposer\nToutes nos applications sont dotées de statistiques et de tableaux de bords croisés et dynamiques qui vous présentent les indicateurs nécessaires aux pilotages de vos projets et vous aident à avoir vos synthèses en temps réel afin de suivre vos performances, évolutions et objectifs.\n[X](https://bqubeits.com/#close \"Close\")\n### Développement spécifique\nIntégration de vos processus métiers au sein de nos applications.\nVu la modularité de nos applications, les modules existants peuvent être personnalisés et d’autres modules peuvent être développés et intégrés de manière à accompagner vos évolutions.\n[X](https://bqubeits.com/#close \"Close\")\n### Interfaçage avec d'autres systèmes d’informations\nLe socle applicatif est entièrement ouvert, il s’intègre d’une manière transparente aux applicatifs existants.\nAfin de vous garantir une intercommunication optimale de votre système d’information nos applications sont interfaçables avec vos BPM en utilisant les protocoles de communications, les plus adaptés\n[X](https://bqubeits.com/#close \"Close\")\n### Infogérance de vos serveurs et maintenance\nConception, dimensionnement mise en place et gestion de votre infrastructure : Physique et virtuelle\nNous mettons à votre disposition notre expérience, afin de vous assurer une maintenance et une assistance informatique de premier ordre pour un fonctionnement optimal de votre système d’information.\n[X](https://bqubeits.com/#close \"Close\")\n### Hébergement Cloud\nPas d’investissements en infrastructures et facilité d’accès.\nToutes nos solutions peuvent être hébergé en Cloud ce qui vous épargne les coûts coups des infrastructures et vous permet une meilleure accessibilité afin de vous garantir le suivi même en déplacement.\n## Ils nous font confiance\n[ ![](https://bqubeits.com/images/service/7.png) ](http://www.avocarbon.com/)\n[ ![](https://bqubeits.com/images/partners/logo-01.png) ](http://www.stc-chaffoteaux.com)\n[ ![](https://bqubeits.com/images/partners/logo-05.png) ](http://www.somef.tn)\n[ ![](https://bqubeits.com/images/partners/logo-02.png) ](http://www.plast-tech.tn)\n[ ![](https://bqubeits.com/images/partners/logo-03.png) ](http://www.oilyssa.com)\n[ ![](https://bqubeits.com/images/partners/logo-04.png) ](http://www.softyclean.tn)\n## Dernières nouvelles\n[![News](https://bqubeits.com/images/blog/sic.png)](https://bqubeits.com/#ModalArt1)\n11,12 et 13 Avril, 2018\n#### [Participation SITIC AFRICA 2018](https://bqubeits.com/#ModalArt1)\n[![News](https://bqubeits.com/images/blog/nessma.png)](https://bqubeits.com/#ModalArt2)\n14 Avril, 2018\n#### [Passage Nessma TV ](https://bqubeits.com/#ModalArt2)\n[X](https://bqubeits.com/#close \"Close\")\n### Participation SITIC AFRICA 2018\nL’équipe BQUBE ITS a participé au salon internationales des TIC « SITIC AFRICA » au palais des expositions du KRAM. C’était une occasion de tisser des nouvelles relations fructueuses avec nos homologues africains, canadiens et tunisiens afin de trouver des opportunités de collaborations ou de partenariats.\n[X](https://bqubeits.com/#close \"Close\")\n### Passage Nessma TV\nNotre Manager Abed Bechiri accompagné par Med Raouf Boussen ont participé le samedi 14/04/2018 à l’émission Zoom sur Nessma TV afin de parler de notre participation au salon SITIC AFRICA le 10-11-12 avril 2018.\n[Consultez l'article](https://youtu.be/D94P1B-uRkQ)\n## Envoyez nous un message\nenvoyez message\n[![](https://bqubeits.com/images/logo/logo_footer.png)](https://bqubeits.com/index.html)\nLe monde de l’entreprise d’aujourd’hui tend à être plus agile, à être plus réactif, en maintenant une maîtrise des coûts, raccourcir les délais pour les mise en production ...\n[Plus d'informations ](javascript:animateScrollTo\\(500\\);)\n### Nos Services\n* [Aide à la décision ](https://bqubeits.com/#services)\n* [Développement spécifique ](https://bqubeits.com/#services)\n* [Interfaçage avec d'autres systèmes d’informations](https://bqubeits.com/#services)\n* [Infogérance de vos serveurs et maintenance ](https://bqubeits.com/#services)\n* [Hébergement Cloud](https://bqubeits.com/#services)\n### contact us\n* Téléphone: +216 70 14 65 65\n* E-Mail : contact@bqubeits.com\n* [](https://www.facebook.com/Bqube-its-579830202375030/)\n* [](https://www.linkedin.com/company/bqube-its/)\n* [](https://www.youtube.com/channel/UCc8LbAmilpzu8J0NWcaJ2lA)",
+    "website_metadata": {
+        "url": "https://bqubeits.com",
+        "content_length": 14917
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "SOCIETE B QUBE",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\societe_b_qube.json",
+    "normalized_name": "societe b qube",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "bqubeits.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/bqube-its",
+                    "normalized": "https://linkedin.com/company/bqube-its",
+                    "username": "bqube-its",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/Bqube-its-579830202375030",
+                    "normalized": "https://facebook.com/Bqube-its-579830202375030",
+                    "username": "Bqube-its-579830202375030",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCc8LbAmilpzu8J0NWcaJ2lA",
+                    "normalized": "https://youtube.com/channel/UCc8LbAmilpzu8J0NWcaJ2lA",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 3,
+                "domains": [
+                    "bqubeits.com"
+                ]
+            },
+            "official": [
+                "a.bechiri@bqubeits.com",
+                "b.contact@bqubeits.com",
+                "contact@bqubeits.com"
+            ],
+            "details": [
+                {
+                    "original": "a.bechiri@bqubeits.com",
+                    "normalized": "a.bechiri@bqubeits.com",
+                    "domain": "bqubeits.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "b.contact@bqubeits.com",
+                    "normalized": "b.contact@bqubeits.com",
+                    "domain": "bqubeits.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@bqubeits.com",
+                    "normalized": "contact@bqubeits.com",
+                    "domain": "bqubeits.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "a.bechiri@bqubeits.com",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 2,
+            "removed": 2,
+            "duplicates": 0,
+            "invalid": [
+                "+216579830202375030",
+                "+216101112"
+            ]
+        }
+    }
+}

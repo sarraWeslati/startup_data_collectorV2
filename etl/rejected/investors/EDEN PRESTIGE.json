@@ -1,0 +1,248 @@
+{
+    "entity": {
+        "name": "EDEN PRESTIGE",
+        "description": "A real estate company specializing in financing and construction of large real estate projects in Cote d’Ivoire.",
+        "organization_type": "",
+        "country": "Côte d'Ivoire",
+        "city": "",
+        "website": "https://www.prestigengroup.com/projects-in-kochi/prestige-eden-garden",
+        "linkedin": "https://linkedin.com/company/eden-prestige-sarl",
+        "investment_focus": [
+            "real estate",
+            "construction",
+            "property development",
+            "financing"
+        ],
+        "investment_stages": [],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "external_profiles": {
+            "website": "https://www.prestigengroup.com/projects-in-kochi/prestige-eden-garden",
+            "linkedin": "https://linkedin.com/company/eden-prestige-sarl",
+            "crunchbase": "https://www.crunchbase.com/organization/eden"
+        },
+        "social_media": {
+            "linkedin": "https://linkedin.com/company/eden-prestige-sarl"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T17:16:29.150205+00:00",
+            "website_enriched": true,
+            "tavily_results": 17,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "tavily": {
+            "query": "EDEN PRESTIGE",
+            "answer": "",
+            "results_count": 17,
+            "urls": [
+                "https://linkedin.com/company/eden-prestige-sarl",
+                "https://infobiz.md/en/1025606006589/societatea-cu-raspundere-limitata-eden-prestige",
+                "https://www.eden-transports.fr/en/prestige/",
+                "https://www.prestigengroup.com/projects-in-kochi/prestige-eden-garden/",
+                "https://linkedin.com/in/eden-prestige-122505279",
+                "https://ci.linkedin.com/company/eden-prestige-sarl",
+                "https://linkedin.com/in/georges-grah-29630289",
+                "https://linkedin.com/in/felix-boni-a39736188",
+                "https://linkedin.com/in/jimmy-michael-389aaa187",
+                "https://www.crunchbase.com/organization/eden",
+                "https://www.crunchbase.com/organization/eden-health",
+                "https://www.crunchbase.com/organization/eden-ventures",
+                "https://entreprises.lefigaro.fr/eden-prestige-95/entreprise-982026874",
+                "https://find-and-update.company-information.service.gov.uk/company/12216698/officers",
+                "https://linkedin.com/in/daniel-sem-a20128287",
+                "https://www.afsic.net/private-equity-firms-in-africa/",
+                "https://companycheck.co.uk/company/09521355/EDEN-PRESTIGE-SALES-LIMITED/credit-report"
+            ]
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": true,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 0,
+            "investment_focus_count": 4,
+            "investment_stages_count": 0,
+            "geographic_focus_count": 1,
+            "partners_count": 0,
+            "team_members_count": 0,
+            "social_profiles": 1,
+            "founders_count": 0,
+            "leadership_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 1,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "website_content": "![](https://www.prestigengroup.com/cgi-sys/images/x.png)\nERROR 404 - PAGE NOT FOUND\n### [Why am I seeing this page?](https://www.prestigengroup.com/404.html)\n404 means the file is not found. If you have already uploaded the file then the name may be misspelled or it is in a different folder.\n#### _Other Possible Causes_\nYou may get a 404 error for images because you have Hot Link Protection turned on and the domain is not on the list of authorized domains.\nIf you go to your temporary url (http://ip/~username/) and get this error, there maybe a problem with the rule set stored in an .htaccess file. You can try renaming that file to .htaccess-backup and refreshing the site to see if that resolves the issue.\nIt is also possible that you have inadvertently deleted your document root or the your account may need to be recreated. Either way, please contact your web host immediately.\nAre you using WordPress? See the Section on 404 errors after clicking a link in WordPress.\n### [How to find the correct spelling and folder](https://www.prestigengroup.com/404.html)\n#### _Missing or Broken Files_\nWhen you get a 404 error be sure to check the URL that you are attempting to use in your browser.This tells the server what resource it should attempt to request.\n> http://example.com/example/Example/help.html\nIn this example the file must be in public_html/example/Example/\nNotice that the **CaSe** is important in this example. On platforms that enforce case-sensitivity **e** xample and **E** xample are not the same locations.\nFor addon domains, the file must be in public_html/addondomain.com/example/Example/ and the names are case-sensitive.\n#### _Broken Image_\nWhen you have a missing image on your site you may see a box on your page with with a red **X** where the image is missing. Right click on the **X** and choose Properties. The properties will tell you the path and file name that cannot be found.\nThis varies by browser, if you do not see a box on your page with a red **X** try right clicking on the page, then select View Page Info, and goto the Media Tab.\n> http://example.com/cgi-sys/images/banner.PNG\nIn this example the image file must be in public_html/cgi-sys/images/\nNotice that the **CaSe** is important in this example. On platforms that enforce case-sensitivity **PNG** and **png** are not the same locations.\n### [404 Errors After Clicking WordPress Links](https://www.prestigengroup.com/404.html)\nWhen working with WordPress, 404 Page Not Found errors can often occur when a new theme has been activated or when the rewrite rules in the .htaccess file have been altered.\nWhen you encounter a 404 error in WordPress, you have two options for correcting it.\n#### _Option 1: Correct the Permalinks_\n1. Log in to WordPress.\n2. From the left-hand navigation menu in WordPress, click **Settings** > **Permalinks** (Note the current setting. If you are using a custom structure, copy or save the custom structure somewhere.)\n3. Select **Default**.\n4. Click **Save Settings**.\n5. Change the settings back to the previous configuration (before you selected Default). Put the custom structure back if you had one.\n6. Click **Save Settings**.\nThis will reset the permalinks and fix the issue in many cases. If this doesn't work, you may need to edit your .htaccess file directly.\n#### _Option 2: Modify the .htaccess File_\nAdd the following snippet of codeto the top of your .htaccess file:\n# BEGIN WordPress\n<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteBase /\nRewriteRule ^index.php$ - [L]\nRewriteCond %{REQUEST_FILENAME} !-f\nRewriteCond %{REQUEST_FILENAME} !-d\nRewriteRule . /index.php [L]\n</IfModule>\n# End WordPress\nIf your blog is showing the wrong domain name in links, redirecting to another site, or is missing images and style, these are all usually related to the same problem: you have the wrong domain name configured in your WordPress blog.\n### [How to modify your .htaccess file](https://www.prestigengroup.com/404.html)\nThe .htaccess file contains directives (instructions) that tell the server how to behave in certain scenarios and directly affect how your website functions.\nRedirects and rewriting URLs are two very common directives found in a .htaccess file, and many scripts such as WordPress, Drupal, Joomla and Magento add directives to the .htaccess so those scripts can function.\nIt is possible that you may need to edit the .htaccess file at some point, for various reasons.This section covers how to edit the file in cPanel, but not what may need to be changed.(You may need to consult other articles and resources for that information.)\n#### _There are Many Ways to Edit a .htaccess File_\n* Edit the file on your computer and upload it to the server via FTP\n* Use an FTP program's Edit Mode\n* Use SSH and a text editor\n* Use the File Manager in cPanel\nThe easiest way to edit a .htaccess file for most people is through the File Manager in cPanel.\n#### _How to Edit .htaccess files in cPanel's File Manager_\nBefore you do anything, it is suggested that you backup your website so that you can revert back to a previous version if something goes wrong.\n#### _Open the File Manager_\n1. Log into cPanel.\n2. In the Files section, click on the **File Manager** icon.\n3. Check the box for **Document Root for** and select the domain name you wish to access from the drop-down menu.\n4. Make sure **Show Hidden Files (dotfiles)** \" is checked.\n5. Click **Go**. The File Manager will open in a new tab or window.\n6. Look for the .htaccess file in the list of files. You may need to scroll to find it.\n#### _To Edit the .htaccess File_\n1. Right click on the **.htaccess file** and click **Code Edit** from the menu. Alternatively, you can click on the icon for the .htaccess file and then click on the **Code Editor** icon at the top of the page.\n2. A dialogue box may appear asking you about encoding. Just click **Edit** to continue. The editor will open in a new window.\n3. Edit the file as needed.\n4. Click **Save Changes** in the upper right hand corner when done. The changes will be saved.\n5. Test your website to make sure your changes were successfully saved. If not, correct the error or revert back to the previous version until your site works again.\n6. Once complete, you can click **Close** to close the File Manager window.",
+        "website_metadata": {
+            "url": "https://www.prestigengroup.com/projects-in-kochi/prestige-eden-garden/",
+            "content_length": 6285
+        },
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/company/eden-prestige-sarl"
+        },
+        "founders": [],
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "industry": "",
+        "headquarters": "",
+        "linkedin_url": "",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "sources": [],
+        "validation": {
+            "is_african": false,
+            "website_matches": false
+        },
+        "confidence": {
+            "score": 63,
+            "level": "Medium"
+        },
+        "geographic_focus": [
+            "Cote d'Ivoire"
+        ],
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\eden_prestige.json",
+        "normalized_name": "eden prestige",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "prestigengroup.com",
+                "website_type": "official",
+                "social_profiles": 1,
+                "external_profiles": 3
+            },
+            "social_validation": {
+                "report": {
+                    "total": 1,
+                    "valid": 1,
+                    "official": 1,
+                    "platforms": [
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://linkedin.com/company/eden-prestige-sarl",
+                        "normalized": "https://linkedin.com/company/eden-prestige-sarl",
+                        "username": "eden-prestige-sarl",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "Côte d'Ivoire",
+                "selected_source": "country",
+                "confidence": 1.0,
+                "report": {
+                    "count": 2,
+                    "candidates": [
+                        {
+                            "country": "Côte d'Ivoire",
+                            "source": "country",
+                            "confidence": 1.0
+                        },
+                        {
+                            "country": "Mali",
+                            "source": "website_content",
+                            "confidence": 0.6
+                        }
+                    ]
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "entity_type": "startup",
+    "name": "VITAL TOOLS",
+    "description": "VITAL TOOLS (2021)\nSecteur d’activité / Sector : Business Software and services\nvitaltools.io\nFondateur / Founder\nE-mail\nAdresse / Address\nYASSINE BOUCHOUCHA\nyassine.bouchoucha@vitaltools.tn\n15 Street Abdelhamid Ibn Badis, ALAIN SAVARY, Tunis \n1002\nActivité Nous avons construit les solutions informatiques \nles plus abordables pour la gestion d'entreprise. e-ERP est \nnotre première plateforme collaborative en ligne axée sur \nla gestion des tâches/projets.\nAspect Technologique Une application web de gestion \ncollaborative \ndes \ntâches/projets \npour \nles \néquipes \ncommerciales et techniques. -un tableur intuitif pour \nfaciliter la saisie des données allouées à une tâche/\névénement avec le meilleur mode d'affichage pour une vue \npanoramique sur toute la durée du projet.\nOriginalité Dans un seul outil élémentaire (tableur), je \npermets à l'utilisateur de saisir intuitivement les données, \npuis de visualiser les tâches/événements en plusieurs \nmodes. -simplicité d'utilisation et de manipulation de la \nplateforme -la possibilité de voir et d'interagir avec le projet \ndans différents modes Bird-Vue -facilité de collaboration \nentre les membres internes et externes de l'entreprise.\nActivity We built the most affordable IT solutions for \nbusiness management. e-ERP is our first collaborative \nonline platform focused tasks/project management.\nTechnological \nAspect \nA \ncollaborative \ntask/project \nmanagement web application for commercial and \ntechnical team. -an intuitive spreadsheet to facilitate \ndata entry allocated to a task/event with the best display \nmode for a panoramic view over the entire duration of \nthe project.\nOriginality In a single elementary tool (spreadsheet) I \nallow the user to intuitively enter the data, then display \nthe tasks/event in several Modes. -simplicity of use and \nmanipulation of the platform -the possibility of seeing \nand interacting with the project in different Bird-Vue \nmode -easy collaboration between internal and external \nmembers of the company.\nFR\nEN",
+    "tagline": "Manage Your Workload Seamlessly from Day One with Electron-ERP",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "15 Street Abdelhamid Ibn Badis, ALAIN SAVARY, Tunis 1002",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://vitaltools.io",
+    "linkedin_url": "https://www.linkedin.com/company/vitaltools",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/vitaltools",
+        "facebook": "https://facebook.com/vitaltools.io",
+        "github": "https://github.com/vital-tools"
+    },
+    "contact": {
+        "emails": [
+            "yassine.bouchoucha@vitaltools.tn",
+            "emailcontact@vitaltools.tn",
+            "contact@vitaltools.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21623097879",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "15 Street Abdelhamid Ibn Badis, ALAIN SAVARY, Tunis 1002",
+        "primary_social": "https://linkedin.com/company/vitaltools"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Electron-ERP",
+            "description": "Flagship offering providing holistic management across all departments: technical, marketing, finance, and sales.",
+            "category": "ERP Software"
+        }
+    ],
+    "services": [
+        "Project/Tasks Management",
+        "Cash Flow",
+        "CRM - Sales"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://vitaltools.io",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 62,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T16:14:49.649484",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 3,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "vitaltools.tn"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[![logo](https://www.vitaltools.io/images/white-logo.png)](https://www.vitaltools.io/)\n* [Home](https://www.vitaltools.io/)\n* [Register](https://www.vitaltools.io/sign-up/)\n* [Pricing](https://www.vitaltools.io/pricing/)\n* [Services](https://www.vitaltools.io/services/)\n* [Misc ](https://www.vitaltools.io/)\n* [About](https://www.vitaltools.io/about/)\n* [Team](https://www.vitaltools.io/team/)\n* [Testimonials](https://www.vitaltools.io/testimonials/)\n* [Faq](https://www.vitaltools.io/faq/)\n* [User ](https://www.vitaltools.io/)\n* [Login](https://e-erp.vitaltools.io/)\n* [Sign Up](https://www.vitaltools.io/sign-up/)\n* [Terms & Conditions](https://www.vitaltools.io/terms-conditions/)\n* [Privacy Policy](https://www.vitaltools.io/privacy-policy/)\n* [Legal Notes](https://www.vitaltools.io/legal-notes/)\n* [Blog](https://www.vitaltools.io/news/)\n* [news](https://www.vitaltools.io/news/)\n* [release](https://www.vitaltools.io/release/)\n* [Contact](https://www.vitaltools.io/contact/)\n[Log In ](https://e-erp.vitaltools.io/)\n# Manage Your Workload Seamlessly from Day One with Electron-ERP\nExperience the seamless blend of simplicity and power. Ready to use, easy to master, and with end-2-end **AI assistant** on the horizon to revolutionize your projects.\n[Free Trial !](https://www.vitaltools.io/sign-up/)[Contact Us](https://www.vitaltools.io/contact/)\n![Image](https://www.vitaltools.io/images/home-two/main-img2.png)\n![Image](https://www.vitaltools.io/images/home-two/shape1.png)\n![Image](https://www.vitaltools.io/images/home-two/shape2.png)\n![Image](https://www.vitaltools.io/images/home-two/shape3.png)\n![Image](https://www.vitaltools.io/images/home-two/shape4.png)\n![Image](https://www.vitaltools.io/images/home-two/shape5.png)![Image](https://www.vitaltools.io/images/home-two/shape6.png)![Image](https://www.vitaltools.io/images/home-two/shape7.png)![Image](https://www.vitaltools.io/images/home-two/shape8.png)![Image](https://www.vitaltools.io/images/home-two/shape9.png)![Image](https://www.vitaltools.io/images/home-two/shape10.png)\n![Image](https://www.vitaltools.io/images/home-one/shape/animate1.png)![Image](https://www.vitaltools.io/images/home-one/shape/animate2.png)![Image](https://www.vitaltools.io/images/home-one/shape/animate3.png)\n### UNLIMITED ASSIGNMENTS\nTask delegation to anyone: third parties, interns, guests... No user count limits.\n[](https://www.vitaltools.io/services/e-erp-features/)\n### INSTANT FAMILIARITY\nUser-friendly. No intricate Best Practices. Templates set at registration.\n[](https://www.vitaltools.io/services/e-erp-features/)\n### SINGLE SOURCE OF TRUTH\nSpreadsheet based user interface and tables user experience with intuitive design.\n[](https://www.vitaltools.io/services/e-erp-features/)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27490%27%20height=%27420%27/%3e)![Image](https://www.vitaltools.io/)\nAbout Us\n## We Leverage Latest Technologies To Deliver Optimum Management Tool\nAt Vital Tools, we harness cutting-edge technologies to bring you the ultimate management solutions. With Electron-ERP, you benefit from.\n* Monthly update\n* End-to-End AI Capabilities (Beta)\n* Future proof solutions\n* Complimentary 24/7 support\nServices\n## Our Expertise, Tailored for You\nElectron-ERP is our flagship offering, providing holistic management across all departments: technical, marketing, finance, and sales.\n### [Tasks Management](https://www.vitaltools.io/services/project-management/)\nOrganize daily/weekly tasks, team up for collaboration, or utilize it for insights.\n### [Cash Flow](https://www.vitaltools.io/services/cash-flow/)\nDraft varied income/expenses scenarios and monitor day-to-day balances.\n### [CRM Sales](https://www.vitaltools.io/services/crm-sales/)\nConsolidate contacts and optimize sales for superior client journey conversions.\n![Image](https://www.vitaltools.io/images/shape/services-shape/1.png)![Image](https://www.vitaltools.io/images/shape/services-shape/2.png)![Image](https://www.vitaltools.io/images/shape/services-shape/3.png)![Image](https://www.vitaltools.io/images/shape/services-shape/4.png)![Image](https://www.vitaltools.io/images/shape/services-shape/5.png)![Image](https://www.vitaltools.io/images/shape/services-shape/6.png)\n## Elevate Your Business's Resilience & Edge\n### Unified Management Streamlines Workflows\nOne platform trumps twenty for holistic enterprise management.\n### Prioritize Core Business Impact\nTime, a company's prime asset; complex tools eat it, costing you more.\n## 95%\nOn-Time Deliveries\n## 90%\nProjects Fulfilled\n## 85%\nSatisfied Teams\n## 80\nCompanies Risk-Mitigated\nTestimonials\n## What Clients Say About Us\nWhat We Offer\n## Industries We Serve\nelectron-ERP is suited for any small to mid size company inside technical, marketing and finance departement.\n* ### IT company\nSoftware & marketing\n* ### Banking\nFinance departement\n* ### Construction\nCivil enginner, architect\n* ### Manufacturing\nResearch & Development\n![Image](https://www.vitaltools.io/)\n### IT company\nDevelopper team that need to synchronize work between different teamate skills and keep on schedual to the delievery date.\n* Opportunities\n* teams\n* Objective Oriented\n* Security\n* Time Management\n[Discover More](https://www.vitaltools.io/services/e-erp-features/)\n### Banking\nFinance and accounting departement that need to track the incomes and expenses.\n* Security\n* Time Management\n* Opportunities\n* teams\n* Departement Sync\n[Discover More](https://www.vitaltools.io/services/e-erp-features/)\n![Image](https://www.vitaltools.io/)\n![Image](https://www.vitaltools.io/)\n### Construction\nCivil engineer, Architecte 3D modeler that work on custommer project on different angle.\nManaging technical, and design problems need centralized tasks and project board\n* Opportunities\n* teams\n* Objective Oriented\n* Security\n* Departement Sync\n[Discover More](https://www.vitaltools.io/services/e-erp-features/)\n### Manufacturing\nEngineer and technicien that need to plan future projects and report daily tasks.\nOptimize team workflow, providing smooth communication between workforce and managers.\n* Opportunities\n* teams\n* Departement Sync\n* Security\n* Time Management\n[Discover More](https://www.vitaltools.io/services/e-erp-features/)\n![Image](https://www.vitaltools.io/)\n## How-To Tutoriel Videos\neasy to learn from day one!\n![Thumbnail](https://img.youtube.com/vi/dbrJtpnwHk8/0.jpg)\n▶\n![Thumbnail](https://img.youtube.com/vi/LTaz0_U0l-I/0.jpg)\n▶\n![Thumbnail](https://img.youtube.com/vi/UVglfdFfyko/0.jpg)\n▶\nHow Achieving Small Business Success?\nPut energy, time and ressources at the right places.\nManagement Is What Makes An Effective Business?\nEffective management refers to achieving goals and targets for the organization by encouraging employees to grow their skills and put their 100% effort into the right tasks.\nWhy Centralized Management Tools is mandatory?\nCentralization lets top managers develop a broad view of operations and exercise tight financial controls.\n![Image](https://www.vitaltools.io/)\n[![Image](https://www.vitaltools.io/images/white-logo.png)](https://www.vitaltools.io/)\nOne tool to rule them all.\n* [](https://www.facebook.com/vitaltools.io)\n* [](https://www.linkedin.com/company/vitaltools)\n* [](https://www.youtube.com/channel/UCMUH2x6IhvaylW8cN17iFkw)\n* [](https://github.com/vital-tools)\n### Services\n* [Project/Tasks Management](https://www.vitaltools.io/services/project-management/)\n* [Cash Flow](https://www.vitaltools.io/services/cash-flow/)\n* [CRM - Sales](https://www.vitaltools.io/services/crm-sales/)\n### Important Links\n* [About Us](https://www.vitaltools.io/about/)\n* [Services](https://www.vitaltools.io/services/)\n* [Pricing](https://www.vitaltools.io/pricing/)\n* [Team](https://www.vitaltools.io/team/)\n* [Support](https://www.vitaltools.io/contact/)\n### Information\n* Phone[+216 23 097 879](tel://+21623097879)\n* Emailcontact@vitaltools.tn\n* Address[15 Street Abdelhamid Ibn Badis, ALAIN SAVARY, Tunis 1002](https://goo.gl/maps/4Y8qMYQUuGqyN9Mw5)\n![Image](https://www.vitaltools.io/images/shape/footer-shape-one.png)![Image](https://www.vitaltools.io/images/shape/footer-shape-two.png)\nCopyright © 2026 Vital Tools. All Rights Reserved\n* [legal-notes](https://www.vitaltools.io/legal-notes/)\n* [Terms & Conditions](https://www.vitaltools.io/terms-conditions/)\n* [Privacy Policy](https://www.vitaltools.io/privacy-policy/)",
+    "website_metadata": {
+        "url": "https://vitaltools.io",
+        "content_length": 8403
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "VITAL TOOLS",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\vital_tools.json",
+    "normalized_name": "vital tools",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "vitaltools.io",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "github",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/vitaltools",
+                    "normalized": "https://linkedin.com/company/vitaltools",
+                    "username": "vitaltools",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/vitaltools.io",
+                    "normalized": "https://facebook.com/vitaltools.io",
+                    "username": "vitaltools.io",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/vital-tools",
+                    "normalized": "https://github.com/vital-tools",
+                    "username": "vital-tools",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "vitaltools.tn"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "yassine.bouchoucha@vitaltools.tn",
+                    "normalized": "yassine.bouchoucha@vitaltools.tn",
+                    "domain": "vitaltools.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "emailcontact@vitaltools.tn",
+                    "normalized": "emailcontact@vitaltools.tn",
+                    "domain": "vitaltools.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@vitaltools.tn",
+                    "normalized": "contact@vitaltools.tn",
+                    "domain": "vitaltools.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "yassine.bouchoucha@vitaltools.tn",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 1,
+            "invalid": []
+        }
+    }
+}

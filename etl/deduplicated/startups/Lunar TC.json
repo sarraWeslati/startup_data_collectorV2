@@ -1,0 +1,181 @@
+{
+    "name": "Lunar TC",
+    "description": "Lunar TC est une start-up spécialisée dans l’automatisation des processus grâce à son \"No code Workflow Management System\".",
+    "industry": "Business Software and services",
+    "country": "Tunisia",
+    "city": "",
+    "website": "https://www.lunflow.com/home",
+    "linkedin": "",
+    "founders": [],
+    "entity_type": "startup",
+    "website_content": "Lunflow",
+    "website_metadata": {
+        "url": "https://www.lunflow.com/home",
+        "content_length": 7
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "social_media": {},
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:10:11.803189",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "sources": [
+        {
+            "type": "website",
+            "url": "https://www.lunflow.com/home",
+            "confidence": 1.0
+        }
+    ],
+    "external_profiles": {},
+    "tavily": {
+        "query": "Lunar TC",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 49,
+        "level": "Low"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\lunar_tc.json",
+    "normalized_name": "lunar tc",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "lunflow.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

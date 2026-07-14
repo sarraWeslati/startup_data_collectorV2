@@ -1,0 +1,324 @@
+{
+    "entity_type": "startup",
+    "name": "INDUSTRY X.O",
+    "description": "INDUSTRY X.O (2019)\nSecteur d’activité / Sector : Advanced Manufacturing & Robotics\nindustryx0.pro\nFondateur / Founder\nE-mail\nAdresse / Address\nLABIDI BILEL / BATTIKH MOHAMED ABDELAZIZ\nbilel.labidi@industryx0.pro\nElghazela Technopark, Bloc I1, A2088 ,34 Ariana.\nActivité \nInspiré \npar \nla \nvie \nd'ingénieurs \nlean \nmanufacturing et qualité, Industry X.0 a créé une voie \nnumérique pour les opérations industrielles avec une \nsolution solide, le CIP AUDIT. Le système entièrement \nintégré et le plus complet numérise et centralise les \nprocessus d'amélioration continue directement depuis \nl'atelier.\nAspect \nTechnologique \nNotre \nplateforme \nest \néquipée \nd'applications web et mobile et d'une intelligence \nartificielle adapté aux industriels.\nOriginalité la coexistence Human & AI et la collaboration \ndans la résolution d'anomalies sont les enjeux de demain \npour l'industrie.\nActivity Inspired by lean manufacturing and improving \npeople’s lives, Industry X.0 has created a digital way \nforward for industrial operations with one strong solution, \nthe CIP AUDIT. The fully integrated and the most complete \nsystem digitizes and centralizes continuous improvement \nprocesses right from the shop floor.\nTechnological Aspect Our platform is equipped with web \nand mobile applications and artificial intelligence adapted \nto manufacturers.\nOriginality Human & AI coexistence and collaboration in \nresolving anomalies are tomorrow's challenges for the \nindustry.\nFR\nEN",
+    "tagline": "The all-in-one Solution to reach Operational Excellence",
+    "industry": "Advanced Manufacturing & Robotics",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "THE DOT, 1053 Lac Malären, Tunis",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://industryx0.pro",
+    "linkedin_url": "https://www.linkedin.com/company/ixdotzero",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/ixdotzero",
+        "facebook": "https://facebook.com/ixdotzero"
+    },
+    "contact": {
+        "emails": [
+            "bilel.labidi@industryx0.pro",
+            "contact@industryx0.pro",
+            "contact@industryx0.prop"
+        ],
+        "phones": [
+            {
+                "number": "+21690199823",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21664469288",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "THE DOT, 1053 Lac Malären, Tunis",
+        "primary_social": "https://linkedin.com/company/ixdotzero"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "CIPA",
+            "description": "All-in-one digital solution for operational excellence, offering digitized checklists, incident reporting, AI-powered recommendations, and real-time monitoring.",
+            "category": "Software"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://industryx0.pro",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 72,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:41:23.582951",
+        "website_enriched": true,
+        "tavily_results": 5,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "industryx0.pro",
+                "industryx0.prop"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "**Warning** : opendir(/htdocs/wp-content/mu-plugins): Failed to open directory: Permission denied in **/htdocs/wp-includes/load.php** on line **981**\nCIPA The all-in-one Solution to reach Operational Excellence - by Industry X.0\n[Skip to content](https://industryx0.pro/#main)\n[ Facebook-f ](https://www.facebook.com/ixdotzero) [ Linkedin-in ](https://www.linkedin.com/company/ixdotzero/)\n[ +216 90 19 98 23 ](tel:+21690199823)\ncontact@industryx0.pro\n[![en](https://industryx0.pro/wp-content/plugins/gtranslate/flags/svg/en.svg) EN](https://industryx0.pro/ \"English\")\n[ Try CIPA ](https://www.cipa-web.com/#/signIn)\n[ ![default-logo](https://industryx0.pro/wp-content/uploads/2021/01/cropped-Logo-AI-V1.png) ](https://industryx0.pro)\nMenu\n* [CIPA](https://industryx0.pro/)\n* [About us](https://industryx0.pro/about-us/)\n* [Contact us](https://industryx0.pro/contact-us/)\n[ Request a Demo ](https://industryx0.pro/cipa-demo/)\n* [CIPA](https://industryx0.pro/)\n* [About us](https://industryx0.pro/about-us/)\n* [Contact us](https://industryx0.pro/contact-us/)\n## Industry X.0 Redefines what truly means\n## Mastering your Processes,\n## Improving Quality,\n## and Strengthening Safety.\n![](https://industryx0.pro/wp-content/uploads/2023/10/CIPA-LOGO-HQ.png)\n![](https://industryx0.pro/wp-content/uploads/2022/09/New_Product_Mockup_Now_Available_Marketing_Promotion_Instagram_Post__1_-removebg-preview-e1663945149128.png)\n#### The all-in-one Solution to reach Operational Excellence\nTrack, escalate and solve issues faster to improve your industrial performance.\n[ Request a Demo ](https://industryx0.pro/cipa-demo/)\n## CIPA: Delivering Excellence, Enabling Sustainability\n###  100% Compliance\n100% Standard Compliance: Elevating Quality and Efficiency\n###  < 1 PPM Reject rate\nCIPA: Achieving Less than 1 ppm Reject Rate for Unmatched Quality\n###  0 Accident\nZero Accidents: Safety First, Always\n## Up to 30% efficiency gains with CIPA\nOptimize your operational teams’ efficiency, minimize the economic impact of operational challenges (including safety, quality, machine downtime…), and foster a culture of ongoing enhancement.\n[ ](https://industryx0.pro/wp-content/uploads/2023/10/1-Start-Audit-_-Event.jpg) [ ](https://industryx0.pro/wp-content/uploads/2023/10/14-Problems-list-Cards.jpg) [ ](https://industryx0.pro/wp-content/uploads/2023/10/23-Dashboard-Insights.jpg) [ ](https://industryx0.pro/wp-content/uploads/2023/10/CIPA-WEB-2.png)\n[ Let's GO ](https://industryx0.pro/)\n###  \"CIPA: Beyond Profitability, an Investment in Excellence\"\n#####  Rapid Payback\nCIPA ensures a rapid payback period, with an average return on investment (ROI) of less than 12 months. This means that the cost of implementing CIPA will be recouped through increased efficiency, reduced defects, and cost savings within the first year of use. You can expect to see a positive impact on your bottom line quickly, making CIPA a financially sound investment.\n#####  Minimum Savings\nWhen you implement CIPA, we guarantee a minimum cost savings of 10% within the first six months of use. This means that you will see a measurable reduction in operational costs, non-quality costs, or defects within this period. If this threshold is not met, we will work closely with your team to identify areas for improvement and make necessary adjustments to ensure you achieve this minimum savings.\n#####  Saving vs Investement\nWhen you choose to invest in CIPA, we guarantee substantial long-term savings for your organization. Over a five-year period, you can expect to realize savings equivalent to at least 10 times your initial investment. This means that the benefits and efficiencies gained from CIPA will continue to grow and compound, resulting in significant cost reductions and increased profitability over time.\n## They Trust Us\n![Rieker_Logo.svg](https://industryx0.pro/wp-content/uploads/2020/10/Rieker_Logo.svg_.png)\n![logo_idea_consult](https://industryx0.pro/wp-content/uploads/2020/10/logo_idea_consult.png)\n![The-Lean-Six-Sigma-Company-logo](https://industryx0.pro/wp-content/uploads/2021/07/The-Lean-Six-Sigma-Company-logo.png)\n![Logo_novationCity](https://industryx0.pro/wp-content/uploads/2021/07/Logo_novationCity.png)\n![PVDECOR_logo](https://industryx0.pro/wp-content/uploads/2021/07/PVDECOR_logo.png)\n![AIMF](https://industryx0.pro/wp-content/uploads/2020/10/AIMF.jpg)\n![logo-rose-blanche](https://industryx0.pro/wp-content/uploads/2023/09/logo-rose-blanche.png)\n![logo-spigadiari](https://industryx0.pro/wp-content/uploads/2023/09/logo-spigadiari.png)\n![PATE WARDA logo](https://industryx0.pro/wp-content/uploads/2023/09/PATE-WARDA-logo.svg)\n![somfy_logo](https://industryx0.pro/wp-content/uploads/2023/09/somfy_logo.svg)\n![BEM LOGO](https://industryx0.pro/wp-content/uploads/2023/09/BEM-LOGO.png)\n![logo-polyroto-group](https://industryx0.pro/wp-content/uploads/2020/10/logo-polyroto-group.png)\n![Rieker_Logo.svg](https://industryx0.pro/wp-content/uploads/2020/10/Rieker_Logo.svg_.png)\n![logo_idea_consult](https://industryx0.pro/wp-content/uploads/2020/10/logo_idea_consult.png)\n![The-Lean-Six-Sigma-Company-logo](https://industryx0.pro/wp-content/uploads/2021/07/The-Lean-Six-Sigma-Company-logo.png)\n![Logo_novationCity](https://industryx0.pro/wp-content/uploads/2021/07/Logo_novationCity.png)\n![PVDECOR_logo](https://industryx0.pro/wp-content/uploads/2021/07/PVDECOR_logo.png)\n![AIMF](https://industryx0.pro/wp-content/uploads/2020/10/AIMF.jpg)\n![logo-rose-blanche](https://industryx0.pro/wp-content/uploads/2023/09/logo-rose-blanche.png)\n![logo-spigadiari](https://industryx0.pro/wp-content/uploads/2023/09/logo-spigadiari.png)\n![PATE WARDA logo](https://industryx0.pro/wp-content/uploads/2023/09/PATE-WARDA-logo.svg)\n![somfy_logo](https://industryx0.pro/wp-content/uploads/2023/09/somfy_logo.svg)\n![BEM LOGO](https://industryx0.pro/wp-content/uploads/2023/09/BEM-LOGO.png)\n![logo-polyroto-group](https://industryx0.pro/wp-content/uploads/2020/10/logo-polyroto-group.png)\n###  Discover CIPA the Digital Sentinel\n1.\n##  Digitize & Streamline\nCIPA digitizes and streamlines everyday operational tasks such as checklists, forms, incident reporting, and document management, making them more efficient and accessible.\n2.\n##  Observe & Detect\nWith CIPA's \"Observe & Detect\" capabilities, you can automatically monitor and identify anomalies or issues in real-time, allowing for proactive problem-solving and enhancing overall operational efficiency.\n3.\n##  Analyse & Resolve\nWith CIPA, you can efficiently examine complex issues, identify root causes, and develop effective action plans to address them, streamlining your problem-solving processes and improving decision-making.\n4.\n##  Follow & Monitor\nWith CIPA, you can easily track the progress of action plans, ensuring that tasks are completed on time and that continuous improvement initiatives stay on course. This helps enhance accountability, transparency, and overall efficiency in your organization.\n5.\n##  Lexa (CIPA AI)\nWith Lexa, you can harness the full potential of artificial intelligence to gain valuable insights, identify trends, and uncover hidden opportunities within your quality management and continuous improvement processes. This advanced AI technology revolutionizes how you optimize your operations, making it easier than ever to achieve excellence.\nFeatures\n#  **Improve** quality, **Increase** safety & **Master** your work environment\n![](https://industryx0.pro/wp-content/uploads/2023/09/377948173_268573112780483_5435820332837784225_n-461x1024.jpg)\n![](https://industryx0.pro/wp-content/uploads/2023/09/372151237_1409576292939058_5673671692030426074_n-461x1024.jpg)\n* Internal Audit Digitalization\n* Checklist-Based Controls\n* Incident and Event Reporting\n* Action Plan Management\n* Problem Resolution Tools\n* AI-Powered Recommendations\n* GEMBA Walks Integration\n* Data-Driven Decision-Making\n* Client Claim Management\n## Partners\n![S2T Elghazela](https://industryx0.pro/wp-content/uploads/2020/10/S2T-Elghazela.jpg)\n![1623241665762](https://industryx0.pro/wp-content/uploads/2023/09/1623241665762.jpeg)\n![1200px-Hannover_Messe.svg](https://industryx0.pro/wp-content/uploads/2023/09/1200px-Hannover_Messe.svg.png)\n![64469288b55d46fcbd8932c4_logo_link4inn_png_neumorphism](https://industryx0.pro/wp-content/uploads/2023/09/64469288b55d46fcbd8932c4_logo_link4inn_png_neumorphism.png)\n![utica](https://industryx0.pro/wp-content/uploads/2023/09/utica.gif)\n![60e6c6f492e584675a5aee68_Logo TunisianStartups-p-500](https://industryx0.pro/wp-content/uploads/2023/09/60e6c6f492e584675a5aee68_Logo-TunisianStartups-p-500.png)\n![The-Lean-Six-Sigma-Company-logo](https://industryx0.pro/wp-content/uploads/2020/10/The-Lean-Six-Sigma-Company-logo-1.png)\n![fus](https://industryx0.pro/wp-content/uploads/2021/07/fus.png)\n![GIZ](https://industryx0.pro/wp-content/uploads/2021/07/GIZ.jpg)\n![Logo_novationCity](https://industryx0.pro/wp-content/uploads/2021/07/Logo_novationCity.png)\n![logo 111 cothink](https://industryx0.pro/wp-content/uploads/2021/07/logo-111-cothink-scaled.jpg)\n![STB-Néo](https://industryx0.pro/wp-content/uploads/2021/07/STB-Neo.jpg)\n![800px-USAID-Identity.svg](https://industryx0.pro/wp-content/uploads/2021/07/800px-USAID-Identity.svg.png)\n![CEED-TUNISIE](https://industryx0.pro/wp-content/uploads/2021/07/CEED-TUNISIE.jpg)\n![2OPEXuniversity_logotyp](https://industryx0.pro/wp-content/uploads/2020/10/2OPEXuniversity_logotyp.png)\n![S2T Elghazela](https://industryx0.pro/wp-content/uploads/2020/10/S2T-Elghazela.jpg)\n![1623241665762](https://industryx0.pro/wp-content/uploads/2023/09/1623241665762.jpeg)\n![1200px-Hannover_Messe.svg](https://industryx0.pro/wp-content/uploads/2023/09/1200px-Hannover_Messe.svg.png)\n![64469288b55d46fcbd8932c4_logo_link4inn_png_neumorphism](https://industryx0.pro/wp-content/uploads/2023/09/64469288b55d46fcbd8932c4_logo_link4inn_png_neumorphism.png)\n![utica](https://industryx0.pro/wp-content/uploads/2023/09/utica.gif)\n![60e6c6f492e584675a5aee68_Logo TunisianStartups-p-500](https://industryx0.pro/wp-content/uploads/2023/09/60e6c6f492e584675a5aee68_Logo-TunisianStartups-p-500.png)\n![The-Lean-Six-Sigma-Company-logo](https://industryx0.pro/wp-content/uploads/2020/10/The-Lean-Six-Sigma-Company-logo-1.png)\n![fus](https://industryx0.pro/wp-content/uploads/2021/07/fus.png)\n![GIZ](https://industryx0.pro/wp-content/uploads/2021/07/GIZ.jpg)\n![Logo_novationCity](https://industryx0.pro/wp-content/uploads/2021/07/Logo_novationCity.png)\n![logo 111 cothink](https://industryx0.pro/wp-content/uploads/2021/07/logo-111-cothink-scaled.jpg)\n![STB-Néo](https://industryx0.pro/wp-content/uploads/2021/07/STB-Neo.jpg)\n## OUR VISION\n« At Industry X.0, we aspire to be the catalyst for positive change, delivering holistic solutions that elevate quality, productivity and environmental responsibility for businesses around the world. »\n## MENU\n## Contact us\n###  Email Address\ncontact@industryx0.prop\n###  Call Us\n+216 90 199 823\n###  Address\nTHE DOT, 1053 Lac Malären, Tunis\n[](https://industryx0.pro/)\n[ Meet us ](https://industryx0.pro/request-meeting/)",
+    "website_metadata": {
+        "url": "https://industryx0.pro",
+        "content_length": 11051
+    },
+    "linkedin": "https://sa.linkedin.com/company/industryxo",
+    "external_profiles": {
+        "website": "https://miningdigital.com/digital-mining/what-industry-xo-and-why-businesses-should-move-towards",
+        "linkedin": "https://sa.linkedin.com/company/industryxo"
+    },
+    "tavily": {
+        "query": "INDUSTRY X.O",
+        "answer": "IndustryXO is a digital talk show focused on business and technology trends; Wellfound is a startup job board; XO.company facilitates vertical innovation and connects startup ecosystems globally.",
+        "results_count": 5,
+        "urls": [
+            "https://sa.linkedin.com/company/industryxo",
+            "https://miningdigital.com/digital-mining/what-industry-xo-and-why-businesses-should-move-towards",
+            "https://www.intercomp.it/industry-x-o-how-to-achieve-results-with-digital-transformation?lang=en",
+            "https://www.sev.org.gr/Uploads/Documents/50648/Accenture-Industry-XO-whitepaper.pdf",
+            "https://www.industry-era.com/images/pdf/Accenture-Industry-XO-whitepaper.pdf"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\industry_xo.json",
+    "normalized_name": "industry xo",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "industryx0.pro",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/ixdotzero",
+                    "normalized": "https://linkedin.com/company/ixdotzero",
+                    "username": "ixdotzero",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/ixdotzero",
+                    "normalized": "https://facebook.com/ixdotzero",
+                    "username": "ixdotzero",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "industryx0.pro",
+                    "industryx0.prop"
+                ]
+            },
+            "official": [
+                "bilel.labidi@industryx0.pro",
+                "contact@industryx0.pro"
+            ],
+            "details": [
+                {
+                    "original": "bilel.labidi@industryx0.pro",
+                    "normalized": "bilel.labidi@industryx0.pro",
+                    "domain": "industryx0.pro",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@industryx0.pro",
+                    "normalized": "contact@industryx0.pro",
+                    "domain": "industryx0.pro",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@industryx0.prop",
+                    "normalized": "contact@industryx0.prop",
+                    "domain": "industryx0.prop",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "bilel.labidi@industryx0.pro",
+    "quality": {
+        "phones": {
+            "total": 12,
+            "valid": 2,
+            "removed": 8,
+            "duplicates": 2,
+            "invalid": [
+                "+2161663945149128",
+                "+216377948173",
+                "+216268573112780483",
+                "+2165435820332837784225",
+                "+216372151237",
+                "+2161409576292939058",
+                "+2165673671692030426074",
+                "+2161623241665762"
+            ]
+        }
+    }
+}

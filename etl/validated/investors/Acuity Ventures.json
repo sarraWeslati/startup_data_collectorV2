@@ -1,0 +1,274 @@
+{
+    "name": "Acuity Ventures",
+    "description": "Acuity Ventures is a venture capital firm that invests in early to growth-stage technology companies in Africa. Acuity leverages its partners' strong investment track record in technology and deep data science expertise to capture and use information to inform investment decisions and help investee companies realize outsized growth. Acuity's data-driven strategy allows it to recognize and amplify product-market fit, providing a more accurate quantitative view to early stage-investing at a company stage when accounting metrics are a less reliable predictor of company success. Acuity focuses on enterprise, soft infrastructure, and platforms that integrate Africa.",
+    "organization_type": "",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "website": "https://www.cbinsights.com/company/acuity-venture-partners",
+    "linkedin": "https://www.linkedin.com/company/acuity-ventures",
+    "investment_focus": [
+        "enterprise",
+        "soft infrastructure",
+        "platforms integrating Africa"
+    ],
+    "investment_stages": [
+        "early-stage",
+        "growth-stage"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/company/acuity-venture-partners",
+        "linkedin": "https://www.linkedin.com/company/acuity-ventures",
+        "dealroom": "https://app.dealroom.co/investors/acuity_ventures"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle"
+    },
+    "geographic_focus": [
+        "Africa"
+    ],
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T14:58:24.439477+00:00",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Acuity Ventures",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://acu.vc/",
+            "https://acu.vc/faq",
+            "https://startupintros.com/orgs/acuity-ventures",
+            "https://tracxn.com/d/venture-capital/acuity-ventures/__-IroS8V8L03cnwmO4LJl3RRpLtOwElnzTl9hYwcc0lU",
+            "https://vc4a.com/acuity-ventures/",
+            "https://www.linkedin.com/company/acuity-ventures",
+            "https://linkedin.com/in/pjameson",
+            "https://linkedin.com/in/deborah-meyers-953a32b",
+            "https://linkedin.com/in/denny-s-roja-07036313",
+            "https://tracxn.com/d/venture-capital/acuityventures/__z9aGB0yamK3N49RQA_uZXo1bo8eGZk6Ll9kyiWkcUQc",
+            "https://www.cbinsights.com/company/acuity-venture-partners",
+            "https://investorlist.com/investor/acuity-ventures",
+            "https://www.cbinsights.com/investor/acuity-ventures",
+            "https://www.acuity.ventures/",
+            "https://foundersuite.com/firms/acuity-ventures",
+            "https://app.dealroom.co/investors/acuity_ventures"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 6,
+        "investment_focus_count": 3,
+        "investment_stages_count": 2,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 2,
+        "leadership_count": 1,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 92,
+        "level": "High"
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n![Acuity Venture Partners company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/58cd08e0-edcd-4427-8d3c-f2d74c70ec93.png?w=3840)\n# Acuity Venture Partners\nUnclaimed\n[acuityvc.com](https://acuityvc.com)\n[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.cbinsights.com/company/acuity-venture-partners)[](https://twitter.com/intent/tweet?text=https://www.cbinsights.com/company/acuity-venture-partners)[](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Check%20out%20Acuity%20Venture%20Partners's%20Profile%20on%20CB%20Insights&body=I%20thought%20you%E2%80%99d%20find%20Acuity%20Venture%20Partners's%20page%20interesting:%20https://www.cbinsights.com/company/acuity-venture-partners)\n* [Overview & Products](https://www.cbinsights.com/company/acuity-venture-partners/)\n* [Financials](https://www.cbinsights.com/company/acuity-venture-partners/financials)\n* [Alternatives & Competitors](https://www.cbinsights.com/company/acuity-venture-partners/alternatives-competitors)\n## Stage\nOther Investors | Alive\n## About Acuity Venture Partners\nAcuity Venture Partners is a venture capital firm with a focus on technology startups in Africa. The firm leverages data science to invest in entrepreneurs aiming to create sustainable positive impact through technological innovation. Acuity Venture Partners primarily invests in Seed and Series A funding rounds for companies in the technology sector. It is based in Lagos, Nigeria.\n## Headquarters Location\nLagos, 100001,\nNigeria\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n[![Start free trial](https://no-cache.hubspot.com/cta/default/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f)\n## Latest Acuity Venture Partners News\n[10 Top Investors in Startups in Nigeria](https://www.techinafrica.com/10-top-investors-in-startups-in-nigeria/)\nApr 5, 2025\n10 Top Investors in Startups in Nigeria Nigeria’s startup ecosystem is thriving, attracting billions in investments and creating unicorns like Flutterwave and PiggyVest . With Lagos leading as a top African tech hub, here are 10 key investors shaping the scene: Acuity Venture Partners : Early-stage investor focusing on data-driven decisions and funding $125K–$725K per startup. Co-Creation Hub (CcHub): Supports social tech ventures with funds and programs like Make-IT Accelerator. EchoVC Partners : Invests in underrepresented sectors like climate tech and health, with $41M deployed. Oui Capital : Focuses on diversity, investing $250K–$500K in early-stage startups. Knight Ventures : Runs a 3-month accelerator for tech-driven startups. Microtraction : Offers $100K for 7% equity, with follow-on funding up to $350K. Ventures Platform : Targets startups solving unmet needs and infrastructure gaps. TLcom Capital : Invests $500K–$10M in scalable tech startups. Ingressive Capital : Provides up to $500K for early-stage startups, focusing on fintech and marketplaces. Quick Comparison Paystack, Healthtracka These investors not only fund startups but also provide mentorship, networks, and strategic support, fueling Nigeria’s tech innovation. Ready to explore opportunities? Let’s dive deeper. Iyinoluwa Aboyeji Reveals What it Takes to Build a Successful … Acuity Venture Partners has established itself as a key player in Nigeria’s early-stage tech investment scene, using a data-focused approach. Founded in 2018 by Lexi Novitske after acquiring the Singularity Investments portfolio, the firm has quickly gained recognition in Nigeria’s startup ecosystem. The firm’s investment approach centers on supporting entrepreneurs addressing Africa’s pressing challenges. They typically invest between $125,000 and $725,000 in early-stage ventures. Notable Investment $125,000 In 2020, Acuity made six investments in Nigerian startups, including OnePipe, Mono, Lemonade, Send, Indicina, and Spektra. These moves highlight their commitment to providing both funding and strategic support. \"Accurate data insight is at the heart of our operation. Acuity doesn’t make investments based on our gut, and we don’t believe exceptional company growth comes from hard work alone. Through our expertise in strategy, governance, talent management, and analytics, we empower entrepreneurs who are solving Africa’s most important problems. We believe in smart decisions driven by data.\" – Lexi Novitske This quote reflects Acuity’s comprehensive approach. Beyond just funding, they provide guidance in areas like governance, talent management, and analytics, ensuring their portfolio companies are well-equipped for growth. With over $725,000 invested in African startups, Acuity isn’t just fueling growth – they’re offering the tools and expertise needed to succeed. Their strategic and analytical support makes them a valuable partner for early-stage startups looking for more than just capital. Founded in 2010 in Lagos’s Yaba district, Co-Creation Hub (CcHub) plays a key role in Nigeria’s tech ecosystem. It combines funding capabilities with extensive support for startups, making it a central hub for tech-driven innovation in the region. In December 2015, CcHub launched its Growth Capital fund in collaboration with the Bank of Industry (BoI), Venture Garden Group (VGG), and Omidyar Network (ON). This ₦1 billion fund (about $2.4 million) focuses on backing social tech ventures that develop technology to improve public services and better connect them with citizens. Investment Focus Innovation Consulting Since its inception, CcHub has supported over 95 early-stage ventures, contributing to the creation of more than 450 jobs. Its work spans multiple sectors, including public health, education, digital security, governance, and finance. \"Specifically, we are looking at products/services/technology tools that would make public services smarter and at the same time connect more citizens of Nigeria to those services.\" – Tunji Eleso, Managing Partner, Growth Capital by CcHub Through its CcHub Syndicate, the hub offers angel and early-stage investors the chance to co-invest in fast-growing tech startups across Sub-Saharan Africa. CcHub also operates in six African cities: Lagos, Abuja, Ijebu-Ode, Kigali, Nairobi, and Windhoek. The hub’s ecosystem approach brings together a diverse range of stakeholders, including end-users, experts, government bodies, and academic institutions. This collaborative strategy extends beyond funding, adding meaningful support to its initiatives. Programs like the Make-IT Accelerator provide entrepreneurs with tailored training to help scale their innovations and drive growth. EchoVC Partners is an early-stage venture capital firm focused on technology, with over $41 million invested and more than $21 million returned within Nigeria’s startup ecosystem. The firm prioritizes supporting founders and ventures in markets that often lack sufficient representation. Investment Focus Areas Often takes a lead investor role One standout example from EchoVC’s portfolio is Printivo. In October 2015, the online printing company received a six-figure seed investment. Within a year, Printivo was serving over 3,000 customers and processing about 1,000 orders monthly. The company also partnered with global brands like Google, Uber, Samsung, and DHL, achieving 50% quarterly revenue growth during its early stages. \"The lightning speed at which Printivo has changed Nigerian SMEs’ print purchasing habits and built a customer base that runs into the thousands is impressive, and was a key driver in our decision to invest.\" – Wale Ayeni, Investment Director at EchoVC Pan-Africa Fund EchoVC also launched the $2.5 million Eco Pilot Fund I, focusing on early-stage startups in energy, agri-tech, and climate tech. The fund plans to invest in 8 to 10 companies across Africa, with a particular interest in electric two- and three-wheelers in Nigeria and Kenya. The firm’s approach includes thorough due diligence and active involvement, offering both operational and strategic guidance to help startups grow. This hands-on strategy strengthens its position as a key supporter of diverse startups. \"Once you get out of the fintech world you really struggle [to raise funds]… like desert work right there. That was interesting to us because we realised that if you fund founders who are working in those spaces, they are more likely than not to be mission-driven.\" – Eghosa Omoigui, Founder and Managing Partner of EchoVC With a portfolio of 36 companies employing over 2,000 people, EchoVC continues to influence Nigeria’s startup landscape. By focusing on sectors that often face challenges in securing funding, the firm is helping to build a more inclusive and resilient entrepreneurial ecosystem. This approach reflects broader investment trends shaping Nigeria’s vibrant startup scene. Verod Kepple Africa Ventures (VKAV) plays a big role in Nigeria’s venture capital scene, managing a $60 million fund aimed at tech-driven, growth-stage companies. The firm typically invests between $1 million and $3 million in startups. Here’s a closer look at their investment focus and strategies: Investment Focus Investment Range $1M – $3M per investment So far, VKAV has invested $17.5 million in 12 Nigerian startups. Their portfolio includes companies like Moove, which ",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/company/acuity-venture-partners",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "founders": [
+        {
+            "name": "Lexi Novitske",
+            "role": "Founder",
+            "linkedin": "",
+            "bio": "Founded in 2018 by Lexi Novitske after acquiring the Singularity Investments portfolio; focuses on technology startups in Africa, investing in Seed and Series A rounds."
+        }
+    ],
+    "leadership": [
+        {
+            "name": "Lexi Novitske",
+            "role": "Founder",
+            "linkedin": "",
+            "bio": "Founded in 2018 by Lexi Novitske after acquiring the Singularity Investments portfolio; focuses on technology startups in Africa, investing in Seed and Series A rounds."
+        }
+    ],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "Venture Capital Firm",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Venture Capital",
+    "headquarters": "Lagos, Nigeria",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Facuity-venture-partners%29%5B%5D%28https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3Dhttps%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Facuity-venture-partners%29%5B%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm&fs=1&tf=1&to=&su=Check+out+Acuity+Venture+Partners",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "emails": [
+        "info@acu.vc"
+    ],
+    "phones": [
+        "423 398 1000",
+        "(408) 210-8394"
+    ],
+    "ticket_size": "$125,000–$725,000",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\acuity_ventures.json",
+    "normalized_name": "acuity ventures",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Facuity-venture-partners%29%5B%5D%28https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3Dhttps%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Facuity-venture-partners%29%5B%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm&fs=1&tf=1&to=&su=Check+out+Acuity+Venture+Partners",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Nigeria",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Niger",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Nigeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 0,
+            "removed": 2,
+            "duplicates": 0,
+            "invalid": [
+                "+234905844",
+                "+234202510"
+            ]
+        }
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "name": "Arzaak",
+    "description": "Arzaak est une start-up qui renforce l’autonomisation des femmes en leurs fournissant des compétences dans le secteur des métiers artisanaux et créatifs.",
+    "industry": "Artisanat",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "website": "https://arzaak.tn",
+    "linkedin": "https://tn.linkedin.com/company/arzaak",
+    "founders": [],
+    "entity_type": "startup",
+    "website_content": "Arzaak Academy",
+    "website_metadata": {
+        "url": "https://arzaak.tn/",
+        "content_length": 14
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://github.com/Aarzaak"
+    },
+    "social_media": {
+        "github": "https://github.com/Aarzaak"
+    },
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "headquarters": "Tunis, Tunisia",
+    "linkedin_url": "https://tn.linkedin.com/company/arzaak",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:14:35.125831",
+        "website_enriched": true,
+        "tavily_results": 8,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": true,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "sources": [],
+    "external_profiles": {
+        "website": "https://www.webmanagercenter.com/2026/04/20/563277/la-tunisie-qui-gagne-quels-sont-les-marches-vises-par-lexpansion-internationale-darzaak-en-afrique-et-mena",
+        "linkedin": "https://tn.linkedin.com/company/arzaak",
+        "github": "https://github.com/Aarzaak"
+    },
+    "tavily": {
+        "query": "Arzaak",
+        "answer": "",
+        "results_count": 8,
+        "urls": [
+            "https://arzaak.net/",
+            "https://unglobalcompact.org/what-is-gc/participants/207906-Academie-Artisanal-Arzaak",
+            "https://arzaakhalal.com/",
+            "https://github.com/Aarzaak",
+            "https://tn.linkedin.com/company/arzaak",
+            "https://linkedin.com/in/jihenetouati",
+            "https://www.webmanagercenter.com/2026/04/20/563277/la-tunisie-qui-gagne-quels-sont-les-marches-vises-par-lexpansion-internationale-darzaak-en-afrique-et-mena/",
+            "https://www.oozo.nl/bedrijven/s-gravenhage/mariahoeve-en-marlot/burgen-en-horsten/1585001/arzaak-halal-b-v"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 68,
+        "level": "Medium"
+    },
+    "founded_year": "2022",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\arzaak.json",
+    "normalized_name": "arzaak",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "arzaak.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "github"
+                ]
+            },
+            "details": {
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/Aarzaak",
+                    "normalized": "https://github.com/Aarzaak",
+                    "username": "Aarzaak",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

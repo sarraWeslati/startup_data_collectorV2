@@ -1,0 +1,294 @@
+{
+    "name": "African Reinsurance Corporation",
+    "description": "The leading pan-African reinsurance company",
+    "organization_type": "",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "website": "https://www.africa-re.com/contact",
+    "linkedin": "https://linkedin.com/company/africa-re",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.africa-re.com/contact",
+        "linkedin": "https://linkedin.com/company/africa-re"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/africa-re",
+        "facebook": "https://facebook.com/AfricanReinsuranceCorporation",
+        "youtube": "https://youtube.com/channel/UCV3etbEySiI02bvErlXNRNQ",
+        "twitter": "https://twitter.com/africa_re"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T15:05:28.954366+00:00",
+        "website_enriched": true,
+        "tavily_results": 17,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "African Reinsurance Corporation",
+        "answer": "",
+        "results_count": 17,
+        "urls": [
+            "https://www.africa-re.com/contact",
+            "https://www.africa-re.com/about_us/africa_re?locale=en",
+            "https://www.africa-re.com/history",
+            "https://arcsa.africa-re.com/",
+            "https://linkedin.com/company/africa-re",
+            "https://ng.linkedin.com/company/africa-re",
+            "https://linkedin.com/in/corneille-karekezi-45711616",
+            "https://www.africa-re.com/",
+            "https://linkedin.com/in/bernard-pogoson",
+            "https://linkedin.com/in/alain-zongo-739ab527",
+            "https://tracxn.com/d/companies/africanreinsurancecorporation/__C1aBOT2_zzRdalRPphAYPXwhYmzOhHb08Ho86dnCnhI",
+            "https://africa-re.com/",
+            "https://leadiq.com/c/african-reinsurance-corporation/5a1d986c2300005a00871cf6",
+            "https://www.privateequityinternational.com/institution-profiles/african-reinsurance-corporation.html",
+            "https://www.africa-re.com/uploads/content/download_translation/download/e2594192-5ff9-4cd7-b60d-fcd713e723d5.pdf",
+            "https://www.insurancebusinessmag.com/reinsurance/companies/african-reinsurance-corp--539690.aspx",
+            "https://www.africa-re.com/about_us/africa_re",
+            "https://www.africa-re.com/headquarters",
+            "https://www.insurancebusinessmag.com/reinsurance/companies/african-reinsurance-corp-/539690/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 0,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 3,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 9,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": true,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 80,
+        "level": "Medium"
+    },
+    "website_content": "[![](https://www.africa-re.com/assets/africa_re_logo_sig-b42578d0.png) ](https://www.africa-re.com/)\n* EN  English\n* [EN](https://www.africa-re.com/contact?locale=en)\n* [English](https://www.africa-re.com/contact?locale=en)\n* [FR](https://www.africa-re.com/contact?locale=fr)\n* [Français](https://www.africa-re.com/contact?locale=fr)\n* [Contact us](https://www.africa-re.com/contact)\n* [AGM](https://www.africa-re.com/about_us/agm)\n* [Training](https://www.africa-re.com/training)\n* [Tenders](https://www.africa-re.com/tenders)\n* [Careers](https://www.africa-re.com/career)\n* [  Created with Sketch. ](https://www.africa-re.com/)\n* [About Us](https://www.africa-re.com/about_us/mission_vision_values)\n### About Us\nExplore Africa Re today and the events of the last 40 years that have shaped the foremost reinsurance organisation on the African continent\n* [About Africa Re ](https://www.africa-re.com/about_us/africa_re)\n* [History ](https://www.africa-re.com/history)\n* [Mission, Vision & Values ](https://www.africa-re.com/about_us/mission_vision_values)\n* [Annual General Meeting ](https://www.africa-re.com/about_us/agm)\n* [Board of Directors ](https://www.africa-re.com/management/boards/directors)\n* [Governance ](https://www.africa-re.com/about_us/governance)\n* [Management Team ](https://www.africa-re.com/management/executives)\n* [Central Departments ](https://www.africa-re.com/departments)\n* [Production Centres ](https://www.africa-re.com/contact)\n* [Careers ](https://www.africa-re.com/career)\n* [Tenders ](https://www.africa-re.com/tenders)\n* [CSR ](https://www.africa-re.com/about_us/africare_csr)\n* [FAQ ](https://www.africa-re.com/about_us/faq)\n* [Reinsurance](https://www.africa-re.com/services/underwriting)\n### Reinsurance\nAfrica Re provides capacity and assistance through first class reinsurance protection to its clients.\n* [Underwriting Philosophy ](https://www.africa-re.com/services/underwriting)\n* [Types of Reinsurance ](https://www.africa-re.com/services/reinsurance)\n* [Financial Inclusion ](https://www.africa-re.com/services/financial_inclusion)\n* [Pools ](https://www.africa-re.com/services/pools)\n* [Technical Services ](https://www.africa-re.com/services/technical_services)\n* [Claims Service ](https://www.africa-re.com/services/claims_services)\n* [Retakaful ](https://www.africa-re.com/services/retakaful)\n* [Training ](https://www.africa-re.com/training)\n* [Investors](https://www.africa-re.com/shareholders)\n### Investors\nGet insights on Africa Re's financial highlights, and get access to stakeholders information.\n* [Shareholders ](https://www.africa-re.com/shareholders)\n* [Financial Highlights ](https://www.africa-re.com/financial-highlights)\n* [Ratings ](https://www.africa-re.com/investors/ratings)\n* [Industry](https://www.africa-re.com/blog_pages)\n### Industry\nA view of the African insurance and reinsurance markets, exciting investment opportunities.\n* [Country Dashboards ](https://www.africa-re.com/dashboards)\n* [Insurance Class Explorer ](https://www.africa-re.com/insurance_classes)\n* [Media](https://www.africa-re.com/library)\n### Media\nCatch a glimpse of the latest news, events and interesting information about Africa Re.\n* [Publications ](https://www.africa-re.com/library)\n* [Press releases ](https://www.africa-re.com/press_releases)\n* [Articles ](https://www.africa-re.com/blog_pages)\n* [ Picture Gallery ](https://www.flickr.com/photos/145900362@N02/albums)\n* [ Video Gallery ](https://www.youtube.com/channel/UCV3etbEySiI02bvErlXNRNQ)\nFind your regional office\n# Contact us\nLooking for our [Headquarters](https://www.africa-re.com/contact/load_region_office?contact%5Bcountry%5D=headquarters) or [Africa Retakaful](https://retakaful.africa-re.com) ?\n## Proudly African.\nInternational Standards.\nWe are the foremost regional reinsurance institution dedicated to the African continent and open to select markets in Asia, Brazil and the Middle East. We have unique local expertise in offering security to our clients, with strong capitalization and A-grade international ratings supporting our bespoke reinsurance solutions.\nCasablanca Dubai Addis Ababa Johannesburg Nairobi Ebene Abidjan Cairo Lagos\n[![](https://www.africa-re.com/assets/africa_re_logo_reverse-8850b87b.png) ](https://www.africa-re.com/)\n### Related sites\n* [Africa Re South Africa](https://arcsa.africa-re.com/)\n* [Africa Retakaful](https://retakaful.africa-re.com/)\n* [Africa Re Pools](https://pools.africa-re.com/)\n* [African Insurance Awards](https://www.africaninsuranceawards.org/)\n### Connect on social media\n* [ ](https://twitter.com/africa_re)\n* [ ](https://www.facebook.com/AfricanReinsuranceCorporation)\n* [ ](https://www.linkedin.com/company/africa-re)\n* [Contact Africa Re](https://www.africa-re.com/contact)\n* [Media](https://www.africa-re.com/press_releases)\n### [Careers ![](https://www.africa-re.com/assets/frontend/footer_career-97b1b213.png) Find a great home for talents.\nDiscover our career opportunities\n](https://www.africa-re.com/career)\n© African Reinsurance Corporation 2026\n* [User Agreement](https://www.africa-re.com/legal_pages/user_agreement)\n* [Legal Notice](https://www.africa-re.com/legal_pages/legal_notice)\n* [Privacy Policy](https://www.africa-re.com/legal_pages/privacy_policy)\nSelect a Country",
+    "website_metadata": {
+        "url": "https://www.africa-re.com/contact",
+        "content_length": 5263
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/africa-re"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [
+        "Reinsurance",
+        "Underwriting Philosophy",
+        "Types of Reinsurance",
+        "Financial Inclusion",
+        "Pools",
+        "Technical Services",
+        "Claims Service",
+        "Retakaful",
+        "Underwriting"
+    ],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [
+        "reinsurance",
+        "financial inclusion",
+        "pools",
+        "technical services",
+        "claims service",
+        "retakaful",
+        "underwriting"
+    ],
+    "customer_segments": [],
+    "operating_countries": [
+        "Africa",
+        "Asia",
+        "Brazil",
+        "Middle East"
+    ],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Reinsurance",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/company/africa-re",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "145900362"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\african_reinsurance_corporation.json",
+    "normalized_name": "african reinsurance corporation",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "africa-re.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "twitter",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/africa-re",
+                    "normalized": "https://linkedin.com/company/africa-re",
+                    "username": "africa-re",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/AfricanReinsuranceCorporation",
+                    "normalized": "https://facebook.com/AfricanReinsuranceCorporation",
+                    "username": "AfricanReinsuranceCorporation",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCV3etbEySiI02bvErlXNRNQ",
+                    "normalized": "https://youtube.com/channel/UCV3etbEySiI02bvErlXNRNQ",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/africa_re",
+                    "normalized": "https://twitter.com/africa_re",
+                    "username": "africa_re",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Nigeria",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "South Africa",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+234145900362"
+            ]
+        }
+    }
+}

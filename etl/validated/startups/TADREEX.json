@@ -1,0 +1,291 @@
+{
+    "entity_type": "startup",
+    "name": "TADREEX",
+    "description": "TADREEX (2021)\nSecteur d’activité / Sector : EdTech\ntadreex.com\nFondateur / Founder\nE-mail\nAdresse / Address\nNIZAR CHELLY\nchellynizar@tadreex.com\nPôle de compétitivité Sousse\nActivité TadreeX est une solution en ligne oÙ les \nemployés peuvent suivre une formation industrielle à \nl'aide de la technologie immersive 3D. Notre solution \nreprésente pour le département des ressources humaines \nun nouvel outil pédagogique qui offre un apprentissage \npratique, une évaluation en temps réel des apprenants \net un engagement accru des employés. En fonction des \nbesoins des clients, notre solution peut être déployée \nsur des casques de réalité virtuelle VR (High immersive \nTechnology) ou via des ordinateurs (Low Immersive \nTechnology) sur notre plateforme web www. tadreex.com.\nAspect Technologique Immersive Learning : L'utilisation de \nla réalité virtuelle et l'immersion en 360 degré avec les \ncasques de réalité virtuelle.\nOriginalité La réalité virtuelle et la technologie immersive \n360 degre: permet de former des collaborateurs \nde \nmanière \ninteractive \nen \nrecréant \nparfaitement \nl’environnement de travail en 3D.\nActivity TadreeX \nis \nan \nonline \nsolution \nwhere \nemployees can take industrial training using 3D immersive \ntechnology. Our solution represents a new pedagogical \ntool for the human resources department that offers \nhands-on learning, real-time evaluation of learners and \nincreased employee engagement. Depending on the \ncustomer's needs, our solution can be deployed on VR \nheadsets (High Immersive Technology) or via computers \n(Low Immersive Technology) on our web platform www. \ntadreex.com.\nTechnological Aspect Immersive Learning: The use of virtual \nreality and 360 degree immersion with virtual reality \nheadsets.\nOriginality Virtual reality and 360 degree immersive \ntechnology: allows training employees in an interactive \nway by recreating perfectly the work environment in 3D.\nFR\nEN",
+    "tagline": "Acquérez des compétences tout en vivant une expérience immersive et engageante.",
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://tadreex.com",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "chellynizar@tadreex.com"
+        ],
+        "phones": [
+            {
+                "number": "+21654892842",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620220613",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21677297584",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21606393937",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://tadreex.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 65,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:59:47.871664",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "tadreex.com"
+            ]
+        },
+        "phones": {
+            "count": 4,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 4
+        }
+    },
+    "website_content": "![logo](https://www.tadreex.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4bbca6a3.png&w=384&q=75)\n[A propos](https://www.tadreex.com/fr/about)\n![arrow](https://www.tadreex.com/_next/static/media/arrow.79401e91.svg)\nNos formations\n![arrow](https://www.tadreex.com/_next/static/media/arrow.79401e91.svg)\nOffres\n[Contact](https://www.tadreex.com/fr/contact)\n![fr flag](https://www.tadreex.com/_next/static/media/france.f2fb0a32.svg)![dropdown icon](https://www.tadreex.com/_next/static/media/dropdown.5bf74ace.svg)\nDemander Démo\n![menu](https://www.tadreex.com/_next/static/media/menu.431bcf30.svg)\n![logo](https://www.tadreex.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4bbca6a3.png&w=256&q=75)![close](https://www.tadreex.com/_next/static/media/blackClose.77f7bd5d.svg)\n[A propos](https://www.tadreex.com/fr/about)\n![arrow](https://www.tadreex.com/_next/static/media/arrow.79401e91.svg)\nNos formations\n![arrow](https://www.tadreex.com/_next/static/media/arrow.79401e91.svg)\nOffres\n[Contact](https://www.tadreex.com/fr/contact)\n![fr flag](https://www.tadreex.com/_next/static/media/france.f2fb0a32.svg)![dropdown icon](https://www.tadreex.com/_next/static/media/dropdown.5bf74ace.svg)\n![hero-bg](https://www.tadreex.com/_next/static/media/ac.ad44a61e.svg)Acquérez des compétences tout en vivant une expérience immersive et engageante.\n# Formez vos équipes en toute sécurité et à moindre coût\nQue ce soit dans l'industrie ou la médecine, TadreeX vous propose une expérience d'apprentissage inédite avec nos simulateurs virtuels réalistes.\n![hero-bg](https://www.tadreex.com/_next/static/media/arr.f5f0a23e.svg)Demander une démo\nSanté et sécurité au travail Hygiène, sécurité et environnement Simulations médicales et paramédicales Exercices personnalisés en 360°Visite virtuelle 360°Et plus...\n![](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FIMG_7410_df5e31a837.jpg&w=1920&q=75)\n![](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FIMG_8945_2e8f288a87.jpg&w=1920&q=75)\n![](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FWhats_App_Image_2024_12_15_at_10_57_33_2_c9b3496c8a.jpeg&w=1920&q=75)\n![](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FWhats_App_Image_2023_05_03_at_16_07_27_bc8372ef5b.jpeg&w=1920&q=75)\n![](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FIMG_6695_19f9747132.jpeg&w=1920&q=75)\n![separator](https://www.tadreex.com/_next/static/media/separator.64f457a4.svg)\nPlus de 38 clients Nationales et Multinationales nous font confiance\n![image \\(2\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_2_1_806d57ffd2.png&w=256&q=75)\n![Mask group.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FMask_group_f2931dcc56.png&w=256&q=75)\n![Henkel Logo Vector 2.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FHenkel_Logo_Vector_2_2e54892842.png&w=256&q=75)\n![Novation.jpeg](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FNovation_a9849b667a.jpeg&w=256&q=75)\n![image \\(4\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_4_1_307acf5ffd.png&w=256&q=75)\n![image \\(16\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_16_e117b2202a.png&w=256&q=75)\n![logo-25858-20220613-082528.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_25858_20220613_082528_691217382a.png&w=256&q=75)\n![36676a597e18b129693112cae878e880 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F36676a597e18b129693112cae878e880_1_bb040bf9bd.png&w=256&q=75)\n![image \\(9\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_9_cab400b689.png&w=256&q=75)\n![image \\(5\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_5_2a781dac62.png&w=256&q=75)\n![Sika.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FSika_77297584a2.png&w=256&q=75)\n![image \\(23\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_23_b9539a41ae.png&w=256&q=75)\n![image \\(15\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_15_b7a37e8b04.png&w=256&q=75)\n![Faculté de medecine de sousse.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FFaculte_de_medecine_de_sousse_8da6008ad9.png&w=256&q=75)\n![logo-2 5859.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_2_5859_d42ca9ac3c.png&w=256&q=75)\n![Airbus.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FAirbus_c591346d68.png&w=256&q=75)\n![logo-charles2 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_charles2_1_e05e3e6d6c.png&w=256&q=75)\n![Frame 1000006179.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FFrame_1000006179_e3c4c65640.png&w=256&q=75)\n![Poulina 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FPoulina_1_f9a08e609e.png&w=256&q=75)\n![image \\(17\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_17_dc80268ca6.png&w=256&q=75)\n![téléchargement.jpeg](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Ftelechargement_57f1f5899e.jpeg&w=256&q=75)\n![Vector.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FVector_e465dffe61.png&w=256&q=75)\n![Honoris-United-Universities 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FHonoris_United_Universities_1_0a2e391eac.png&w=256&q=75)\n![cristal.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fcristal_e496dcf551.png&w=256&q=75)\n![CE-Website 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FCE_Website_1_52cbb020f3.png&w=256&q=75)\n![logo_universitei_centrale 2.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_universitei_centrale_2_91314f104b.png&w=256&q=75)\n![faculte-de-medecine-de-tunis 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Ffaculte_de_medecine_de_tunis_1_e1abe11eee.png&w=256&q=75)\n![image \\(26\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_26_fd428e9d5f.png&w=256&q=75)\n![434044694_397986946424375_8730850523248974636_n-removebg-preview 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F434044694_397986946424375_8730850523248974636_n_removebg_preview_1_b548c0f712.png&w=256&q=75)\n![image 6.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_6_df17a9906f.png&w=256&q=75)\n![2560px-SGS_Logo.svg \\(1\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F2560px_SGS_Logo_svg_1_1_84ade35bc9.png&w=256&q=75)\n![pngwing.com \\(1\\) 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fpngwing_com_1_1_4597830056.png&w=256&q=75)\n![image \\(27\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_27_a37f389c05.png&w=256&q=75)\n![atme \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fatme_1_ad06393937.png&w=256&q=75)\n![image \\(18\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_18_ba8cda84b3.png&w=256&q=75)\n![logo CATHARSIS 2023 PNG_Plan de travail 1 \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_CATHARSIS_2023_PNG_Plan_de_travail_1_1_1d6944de59.png&w=256&q=75)\n![Kromberg-_-Schubert-Logo-removebg-preview 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FKromberg_Schubert_Logo_removebg_preview_1_76982ddfc7.png&w=256&q=75)\n![image \\(2\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_2_1_806d57ffd2.png&w=256&q=75)\n![Mask group.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FMask_group_f2931dcc56.png&w=256&q=75)\n![Henkel Logo Vector 2.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FHenkel_Logo_Vector_2_2e54892842.png&w=256&q=75)\n![Novation.jpeg](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FNovation_a9849b667a.jpeg&w=256&q=75)\n![image \\(4\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_4_1_307acf5ffd.png&w=256&q=75)\n![image \\(16\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_16_e117b2202a.png&w=256&q=75)\n![logo-25858-20220613-082528.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_25858_20220613_082528_691217382a.png&w=256&q=75)\n![36676a597e18b129693112cae878e880 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F36676a597e18b129693112cae878e880_1_bb040bf9bd.png&w=256&q=75)\n![image \\(9\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_9_cab400b689.png&w=256&q=75)\n![image \\(5\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_5_2a781dac62.png&w=256&q=75)\n![Sika.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FSika_77297584a2.png&w=256&q=75)\n![image \\(23\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_23_b9539a41ae.png&w=256&q=75)\n![image \\(15\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_15_b7a37e8b04.png&w=256&q=75)\n![Faculté de medecine de sousse.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FFaculte_de_medecine_de_sousse_8da6008ad9.png&w=256&q=75)\n![logo-2 5859.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_2_5859_d42ca9ac3c.png&w=256&q=75)\n![Airbus.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FAirbus_c591346d68.png&w=256&q=75)\n![logo-charles2 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_charles2_1_e05e3e6d6c.png&w=256&q=75)\n![Frame 1000006179.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FFrame_1000006179_e3c4c65640.png&w=256&q=75)\n![Poulina 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FPoulina_1_f9a08e609e.png&w=256&q=75)\n![image \\(17\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_17_dc80268ca6.png&w=256&q=75)\n![téléchargement.jpeg](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Ftelechargement_57f1f5899e.jpeg&w=256&q=75)\n![Vector.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FVector_e465dffe61.png&w=256&q=75)\n![Honoris-United-Universities 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FHonoris_United_Universities_1_0a2e391eac.png&w=256&q=75)\n![cristal.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fcristal_e496dcf551.png&w=256&q=75)\n![CE-Website 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FCE_Website_1_52cbb020f3.png&w=256&q=75)\n![logo_universitei_centrale 2.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_universitei_centrale_2_91314f104b.png&w=256&q=75)\n![faculte-de-medecine-de-tunis 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Ffaculte_de_medecine_de_tunis_1_e1abe11eee.png&w=256&q=75)\n![image \\(26\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_26_fd428e9d5f.png&w=256&q=75)\n![434044694_397986946424375_8730850523248974636_n-removebg-preview 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F434044694_397986946424375_8730850523248974636_n_removebg_preview_1_b548c0f712.png&w=256&q=75)\n![image 6.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_6_df17a9906f.png&w=256&q=75)\n![2560px-SGS_Logo.svg \\(1\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2F2560px_SGS_Logo_svg_1_1_84ade35bc9.png&w=256&q=75)\n![pngwing.com \\(1\\) 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fpngwing_com_1_1_4597830056.png&w=256&q=75)\n![image \\(27\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_27_a37f389c05.png&w=256&q=75)\n![atme \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fatme_1_ad06393937.png&w=256&q=75)\n![image \\(18\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_18_ba8cda84b3.png&w=256&q=75)\n![logo CATHARSIS 2023 PNG_Plan de travail 1 \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Flogo_CATHARSIS_2023_PNG_Plan_de_travail_1_1_1d6944de59.png&w=256&q=75)\n![Kromberg-_-Schubert-Logo-removebg-preview 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FKromberg_Schubert_Logo_removebg_preview_1_76982ddfc7.png&w=256&q=75)\n![image \\(2\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_2_1_806d57ffd2.png&w=256&q=75)\n![Mask group.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FMask_group_f2931dcc56.png&w=256&q=75)\n![Henkel Logo Vector 2.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FHenkel_Logo_Vector_2_2e54892842.png&w=256&q=75)\n![Novation.jpeg](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FNovation_a9849b667a.jpeg&w=256&q=75)\n![image \\(4\\) \\(1\\).png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2Fimage_4_1_307acf5ffd.png&w=256&q=75)\n![Kromberg-_-Schubert-Logo-removebg-preview 1.png](https://www.tadreex.com/_next/image?url=https%3A%2F%2Fadmin.tadreex.com%2Fuploads%2FKromberg_Schubert_Logo_removebg_preview_1_76",
+    "website_metadata": {
+        "url": "https://tadreex.com",
+        "content_length": 15000
+    },
+    "external_profiles": {},
+    "emails": [
+        "chellynizar@tadreex.com"
+    ],
+    "phones": [
+        "54892842",
+        "25858-20220613-082528",
+        "20220613",
+        "691217382",
+        "129693112",
+        "77297584",
+        "1000006179",
+        "434044694",
+        "397986946424375",
+        "8730850523248974636",
+        "4597830056",
+        "06393937"
+    ],
+    "tavily": {
+        "query": "TADREEX",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\tadreex.json",
+    "normalized_name": "tadreex",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "tadreex.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "tadreex.com"
+                ]
+            },
+            "official": [
+                "chellynizar@tadreex.com"
+            ],
+            "details": [
+                {
+                    "original": "chellynizar@tadreex.com",
+                    "normalized": "chellynizar@tadreex.com",
+                    "domain": "tadreex.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "chellynizar@tadreex.com",
+    "quality": {
+        "phones": {
+            "total": 12,
+            "valid": 4,
+            "removed": 8,
+            "duplicates": 0,
+            "invalid": [
+                "+2162585820220613082528",
+                "+216691217382",
+                "+216129693112",
+                "+2161000006179",
+                "+216434044694",
+                "+216397986946424375",
+                "+2168730850523248974636",
+                "+2164597830056"
+            ]
+        }
+    }
+}

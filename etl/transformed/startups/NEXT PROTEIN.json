@@ -1,0 +1,393 @@
+{
+    "entity_type": "startup",
+    "name": "NEXT PROTEIN",
+    "description": "NEXT PROTEIN (2016)\nSecteur d’activité / Sector : FoodTech & New Food\nnextprotein.co\nFondateur / Founder\nE-mail\nAdresse / Address\nMOHAMED GASTLI\n-\n3 Rue des Juges 2 eme étage Bur n6 Menzah 6 Ariana\nActivité NextProtein produit une protéine à base \nd'insectes pour les matières premières animales dans le \nbut d'accélérer l'agriculture durable et de lutter contre la \npénurie de ressources.\nAspect Technologique -\nOriginalité -\nActivity NextProtein produces insect-based protein \nfor animal feedstocks in a quest to accelerate sustainable \nagriculture and tackle resource scarcity.\nTechnological Aspect - \nOriginality -\nFR\nEN",
+    "tagline": null,
+    "industry": "FoodTech & New Food",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://nextprotein.co",
+    "linkedin_url": "https://linkedin.com/company/nextprotein",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/syrinechaalala",
+        "facebook": "https://facebook.com/nextProtein",
+        "instagram": "https://instagram.com/nextprotein_"
+    },
+    "contact": {
+        "emails": [
+            "contact@nextprotein.co",
+            "emailsales@nextprotein.co",
+            "sales@nextprotein.co"
+        ],
+        "phones": [],
+        "address": "91, rue du Faubourg Saint Honoré 75008 PARIS",
+        "primary_social": "https://linkedin.com/in/syrinechaalala"
+    },
+    "founders": [
+        {
+            "name": "Syrine Chaalala",
+            "role": "Founder & COO",
+            "linkedin": "https://www.linkedin.com/in/syrinechaalala/",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Gastli",
+            "role": "Founder & CEO",
+            "linkedin": "https://www.linkedin.com/in/mgastli/",
+            "bio": ""
+        }
+    ],
+    "leadership": [
+        {
+            "name": "Cyril Grislain",
+            "role": "Board Member",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "employee_count": 15,
+    "employee_range": "11-50",
+    "team_size": "15",
+    "products": [
+        {
+            "name": "nextProtein",
+            "description": "A dry protein powder used as a feed ingredient for aquaculture, pet food and other animal feed.",
+            "category": "Feed ingredient"
+        },
+        {
+            "name": "nextOil",
+            "description": "A lipid product for use as a feed ingredient for aquaculture and other animal feed.",
+            "category": "Feed ingredient"
+        },
+        {
+            "name": "nextGrow",
+            "description": "A natural fertilizer made from Black Soldier Fly frass and their organic waste, for use in agriculture.",
+            "category": "Fertilizer"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [
+        "http://www.climate-kic.org/",
+        "http://www.incuballiance.fr/",
+        "http://www.scientipole-idf.com/",
+        "http://www.reseau-entreprendre-tunisie.org/",
+        "http://www.supbiotech.fr/en/",
+        "http://www.ipiff.org/"
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [
+        {
+            "name": "Kima Ventures",
+            "type": "Investor",
+            "website": "https://www.kimaventures.com",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Jerome Lecat",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Khaled Helioui",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Sylvie Ganter",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Christophe Cervasel",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Anaxago",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Angelsquare",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Angelor",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        },
+        {
+            "name": "Cyril Grislain",
+            "type": "Investor",
+            "website": "",
+            "country": "",
+            "source": "Website Investors Section"
+        }
+    ],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://nextprotein.co",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 64,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:20:13.461227",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 9,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 6,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 3,
+            "domains": [
+                "nextprotein.co"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[![nextProtein](https://nextprotein.co/wp-content/themes/nextProtein/images/nextProtein-logo-white.svg)](http://nextprotein.co/) [![nextProtein](https://nextprotein.co/wp-content/themes/nextProtein/images/nextProtein-logo-green.svg)](http://nextprotein.co/)\n* [Home](http://nextprotein.co/#home)\n* [Mission](http://nextprotein.co/#mission)\n* [Products](http://nextprotein.co/#products)\n* [Process](http://nextprotein.co/#process)\n* [About](http://nextprotein.co/#about)\n* [Partners](http://nextprotein.co/#partners)\n* [Investors](http://nextprotein.co/#investors)\n* [News & Press](https://nextprotein.co/news-press/)\nMenu\nClose\n* [Home](http://nextprotein.co/#home)\n* [Mission](http://nextprotein.co/#mission)\n* [Products](http://nextprotein.co/#products)\n* [Process](http://nextprotein.co/#process)\n* [About](http://nextprotein.co/#about)\n* [Partners](http://nextprotein.co/#partners)\n* [Investors](http://nextprotein.co/#investors)\n* [News & Press](https://nextprotein.co/news-press/)\nPrevious\n* To feed everyone on the planet by 2050, food production must increase by 70%\n![](https://nextprotein.co/wp-content/uploads/2017/08/Tracteur-HD.png) ![](https://nextprotein.co/wp-content/themes/nextProtein/images/header-image-ph.gif)\n* Currently, one third of all food produced goes to waste\n![](https://nextprotein.co/wp-content/uploads/2017/08/bg2.jpg) ![](https://nextprotein.co/wp-content/themes/nextProtein/images/header-image-ph.gif)\n* We want to address future land and resource shortage and sustainably feed a growing population\n[Read about our mission](http://nextprotein.co/#mission)\n![](https://nextprotein.co/wp-content/uploads/2017/08/bg3.jpg) ![](https://nextprotein.co/wp-content/themes/nextProtein/images/header-image-ph.gif)\nNext\n* 1\n* 2\n* 3\n###### Our Mission\nWe produce insect-based protein for animal feed stocks in a quest to accelerate sustainable agriculture and tackle resource scarcity with close to no carbon footprint.\n###### WE ARE…\n* **Driven** by a personal desire to address land and resource scarcity and feed a rising population sustainably: we can produce as much protein from 100 m² as 100 hectares of soya field.\n* **Dedicated** to processing and producing insect-based protein for animal feedstocks at a lower cost with equivalent nutritional value. We do this by taking otherwise unconsumed food on which to raise the insects, returning protein to the food cycle.\n* **Experienced** in breeding the Black Soldier Fly. This particular species of fly is selected specially for its beneficial, high-yield quality, as it can be processed into a powder, an oil and a fertilizer.\n* **Approved** by the EU for aquaculture feed, and can be used for feedstocks for the poultry and pork industries and for pet food. We are currently increasing our production capacity to one tonne of protein per day.\n###### OUR PRODUCTS\n![](https://nextprotein.co/wp-content/uploads/2017/08/nextProtein.svg)\n### nextProtein\nA dry protein powder used as a feed ingredient for aquaculture, pet food and other animal feed.\n**More information**\n![](https://nextprotein.co/wp-content/uploads/2017/08/nextOil.svg)\n### nextOil\nA lipid product for use as a feed ingredient for aquaculture and other animal feed.\n**More information**\n![](https://nextprotein.co/wp-content/uploads/2017/08/nextGrow.svg)\n### nextGrow\nA natural fertilizer made from Black Soldier Fly frass and their organic waste, for use in agriculture.\n**More information**\n###### OUR PROCESS\nFly larvae are raised and harvested from otherwise inconsumable food, and then processed into valuable components of animal feed.\n![](https://nextprotein.co/wp-content/uploads/2017/08/nextProtein-process.png)\n###### OUR STORY\nFounded in 2015 by couple Syrine Chaalala and Mohamed Gastli, nextProtein was launched to help tackle land and resource scarcity using insect protein as feedstock.\nLike most start-ups, nextProtein began in a garage back in 2014. It was born from the personal and professional ambitions of its founders, who were searching for solutions to change agricultural food production while being able to work and live together. Syrine, an Emergency Operations Specialist at the Food and Agriculture Organisation of the UN, and Mohamed, a Grammy-nominated chemical engineer, identified that they could combine organic cycles of nature with the scalable efficiency of technology, to produce an alternative to wasteful and unsustainable agricultural systems.\nThe catalyst was Syrine’s experience working in some of the world’s poorest nations combined with Mohamed’s entrepreneurial ambitions. On a program in Madagascar, which had been hit by natural disasters and food shortage, a locust plague decimated crops and livestock pastures while the people went hungry. Having witnessed the incredible ability of insects to create protein – which could feed livestock and therefore the population – the couple realised their dream for more sustainable industrial farming practices, using the life cycle of the Black Soldier Fly, fed on organic waste.\n##### [Syrine Chaalala Founder & COO Linked in ![](https://nextprotein.co/wp-content/uploads/2017/08/syrine.jpg) ](https://www.linkedin.com/in/syrinechaalala/)\n##### [Mohamed Gastli Founder & CEO Linked in ![](https://nextprotein.co/wp-content/uploads/2017/08/mohammad.jpg) ](https://www.linkedin.com/in/mgastli/)\n###### CAREERS\n### Interested in working with us? We are always looking for out-of-the-box thinkers to join our growing team.\nNow with a 15-person team of microbiologists, production technicians and engineers, nextProtein keeps up with and contributes to the latest research and technology, whether based in the Paris office or the 2500m² production site in Tunisia.\n[View Jobs](http://nextprotein.co/category/jobs/)\n###### OUR PARTNERS\n[![](https://nextprotein.co/wp-content/uploads/2017/08/climate-kic.png)](http://www.climate-kic.org/)\n[![](https://nextprotein.co/wp-content/uploads/2017/08/incuballiance.png)](http://www.incuballiance.fr/)\n[![](https://nextprotein.co/wp-content/uploads/2017/08/scientipole.png)](http://www.scientipole-idf.com/)\n[![](https://nextprotein.co/wp-content/uploads/2017/08/reseau-entreprende.png)](http://www.reseau-entreprendre-tunisie.org/)\n[![](https://nextprotein.co/wp-content/uploads/2017/08/sup-biotech.png)](http://www.supbiotech.fr/en/)\n[![](https://nextprotein.co/wp-content/uploads/2017/08/ipiff-1.png)](http://www.ipiff.org/)\n###### OUR INVESTORS\nnextProtein is backed by a range of high-profile European investors who have recognised our potential to revolutionise the industry.\nOur investors include Xavier Nielʼs Kima Ventures, Silicon Valley business angel Jerome Lecat, Khaled Helioui (investor of Uber and Deliveroo), Sylvie Ganter and Christophe Cervasel (Atelier Cologne), crowdfunding equity platform Anaxago and business angel community Angelsquare and Angelor. Top-ranked French business angel Cyril Grislain (Devialet, Scality, Stripe, Tempow, Agricool) has supported nextProtein since inception, and serves as a board member.\nIf you would like to discuss investing in our company, please get in touch with us at contact@nextprotein.co\n###### SUBSCRIBE\n## Join us on our mission to #FeedTheFuture\n![](https://nextprotein.co/wp-content/themes/nextProtein/images/nextProtein-logo-white.svg)\nWe produce insect-based protein for animal feed stocks in a quest to accelerate sustainable agriculture and tackle resource scarcity.\n###### Contact Us\n* Address91, rue du Faubourg Saint Honoré 75008 PARIS\n* Emailsales@nextprotein.co\n###### Follow Us\n* [![](https://nextprotein.co/wp-content/uploads/2017/08/social-twitter.svg)](https://twitter.com/nextprotein)\n* [![](https://nextprotein.co/wp-content/uploads/2017/08/social-linkedin.svg)](https://linkedin.com/company/nextprotein)\n* [![](https://nextprotein.co/wp-content/uploads/2017/08/social-facebook.svg)](https://www.facebook.com/nextProtein)\n* [![](https://nextprotein.co/wp-content/uploads/2017/08/social-instagram.svg)](https://www.instagram.com/nextprotein_/)\nMade with ![](http://nextprotein.co/wp-content/uploads/2017/10/worm.png) © nextProtein. All Rights Reserved | [Terms & Conditions](http://nextprotein.co/terms-conditions/) | Registered Company Address: 91, rue du Faubourg Saint Honoré 75008 Paris, FRANCE\nThis website uses cookies to improve your experience. We will assume you're OK with this, but you can opt out if you wish.[ACCEPT](https://nextprotein.co/)[READ MORE](https://nextprotein.co/terms-conditions/)",
+    "website_metadata": {
+        "url": "https://nextprotein.co",
+        "content_length": 8462
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "NEXT PROTEIN",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\next_protein.json",
+    "normalized_name": "next protein",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "nextprotein.co",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/in/syrinechaalala",
+                    "normalized": "https://linkedin.com/in/syrinechaalala",
+                    "username": "syrinechaalala",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/nextProtein",
+                    "normalized": "https://facebook.com/nextProtein",
+                    "username": "nextProtein",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/nextprotein_",
+                    "normalized": "https://instagram.com/nextprotein_",
+                    "username": "nextprotein_",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 3,
+                "domains": [
+                    "nextprotein.co"
+                ]
+            },
+            "official": [
+                "contact@nextprotein.co",
+                "emailsales@nextprotein.co",
+                "sales@nextprotein.co"
+            ],
+            "details": [
+                {
+                    "original": "contact@nextprotein.co",
+                    "normalized": "contact@nextprotein.co",
+                    "domain": "nextprotein.co",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "emailsales@nextprotein.co",
+                    "normalized": "emailsales@nextprotein.co",
+                    "domain": "nextprotein.co",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "sales@nextprotein.co",
+                    "normalized": "sales@nextprotein.co",
+                    "domain": "nextprotein.co",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@nextprotein.co",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

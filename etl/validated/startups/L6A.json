@@ -1,0 +1,261 @@
+{
+    "entity_type": "startup",
+    "name": "L6A",
+    "description": "22\nAPII / CIDT – SEPTEMBER 2022\nL6A(2019)\nSecteur d’activité / Sector : Mobility\nsupplytensor.com\nFondateur / Founder\nE-mail\nAdresse / Address\nSLIM AMAMOU / BECHIR HATIRA / HASSEN MARZOUKI\ninfo@L6.tn\n5 avenue de la Liberté, Menzah 5, Ariana, Tunisia\nActivité Gestion de stock automatique pour les PME. \nNotre produit SupplyTensor est un service SaaS qui gère \nl'inventaire physique et l'approvisionnement pour les \npetites entreprises et leurs fait éviter les ruptures de stock \net le surstockage.\nAspect Technologique Terminaux Mobiles avec lecteur code-\nbarres /qr-code connectés a notre plateforme sur internet \npar 3G et Wifi.\nOriginalité Les PMEs ne savent pas gèrer leurs stock. Alors \nnous avons créé un Pilote Automatique pour la gestion de \nstock des PMEs.\nActivity Automatic Inventory management for SMEs. \nOur product SupplyTensor is a SaaS for physical inventory \nand supply management that helps small businesses \navoid stockouts and overstocking.\nTechnological Aspect Mobile Terminals with barcode/qr-\ncode readers connected to our platform on the Internet \nwith 3G and Wifi. \nOriginality SMEs can't manage their inventory. So we built \nan Autopilot for inventory management for SMEs.\nFR\nEN",
+    "tagline": null,
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://supplytensor.com",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "info@l6.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21631401680",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Terminal Mobile avec lecteur code-barres",
+            "description": "Terminal mobile permettant d'inventorier jusqu'à 720 articles en 1 heure, de scanner des codes-barres, des cartes fidélité et de gérer les stocks des véhicules à distance.",
+            "category": "Hardware"
+        }
+    ],
+    "services": [
+        "Inventaire rapide",
+        "Gestion de stocks à distance",
+        "Cartes fidélité",
+        "Traçabilité des livraisons"
+    ],
+    "technologies": [
+        "IA"
+    ],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://supplytensor.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 77,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:03:47.495570",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 4,
+        "technologies_count": 1,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "l6.tn"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[ ![](https://supplytensor.com/images/logo.png) ](https://supplytensor.com/)\n[Accueil](https://supplytensor.com/) [Comment ça marche ?](https://supplytensor.com/#services) [Tarifs](https://supplytensor.com/#tarifs) [Recrutement](http://l6.tn/recrutement.html) [Contact](http://l6.tn/contact/)\n31 401 680\n* [Se connecter ➔](https://supplytensor.com/login/)\n# Faites l'inventaire plus souvent et plus rapidement\nNotre terminal mobile permet d'inventorier jusqu'à _720 articles en 1 heure_. Alors vous pouvez inventorier votre stock en une demi-journée, ou inventorier quelques articles tous les jours en quelques minutes. Vous êtes le maître à bord.\n# Gèrez les stocks de vos véhicules à distance\nEquipez vos commerciaux avec nos Terminaux Mobiles pour qu'ils gèrent les stocks de leurs véhicules. Vous pourrez _consulter l'état du stock de chacun de vos véhicules_ à distance depuis votre bureau.\n# Augmentez vos Ventes avec la Carte Fidélité\nOffrez des cartes fidélités a vos clients. Notre terminal mobile permet de _scanner les cartes de fidélité_ pendant la livraison chez le client et ainsi les faire bénéficier de votre programme fidélité.\n# Traçabilité de vos Livraisons jusqu’à la porte de vos Clients\nNotre terminal mobile permet de scanner les code-barres clients aussi bien que les code-barres articles. En scannant la carte fidélité de votre client, votre livreur _confirme la livraison et son heure exacte_.\n[ Essayer en 2 minutes ](https://supplytensor.com/)\n![](https://supplytensor.com/images/hw70eblackScan.jpg) [Acheter](https://supplytensor.com/) [Louer](https://supplytensor.com/)\n![](https://supplytensor.com/images/supply.tn-illustration2.gif)\n## Comment ça marche ?\n###  1 Importez votre fichier de stock\nExportez votre fichier de stock depuis votre logiciel de gestion de stock et importez le sur notre plateforme. Cette étape nous permettera d'imprimer vos étiquettes code-barres. Faites le dès maintenant et explorez notre plateforme\n![](https://supplytensor.com/images/undraw_files1_9ool.svg)\n###  2 Nous vous livrons votre Terminal Mobile et vos code-barres imprimés\nDès que vous commandez votre Terminal Mobile, nous vous contacterons pour prendre rendez vous pour la livraison. Le jour de la livraison nous vous assisterons pour la prise en main du système\n![](https://supplytensor.com/images/undraw_empty_xct9.svg)\n###  3 Faites l'inventaire\nConnectez facilement votre terminal mobile à votre compte en ligne et commencez immédiatement a scanner vos articles. Si vous trouvez un article sans code-barres, collez simplement son etiquette code-barres que nous avons imprimée pour vous.\n![](https://supplytensor.com/images/undraw_cloud_sync_2aph.svg)\n###  4 Gèrez les stocks de vos véhicules\nEquipez votre commercial du Terminal Mobile. A chaque fois qu'il livre vos produits à un client, il scanne leurs code barres avec le terminal mobile. Faites le suivi en temps réel depuis votre bureau de ses ventes et de l'etat du stock de son véhicule.\n![](https://supplytensor.com/images/capture-articles.png)\n## Nos tarifs d'abonnement\n##### Gratuit\n# 0 DT\n* Suivi de l'inventaire à distance\n* Détection des anomalies de stock par IA\n[Créer un compte](https://supplytensor.com/buy/)\n##### 1 utilisateur\n# 79 DT/ mois / utilisateur\n* Suivi de l'inventaire à distance\n* Détection des anomalies de stock par IA\n* Bon d'Entree et Bon de Sortie\n* Etat de stock des véhicules à distance\n* Multi Depots et Multi Véhicules\n* Cartes Fidélité pour vos clients\n[Créer un compte](https://supplytensor.com/buy/?p=856edd71-03e3-4344-b504-e6aef437f8dc)\n##### 2 utilisateurs et plus\n# 49 DT/ mois / utilisateur\n* Suivi de l'inventaire à distance\n* Détection des anomalies de stock par IA\n* Bon d'Entree et Bon de Sortie\n* Etat de stock des véhicules à distance\n* Multi Depots et Multi Véhicules\n* Cartes Fidélité pour vos clients\n[Créer un compte](https://supplytensor.com/buy/?p=b33349cf-96da-472f-a0a0-05c35a10c3f0)\n![](https://supplytensor.com/images/logo.png) [A propos de L6](http://L6.tn)\n[2019 © L6](http://L6.tn)\n##### Acheter\n×\n![](https://supplytensor.com/images/hw70eblack.jpg)\n##### Terminal Mobile avec lecteur code-barres\n# 2 390,000 DT\n##### Quantité : 1\nAnnuler [Choisir un Compte](https://supplytensor.com/#tarifs)\n##### Période de Location\n×\nDate Début\nDate Fin\nAnnuler Reserver\n##### Format du fichier\n×\nextrait de vos données\n|\n|  |\nAnnuler Génèrer le Rapport\n##### Importer mon fichier de stock\n×\nSélectionnez un fichier contenant vos articles pour bénéficier d'un rapport immediat sur votre stock. Si vous n'avez pas le fichier, essayez un Exemple\nDéplacer le fichier ici\nFichier...\nSélectionner un fichier\nEssayer un Exemple Analyser mon fichier\n*[IA]: Intelligence Artificielle",
+    "website_metadata": {
+        "url": "https://supplytensor.com",
+        "content_length": 4706
+    },
+    "external_profiles": {},
+    "emails": [
+        "info@L6.tn"
+    ],
+    "phones": [
+        "31 401 680"
+    ],
+    "tavily": {
+        "query": "L6A",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\l6a.json",
+    "normalized_name": "l6a",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "supplytensor.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "l6.tn"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "info@L6.tn",
+                    "normalized": "info@l6.tn",
+                    "domain": "l6.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Mali",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@l6.tn",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

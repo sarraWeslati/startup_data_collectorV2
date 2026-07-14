@@ -1,0 +1,202 @@
+{
+    "entity": {
+        "name": "SmarDac",
+        "description": "Solution pay-as-you-go ciblant l'industrie de l'énergie.",
+        "industry": "Business Software and services",
+        "country": "",
+        "city": "",
+        "website": "https://www.f6s.com/company/smardac#about",
+        "linkedin": "",
+        "founders": [],
+        "entity_type": "startup",
+        "website_content": "![](https://www.f6s.com/content-resource/static/f6s-logo-square.svg?v=FVXHfEQcGR)\nWe think you might be a bot\nTo regain access, please make sure that cookies and JavaScript are enabled before reloading the page.\nPlease email support@f6s.com with the info below if you think this is an error:\nIP: 102.158.155.78\nRequest ID: cbadwRqK62W367FEbHswwePSXX1pbEBd35K1m6jXJbiwIWfr65uxvA==\n[Terms](https://www.f6s.com/terms) [Privacy](https://www.f6s.com/privacy-policy) [Data Security](https://www.f6s.com/data-security) [Cookie Policy](https://www.f6s.com/cookie-policy) [Cookie Table](https://www.f6s.com/cookie-table) © 2026 F6S Network Limited. All rights reserved. F6S is a registered trademark.",
+        "website_metadata": {
+            "url": "https://www.f6s.com/company/smardac#about",
+            "content_length": 691
+        },
+        "contact": {
+            "emails": [
+                "support@f6s.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": ""
+        },
+        "social_media": {},
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "headquarters": "",
+        "linkedin_url": "",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-06-30T15:44:17.394346",
+            "website_enriched": true,
+            "tavily_results": 0,
+            "llm_enriched": true
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": false,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "founders_count": 0,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 0,
+            "social": {
+                "profiles_count": 0,
+                "linkedin": false,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 1,
+                "domains": [
+                    "f6s.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "sources": [
+            {
+                "type": "website",
+                "url": "https://www.f6s.com/company/smardac#about",
+                "confidence": 1.0
+            }
+        ],
+        "external_profiles": {},
+        "emails": [
+            "support@f6s.com"
+        ],
+        "tavily": {
+            "query": "SmarDac",
+            "answer": "",
+            "results_count": 0,
+            "urls": []
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 49,
+            "level": "Low"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\smardac.json",
+        "normalized_name": "smardac",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "f6s.com",
+                "website_type": "official",
+                "social_profiles": 0,
+                "external_profiles": 0
+            },
+            "social_validation": {
+                "report": {
+                    "total": 0,
+                    "valid": 0,
+                    "official": 0,
+                    "platforms": []
+                },
+                "details": {}
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 1,
+                    "domains": [
+                        "f6s.com"
+                    ]
+                },
+                "official": [
+                    "support@f6s.com"
+                ],
+                "details": [
+                    {
+                        "original": "support@f6s.com",
+                        "normalized": "support@f6s.com",
+                        "domain": "f6s.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": true,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "support@f6s.com",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

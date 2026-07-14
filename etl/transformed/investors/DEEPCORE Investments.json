@@ -1,0 +1,264 @@
+{
+    "name": "DEEPCORE Investments",
+    "description": "SoftBank Group subsidiary that invests in AI.",
+    "organization_type": "",
+    "country": "Morocco",
+    "city": "Tokyo",
+    "website": "https://www.cbinsights.com/investor/deepcore",
+    "linkedin": "",
+    "investment_focus": [
+        "AI"
+    ],
+    "investment_stages": [
+        "seed",
+        "early-stage",
+        "Series A"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/investor/deepcore",
+        "dealroom": "https://app.dealroom.co/news/feed/deepcore-launches-third-fund-to-accelerate-investment-in-ai-and-advanced-technology-startups"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/DEEPCOREinc",
+        "youtube": "https://youtube.com/@HakkutsuChannel",
+        "x": "https://x.com/DEEPCORE_Inc"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:13:11.441315+00:00",
+        "website_enriched": true,
+        "tavily_results": 9,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "DEEPCORE Investments",
+        "answer": "",
+        "results_count": 9,
+        "urls": [
+            "https://altss.com/profile/deepcore",
+            "https://venturecapitalarchive.com/venture-funds/deepcore-inc-deepcore-jp",
+            "https://www.cbinsights.com/investor/deepcore",
+            "https://startupintros.com/orgs/deepcore",
+            "https://tracxn.com/d/accelerator-incubator/deepcore/__3-BkRyIusvR4wgVYOlO0kRImDhpeAWzINcStzIDqGOE",
+            "https://www.caplight.com/investor/deepcore-inc",
+            "https://deepcore.jp/",
+            "https://joltoo.com/investors/deepcore",
+            "https://app.dealroom.co/news/feed/deepcore-launches-third-fund-to-accelerate-investment-in-ai-and-advanced-technology-startups"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 1,
+        "investment_stages_count": 3,
+        "geographic_focus_count": 0,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 3,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": true,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n## Predict your next investment\n[Request a Demo](https://www.cbinsights.com/request-a-demo?utm_source=deepcore&utm_medium=public-profiles&utm_campaign=cbinsights&utm_term=trial-signup&utm_content=trialsignup-deepcore-banner)\n![DEEPCORE company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/8b349c16-1f57-4743-8ca0-f6f505f74781.png)\nVenture Capital\n# DEEPCORE\nFINANCE | Investment Firms & Funds\n[deepcore.jp](https://deepcore.jp)\n## Are you an investor?\nSubmit your portfolio details now to be considered in our investor rankings.\n[Submit portfolio details](https://cbinsights.iad1.qualtrics.com/jfe/form/SV_e8rXTxvkDDEQS7c)\n## Investments\n170\n## Portfolio Exits\n4\n## Funds\n6\n## Partners & Customers\n3\n## About DEEPCORE\nDEEPCORE operates as an artificial intelligence-focused venture capital firm that operates a venture capital fund investing in seed and early-stage AI startups. In addition to investment activities, the firm operates incubation and talent development programs for AI entrepreneurs and engineers. Deepcore supports portfolio companies through strategic guidance, industry connections, and technical expertise. The firm aims to foster innovation in AI, robotics, and related advanced technology fields. The firm was founded in 2005 and is based in Tokyo, Japan.\n## Headquarters Location\n4-1-4 Hongo, Bunkyo-ku 3F/4F, Unizo hongo 4-Chome Building\nTokyo, 113-0033,\nJapan\nAre you an investor?\nSubmit your portfolio details now to be considered in our investor rankings.\n[Submit portfolio details](https://cbinsights.iad1.qualtrics.com/jfe/form/SV_e8rXTxvkDDEQS7c)\n## Latest DEEPCORE News\n[DEEPCORE、3号ファンドを設立。AIおよび先端技術領域のスタートアップへの投資を加速](https://dime.jp/company_news/detail/?pr=2594868)\nJun 10, 2026\nDEEPCOREは2018年から、AI分野を中心とした投資（累計140社超）および、起業支援に取り組んできました。3号ファンドでは、プレシードからシリーズAを中心とする、AIおよび先端技術領域のスタートアップへの投資を行います。 DEEPCOREはこれまでに、投資活動に加え、起業家／CxO・研究者・エンジニアが集まるスタートアップコミュニティ「KERNEL（カーネル）」の運営を通じて、組織づくりの支援、技術シーズと経営人材のマッチングなど、多面的な起業家支援を行ってきました。 3号ファンドにおいても、これらの取り組みとの相乗効果により、スタートアップの創出から成長までを一貫して支援することで、産業課題および社会課題の解決に貢献していきます。 「KERNEL」についての詳細は、以下のプレスリリースをご覧ください。 https://prtimes.jp/main/html/rd/p/000000046.000031481.html ◼️DEEPCOREについて 技術で世界を変える志を持つ起業家を支援する、AIおよび先進的技術分野のスタートアップに特化したベンチャーキャピタルです。プレシードからアーリーステージのヘルスケア、製造、物流などあらゆる業界・産業に投資を行っています。 投資活動に加え、起業家の支援にも注力しており、起業家・CxO、研究者、エンジニアが集うスタートアップコミュニティ「KERNEL（カーネル）」を運営しています。さらに、スタートアップの採用支援を行う「LINKS by KERNEL」、人・組織の壁を突破する実践プログラム「SYNCLE（シンクル）」、技術シーズと経営人材のマッチング事業などを展開し、スタートアップの成長と事業創出を支援しています。 ◼️DEEPCORE 公式SNSアカウント note： https://note.com/deepcore_kernel X： https://x.com/DEEPCORE_Inc Facebook： https://www.facebook.com/DEEPCOREinc/ YouTube： https://www.youtube.com/@HakkutsuChannel 【会社概要】 会社名 ：株式会社ディープコア 代表取締役：仁木 勝雅 本社 ：東京都文京区本郷4-1-4 Design Place α 3F, 4F URL ： https://deepcore.jpPR TIMESプレスリリース詳細へ\nJun 9, 2026\n[経営と技術がシームレスに混じり合う場へ。スタートアップコミュニティ「KERNEL」がメンバーシップ制度を刷新](https://prtimes.jp/main/html/rd/p/000000046.000031481.html)\nJun 9, 2026\n[スタートアップコミュニティ「KERNEL」がメンバーシップ制度を刷新し革新を図る](https://news.3rd-in.co.jp/article/d1f39d4c-63cc-11f1-962f-9ca3ba09c411)\nJun 9, 2026\n[経営と技術がシームレスに混じり合う場へ。スタートアップコミュニティ「KERNEL」がメンバーシップ制度を刷新](https://webtan.impress.co.jp/r/prtimes/items/000000046.000031481)\nJun 9, 2026\n[経営と技術がシームレスに混じり合う場へ。スタートアップコミュニティ「KERNEL」がメンバーシップ制度を刷新](https://www.jiji.com/jc/article?k=000000046.000031481&g=prt)\nLearn more by requesting a demo\n## DEEPCORE Investments\n170 Investments\nDEEPCORE has made**170 investments**. Their latest investment was in [Yoani](https://www.cbinsights.com/company/yoani) as part of their **Seed VC - II** on **June 22, 2026**.\n![CBI Logo](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/CBI_Logo_icon-centered.png?w=64&q=75)\n### DEEPCORE Investments Activity\n![investments chart](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/investment_chart.png?w=1920&q=75)\nView Investments Chart\n| Date  | Round  | Company  | Amount  | New?  | Co-Investors  | Sources  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 6/22/2026  | Seed VC - II  | Yoani  | $17,94M  | Yes  | [Bandai Namco](https://www.cbinsights.com/investor/bandai-namco), [Bricks Fund Tokyo](https://www.cbinsights.com/investor/bricks-fund-tokyo), [Crit Ventures](https://www.cbinsights.com/investor/crit-ventures), [Dentsu Ventures](https://www.cbinsights.com/investor/dentsu-ventures), [Sony Innovation Fund](https://www.cbinsights.com/investor/sony-innovation-fund), and [TBS Innovation Partners](https://www.cbinsights.com/investor/tbs-innovation-partners)  | 7  |\n| 6/1/2026  | Series A  | GenerativeX  | $4,08M  | No  | [Angel Bridge](https://www.cbinsights.com/investor/angel-bridge), [Nissay Capital](https://www.cbinsights.com/investor/nissay-capital), [Salesforce Ventures](https://www.cbinsights.com/investor/salesforce-ventures), and [SMBC Venture Capital](https://www.cbinsights.com/investor/smbc-venture-capital)  | 2  |\n| 5/22/2026  | Convertible Note  | FACTORY X  | $0,63M  | Yes  | [ANRI](https://www.cbinsights.com/investor/anri), [epiST Ventures](https://www.cbinsights.com/investor/epist-ventures), and [STATION Ai](https://www.cbinsights.com/investor/station-ai)  | 2  |\n| 4/27/2026  | Seed VC  | Subscribe to see more  | $XXM  | Subscribe to see more  | [Subscribe to see more](https://www.cbinsights.com/)  | 10  |\n| 2/17/2026  | Series B - II  | Subscribe to see more  | $XXM  | Subscribe to see more  | [Subscribe to see more](https://www.cbinsights.com/)  | 10  |\n| Date  | 6/22/2026  | 6/1/2026  | 5/22/2026  | 4/27/2026  | 2/17/2026  |\n| --- | --- | --- | --- | --- | --- |\n| Round  | Seed VC - II  | Series A  | Convertible Note  | Seed VC  | Series B - II  |\n| Company  | Yoani  | GenerativeX  | FACTORY X  | Subscribe to see more  | Subscribe to see more  |\n| Amount  | $17,94M  | $4,08M  | $0,63M  | $XXM  | $XXM  |\n| New?  | Yes  | No  | Yes  | Subscribe to see more  | Subscribe to see more  |\n| Co-Investors  | [Bandai Namco](https://www.cbinsights.com/investor/bandai-namco), [Bricks Fund Tokyo](https://www.cbinsights.com/investor/bricks-fund-tokyo), [Crit Ventures](https://www.cbinsights.com/investor/crit-ventures), [Dentsu Ventures](https://www.cbinsights.com/investor/dentsu-ventures), [Sony Innovation Fund](https://www.cbinsights.com/investor/sony-innovation-fund), and [TBS Innovation Partners](https://www.cbinsights.com/investor/tbs-innovation-partners)  | [Angel Bridge](https://www.cbinsights.com/investor/angel-bridge), [Nissay Capital](https://www.cbinsights.com/investor/nissay-capital), [Salesforce Ventures](https://www.cbinsights.com/investor/salesforce-ventures), and [SMBC Venture Capital](https://www.cbinsights.com/investor/smbc-venture-capital)  | [ANRI](https://www.cbinsights.com/investor/anri), [epiST Ventures](https://www.cbinsights.com/investor/epist-ventures), and [STATION Ai](https://www.cbinsights.com/investor/station-ai)  | [Subscribe to see more](https://www.cbinsights.com/)  | [Subscribe to see more](https://www.cbinsights.com/)  |\n| Sources  | 7  | 2  | 2  | 10  | 10  |\nLearn more by requesting a demo\n# DEEPCORE Portfolio Exits\n## 4 Portfolio Exits\nDEEPCORE has 4 portfolio exits. Their latest portfolio exit was [Dataseed](https://www.cbinsights.com/company/dataseed) on July 01, 2024.\n| Date  | Exit  | Companies  |  ValuationValuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.  | Acquirer  | Sources  |\n| --- | --- | --- | --- | --- | --- |\n| 7/1/2024  | Acquired  | [Dataseed](https://www.cbinsights.com/company/dataseed)  | $XXM  | [zeroboard](https://www.cbinsights.com/company/zeroboard)  | 2  |\n| 9/22/2023  | IPO  | Subscribe to see more  | $XXM  | Subscribe to see more  | 10  |\n| 7/31/2023  | Acquired  | Subscribe to see more  | $XXM  | Subscribe to see more  | 10  |\n| 7/3/2023  | Acquired  | Subscribe to see more  | $XXM  | Subscribe to see more  | 10  |\n| Date  | 7/1/2024  | 9/22/2023  | 7/31/2023  | 7/3/2023  |\n| --- | --- | --- | --- | --- |\n| Exit  | Acquired  | IPO  | Acquired  | Acquired  |\n| Companies  | [Dataseed](https://www.cbinsights.com/company/dataseed)  | Subscribe to see more  | Subscribe to see more  | Subscribe to see more  |\n| Valuation  | $XXM  | $XXM  | $XXM  | $XXM  |\n| Acquirer  | [zeroboard](https://www.cbinsights.com/company/zeroboard)  | Subscribe to see more  | Subscribe to see more  | Subscribe to see more  |\n| Sources  | 2  | 10  | 10  | 10  |\nLearn more by requesting a demo\n# DEEPCORE Fund History\n## 6 Fund Histories\nDEEPCORE has 6 funds, including **DEEPCORE TOKYO II Investment**.\n| Closing Date  | Fund  | Fund Type  | Status  | Amount  | Sources  |\n| --- | --- | --- | --- | --- | --- |\n| 5/31/2023  | DEEPCORE TOKYO II Investment  |   |   | $83,71M  | 2  |\n|   | DEEPCORE AI-Focused Fund  |   |   |   | 10  |\n|   | DEEPCORE Fund III  |   |   |   | 10  |\n|   | DEEPCORE TOKYO 1  |   |   |   | 10  |\n|   | DEEPCORE TOKYO I Investment LP  | Subscribe to see more  | Subscribe to see more  |   | 10  |\n| Closing Date  | 5/31/2023  |   |   |   |   |\n| --- | --- | --- | --- | --- | --- |\n| Fund  | DEEPCORE TOKYO II Investment  | DEEPCORE AI-Focused Fund  | DEEPCORE Fund III  | DEEPCORE TOKYO 1  | DEEPCORE TOKYO I Investment LP  |\n| Fund Type  |   |   |   |   | Subscribe to see more  |\n| Status  |   |   |   |   | Subscribe to see more  |\n| Amount  | $83,71M  |   |   |   |   |\n| Sources  | 2  | 10  | 10  | 10  | 10  |\nLearn more by requesting a demo\n## DEEPCORE Partners & Customers\n3 Partners and custome",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/investor/deepcore",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://x.com/DEEPCORE_Inc"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Venture Capital",
+    "headquarters": "Tokyo, Japan",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "9-0584-4",
+        "57-4743-8",
+        "113-0033",
+        "2594868)",
+        "000000046",
+        "000031481",
+        "000031481)"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 66,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\deepcore_investments.json",
+    "normalized_name": "deepcore investments",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "x",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/DEEPCOREinc",
+                    "normalized": "https://facebook.com/DEEPCOREinc",
+                    "username": "DEEPCOREinc",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@HakkutsuChannel",
+                    "normalized": "https://youtube.com/@HakkutsuChannel",
+                    "username": "@HakkutsuChannel",
+                    "valid": true,
+                    "official": true
+                },
+                "x": {
+                    "platform": "x",
+                    "original": "https://x.com/DEEPCORE_Inc",
+                    "normalized": "https://x.com/DEEPCORE_Inc",
+                    "username": "DEEPCORE_Inc",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 7,
+            "valid": 0,
+            "removed": 7,
+            "duplicates": 0,
+            "invalid": [
+                "905844",
+                "5747438",
+                "1130033",
+                "2594868",
+                "000000046",
+                "000031481",
+                "000031481"
+            ]
+        }
+    }
+}

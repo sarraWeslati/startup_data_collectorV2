@@ -1,0 +1,335 @@
+{
+    "entity_type": "startup",
+    "name": "allcarta",
+    "description": "ALLCARTA est une plateforme de mise en relation entre professeur, élève /étudiant, administration et partenaires business.",
+    "tagline": "on prend le sport au sérieux !",
+    "industry": "EdTech",
+    "keywords": [
+        "fitness",
+        "gym",
+        "subscription",
+        "AllCarta",
+        "discount"
+    ],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.allcarta.com",
+    "linkedin_url": "https://linkedin.com/company/allcarta",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/allcarta"
+    },
+    "contact": {
+        "emails": [
+            "support@allcarta.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/allcarta"
+    },
+    "founders": [
+        {
+            "name": "Khalil Jebeniani",
+            "role": "CEO",
+            "linkedin": "https://linkedin.com/in/khaliljebeniani",
+            "bio": "Entrepreneur | Fondateur et CEO d'ALLCARTA | Passionné par l'innovation, l'éducation et l'engagement étudiant"
+        },
+        {
+            "name": "Ahmed Omar Miladi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "ABONNEMENT TRIMESTRIELLE",
+            "description": "Quarterly fitness subscription at Cactus Fit, includes dynamic coaching sessions and group classes, with discount via AllCarta.",
+            "category": "Fitness"
+        }
+    ],
+    "services": [
+        "dynamic coaching sessions",
+        "group classes"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 87,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:04:41.190169",
+        "website_enriched": true,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 2,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "allcarta.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jan-22"
+    },
+    "external_profiles": {
+        "website": "https://www.allcarta.com",
+        "linkedin": "https://linkedin.com/company/allcarta"
+    },
+    "tavily": {
+        "query": "allcarta",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://www.allcarta.com/",
+            "https://club.allcarta.com/",
+            "https://linkedin.com/company/allcarta/",
+            "https://seller.allcarta.com/",
+            "https://allcarta.com/contact/",
+            "https://www.linkedin.com/company/allcarta",
+            "https://linkedin.com/in/khaliljebeniani",
+            "https://linkedin.com/in/shili-badie",
+            "https://linkedin.com/in/mabinty-soumah-314545339",
+            "https://tracxn.com/d/companies/allcarta/__PaTAy98fJA03QQ-bPxY2sBcc0X5h_IzNoraNKbDGuX4",
+            "https://allcarta.com/",
+            "https://prospeo.io/c/allcarta-email-format",
+            "https://pfebooks.com/catalogue/2025/allcarta/",
+            "https://www.allcarta.com/contact/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![](https://www.allcarta.com/static/images/logo.png) ](https://www.allcarta.com/)\n* * *\n* [ Home](https://www.allcarta.com/)\n* * *\nMain Pages\n* [ All Brands ](https://www.allcarta.com/brands/)\n* [ Offers ](https://www.allcarta.com/offers/)\n* [ Clubs ](https://www.allcarta.com/clubs/)\n* [ ](https://www.allcarta.com/)\n* [ Login](https://www.allcarta.com/login/)\n![](https://www.allcarta.com/static/icons/Artboard_446.jpg) ![](https://www.allcarta.com/static/icons/Artboard_44_copy6.jpg)\n# ![](https://www.allcarta.com/static/images/Asset_2.webp)\n##### Let our experts find the best coupons and deals for you!\nAll  Coupons  Stores  Restaurant  All\n###### E.g. Coupons, Brands, Stores, Restaurant & more...\n# Top Stores\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/cover.png) ](https://www.allcarta.com/brand/88/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo_be_sport6.jpg) Be Sport\nÉlégance athlétique en boutique : be sport Km 12 Rte de La Marsa : 70736382 - 70736380 Av Jean Jaurès(ex Oriental Palace) : 71247104 CC Tunis City : 70835910 CC Manar City : 36361473 CC Azur City : 98194197 CC Mall of Sousse : 73815056 CC Mall of Sfax : 99 632 566\n[Explore](https://www.allcarta.com/brand/88/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/carthage-land_cover.jpg) ](https://www.allcarta.com/brand/89/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo.jpg) Carthage Land\nHistoire et Aventures Aquatiques Explorez vingt attractions thématiques vous transportant à l'époque carthaginoise, ainsi que des plaisirs aquatiques rafraîchissants pour toute la famille.\n[Explore](https://www.allcarta.com/brand/89/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/Baletto_-_cover.jpg) ](https://www.allcarta.com/brand/90/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo.png) Baletto\nÉlégance Italienne, Confection Tunisienne\n[Explore](https://www.allcarta.com/brand/90/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/371758078_683565757141738_6297739888308309551_n.png) ](https://www.allcarta.com/brand/91/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo_2.jpg) URBAN DANCE\nÉnergie urbaine à chaque pas\n[Explore](https://www.allcarta.com/brand/91/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/california_-_cover.png) ](https://www.allcarta.com/brand/8/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/348315519_803740574679425_4299480727452495163_n.png) California Gym\nLa Terre du Fitness en Tunisie: California Gym Première chaîne de clubs de fitness avec 10 emplacements dans le Grand Tunis et Sousse\n[Explore](https://www.allcarta.com/brand/8/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/425330713_122129525558106473_5838127179053739288_n.jpg) ](https://www.allcarta.com/brand/108/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/398580149_122101033808106473_3303973473385692719_n.jpg) Lovely Gift\nÉlégance dans un petit paquet🎁✨\n[Explore](https://www.allcarta.com/brand/108/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/covberfat.jpg) ](https://www.allcarta.com/brand/13/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/log_fata.png) FATALES\nOù la Beauté Devient Légende💄 Pionnier de la parfumerie sélective en libre-service en Tunisie, Fatales valorise la proximité avec ses clients en proposant le meilleur de la beauté avec 27 points de vente et la vente en ligne via le site ou les réseaux sociaux. Fatales met à votre disposition une large gamme de produits : parfums, maquillage, soins et accessoires. Fatales vous accueille dans son univers dédié à la beauté pour découvrir les dernières nouveautés en maquillage : fond de teint, rouge à lèvres et mascara.; Une immersion sensorielle avec les eaux de parfum et eaux de toilette pour éveiller vos envies, laissez-vous séduire par les Best-sellers et Coup de cœur de fatales. Révéler votre beauté en adoptant la routine soin parfaite avec une large gamme de soins : soin visage, soin corps, soin cheveux avec des marques expertes et leurs soins novateurs. Qui mieux que les conseillères et conseillers Fatales et leur expertise pour une idée cadeau : Coffrets Parfum, Coffrets maquillage, Coffrets soin, accessoires.\n[Explore](https://www.allcarta.com/brand/13/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/cover.png) ](https://www.allcarta.com/brand/88/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo_be_sport6.jpg) Be Sport\nÉlégance athlétique en boutique : be sport Km 12 Rte de La Marsa : 70736382 - 70736380 Av Jean Jaurès(ex Oriental Palace) : 71247104 CC Tunis City : 70835910 CC Manar City : 36361473 CC Azur City : 98194197 CC Mall of Sousse : 73815056 CC Mall of Sfax : 99 632 566\n[Explore](https://www.allcarta.com/brand/88/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/carthage-land_cover.jpg) ](https://www.allcarta.com/brand/89/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo.jpg) Carthage Land\nHistoire et Aventures Aquatiques Explorez vingt attractions thématiques vous transportant à l'époque carthaginoise, ainsi que des plaisirs aquatiques rafraîchissants pour toute la famille.\n[Explore](https://www.allcarta.com/brand/89/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/Baletto_-_cover.jpg) ](https://www.allcarta.com/brand/90/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo.png) Baletto\nÉlégance Italienne, Confection Tunisienne\n[Explore](https://www.allcarta.com/brand/90/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/371758078_683565757141738_6297739888308309551_n.png) ](https://www.allcarta.com/brand/91/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo_2.jpg) URBAN DANCE\nÉnergie urbaine à chaque pas\n[Explore](https://www.allcarta.com/brand/91/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/california_-_cover.png) ](https://www.allcarta.com/brand/8/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/348315519_803740574679425_4299480727452495163_n.png) California Gym\nLa Terre du Fitness en Tunisie: California Gym Première chaîne de clubs de fitness avec 10 emplacements dans le Grand Tunis et Sousse\n[Explore](https://www.allcarta.com/brand/8/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/425330713_122129525558106473_5838127179053739288_n.jpg) ](https://www.allcarta.com/brand/108/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/398580149_122101033808106473_3303973473385692719_n.jpg) Lovely Gift\nÉlégance dans un petit paquet🎁✨\n[Explore](https://www.allcarta.com/brand/108/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/covberfat.jpg) ](https://www.allcarta.com/brand/13/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/log_fata.png) FATALES\nOù la Beauté Devient Légende💄 Pionnier de la parfumerie sélective en libre-service en Tunisie, Fatales valorise la proximité avec ses clients en proposant le meilleur de la beauté avec 27 points de vente et la vente en ligne via le site ou les réseaux sociaux. Fatales met à votre disposition une large gamme de produits : parfums, maquillage, soins et accessoires. Fatales vous accueille dans son univers dédié à la beauté pour découvrir les dernières nouveautés en maquillage : fond de teint, rouge à lèvres et mascara.; Une immersion sensorielle avec les eaux de parfum et eaux de toilette pour éveiller vos envies, laissez-vous séduire par les Best-sellers et Coup de cœur de fatales. Révéler votre beauté en adoptant la routine soin parfaite avec une large gamme de soins : soin visage, soin corps, soin cheveux avec des marques expertes et leurs soins novateurs. Qui mieux que les conseillères et conseillers Fatales et leur expertise pour une idée cadeau : Coffrets Parfum, Coffrets maquillage, Coffrets soin, accessoires.\n[Explore](https://www.allcarta.com/brand/13/)\n[ ![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_cover/cover.png) ](https://www.allcarta.com/brand/88/)\n![](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/logo_be_sport6.jpg) Be Sport\nÉlégance athlétique en boutique : be sport Km 12 Rte de La Marsa : 70736382 - 70736380 Av Jean Jaurès(ex Oriental Palace) : 71247104 CC Tunis City : 70835910 CC Manar City : 36361473 CC Azur City : 98194197 CC Mall of Sousse : 73815056 CC Mall of Sfax : 99 632 566\n[Explore](https://www.allcarta.com/brand/88/)\n# Top Coupons\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/images/a077c35e_448278449_484284304173593_2420153387657998875_n.jpg) ABONNEMENT TRIMESTRIELLE Chez Cactus Fit, on prend le sport au sérieux ! Notre objectif : faire du fitness un mode de vie. 💪💦 Nos coachs vous motivent avec des séances dynamiques et des cours collectifs pour des résultats qui décoiffent ! 🚀🔥 🎉 Avec la carte AllCarta, Cactus Fit vous offre 20 DT de réduction sur les abonnements de 3 mois et plus, et pas de frais d'inscription pour tous les abonnements ! 💳💥 - Les coupons doivent être présentés à la caisse lors du paiement. - Les coupons ne sont valables que pour les services spécifiés et pendant la période indiquée. - Les coupons ne peuvent pas être combinés avec d'autres offres ou promotions. - Les coupons ne sont pas monnayables et ne peuvent pas être échangés contre de l'argent. - Cactus Fit se réserve le droit de modifier ou d'annuler les coupons à tout moment, sans préavis. - Toute fraude ou utilisation abusive des coupons entraînera l'annulation de l'offre. - Les coupons sont valables uniquement pour une utilisation individuelle et ne peuvent être transférés à une autre personne. - Les conditions générales peuvent varier en fonction de chaque offre spécifique.  150 pts Ends Sept. 30, 2024 ](https://www.allcarta.com/purchase/64/)\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/images/a077c35e_448278449_484284304173593_2420153387657998875_n.jpg) 🌵💪 Préparez-vous à économiser chez CACTUS FIT ! 💥 Économisez 50 DT sur votre abonnement annuel ! Inscrivez-vous dès maintenant pour seulement 750 DT au lieu de 800 DT ! Ne manquez pas cette opportunité de vous mettre en forme à prix réduit chez CACTUS FIT ! 💳 - Réservez votre coupon via l'application ALLCARTA avant de vous rendre chez CACTUS FIT. - Présentez votre coupon et votre carte ALLCARTA à la caisse lors de votre visite. - Assurez-vous de respecter les conditions d'utilisation spécifiées sur le coupon. - Les coupons sont valables uniquement pour une seule utilisation et ne peuvent être combinés avec d'autres offres. - Les coupons ne sont pas monnayables et ne peuvent pas être échangés contre de l'argent. - CACTUS FIT se réserve le droit de modifier ou d'annuler les coupons à tout moment, sans préavis.  250 pts Ends Sept. 30, 2024 ](https://www.allcarta.com/purchase/66/)\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/images/a077c35e_448278449_484284304173593_2420153387657998875_n.jpg) 🌵💪 Préparez-vous à économiser chez CACTUS FIT ! 💥 Bénéficiez dès maintenant d'une remise de 20 DT sur votre abonnement de 6 mois ! Payez seulement 480 DT, sans frais d'inscription supplémentaires, au lieu de 500 DT + 20 DT de frais d'inscription ! Ne manquez pas cette chance de vous mettre en forme à prix réduit chez CACTUS FIT ! 🌟💳 - Réservez votre coupon via l'application ALLCARTA avant de vous rendre chez CACTUS FIT. - Présentez votre coupon et votre carte ALLCARTA à la caisse lors de votre visite. - Assurez-vous de respecter les conditions d'utilisation spécifiées sur le coupon. - Les coupons sont valables uniquement pour une seule utilisation et ne peuvent être combinés avec d'autres offres. - Les coupons ne sont pas monnayables et ne peuvent pas être échangés contre de l'argent. - CACTUS FIT se réserve le droit de modifier ou d'annuler les coupons à tout moment, sans préavis.  250 pts Ends Sept. 30, 2026 ](https://www.allcarta.com/purchase/65/)\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/log_fata.png) Carte Cadeau de 50 DT pour FATALES Utilisez le code sur vos achats de plus de 200 DT chez FATALES pour obtenir une réduction de 50 DT. - Le code coupon est valable pour les achats effectués en ligne ou en magasin. - La remise de 20% s'applique uniquement aux produits FATALES. - Le code coupon ne peut être utilisé qu'une seule fois par client. - La remise de 20% n'est pas cumulable avec d'autres offres ou promotions en cours. - Le code coupon doit être saisi au moment de la commande pour bénéficier de la remise. - La remise de 20% n'est pas applicable aux frais de livraison. - FATALES se réserve le droit de modifier ou d'annuler cette offre à tout moment, sans préavis.  3500 pts Ends June 30, 2024 ](https://www.allcarta.com/purchase/69/)\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/Le_R%C3%A9servoir_-_logo.png) Witness the flavor in every detail! Les taux de remise sont valables uniquement pour les paiements effectués en espèce.  100 pts Ends May 31, 2024 ](https://www.allcarta.com/purchase/48/)\n[ ![Generic placeholder image](https://eu2.contabostorage.com/49da49b6186045e69f632270b17945e5%3Aallcarta-club-storage/brand_logo/log_fata.png) 20% OFF pour FATALES Offrez la beauté révélée ! 💄 Découvrez les produits emblématiques de FATALES pour la Beauté, cosmétiques et soins. 🎁 - Le code coupon est valable pour les achats effectués en ligne ou",
+    "website_metadata": {
+        "url": "https://www.allcarta.com/",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/company/allcarta/",
+    "emails": [
+        "support@allcarta.com"
+    ],
+    "phones": [
+        "70736382 - 70736380",
+        "71247104",
+        "70835910",
+        "36361473",
+        "98194197",
+        "73815056",
+        "99 632 566",
+        "371758078",
+        "683565757141738",
+        "6297739888308309551",
+        "348315519",
+        "803740574679425",
+        "4299480727452495163",
+        "425330713",
+        "122129525558106473",
+        "5838127179053739288",
+        "398580149",
+        "122101033808106473",
+        "3303973473385692719",
+        "448278449",
+        "484284304173593",
+        "2420153387657998875"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\allcarta.json",
+    "normalized_name": "allcarta",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "allcarta.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/allcarta",
+                    "normalized": "https://linkedin.com/company/allcarta",
+                    "username": "allcarta",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "allcarta.com"
+                ]
+            },
+            "official": [
+                "support@allcarta.com"
+            ],
+            "details": [
+                {
+                    "original": "support@allcarta.com",
+                    "normalized": "support@allcarta.com",
+                    "domain": "allcarta.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "support@allcarta.com",
+    "quality": {
+        "phones": {
+            "total": 22,
+            "valid": 0,
+            "removed": 22,
+            "duplicates": 0,
+            "invalid": [
+                "7073638270736380",
+                "71247104",
+                "70835910",
+                "36361473",
+                "98194197",
+                "73815056",
+                "99632566",
+                "371758078",
+                "683565757141738",
+                "6297739888308309551",
+                "348315519",
+                "803740574679425",
+                "4299480727452495163",
+                "425330713",
+                "122129525558106473",
+                "5838127179053739288",
+                "398580149",
+                "122101033808106473",
+                "3303973473385692719",
+                "448278449",
+                "484284304173593",
+                "2420153387657998875"
+            ]
+        }
+    }
+}

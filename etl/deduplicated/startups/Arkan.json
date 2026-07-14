@@ -1,0 +1,310 @@
+{
+    "entity_type": "startup",
+    "name": "Arkan",
+    "description": "Arkan est une marketplace dédiée à la maison, offrant en one-stop-shop les produits nécessaires à la rénovation  et/ou l’aménagement de la maison.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://arkan.tn",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/arkanmekonen"
+    },
+    "contact": {
+        "emails": [
+            "hassen@arkan.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21695699509",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/arkanmekonen"
+    },
+    "founders": [
+        {
+            "name": "Hassen Marzouk",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Tarek Marzouk",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "Home renovation and home furnishing market in Tunisia",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 87,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:11:19.546176",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "arkan.tn"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Dec-22"
+    },
+    "external_profiles": {
+        "website": "https://arkan.tn",
+        "linkedin": "https://linkedin.com/in/arkanmekonen",
+        "dealroom": "https://app.dealroom.co/news/feed/emirates-nbd-closes-250m-syndicated-loan-for-luxury-developer-dar-global"
+    },
+    "emails": [
+        "hassen@arkan.tn"
+    ],
+    "phones": [
+        "95699509"
+    ],
+    "tavily": {
+        "query": "Arkan",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://arkan.co/",
+            "https://arkancs.com/",
+            "https://arkan-uae.com/",
+            "https://arkanmedicalegypt.com/",
+            "https://arkanalkuwait.com/",
+            "https://linkedin.com/in/arkanmekonen",
+            "https://linkedin.com/in/arkankau",
+            "https://linkedin.com/in/arkankazal",
+            "https://linkedin.com/in/kenan-arkan",
+            "https://linkedin.com/in/arkankayihan",
+            "https://arkanqa.com/",
+            "https://arkan.tn/",
+            "https://arkanmanufacturing.com/",
+            "https://tracxn.com/d/companies/arkan/__6iPHVxykSh2Zz-AyVLMzgHm7gwwfLDvg1FXaBpXnSLI",
+            "https://id.linkedin.com/in/arkan-tsabit-116a2434b",
+            "https://clay.earth/profile/canem-arkan",
+            "https://arkancs.com/about",
+            "https://vc4a.com/ventures/arkan/?lang=en",
+            "https://www.marketscreener.com/quote/stock/DAR-AL-ARKAN-REAL-ESTATE--6500044/company/",
+            "https://app.dealroom.co/news/feed/emirates-nbd-closes-250m-syndicated-loan-for-luxury-developer-dar-global",
+            "https://www.linkedin.com/posts/mep-middle-east-itp_dar-al-arkan-raised-600-million-from-its-activity-7465311648665399296-supb"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "The store will not work correctly when cookies are disabled.\n[ +700 Marques & 30 000 Produits ](https://arkan.tn/categories/lp/black-friday-2025.html)\n[ Aller au contenu](https://arkan.tn/#contentarea)\n*   * [Profil Vendeur](https://arkan.tn/vendeur/)\n* [Se Connecter](https://arkan.tn/customer/account/login/)\n* [Créer un compte](https://arkan.tn/customer/account/create/)\nAffichage navigation [![Arkan](https://arkan.tn/media/logo/stores/1/logo_noel.png)](https://arkan.tn/ \"Arkan\")\n[Mon Panier ](https://arkan.tn/checkout/cart/)\n[](https://arkan.tn/customer/account/login/%20)\n**Chercher**\nChercher\nChercher\n* Comparer les produits\n[Menu](https://arkan.tn/#store.menu)\n* [NOS CATÉGORIES ](javaScript:void\\(0\\); \"NOS CATÉGORIES\")\n* [Cuisine & électroménager](https://arkan.tn/cuisine.html)\n[Petit électroménager](https://arkan.tn/cuisine/petit-electromenager.html)\n* [Robot Multifonctions](https://arkan.tn/cuisine/petit-electromenager/robot-multifonctions.html)\n* [Robot Pétrin](https://arkan.tn/cuisine/petit-electromenager/robot-petrin.html)\n* [Mixeur](https://arkan.tn/cuisine/petit-electromenager/mixeur.html)\n* [Batteur](https://arkan.tn/cuisine/petit-electromenager/batteur.html)\n* [Blender](https://arkan.tn/cuisine/petit-electromenager/blender.html)\n* [Hachoir](https://arkan.tn/cuisine/petit-electromenager/hachoir.html)\n* [Machine à pain](https://arkan.tn/cuisine/petit-electromenager/machine-a-pain.html)\n* [Trancheuse électrique](https://arkan.tn/cuisine/petit-electromenager/trancheuse-electrique.html)\n* [Râpe Electrique](https://arkan.tn/cuisine/petit-electromenager/rape-electrique.html)\n* [Couteau Électrique](https://arkan.tn/cuisine/petit-electromenager/couteau-electrique.html)\n* [Balance de cuisine](https://arkan.tn/cuisine/petit-electromenager/balance-de-cuisine.html)\n* [Machine à glaçons](https://arkan.tn/cuisine/petit-electromenager/machine-a-glacons-tunisie.html)\n* [Accessoires de petit électroménager](https://arkan.tn/cuisine/petit-electromenager/accessoires-de-petit-electromenager.html)\n* [Pack petit électroménager](https://arkan.tn/cuisine/petit-electromenager/pack-petit-electromenager.html)\n[Gros Electroménager](https://arkan.tn/cuisine/gros-electromenager.html)\n* [Réfrigérateur](https://arkan.tn/cuisine/gros-electromenager/refrigerateur.html)\n* [Congélateur](https://arkan.tn/cuisine/gros-electromenager/congelateur.html)\n* [Four Encastrable](https://arkan.tn/cuisine/gros-electromenager/four-encastrable.html)\n* [Mini four](https://arkan.tn/cuisine/gros-electromenager/mini-four.html)\n* [Plaque de cuisson & Cuisinière](https://arkan.tn/cuisine/gros-electromenager/plaque-de-cuisson-cuisiniere.html)\n* [Micro-ondes](https://arkan.tn/cuisine/gros-electromenager/micro-ondes.html)\n* [Lave Vaisselle](https://arkan.tn/cuisine/gros-electromenager/lave-vaisselle.html)\n* [Machine À Laver](https://arkan.tn/cuisine/gros-electromenager/machine-a-laver.html)\n* [Hotte de cuisine](https://arkan.tn/cuisine/gros-electromenager/hotte-de-cuisine.html)\n* [Humidificateur et Purificateur d'air](https://arkan.tn/cuisine/gros-electromenager/humidificateur-et-purificateur-d-air.html)\n* [Accessoires électroménager](https://arkan.tn/cuisine/gros-electromenager/accessoires-electromenager.html)\n[Café et Petit déjeuner](https://arkan.tn/cuisine/cafe-et-petit-dejeuner.html)\n* [Bouilloire](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/bouilloire.html)\n* [Machine à café](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/machine-a-cafe.html)\n* [Grille Pain](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/grille-pain.html)\n* [Presse-agrumes](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/presse-agrumes.html)\n* [Centrifugeuse](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/centrifugeuse.html)\n* [Moulin à café](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/moulin-a-cafe.html)\n* [Porte capsule](https://arkan.tn/cuisine/cafe-et-petit-dejeuner/porte-capsule.html)\n[Vaisselle & art de la table](https://arkan.tn/cuisine/vaisselle-art-de-la-table.html)\n* [vaisselle](https://arkan.tn/cuisine/vaisselle-art-de-la-table/vaisselle.html)\n* [Batterie de cuisine](https://arkan.tn/cuisine/vaisselle-art-de-la-table/batterie-de-cuisine.html)\n* [Service à table](https://arkan.tn/cuisine/vaisselle-art-de-la-table/service-a-table.html)\n* [Couvert de table](https://arkan.tn/cuisine/vaisselle-art-de-la-table/couvert-de-table.html)\n* [Couscoussier](https://arkan.tn/cuisine/vaisselle-art-de-la-table/couscoussier.html)\n* [Poêles & casserole](https://arkan.tn/cuisine/vaisselle-art-de-la-table/poeles-casserole.html)\n* [Faitouts](https://arkan.tn/cuisine/vaisselle-art-de-la-table/faitouts.html)\n* [Boîtes de conservation](https://arkan.tn/cuisine/vaisselle-art-de-la-table/boites-de-conservation.html)\n* [Thermos](https://arkan.tn/cuisine/vaisselle-art-de-la-table/thermos.html)\n* [Lunch box](https://arkan.tn/cuisine/vaisselle-art-de-la-table/lunch-box.html)\n* [plats de cuisson](https://arkan.tn/cuisine/vaisselle-art-de-la-table/plats-de-cuisson.html)\n* [Cocotte](https://arkan.tn/cuisine/vaisselle-art-de-la-table/cocotte.html)\n* [Ustensiles de cuisine](https://arkan.tn/cuisine/vaisselle-art-de-la-table/ustensiles-de-cuisine.html)\n* [Divers](https://arkan.tn/cuisine/vaisselle-art-de-la-table/divers.html)\n[Meubles de cuisine](https://arkan.tn/cuisine/meubles-cuisine.html)\n* [Cuisine complète](https://arkan.tn/cuisine/meubles-cuisine/cuisine-complete.html)\n* [Eléments de cuisine](https://arkan.tn/cuisine/meubles-cuisine/elements-de-cuisine.html)\n* [Table de cuisine](https://arkan.tn/cuisine/meubles-cuisine/table-de-cuisine.html)\n* [Chaise de cuisine](https://arkan.tn/cuisine/meubles-cuisine/chaise-de-cuisine.html)\n* [Tabouret de bar](https://arkan.tn/cuisine/meubles-cuisine/tabouret-de-bar.html)\n* [Accessoires Meubles de Cuisine](https://arkan.tn/cuisine/meubles-cuisine/accessoires-de-cuisine.html)\n* [Séchoir à linge extérieur](https://arkan.tn/cuisine/meubles-cuisine/sechoir-a-linge-exterieur.html)\n[Appareil de cuisson](https://arkan.tn/cuisine/appareil-de-cuisson.html)\n* [Air fryer et friteuse](https://arkan.tn/cuisine/appareil-de-cuisson/friteuse.html)\n* [Gaufrier et appareil à panini](https://arkan.tn/cuisine/appareil-de-cuisson/gaufrier-et-appareil-a-panini.html)\n* [Barbecue](https://arkan.tn/cuisine/appareil-de-cuisson/barbecue.html)\n* [Crêpière](https://arkan.tn/cuisine/appareil-de-cuisson/crepiere.html)\n* [Grill électrique](https://arkan.tn/cuisine/appareil-de-cuisson/grill-electrique.html)\n* [Appareil à Raclette](https://arkan.tn/cuisine/appareil-de-cuisson/appareil-a-raclette.html)\n* [Machine a Pop Corn](https://arkan.tn/cuisine/appareil-de-cuisson/machine-a-pop-corn.html)\n* [Cuiseur](https://arkan.tn/cuisine/appareil-de-cuisson/cuiseur.html)\n* [Appareil à Fondue](https://arkan.tn/cuisine/appareil-de-cuisson/appareil-a-fondue.html)\n[Eviers et robinetterie cuisine](https://arkan.tn/cuisine/eviers-et-robinetterie-cuisine.html)\n* [Evier de cuisine](https://arkan.tn/cuisine/eviers-et-robinetterie-cuisine/evier-de-cuisine.html)\n* [Robinetterie cuisine](https://arkan.tn/cuisine/eviers-et-robinetterie-cuisine/robinetterie-cuisine.html)\n* [Accessoires éviers et mitigeurs](https://arkan.tn/cuisine/eviers-et-robinetterie-cuisine/accessoires-eviers-et-mitigeurs.html)\n[Fontaine](https://arkan.tn/cuisine/fontaine.html)\n* [Fontaine d'eau fraîche](https://arkan.tn/cuisine/fontaine/fontaine-d-eau-fraiche.html)\n* [Fontaine à chocolat](https://arkan.tn/cuisine/fontaine/fontaine-a-chocolat.html)\n[Citernes & Stockage Alimentaire](https://arkan.tn/cuisine/citernes-stockage-alimentaire.html)\n* [Citernes d’huile d’olive](https://arkan.tn/cuisine/citernes-stockage-alimentaire/citernes-d-huile-d-olive.html)\n* [Jardin & piscine](https://arkan.tn/jardin-piscine.html)\n[Piscine & Spa ](https://arkan.tn/jardin-piscine/piscine-spa.html)\n* [Piscine](https://arkan.tn/jardin-piscine/piscine-spa/piscine.html)\n* [Spa gonflable](https://arkan.tn/jardin-piscine/piscine-spa/spa-gonflable.html)\n* [Jeux de piscine](https://arkan.tn/jardin-piscine/piscine-spa/jeux-de-piscine.html)\n* [Robot Piscine](https://arkan.tn/jardin-piscine/piscine-spa/robot-piscine.html)\n* [Electrolyseur de sel](https://arkan.tn/jardin-piscine/piscine-spa/electrolyseur-de-sel.html)\n* [Douche de Jardin](https://arkan.tn/catalog/category/view/s/douche-de-jardin/id/244/)\n* [Pompe filtre et chauffage de piscine](https://arkan.tn/jardin-piscine/piscine-spa/pompe-filtre-et-chauffage-de-piscine.html)\n* [Accessoires de Nettoyage piscine](https://arkan.tn/jardin-piscine/piscine-spa/accessoires-de-nettoyage-piscine.html)\n* [Pièces et accessoires de piscine](https://arkan.tn/jardin-piscine/piscine-spa/piece-et-accessoires-de-piscine.html)\n[Produits d'entretien piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine.html)\n* [Chlore piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/chlore-piscine.html)\n* [Anti algues piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/anti-algues-piscine.html)\n* [Floculant Piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/floculant-piscine.html)\n* [Ph - Piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/ph-piscine.html)\n* [Autres articles d'entretien piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/autre-produits-d-entretien-piscine.html)\n* [Pack Entretien piscine](https://arkan.tn/jardin-piscine/produits-d-entretien-piscine/pack-entretien-piscine.html)\n[Arrosage](https://arkan.tn/jardin-piscine/arrosage.html)\n* [Tuyau d'arrosage & dévidoir ](https://arkan.tn/jardin-piscine/arrosage/tuyau-d-arrosage.html)\n* [Arrosage automatique](https://arkan.tn/jardin-piscine/arrosage/arrosage-automatique.html)\n* [Arrosage Manuel](https://arkan.tn/jardin-piscine/arrosage/arrosage-manuel.html)\n[Outils de jardin manuel](https://arkan.tn/jardin-piscine/outils-de-jardinage-manuel.html)\n* [Secateur jardin](https://arkan.tn/jardin-piscine/outils-de-jardin-manuel/secateur-jardin.html)\n* [Scie jardin](https://arkan.tn/jardin-piscine/outils-de-jardin-manuel/scie-jardin.html)\n* [Cisaille a haie](https://arkan.tn/jardin-piscine/outils-de-jardinage-manuel/cisaille-a-haie.html)\n* [Rateau](https://arkan.tn/jardin-piscine/outils-de-jardinage-manuel/rateau.html)\n* [Pulverisateur](https://arkan.tn/jardin-piscine/outils-de-jardinage-manuel/pulverisateur.html)\n[Outils de jardin électrique](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique.html)\n* [Tondeuse à gazon](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/tondeuse-gazon-tunisie.html)\n* [Taille haie](https://arkan.tn/jardin-piscine/outils-jardin/taille-haie.html)\n* [Coupe bordure ](https://arkan.tn/jardin-piscine/outils-jardin/coupe-bordure.html)\n* [Débroussailleuse](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/debroussailleuse.html)\n* [Tronçonneuse](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/tronconneuse.html)\n* [Autre outils de jardin électrique](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/materiels-de-jardinage-electriques.html)\n* [Répulsif pour insectes et animaux](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/repulsif-pour-insectes-et-animaux.html)\n* [Désinsectiseur électrique](https://arkan.tn/jardin-piscine/outils-de-jardin-electrique/desinsectiseur-electrique.html)\n[Équipement de nettoyage](https://arkan.tn/jardin-piscine/equipement-de-nettoyage.html)\n* [Nettoyeur Haute pression](https://arkan.tn/jardin-piscine/equipement-de-nettoyage/nettoyeur-haute-pression.html)\n* [Accessoires Nettoyeur haute pression](https://arkan.tn/jardin-piscine/equipement-de-nettoyage/accessoires-nettoyeur-haute-pression.html)\n* [Souffleur](https://arkan.tn/jardin-piscine/equipement-de-nettoyage/souffleur.html)\n* [Autolaveuse](https://arkan.tn/jardin-piscine/equipement-de-nettoyage/autolaveuse.html)\n[Portail et abri](https://arkan.tn/jardin-piscine/portail-et-abri.html)\n* [Abri et store extérieur](https://arkan.tn/jardin-piscine/portail-et-abri/abri-et-store-exterieur.html)\n* [Poubelle et Conteneur à déchets](https://arkan.tn/jardin-piscine/portail-et-abri/poubelle-et-gestion-des-dechets.html)\n* [Abri voiture](https://arkan.tn/jardin-piscine/portail-et-abri/abri-voiture.html)\n* [Rangement Jardin](https://arkan.tn/jardin-piscine/portail-et-abri/rangement-jardin.html)\n* [Grillage et clôture](https://arkan.tn/jardin-piscine/portail-et-abri/grillage-et-cloture.html)\n* [Boite aux lettres](https://arkan.tn/jardin-piscine/portail-et-abri/boite-aux-lettres.html)\n* [Bâche de protection](https://arkan.tn/jardin-piscine/portail-et-abri/bache-de-protection.html)\n[Gazon plantes et pots](https://arkan.tn/jardin-piscine/gazon-plantes-et-pots.html)\n* [Gazon et pelouse naturels](https://arkan.tn/jardin-piscine/gazon-plantes-et-pots/gazon-et-pelouse-naturels.html)\n* [Pot, bac à fleur & cache pot](https://arkan.tn/jardin-piscine/gazon-plantes-et-pots/pots-et-bacs-a-fleurs.html)\n* [Semences et bulbes](https://arkan.tn/jardin-piscine/gazon-plantes-et-pots/semences-et-bulbes.html)\n* [Engrais et fertilisants](https://arkan.tn/jardin-piscine/gazon-plantes-et-pots/engrais-et-fertilisants.html)\n[Mobilier de jardin](https://arkan.tn/jardin-piscine/mobilier-de-jardin.html)\n* [Table chaise et salon de jardin](https://arkan.tn/catalog/category/view/s/salon-table-et-chaise-de-jardin/id/232/)\n* [Hamac et balançoire ](https://arkan.tn/jardin-piscine/mobilier-de-jardin/hamac-et-balancelle.html)\n* [Parasol de jardin](https://arkan.tn/jardin-piscine/mobilier-de-jardin/parasol-pergola-et-tonnelle.html)\n* [Transats](https://arkan.tn/jardin-piscine/mobilier-de-jardin/transats.html)\n[Équipement Cuisson Extérieure](https://arkan.tn/jardin-piscine/equipement-cuisson-exterieure.html)\n* [Glacière](https://arkan.tn/jardin-piscine/equipement-cuisson-exterieure/glaciere.html)\n* [Barbecue et plancha](https://arkan.tn/jardin-piscine/equipement-cuisson-exterieure/barbecue-et-plancha.html)\n* [Bricolage et quincaillerie](https://arkan.tn/bricolage-et-quincaillerie.html)\n[Outillage électroportatif](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif.html)\n* [Perceuse](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/perceuse-tunisie.html)\n* [visseuse ](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/visseuse.html)\n* [Scie électrique](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/scie-electrique.html)\n* [Boulonneuse](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/boulonneuse.html)\n* [Marteau Piqueur ](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/marteau-piqueur.html)\n* [Ponceuse](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/ponceuse-et-polisseuse.html)\n* [meule à disque](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/meule-a-disque-tunisie.html)\n* [Pistolet à colle](https://arkan.tn/bricolage-et-quincaillerie/outillage-electroportatif/pistolet-a-colle.html)\n* [Accessoire Scie électrique](https:/",
+    "website_metadata": {
+        "url": "https://arkan.tn/",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/in/arkanmekonen",
+    "business_model": "Marketplace for home renovation and home furnishing products",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\arkan.json",
+    "normalized_name": "arkan",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "arkan.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/arkanmekonen",
+                    "normalized": "https://linkedin.com/in/arkanmekonen",
+                    "username": "arkanmekonen",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "arkan.tn"
+                ]
+            },
+            "official": [
+                "hassen@arkan.tn"
+            ],
+            "details": [
+                {
+                    "original": "hassen@arkan.tn",
+                    "normalized": "hassen@arkan.tn",
+                    "domain": "arkan.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "hassen@arkan.tn",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

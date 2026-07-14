@@ -1,0 +1,237 @@
+{
+    "name": "Duet Group",
+    "description": "Duet Group is a leading London based asset manager with an expertise in investing in African public and private markets.",
+    "organization_type": "",
+    "country": "",
+    "city": "London",
+    "website": "https://www.duetprivateequity.com",
+    "linkedin": "https://linkedin.com/company/the-duet-group",
+    "investment_focus": [
+        "African public markets",
+        "African private markets"
+    ],
+    "investment_stages": [
+        "Series B",
+        "Sale to strategic investor",
+        "IPO"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.duetprivateequity.com",
+        "linkedin": "https://linkedin.com/company/the-duet-group"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/the-duet-group"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:15:27.836592+00:00",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Duet Group",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://duetgroup.net/",
+            "https://www.duetprivateequity.com/",
+            "https://duetgroup.com/",
+            "https://linkedin.com/company/the-duet-group",
+            "https://leadiq.com/c/duet-group/5a1d923a540000590077197a",
+            "https://www.linkedin.com/company/the-duet-group",
+            "https://privateequitylist.com/investors/duet-asset-management-ltd",
+            "https://uk.linkedin.com/in/oskar-fletcher-4132489a",
+            "https://wiza.co/d/duet-group/f626",
+            "https://am.linkedin.com/in/gaya-karapetyan-4b1595139",
+            "https://www.cbinsights.com/investor/duet-group",
+            "https://mergr.com/company/duet-group",
+            "https://uk.linkedin.com/in/henry-gabay-03b7931",
+            "https://www.owler.com/company/duetgroup",
+            "https://foundersuite.com/firms/duet-group",
+            "https://find-and-update.company-information.service.gov.uk/officers/TdLo1H4RbIcivlSWsSId65cZfS8/appointments",
+            "https://duetgroup.com/profile/",
+            "https://kando.tech/company/duet-group",
+            "https://rocketreach.co/duet-group-profile_b6413a51cbf7b29a"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 2,
+        "investment_stages_count": 3,
+        "geographic_focus_count": 2,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "Duet Group",
+    "website_metadata": {
+        "url": "https://www.duetprivateequity.com/",
+        "content_length": 10
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/the-duet-group"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "ticket_size": "$10-50M",
+    "geographic_focus": [
+        "United Kingdom",
+        "Africa"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 68,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\duet_group.json",
+    "normalized_name": "duet group",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "duetprivateequity.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/the-duet-group",
+                    "normalized": "https://linkedin.com/company/the-duet-group",
+                    "username": "the-duet-group",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

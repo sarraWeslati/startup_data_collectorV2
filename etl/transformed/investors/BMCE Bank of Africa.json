@@ -1,0 +1,272 @@
+{
+    "name": "BMCE Bank of Africa",
+    "description": "Universal bank, Morocco’s third private‑sector bank with significant market share in loans and deposits. Operates in 21 African countries and has a pan‑African presence.",
+    "organization_type": "Bank",
+    "country": "Morocco",
+    "city": "",
+    "website": "https://www.bankofafrica.ma/en/particuliers",
+    "linkedin": "https://ma.linkedin.com/company/bank-of-africa-bmce-group",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.bankofafrica.ma/en/particuliers",
+        "linkedin": "https://ma.linkedin.com/company/bank-of-africa-bmce-group"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/bank-of-africa-bmce-group",
+        "instagram": "https://instagram.com/bank_of_africa",
+        "youtube": "https://youtube.com/watch"
+    },
+    "geographic_focus": [
+        "Africa"
+    ],
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T16:12:31.439009+00:00",
+        "website_enriched": true,
+        "tavily_results": 20,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "BMCE Bank of Africa",
+        "answer": "",
+        "results_count": 20,
+        "urls": [
+            "https://bankofafrica.ma/",
+            "https://www.bankofafrica.ma/en/particuliers",
+            "https://www.ir-bankofafrica.ma/accueil",
+            "https://www.bankofafrica.ma/en/groupe/notre-histoire",
+            "https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte",
+            "https://ma.linkedin.com/company/bank-of-africa-bmce-group",
+            "https://uk.linkedin.com/company/bmce-bank-international-plc",
+            "https://be.linkedin.com/company/bmce-group",
+            "https://linkedin.com/in/abubakar-mubarak-a414a2192",
+            "https://linkedin.com/in/issa-coulibaly-67630a1a3",
+            "https://www.cbinsights.com/company/bmce-bank",
+            "https://www.marketscreener.com/quote/stock/BMCE-BANK-OF-AFRICA-6494508/company/",
+            "https://www.wikidata.org/wiki/Q2300433",
+            "https://en.wikipedia.org/wiki/BMCE_Bank",
+            "https://en.wikipedia.org/wiki/Bank_of_Africa_Group",
+            "https://wafir.ma/en/institutions/bmce-bank-of-africa",
+            "https://www.bankofafrica.ma/en/node",
+            "https://www.ir-bankofafrica.ma/en/sustainability/foundations/bmce-bank-foundation",
+            "https://www.privateequityinternational.com/institution-profiles/bmce-bank-of-africa.html",
+            "https://www.ir-bankofafrica.ma/sites/default/files/2020-12/VA_Groupe%20BMCE%20Bank%20Of%20Africa_051219.pdf",
+            "https://ir-bankofafrica.ma/en/group/about/history",
+            "https://fr.linkedin.com/posts/bank-of-africa-bmce-group_bankofafrica-pme-transformation-activity-7477664715528253441-46vf",
+            "https://linkedin.com/in/mostafa-haboucha-74618b9"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 4,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ Skip to main content ](https://www.bankofafrica.ma/en/particuliers#main-content)\nSélectionnez une option personal  Students  professionals & VSE  Moroccans living abroad  Businesses  Private Banking\n[ BMCE Direct ](https://www.bmcedirect.ma/fr/identification/authentification.html) [ ![menu icon](https://www.bankofafrica.ma/sites/default/files/2025-10/ico1_0.png) The Group ](https://www.bankofafrica.group/)\n* [ ![](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/local-white.svg) ](https://www.bankofafrica.ma/en/carte-des-agences)\n* [ en ](https://www.bankofafrica.ma/en/particuliers)\n* [Français](https://www.bankofafrica.ma/fr)\n* [العربية](https://www.bankofafrica.ma/ar)\n* [English](https://www.bankofafrica.ma/en)\n[![logo bank of africa](https://www.bankofafrica.ma/sites/default/files/BANKOFAFRICA-LOGOO.png)](https://www.bankofafrica.ma/en)\n* [ Open an account ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n* [ Choose my package ](https://www.bankofafrica.ma/en/particuliers/choisir-mon-forfait)\n* [ Choose my card ](https://www.bankofafrica.ma/en/particuliers/choisir-ma-carte)\n* [ Finance a project ](https://www.bankofafrica.ma/en/particuliers/financer-mes-projets)\n* [ Prepare my future ](https://www.bankofafrica.ma/en/particuliers/preparer-mon-avenir)\n* [ Protect yourself ](https://www.bankofafrica.ma/en/particuliers/me-proteger)\nSélectionnez une option personal  Students  professionals & VSE  Moroccans living abroad  Businesses  Private Banking\n* [ EN ![global](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/global.svg) ](https://www.bankofafrica.ma/en/particuliers)\n* [Français](https://www.bankofafrica.ma/fr)\n* [العربية](https://www.bankofafrica.ma/ar)\n* [English](https://www.bankofafrica.ma/en)\n[![bank of africa](https://www.bankofafrica.ma/sites/default/files/BANKOFAFRICA-LOGOO.png)](https://www.bankofafrica.ma/en)\n![bars](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/toggle.svg) ![close](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/close.svg)\n* [Open an account ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n* [Choose my package ](https://www.bankofafrica.ma/en/particuliers/choisir-mon-forfait)\n* [Choose my card ](https://www.bankofafrica.ma/en/particuliers/choisir-ma-carte)\n* [Finance a project ](https://www.bankofafrica.ma/en/particuliers/financer-mes-projets)\n* [Prepare my future ](https://www.bankofafrica.ma/en/particuliers/preparer-mon-avenir)\n* [Protect yourself ](https://www.bankofafrica.ma/en/particuliers/me-proteger)\n* [ ![menu icon](https://www.bankofafrica.ma/sites/default/files/2025-10/ico2_0.png) My account ](https://www.bmcedirect.ma/)\n* [ ![menu icon](https://www.bankofafrica.ma/sites/default/files/2025-10/ico1_0.png) The Group ](https://www.bankofafrica.group/)\n#  Personal\nChoose a bank account that fits your everyday life.\nSimplify your life with a bank always by your side.\n[ Open an account ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n###  **Our best offers** of the moment\n![previous](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/previous.svg) ![next](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/next.svg)\n[ ![](https://www.bankofafrica.ma/en/particuliers) ](https://www.bankofafrica.ma/en/particuliers/carte-premium/visa-gold)\n[ ![open bank account online](https://www.bankofafrica.ma/sites/default/files/2026-06/en_offre_femme_temps_fort.jpg) ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n[ ![credit conso](https://www.bankofafrica.ma/sites/default/files/2026-03/Cr%C3%A9dit%20DABA%20TF%20EN_sin_taux.png) ](https://www.bankofafrica.ma/en/particuliers/credit-consommation/credit-daba)\n[ ![student](https://www.bankofafrica.ma/sites/default/files/2026-02/en_univers_etudiant_temps_fort.jpg) ](https://www.bankofafrica.ma/en/etudiants)\n[ ![](https://www.bankofafrica.ma/en/particuliers) ](https://www.bankofafrica.ma/en/particuliers/carte-premium/visa-gold)\n[ ![open bank account online](https://www.bankofafrica.ma/sites/default/files/2026-06/en_offre_femme_temps_fort.jpg) ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n[ ![credit conso](https://www.bankofafrica.ma/sites/default/files/2026-03/Cr%C3%A9dit%20DABA%20TF%20EN_sin_taux.png) ](https://www.bankofafrica.ma/en/particuliers/credit-consommation/credit-daba)\n[ ![student](https://www.bankofafrica.ma/sites/default/files/2026-02/en_univers_etudiant_temps_fort.jpg) ](https://www.bankofafrica.ma/en/etudiants)\n[ ![](https://www.bankofafrica.ma/en/particuliers) ](https://www.bankofafrica.ma/en/particuliers/carte-premium/visa-gold)\n[ ![open bank account online](https://www.bankofafrica.ma/sites/default/files/2026-06/en_offre_femme_temps_fort.jpg) ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n[ ![credit conso](https://www.bankofafrica.ma/sites/default/files/2026-03/Cr%C3%A9dit%20DABA%20TF%20EN_sin_taux.png) ](https://www.bankofafrica.ma/en/particuliers/credit-consommation/credit-daba)\n###  **What can we do** for you?\nPersonal  PROFESSIONALS  MOROCCANS LIVING ABROAD  PRIVATE BANKING  BUSINESSES  Students\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2021-12/Groupe%207074_0.png) **Open**\nan account  ](https://www.bankofafrica.ma/en/particuliers/ouvrir-mon-compte)\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2025-10/Groupe%207088_0.png) **Paiements\n** divers ](https://www.bankofafrica.ma/en/particuliers/autres-paiements)\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2021-12/Groupe%207077.png) **Access**\nmy account  ](https://www.bmcedirect.ma/)\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2025-10/financer_mes_projets_1.png) **Apply**\nfor a card  ](https://www.bankofafrica.ma/en/particuliers/choisir-ma-carte)\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2021-12/Groupe%207089_0.png) Plan your\n**future** ](https://www.bankofafrica.ma/en/particuliers/preparer-mon-avenir)\n[ ![user](https://www.bankofafrica.ma/sites/default/files/2025-06/simu_ico.png) **My mobile**\nwallet  ](https://www.bankofafrica.ma/en/particuliers/financer-mes-projets)\n###  **Dedicated** solutions\n![previous](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/previous.svg) ![next](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/next.svg)\n#### [> ![jeunes actifs](https://www.bankofafrica.ma/sites/default/files/2025-10/jeunes%20actifs%20bloc.jpg) ](https://www.bankofafrica.ma/en/particuliers/decouvrir-nos-solutions/jeunes-actifs)\n#### [> ![banque_distance](https://www.bankofafrica.ma/sites/default/files/2025-10/banque%20a%20distance%20bloc.jpg) ](https://www.bankofafrica.ma/en/particuliers/banque-distance)\n#### [> ![fonctionnaires](https://www.bankofafrica.ma/sites/default/files/2025-10/fonctionnaires%20bloc_0.jpg) ](https://www.bankofafrica.ma/en/particuliers/choisir-mon-forfait/forfait-fonctionnaires)\n###  **Your bank** everywhere and at all times\n#### BMCE Direct\nLe meilleur de votre banque 24h/24\n![votre banque](https://www.bankofafrica.ma/sites/default/files/2024-03/BMCE%20phone.png)\n* [ ](https://apps.apple.com/fr/app/bmce-direct/id515211306)\n* [ ](https://play.google.com/store/apps/details?id=com.BMCE_prod.bad&gl=MA)\n* [ ](https://appgallery.huawei.com/app/C102381215)\n#### Besoin d’informations ?\nEcrivez-nous\n![whatsapp](https://www.bankofafrica.ma/sites/default/files/2022-01/wtsp.png) [Continuer vers whatsapp](https://api.whatsapp.com/send?phone=212645400000)\n#####  **Retrouvez-nous** sur vos réseaux sociaux favoris\n#####  KODI\nà votre disposition, 24/7\nConsulter KODI\n[All news](https://www.bankofafrica.ma/en/actualites)\n**20/01/2026**\n#####  Pay internationally and get cash back each mont ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/pay-internationally-and-get-cash-back-each-month)\n**20/01/2026**\n#####  Your foreign currency payments give you comfort ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/vos-paiements-en-devises-vous-offrent-confort-et-connexion)\n**22/10/2025**\n#####  BANK OF AFRICA awarded for “Outstanding Service ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/bank-africa-distinguee-pour-son-outstanding-service-lors-de-la-reunion-2025-des-green)\n**19/06/2026**\n#####  BANK OF AFRICA launches its exclusive referral ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/bank-of-africa-offre-parrainage)\n**02/03/2026**\n#####  Experience the 2026 FIFA World Cup like never b ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/experience-2026-fifa-world-cup-never-bank-africa)\n**02/02/2026**\n#####  Streaming Raffle Rules – Online Account Opening ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/streaming-raffle-rules-online-account-opening-bank-africa)\n**20/01/2026**\n#####  Pay internationally and get cash back each mont ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/pay-internationally-and-get-cash-back-each-month)\n**20/01/2026**\n#####  Your foreign currency payments give you comfort ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/vos-paiements-en-devises-vous-offrent-confort-et-connexion)\n**22/10/2025**\n#####  BANK OF AFRICA awarded for “Outstanding Service ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/bank-africa-distinguee-pour-son-outstanding-service-lors-de-la-reunion-2025-des-green)\n**19/06/2026**\n#####  BANK OF AFRICA launches its exclusive referral ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/bank-of-africa-offre-parrainage)\n**02/03/2026**\n#####  Experience the 2026 FIFA World Cup like never b ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/experience-2026-fifa-world-cup-never-bank-africa)\n**02/02/2026**\n#####  Streaming Raffle Rules – Online Account Opening ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/streaming-raffle-rules-online-account-opening-bank-africa)\n**20/01/2026**\n#####  Pay internationally and get cash back each mont ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/pay-internationally-and-get-cash-back-each-month)\n**20/01/2026**\n#####  Your foreign currency payments give you comfort ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/vos-paiements-en-devises-vous-offrent-confort-et-connexion)\n**22/10/2025**\n#####  BANK OF AFRICA awarded for “Outstanding Service ...\n[Learn more](https://www.bankofafrica.ma/en/actualites/bank-africa-distinguee-pour-son-outstanding-service-lors-de-la-reunion-2025-des-green)\n* 1\n* 2\n* 3\n* 4\n* 5\n* 6\n##\n#21RESOURCESFORTHEFUTURE\nAfrica is a promise for the 21st century, in which BANK OF AFRICA unequivocally believes. We see the African continent as a dynamic one, confident in its potential, and fully anchored in its time.\nWe share this conviction with the world today, with the ambition to reveal the potential of Africa and Africans.\n[Read more](https://www.bankofafrica.ma/groupe/21ressourcespourlavenir)\n[ ![play](https://www.bankofafrica.ma/themes/custom/boa/assets/images/play.png) ](https://www.youtube.com/watch?v=GicFfRUVHr0)\n## Newsletter\n### Inscrivez-vous pour ne rien rater de notre actualité\nM'inscrire\n![](https://www.bankofafrica.ma/themes/custom/boa/backend/images/close-btn-boa-modal.svg)\n![](https://www.bankofafrica.ma/themes/custom/boa/backend/images/check-mark-boa-modal.svg)\n## Newsletter\nCher client,zsds **un e-mail de confirmation vient de vous être envoyé.**\nVeuillez cliquer sur le lien de validation pour finalider votre inscription\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/listen.png)\n#### Would you prefer\nto contact us?\n[ WhatsApp ](https://api.whatsapp.com/send?phone=212645400000)\n[Call us ](https://www.bankofafrica.ma/en/contact)\n![user](https://www.bankofafrica.ma/sites/default/files/2024-01/Group.png)\n#### Emergency\nassistance\nSOS cards, technical problems, complaints...\n[Emergency number ](https://www.bankofafrica.ma/en/assistance-en-urgence)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/locall.png)\n#### Looking for\nan agency?\nFind us everywhere in Morocco and abroad\n[Agency map ](https://www.bankofafrica.ma/en/carte-des-agences)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/user_1.png)\n#### Need\nmore information?\nWe have the answers to your questions\n[Frequently asked questions ](https://www.bankofafrica.ma/en/foire-aux-questions)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/listen.png)\n#### Would you prefer\nto contact us?\n[ WhatsApp ](https://api.whatsapp.com/send?phone=212645400000)\n[Call us ](https://www.bankofafrica.ma/en/contact)\n![user](https://www.bankofafrica.ma/sites/default/files/2024-01/Group.png)\n#### Emergency\nassistance\nSOS cards, technical problems, complaints...\n[Emergency number ](https://www.bankofafrica.ma/en/assistance-en-urgence)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/locall.png)\n#### Looking for\nan agency?\nFind us everywhere in Morocco and abroad\n[Agency map ](https://www.bankofafrica.ma/en/carte-des-agences)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/user_1.png)\n#### Need\nmore information?\nWe have the answers to your questions\n[Frequently asked questions ](https://www.bankofafrica.ma/en/foire-aux-questions)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/listen.png)\n#### Would you prefer\nto contact us?\n[ WhatsApp ](https://api.whatsapp.com/send?phone=212645400000)\n[Call us ](https://www.bankofafrica.ma/en/contact)\n![user](https://www.bankofafrica.ma/sites/default/files/2024-01/Group.png)\n#### Emergency\nassistance\nSOS cards, technical problems, complaints...\n[Emergency number ](https://www.bankofafrica.ma/en/assistance-en-urgence)\n![user](https://www.bankofafrica.ma/sites/default/files/2021-12/locall.png)\n#### Looking for\nan agency?\nFind us everywhere in Morocco and abroad\n[Agency map ](https://www.bankofafrica.ma/en/carte-des-agences)\n* 1\n* 2\n* 3\n* 4\n![boa trest](https://www.bankofafrica.ma/sites/default/files/2025-10/iPhone%2013%20Pro%20Max_1_0%20%282%29_0.png)\n### BMCE DIRECT\nThe best your bank has to offer, 24H/24\n[ ![google play](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/p-store.svg) Google Play ](https://play.google.com/store/apps/details?id=com.BMCE_prod.bad&gl=MA&pli=1) [ ![apple store](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/Icon%20metro-apple.svg) Apple Store ](https://apps.apple.com/fr/app/bmce-direct/id515211306) [ ![appGallery](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/Huawei_AppGallery.svg.svg) AppGallery ](https://appgallery.huawei.com/app/C102381215)\n* [](https://web.facebook.com/BMCEBankOfAfrica?locale=fr_FR)\n* [![twitter](https://www.bankofafrica.ma/themes/custom/boa/assets/images/icons/X1.png)](https://twitter.com/Bank_OfAfrica)\n* [](https://www.youtube.com/@BMCEBankOfAfrica/featured)\n* [](https://www.instagram.com/bank_of_africa/)\n* [](https://www.linkedin.com/company/bank-of-africa-bmce-group/)\n![BOA LOGO]",
+    "website_metadata": {
+        "url": "https://www.bankofafrica.ma/en/particuliers",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/bank-of-africa-bmce-group"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Banking",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/company/bank-of-africa-bmce-group",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bmce_bank_of_africa.json",
+    "normalized_name": "bmce bank of africa",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "bankofafrica.ma",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/bank-of-africa-bmce-group",
+                    "normalized": "https://linkedin.com/company/bank-of-africa-bmce-group",
+                    "username": "bank-of-africa-bmce-group",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/bank_of_africa",
+                    "normalized": "https://instagram.com/bank_of_africa",
+                    "username": "bank_of_africa",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/watch?v=GicFfRUVHr0",
+                    "normalized": "https://youtube.com/watch",
+                    "username": "watch",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+212515211306",
+                "+212102381215",
+                "+212212645400000"
+            ]
+        }
+    }
+}

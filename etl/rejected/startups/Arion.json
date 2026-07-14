@@ -1,0 +1,287 @@
+{
+    "entity": {
+        "entity_type": "startup",
+        "name": "Arion",
+        "description": "Éditeur de solutions SaaS spécialisées dans la transformation digitale et l'intelligence artificielle au service du commerce spécialisé, des intermédiaires retails et du banking.",
+        "tagline": "",
+        "industry": "Fintech",
+        "keywords": [],
+        "country": "",
+        "city": "",
+        "headquarters": "",
+        "founded_year": "2018",
+        "startup_stage": "",
+        "startup_label": true,
+        "website": "https://www.artofarion.com",
+        "linkedin_url": "",
+        "social_media": {
+            "linkedin": "https://linkedin.com/company/arionblue",
+            "instagram": "https://instagram.com/artofarion"
+        },
+        "contact": {
+            "emails": [
+                "info@artofarion.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/company/arionblue"
+        },
+        "founders": [
+            {
+                "name": "Ahmed Gharbi",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            }
+        ],
+        "leadership": [],
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "customer_segments": [],
+        "target_market": "",
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "partners": [],
+        "accelerators": [],
+        "incubators": [],
+        "funding": {
+            "total_raised": null,
+            "currency": "",
+            "stage": "",
+            "rounds": []
+        },
+        "investors": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "business_metrics": {
+            "users_count": null,
+            "customers_count": null,
+            "downloads": null,
+            "monthly_transactions": null,
+            "annual_revenue": null,
+            "revenue_currency": ""
+        },
+        "recent_news": [],
+        "events": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "extra_notes": "",
+        "sources": [],
+        "confidence": {
+            "score": 63,
+            "level": "Medium"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-03T15:10:55.662179",
+            "website_enriched": true,
+            "tavily_results": 22,
+            "llm_enriched": true,
+            "sources_used": [
+                "csv",
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "founders_count": 1,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 2,
+            "leadership_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 2,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": true,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 1,
+                "domains": [
+                    "artofarion.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "others": {
+            "logo": "undefined",
+            "label_date": "May-20"
+        },
+        "external_profiles": {
+            "website": "https://www.artofarion.com",
+            "linkedin": "https://www.linkedin.com/company/arionblue",
+            "dealroom": "https://app.dealroom.co/companies/arion"
+        },
+        "tavily": {
+            "query": "Arion",
+            "answer": "",
+            "results_count": 22,
+            "urls": [
+                "https://arion.fi/",
+                "https://arion.run/",
+                "https://arion.li/",
+                "https://arionpress.com/",
+                "https://www.artofarion.com/",
+                "https://www.linkedin.com/company/arionblue",
+                "https://linkedin.com/in/arion-farhi",
+                "https://www.linkedin.com/company/arion-systems-inc.",
+                "https://www.linkedin.com/company/arion-commodities",
+                "https://linkedin.com/in/arion-johnson-5aa14137a",
+                "https://linkedin.com/company/arionglobal",
+                "https://tracxn.com/d/companies/arion/__pfhJLwhiGuRuPefbsp8b0JKGaJEMuE5OWPGPYDUQpZY",
+                "https://linkedin.com/company/arion-flight",
+                "https://tracxn.com/d/companies/arion/__dwgbnT_nOZqnhXLiK7uNj3F_8VQzc5WanfYnMXqku5w",
+                "https://techarion.com/",
+                "https://www.arion.io/",
+                "https://www.linkedin.com/company/arionblue/life",
+                "https://arionfund.com/who-we-are/",
+                "https://www.arionblue.com/arion-leadership-team",
+                "https://app.dealroom.co/companies/arion",
+                "https://tracxn.com/d/companies/arion/__dwgbnT_nOZqnhXLiK7uNj3F_8VQzc5WanfYnMXqku5w/funding-and-investors",
+                "https://linkedin.com/company/arion-io"
+            ]
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "website_content": "top of page\n[![Asset 5_800x_edited.png](https://static.wixstatic.com/media/359aaa_bc1575020f614ddbbb27d47579d91c44~mv2.png/v1/fill/w_156,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%205_800x_edited.png)](https://www.artofarion.com)\n* Manufacture\n## the Manufacture\n![mvmtCapture_edited.png](https://static.wixstatic.com/media/359aaa_7747a1111cc0462a9f3d8841131fc6ff~mv2.png/v1/fill/w_251,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/mvmtCapture_edited.png)\n[Discover](https://www.artofarion.com/our-partners)\n* Timepieces\n## The Delphinus\n![A1.jpg](https://static.wixstatic.com/media/359aaa_19b2ca6b017a4df5a1c5ae3537219e79~mv2.jpg/v1/fill/w_236,h_259,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/A1.jpg)\n[Discover](https://www.artofarion.com/timepieces)\n* About\n## Myths & muses\n![](https://static.wixstatic.com/media/359aaa_b4f42eee506d4197bf17defce01df690~mv2.jpg/v1/fill/w_254,h_208,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/359aaa_b4f42eee506d4197bf17defce01df690~mv2.jpg)\n[Discover](https://www.artofarion.com/myths-muses)\n* Inquire\n## Contact Us\n![](https://static.wixstatic.com/media/359aaa_6fe437e00be2493486a316ba9cdc8a0e~mv2.jpg/v1/fill/w_269,h_261,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/359aaa_6fe437e00be2493486a316ba9cdc8a0e~mv2.jpg)\n[Inquire](https://www.artofarion.com/contact)\n![Melian Pearl Delphinus](https://static.wixstatic.com/media/359aaa_a229040548e34db8aa6dddc85d8af00a~mv2.jpg/v1/fill/w_1242,h_1120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/359aaa_a229040548e34db8aa6dddc85d8af00a~mv2.jpg)\n![downloaded_image \\(6\\).jpeg](https://static.wixstatic.com/media/359aaa_2d4592f850a3440c90b4b3f7b461ca9f~mv2.jpeg/v1/fill/w_1080,h_739,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/359aaa_2d4592f850a3440c90b4b3f7b461ca9f~mv2.jpeg)\n![](https://static.wixstatic.com/media/359aaa_c551e22078c04dba82006fbb496b5682~mv2.jpg/v1/fill/w_555,h_658,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Render.jpg)\n## Fusing Mythology with horology\nFusing Mythologywith horologyFusing Mythologywith horologyFusing Mythologywith horology\nArion creates functional art pieces infused with the whimsical soul of ancient myths and drawing inspiration from art work across time dedicated to these \"old stories.\"\n[Discover](https://www.artofarion.com/timepieces)\n![Delphinus Mechanical Movement](https://static.wixstatic.com/media/359aaa_379e7548b2144b5d95c73841d4b3f05f~mv2.jpg/v1/fill/w_85,h_74,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_379e7548b2144b5d95c73841d4b3f05f~mv2.jpg)\nMANUFACTURE\n[Our Partners](https://www.artofarion.com/our-partners)\n![Arion Etching Artwork](https://static.wixstatic.com/media/359aaa_05908dce13b44e699d0e70f45798069a~mv2.jpg/v1/fill/w_85,h_61,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_05908dce13b44e699d0e70f45798069a~mv2.jpg)\nINSPIRATION\n[Myths & Muses](https://www.artofarion.com/myths-muses)\n![Melian Pearl Dial](https://static.wixstatic.com/media/359aaa_469bad42e45d484d953d5a9e2731cc8c~mv2.jpg/v1/fill/w_133,h_101,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_469bad42e45d484d953d5a9e2731cc8c~mv2.jpg)\n# \"...but [Apollo](https://topostext.org/people/2), because of [Arion](https://topostext.org/people/3505)'s skill with the cithara, placed him and the [dolphin](https://topostext.org/people/10965) among the stars.\"\n# Hyginus, Fabulae, 194\n![downloaded_image \\(1\\).jpeg](https://static.wixstatic.com/media/359aaa_fe94c10a311141269e98c00c6551eb6c~mv2.jpeg/v1/fill/w_123,h_158,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_fe94c10a311141269e98c00c6551eb6c~mv2.jpeg)\n## The Art of Arion\nWe are elevating watch finishing with Active Ornamentation where the movement is more than just a mechanism, but a canvas for functional art.\nOur ratchet wheels feature a finishing style unlike anything else. Our iconic dolphins adorning the wheels come to life in 3-dimension creating a delightful dance as the watch is wound.\n![Arion Delphinus Movement Caseback](https://static.wixstatic.com/media/359aaa_7a428209a6ff4e64b577f89a0e94715a~mv2.jpg/v1/fill/w_123,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_7a428209a6ff4e64b577f89a0e94715a~mv2.jpg)\n## Prototype Movement\n![Delphinus Serpentine Sub-Seconds](https://static.wixstatic.com/media/359aaa_a1e02cca9d9743d08a5a484f21013516~mv2.jpg/v1/fill/w_123,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_a1e02cca9d9743d08a5a484f21013516~mv2.jpg)\n![](https://static.wixstatic.com/media/359aaa_80fd004772e7464fb95d24d9ae7faeae~mv2.jpg/v1/fill/w_123,h_158,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_80fd004772e7464fb95d24d9ae7faeae~mv2.jpg)\nTimeless design and refined aesthetics are at the heart of our philosophy. Every detail is meticulously crafted with intention, creating watches that embody elegance and endure through time.\n​\n## \"Beauty Perishes in Life\nBut is Immortal in Art\"\n-Da Vinci\n![Arion Delphinus Mechanical Movement](https://static.wixstatic.com/media/359aaa_01306c3581e44cf99626dd3a25d8889e~mv2.jpg/v1/fill/w_147,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/359aaa_01306c3581e44cf99626dd3a25d8889e~mv2.jpg)\n## Prototype Movement\n[About Us](https://www.artofarion.com/myths-muses)\n[Privacy Policy](https://www.artofarion.com/privacy-policy)\n![](https://static.wixstatic.com/media/359aaa_b4f42eee506d4197bf17defce01df690~mv2.jpg/v1/fill/w_125,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/359aaa_b4f42eee506d4197bf17defce01df690~mv2.jpg)\n![Asset 2_800x-100.jpg](https://static.wixstatic.com/media/359aaa_1cbb9b70689d4f21ab1af47b32659df3~mv2.jpg/v1/fill/w_141,h_31,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Asset%202_800x-100.jpg)\n[Contact](https://www.artofarion.com/contact)\n[Our Partners](https://www.artofarion.com/our-partners)\ninfo@artofarion.com\n* [![Instagram](https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png)](https://www.instagram.com/artofarion/)\nbottom of page",
+        "website_metadata": {
+            "url": "https://www.artofarion.com/",
+            "content_length": 6143
+        },
+        "linkedin": "https://www.linkedin.com/company/arionblue",
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\arion.json",
+        "normalized_name": "arion",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "artofarion.com",
+                "website_type": "official",
+                "social_profiles": 2,
+                "external_profiles": 3
+            },
+            "social_validation": {
+                "report": {
+                    "total": 2,
+                    "valid": 2,
+                    "official": 2,
+                    "platforms": [
+                        "instagram",
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://www.linkedin.com/company/arionblue",
+                        "normalized": "https://linkedin.com/company/arionblue",
+                        "username": "arionblue",
+                        "valid": true,
+                        "official": true
+                    },
+                    "instagram": {
+                        "platform": "instagram",
+                        "original": "https://www.instagram.com/artofarion",
+                        "normalized": "https://instagram.com/artofarion",
+                        "username": "artofarion",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 1,
+                    "domains": [
+                        "artofarion.com"
+                    ]
+                },
+                "official": [
+                    "info@artofarion.com"
+                ],
+                "details": [
+                    {
+                        "original": "info@artofarion.com",
+                        "normalized": "info@artofarion.com",
+                        "domain": "artofarion.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": true,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "info@artofarion.com",
+        "quality": {
+            "phones": {
+                "total": 4,
+                "valid": 0,
+                "removed": 4,
+                "duplicates": 0,
+                "invalid": [
+                    "229040548",
+                    "45798069",
+                    "311141269",
+                    "21013516"
+                ]
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "entity_type": "startup",
+    "name": "CREOMETRY",
+    "description": "CREOMETRY (2021)\nSecteur d’activité / Sector : Business Software and services\ncreometry.com\nFondateur / Founder\nE-mail\nAdresse / Address\nMOUNIR GHLAIEL\nmg@creometry.com\n16 rue de la Palestine, 1002 Tunis\nActivité Creometry offre un service d’hébergement \ncloud et edge pour les applications a base de conteneurs.\nAspect Technologique Creometry automatise le déploiment \net la gestion des application avec des technique sur le \nCloud et le Edge.\nOriginalité Les plateformes modernes sans serveur et \nEdge computing garantissent la fiabilité des systèmes \net ouvrent de nouveaux cas d'utilisation dans tous les \nsecteurs.\nActivity Creometry is a managed cloud and edge \napplication platform for container-based workloads.\nTechnological Aspect Creometry offers serverless style \nautomation for application deployment and management \non cloud and edge.\nOriginality \nModern \nServerless \nplatforms \nand \nEdge \ncomputing ensure systems reliability and unlock new use \ncases across industries.\nFR\nEN",
+    "tagline": null,
+    "industry": "Business Software and services",
+    "keywords": [
+        "developer platform",
+        "cloud",
+        "Kubernetes",
+        "GitOps",
+        "collaboration"
+    ],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://creometry.com",
+    "linkedin_url": "https://linkedin.com/company/creometrie",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/creometrie",
+        "facebook": "https://facebook.com/creometry",
+        "youtube": "https://youtube.com/@creometry",
+        "github": "https://github.com/creometry"
+    },
+    "contact": {
+        "emails": [
+            "mg@creometry.com"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/creometrie"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Cloud Platform",
+            "description": "Community‑networked Kubernetes clusters with features such as GitOps, serverless, confidential CI, BYO nodes, observability and incentives for hosting resources.",
+            "category": "Developer Platform"
+        },
+        {
+            "name": "Academy",
+            "description": "Technology training ground offering self‑paced courses, instructor‑led sessions, and the ability for community members to publish courses and workshops.",
+            "category": "Education"
+        },
+        {
+            "name": "Vessel incubator",
+            "description": "Space where developers meet opportunities and contribute to project initiatives within the Creometry ecosystem.",
+            "category": "Incubator"
+        }
+    ],
+    "services": [],
+    "technologies": [
+        "Kubernetes",
+        "GitOps",
+        "Serverless",
+        "Confidential containers",
+        "Prometheus"
+    ],
+    "customer_segments": [
+        "individuals",
+        "teams",
+        "startups",
+        "enterprises",
+        "researchers",
+        "consultants",
+        "students",
+        "freelancers"
+    ],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 57,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:54:41.192271",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 4,
+        "services_count": 0,
+        "technologies_count": 5,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "creometry.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[![Creometry logo](https://creometry.com/assets/img/creometry-logo-transparent.png)](https://creometry.com)\n# [CREOMETRY](https://creometry.com)\n* [learn](https://creometry.com/#academy)\n* [build](https://creometry.com/#platform)\n* [earn](https://creometry.com/#incentives)\n* [Features](https://creometry.com/#services)\n* [Ecosystem ](https://creometry.com/#about)\n* [Academy](https://creometry.com/academy)\n* [Vessel incubator](https://creometry.com/vessel)\n* [Cloud Platform](https://cloud.creometry.com/)\n* [consulting ](https://creometry.com/consulting)\n* [Training](https://creometry.com/consulting#training)\n* [Cloud & DevOps](https://creometry.com/consulting#cloud)\n* [Application Development](https://creometry.com/consulting#dev)\n* [docs](https://creometry.com/docs)\n[](https://github.com/creometry) [](https://join.slack.com/t/creometry/shared_invite/zt-13y8zzm8w-kOF_8Pc2bShVlI~VOMbeww) [](https://wa.me/message/PUQ5IVTUGYLCP1) [](https://creometry.com/#contact)\n##  Commoning practices\napplied to cloud infrastructure\n### A collaborative developer platform and an ecosystem of shared knowledge, expertise and compute resources.\n[Discover](https://creometry.com/#about)\n![collaborative cloud](https://creometry.com/assets/img/collaborative-cloud.png)\n![about-ecosystem](https://creometry.com/assets/img/about-ecosystem.png)\n## The ecosystem\nCreometry is a socio-technical ecosystem that applies commoning[1](https://creometry.com/#faq) practices to computing infrastructure (aka. the cloud[2](https://creometry.com/#faq)).\nIn the spirit of commoning, we believe in sharing resources and sharing rewards. The ecosystem brings web3-style incentives and open-source cloud software together, to foster and govern digital commmunities.\nContributors to the ecosystem earn rewards[3](https://creometry.com/#faq) for published courses and workshops on the academy, contributed code to incubated projects, and for shared compute resources.\n### In summary, Creometry's ecosytem is:\n* Academy: a technology training ground for developers and teams.\n* Vessel: a space where developers meet opportunities and contribute to project initiatives.\n* Cloud: community-networked kubernetes clusters capable of handling diverse workloads.\n![creometry academy](https://creometry.com/assets/img/academy.png)\n# **Academy**\n### Learn. Share. Grow.\nThe Academy is your platform to learn new skills and share knowledge.\n* **Self-paced courses** [](https://creometry.com/academy)\nWork through trainings paths at your own pace, and get exposed to some of the skills you need to become certified.\n* **Publish** [](https://github.com/creometry/academy/issues/new?template=add-a-course.md&title=%5Bcontibute+a+course+or+tutorial%5D)\nCommunity members can publish courses and workshops, contributing to the collective learning experience.\n* **Instructor-led sessions** [](https://creometry.com/schedule.html):\nFocus on modern technologies with a hands-on approach to prepare you for real world production senarios.\n[upcoming sessions](https://creometry.com/schedule.html)[Explore courses](https://creometry.com/academy/)\n![Cloud Platform Running on kubernetes](https://creometry.com/assets/img/build.svg)\n# **Cloud Platform**\n### Build. Contribute. Collaborate.\nExperience the benefits of DevOps in a collaborative environment\n* **Build & iterate** [](https://creometry.com/docs/get-started#dev)\nBuild or deploy containerized apps, iterate from source repositories with GitOps, and find collaborators or early adopters among your community. See [platform features](https://creometry.com/#services).\n* **Create & Contribute** [](https://github.com/creometry-vessel)\nInitiate a community project and explore collaboration opportunities within a community of like-minded developers.\n[Go to dashboard](https://cloud.creometry.com/)\n![earn incentives](https://creometry.com/assets/img/rain-money.png)\n# **Incentives**\n### Mine the cloud. Make it rain!\n* **Metrics-based compensations** [](https://creometry.com/docs/incentives)\nHost a Kubernetes worker node, a node pool or a regional control plane, and receive compensations based on aggregated node metrics. Review Incentives in docs.\n* **Contribution-based compensations** [](https://creometry.com/docs/incentives#contibute)\nContribute academy content or code to earn rewards, to build a track record and explore growth opportunities.\n[Join Now!](https://creometry.com/docs/host)\n### Platform features\nKubernetes with batteries inluded\n#### [GitOps Ready](https://creometry.com/)\nDeploy from your source repository and iterate faster with Fleet GitOps and Sealed secrets\n#### [Dev space](https://creometry.com/)\nPractice workshops, spin a demo, or manage a release with flexible strategies\n#### [Confidential CI](https://creometry.com/)\nBuild artifacts in confidential environments and protect intellectual property\n#### [BYO Nodes](https://creometry.com/)\nConnect your node(s) to a public control plane, and host your own kubernetes environment\n#### [Serverless](https://creometry.com/)\nStateless, autoscaling and secure containers capable of handling a variety of workloads\n#### [Observability](https://creometry.com/)\nView logs and metrics, configure prometheus monitors, and export container logs\n### Frequently Asked Questions\n* What is commoning?\nCommoning is a practice of collaborating and sharing to meet everyday needs and achieve well-being, of individuals, communities and lived-in environments. [Learn more](https://www.onthecommons.org/work/what-commoning-anyway/index.html)\n* How does creometry apply commoning to cloud infrastructure?\n“The cloud is just someone else's computers”, racked in multiple data centers distributed around the globe. However, Creometry's cloud infrastructure is a network of distributed servers, contributed by community members as shared and/or pooled compute resources to orchestrate application workloads.\n* Is Creometry a \"blockchain\" network?\nWhile creometry incentives metaphorize between cloud mining and virtual-currency mining, creometry network itself is not a blockchain network, it does not store distributed ledgers, and processes all incentives through a centralized cloud service before submitting transactions to the smart contract.\nIt is worth mentioning that **creometry does not support and will never initate any form of financial campaigns such as \"ICO\", \"IEO\", \"STO\", etc**. The ecosystem supports a unique \"crypto-token\" serving only as compensations for contributions. Review incentives in docs\n* What kind of workloads can I deploy on creometry's cloud platform?\nCreometry allows you to run containers as kubernetes deployments and jobs, with planned support for multi-regional deployments and multiple container runtimes (containerd, WASM and Confidential container runtimes). Review supported workloads in docs.\n* Who is Creometry for?\nCreometry is built for dervelopers who have limited access to public clouds, due to reasons ranging from low funding opportunities to [currency exchange controls](https://en.wikipedia.org/wiki/Foreign_exchange_controls), which severely limits access to cloud resources.\nCreometry's cloud platform is also a good fit for individuals and teams, startups and enterprises, researchers and consultants, students and freelancers, alike; as long as they are interested in low-cost Kubernetes environments, or in leveraging the incentive system to receive early feedbacks. Review use-cases.\n* Should I be concerned about the security of my applications running on untrusted hosts?\nCreometry provides developers with the option to run [confidential containers](https://github.com/confidential-containers), which isolate workloads and verify their integrity, in addtion to encrypting traffic and data. Although the number of discovered vultnerabilities is manageably small, **we do not recommend running critical workloads or compute sensitive data on Creometry's network**. Review Terms of use and example use-cases.\n* What type of nodes can I join to the network?\nWhether it's a cloud-based VM, a single board computer, a workstation, or an on-prem hardware, you can join any compute hardware as long as it runs on a architecture/OS supported by Kubernetes nodes (i.e. Linux/Windows AMD64, Linux arm64, etc.). Review host requirements in docs.\n### Creometry\n#### Subscribe to the Newsletter\nStay up to date with our events, new features and news!\n[](https://github.com/creometry) [](https://join.slack.com/t/creometry/shared_invite/zt-13y8zzm8w-kOF_8Pc2bShVlI~VOMbeww) [](https://wa.me/message/PUQ5IVTUGYLCP1) [](https://www.youtube.com/@creometry) [](https://groups.google.com/g/creometrists)\n[](https://linkedin.com/company/creometrie) [](https://medium.com/@creometry) [](https://www.reddit.com/r/creometry/) [](https://twitter.com/creometry) [](https://www.facebook.com/creometry)\n#### Useful Links\n* [Cloud Platform](https://cloud.creometry.com)\n* [Academy](https://creometry.com/academy)\n* [Consuting](https://creometry.com/consulting)\n* [Blog](https://creometry.com/blog)\n* [Documentation](https://creometry.com/docs)\n* [Trainings](https://creometry.com/schedule#taining)\n* [Webinars](https://creometry.com/schedule#webinars)\n* [Terms of service](https://creometry.com/terms)\n* [Privacy policy](https://creometry.com/privacy)\n#### Say Hello!\nJoin our Slack chat, check out our GitHub repo, or send us a instant message.\nLoading\nYour message has been sent. Thank you!\nSend Message\n© **Creometry 2024**\n[](https://creometry.com/)",
+    "website_metadata": {
+        "url": "https://creometry.com",
+        "content_length": 9458
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "CREOMETRY",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\creometry.json",
+    "normalized_name": "creometry",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "creometry.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "github",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/creometrie",
+                    "normalized": "https://linkedin.com/company/creometrie",
+                    "username": "creometrie",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/creometry",
+                    "normalized": "https://facebook.com/creometry",
+                    "username": "creometry",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@creometry",
+                    "normalized": "https://youtube.com/@creometry",
+                    "username": "@creometry",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/creometry",
+                    "normalized": "https://github.com/creometry",
+                    "username": "creometry",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "creometry.com"
+                ]
+            },
+            "official": [
+                "mg@creometry.com"
+            ],
+            "details": [
+                {
+                    "original": "mg@creometry.com",
+                    "normalized": "mg@creometry.com",
+                    "domain": "creometry.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "mg@creometry.com",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

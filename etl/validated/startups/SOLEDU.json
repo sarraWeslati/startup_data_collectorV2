@@ -1,0 +1,217 @@
+{
+    "entity_type": "startup",
+    "name": "SOLEDU",
+    "description": "SOLEDU (2021)\nSecteur d’activité / Sector : EdTech\nsol-edu.org\nFondateur / Founder\nE-mail\nAdresse / Address\nMOHAMMAD ABOUSHARKH / ABDELAZIZ SIFAOUI\ninfo@sol-edu.org\n12 Rue Kheireddine 1004, Menzah 5\nActivité Proposer des solutions éducatives innovantes, \nsous forme de formations et des coachings en ligne, aidant \nles parents à surmonter les difficultés de parentalité.\nAspect Technologique Une plateforme en ligne qui contient \ndes vidéos thématiques et des sessions live de coaching \nde groupe pour les abonnés.\nOriginalité Nos formations sont parmi les rares en \nparentalité. Nos solutions sont basées sur les études \nscientifiques et la réalité.\nActivity \nSoledu \noffers \ninnovative \neducational \nsolutions, in the form of online training and coaching, \nhelping parents overcome parenting difficulties.\nTechnological Aspect We offer an online platform that \ncontains thematic videos and live group coaching \nsessions for our subscribers.\nOriginality Our training courses are among the few in \nparenting. Our solutions are based on scientific studies \nand reality.\nFR\nEN",
+    "tagline": null,
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://sol-edu.org",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "info@sol-edu.org"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:52:38.933260",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "sol-edu.org"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "external_profiles": {},
+    "emails": [
+        "info@sol-edu.org"
+    ],
+    "tavily": {
+        "query": "SOLEDU",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\soledu.json",
+    "normalized_name": "soledu",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "sol-edu.org",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "sol-edu.org"
+                ]
+            },
+            "official": [
+                "info@sol-edu.org"
+            ],
+            "details": [
+                {
+                    "original": "info@sol-edu.org",
+                    "normalized": "info@sol-edu.org",
+                    "domain": "sol-edu.org",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@sol-edu.org",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

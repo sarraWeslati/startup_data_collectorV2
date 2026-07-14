@@ -1,0 +1,238 @@
+{
+    "entity_type": "startup",
+    "name": "Fluoink Nanotechnologies",
+    "description": "Fluoink Nanotechnologies est spécialisée dans la production de matériaux avancés nanostructurés utilisés comme additifs dans plusieurs supports comme les peintures, encres, vernis, polymères et textiles. Son premier produit breveté, l'additif nanosilver, servira à la production de peinture antibactérienne capable de lutter contre les contaminations pandémiques et nosochomiales.",
+    "tagline": "",
+    "industry": "HealthTech",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2022",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "",
+    "linkedin_url": "",
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "ramzi.maalej@fss.usf.tn"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [
+        {
+            "name": "Ramzi Maalej",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Fakher Chabchoub",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Hanen Douiri",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Marwa Abid",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 30,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": "",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-09T00:05:52.102737",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": false,
+        "has_linkedin": false,
+        "founders_count": 4,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "team_members_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "fss.usf.tn"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Nov-22"
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "Fluoink Nanotechnologies",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\fluoink_nanotechnologies.json",
+    "normalized_name": "fluoink nanotechnologies",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": false,
+            "website_domain": "",
+            "website_type": "unknown",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "fss.usf.tn"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "ramzi.maalej@fss.usf.tn",
+                    "normalized": "ramzi.maalej@fss.usf.tn",
+                    "domain": "fss.usf.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "ramzi.maalej@fss.usf.tn",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "21698656305"
+            ]
+        }
+    }
+}

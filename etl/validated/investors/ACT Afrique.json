@@ -1,0 +1,285 @@
+{
+    "name": "ACT Afrique",
+    "description": "Established in April 2012, Africa Consulting & Trading (ACT) is a pan African management consulting and trading firm based in Dakar, Senegal and which operates under three main business lines, namely: 1) Business & Strategy Advisory, 2) Investment Banking, Financial and 3) Communication. ACT serves a large spectrum of clients in both the public and private sector, at local and international level including: multinational and African companies, private financial institutions, financial development institutions, African governments, institutions and agencies but also non-profit organizations.",
+    "organization_type": "",
+    "country": "Senegal",
+    "city": "Dakar",
+    "website": "https://www.business-senegal.com/fre/Entreprises/profilent/_16651",
+    "linkedin": "https://linkedin.com/company/actafriquegroup",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.business-senegal.com/fre/Entreprises/profilent/_16651",
+        "linkedin": "https://linkedin.com/company/actafriquegroup"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/actafriquegroup"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T14:57:49.582607+00:00",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "ACT Afrique",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://act-afrique.com/en/act-group/",
+            "https://linkedin.com/company/actafriquegroup",
+            "https://www.business-senegal.com/fre/Entreprises/profilent/_16651",
+            "https://www.financialafrik.com/en/2020/04/27/papa-chimere-diop-joins-act-afrique-as-director-in-charge-of-business-development/",
+            "https://www.dobiza.com/eng/Entreprises/profilent/_16651",
+            "https://ga.linkedin.com/company/actafriquegroup",
+            "https://sn.linkedin.com/company/africa-consulting-&-trading-act-",
+            "https://www.developmentaid.org/organizations/view/38259/act-afrique",
+            "https://linkedin.com/in/joe-lopez-b3a8331a6",
+            "https://linkedin.com/company/africa-consulting-&-trading-act-",
+            "https://www.lusha.com/business/eebc4b04e1f839a0/",
+            "https://actissafrica.com/",
+            "https://act-afrique.com/en/wiif-2/",
+            "https://act-afrique.com/en/category/wiif-english/",
+            "https://www.gtreview.com/wp-content/uploads/2020/11/GTR-Africa-2020-Virtual_Post-Event-Media-Kit.pdf",
+            "https://www.afsic.net/private-equity-firms-in-africa/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 4,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 76,
+        "level": "Medium"
+    },
+    "website_content": "[](https://www.business-senegal.com/fre/Users/logout) [](https://www.business-senegal.com/fre/Entreprises/profilent/_16651 \"Recherche / Search\") [![langue](https://www.business-senegal.com/img/ico/eng-version.png)](https://www.business-senegal.com/eng/Entreprises/profilent/_16651)\n[ ![Business  Sénégal](https://www.business-senegal.com/img/images/logo_b2b1_sn_white.png) ](https://www.business-senegal.com/)\n[Inscription](https://www.business-senegal.com/fre/Users/add)\n[Connexion](https://www.business-senegal.com/fre/Entreprises/profilent/_16651)\n* ![loader ajax](https://www.business-senegal.com/img/ajax-loader.gif)\nAdresse email / Telephone\nTN ![flag](https://www.business-senegal.com/img/flag/tn.png)\n* AE +971\n* AF +93\n* AL +355\n* AO +244\n* AR +54\n* AT +43\n* AU +61\n* BE +32\n* BF ![flag](https://www.business-senegal.com/img/flag/burkina_faso.png)\n* BG +359\n* BI +257\n* BJ ![flag](https://www.business-senegal.com/img/flag/benin.png)\n* BO +591\n* BR +55\n* BW +267\n* CA +1\n* CD ![flag](https://www.business-senegal.com/img/flag/drapeau_rdc2.jpg)\n* CF +236\n* CG ![flag](https://www.business-senegal.com/img/flag/congo_brazz.jpg)\n* CH +41\n* CI ![flag](https://www.business-senegal.com/img/flag/cote_ivoire.png)\n* CM ![flag](https://www.business-senegal.com/img/flag/cameroun.png)\n* CN ![flag](https://www.business-senegal.com/img/flag/cn.png)\n* CU +53\n* CV +238\n* CZ +420\n* DE +49\n* DJ ![flag](https://www.business-senegal.com/img/flag/dj.png)\n* DK +45\n* DM +1\n* DZ ![flag](https://www.business-senegal.com/img/flag/algerie.png)\n* EC +593\n* EG +20\n* ER +291\n* ES +34\n* ET +251\n* FR ![flag](https://www.business-senegal.com/img/flag/fr.png)\n* GA ![flag](https://www.business-senegal.com/img/flag/gabon.png)\n* GB ![flag](https://www.business-senegal.com/img/flag/gb.png)\n* GH ![flag](https://www.business-senegal.com/img/flag/ghana.png)\n* GM ![flag](https://www.business-senegal.com/img/flag/gambie.png)\n* GN ![flag](https://www.business-senegal.com/img/flag/guinee.png)\n* GQ ![flag](https://www.business-senegal.com/img/flag/guinee_equatoriale.png)\n* GR +30\n* GW ![flag](https://www.business-senegal.com/img/flag/guinee_bissau.png)\n* GY +592\n* HK +852\n* HR +385\n* HT +509\n* ID +62\n* IL +972\n* IN ![flag](https://www.business-senegal.com/img/flag/in.png)\n* IQ +964\n* IR +98\n* IT +39\n* JP +81\n* KE ![flag](https://www.business-senegal.com/img/flag/kenya.jpg)\n* KM +269\n* KR +82\n* KW +965\n* LB +961\n* LR +231\n* LS +266\n* LU +352\n* LV +371\n* LY +218\n* MA ![flag](https://www.business-senegal.com/img/flag/ma.png)\n* MC +377\n* MG +261\n* ML ![flag](https://www.business-senegal.com/img/flag/mali.png)\n* MR ![flag](https://www.business-senegal.com/img/flag/mauritanie.png)\n* MU +230\n* MW +265\n* MX +52\n* MZ +258\n* NA +264\n* NE ![flag](https://www.business-senegal.com/img/flag/niger.png)\n* NG ![flag](https://www.business-senegal.com/img/flag/nigeria.png)\n* NL +31\n* NO +47\n* PF +689\n* PK +92\n* PL +48\n* PT +351\n* QA +974\n* RU +7\n* RW +250\n* SA +966\n* SC +248\n* SD +249\n* SE +46\n* SG +65\n* SL ![flag](https://www.business-senegal.com/img/flag/sierra_leone.png)\n* SN ![flag](https://www.business-senegal.com/img/flag/senegal.png)\n* SO +252\n* ST +239\n* SZ +268\n* TD ![flag](https://www.business-senegal.com/img/flag/tchad.png)\n* TG ![flag](https://www.business-senegal.com/img/flag/togo.png)\n* TH +66\n* TN ![flag](https://www.business-senegal.com/img/flag/tn.png)\n* TR +90\n* TW +886\n* TZ +255\n* UA +380\n* UG ![flag](https://www.business-senegal.com/img/flag/uganda.png)\n* US +1\n* VN +84\n* ZA ![flag](https://www.business-senegal.com/img/flag/sud_africa.jpg)\n* ZM +260\n* ZW +263\nMot de passe\n[Mot de passe oublié ?](https://www.business-senegal.com/users/remind)\n[ Accueil](https://www.business-senegal.com/) [ Opportunités d'affaires](https://www.business-senegal.com/fre/opportunites/index) [ Fournisseurs / Clients](https://www.business-senegal.com/fre/entreprises/recherche) [ Agenda B2B](https://www.business-senegal.com/fre/actus/events) [![langue](https://www.business-senegal.com/img/ico/eng-version.png)](https://www.business-senegal.com/eng/Entreprises/profilent/_16651)\n[AGENDA PROFESSIONNEL](https://www.business-senegal.com/fre/actus/index)\n[< ](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [![image buton pagin](https://www.business-senegal.com/img/ico/ico-pagin.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_16651) [ >](https://www.business-senegal.com/fre/Entreprises/profilent/_16651)\n[Voir tout l'agenda...](https://www.business-senegal.com/fre/actus/events)\n[![](http://www.senjob.com/pub/vous-recrutez_carree_300x300.jpg)](https://www.senjob.com/)\nVos secteurs d'activités\nAdministration, Organisation, Formation Agriculture, élevage, pêche Banque, finances, assurances BTP, Immobilier, Construction Caoutchouc et matières plastiques Communication, Marketing, Pub, Médias Energie, Mines, Hydrocarbures Equipement électrique et électronique Imprimerie, Papier, édition Industries agro-alimentaires Informatique, Réseaux, Télécoms Métallurgie, mécanique, équipements Santé, Pharmacie, Chimie, Beauté Services aux entreprises Style, Mode, Art, Artisanat, Loisirs Textiles, Vêtement, Habillement Transports, Véhicules & Logistiques Voyages, tourisme, hôtellerie, Restauration\nVoir plus\nGestion\nActivités commerciales\nHeure et calendriers\n[Accueil](https://www.business-senegal.com/)>[Entreprises](https://www.business-senegal.com/Entreprises/recherche)\n×\n### ...\n×\n### Demande de cotation\nFermer Enregistrer\n![Ajouter un logo](https://www.business-senegal.com/files/entreprise/logo/16651/thumb_ACTCONS.jpg)\n**ACT Africa Consulting Training** (Sénégal)\nAdresse: _Dakar Point E Immeuble NA 12, 2éme Etage , Avenu Birago Diop x Rue H.\n_\nSecteur d'activité: [Conseil aux entreprises](https://www.business-senegal.com/fre/Entreprises/recherche/173), [Conseil financier](https://www.business-senegal.com/fre/Entreprises/recherche/162), [Marketing, Communication](https://www.business-senegal.com/fre/Entreprises/recherche/156),\n![Email](https://www.business-senegal.com/img/ico/telephone.jpg) Tel.: (221) 338679598 /\n![fax](https://www.business-senegal.com/img/ico/fax.jpg) Fax : (221) 338679500\n![Web](https://www.business-senegal.com/img/ico/web1.gif) Site web: <http://www.act-afrique.com>\n![](https://www.business-senegal.com/img/indicator.gif)\n**\n**Est-ce votre entreprise ?**\nCette entreprise n'est pas encore gérée sur Business Sénégal.\nÊtes vous un responsable ou un représentant officiel de cette entreprise?\nSi oui, cliquez sur le lien suivant pour gérer les infos de l'entreprise: **ACT Africa Consulting Training**\n[Cliquez ici pour gérer les infos de cette entreprise >>](https://www.business-senegal.com/fre/Entreprises/changentreprise/_16651 \"modification entreprise...\")\n**\n**\n#### Produits et Services de **ACT Africa Consulting Training**\n* [A propos](https://www.business-senegal.com/fre/Entreprises/profilent/_16651#tabs-1)\n* [Annonces](https://www.business-senegal.com/fre/Entreprises/profilent/_16651#tabs-3)\n* [Localisation](https://www.business-senegal.com/fre/Entreprises/profilent/_16651#tabs-5)\n### Présentation : ACT Africa Consulting Training\nCette entreprise n'a pas encore publié sa présentation\n### Offres et opportunités : ACT Africa Consulting Training\nListe des témoignages sur l'entreprise : ACT Africa Consulting Training\n_Certaines fonctionnalités ne sont pas disponibles hors connexion\nPour mieux profiter des avantages de Business Sénégal, veuillez vous connecter _\n**\n**\n##  AUTRES PRODUITS DU SECTEUR\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/13310/thumb_logo.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_13310)  |\n| --- |\n[BAOL NETWORKS](https://www.business-senegal.com/fre/Entreprises/profilent/_13310 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/19343/thumb_Screenshot_2026_01_30_at_12_12_08.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_19343)  |\n| --- |\n[SAFIBRE](https://www.business-senegal.com/fre/Entreprises/profilent/_19343 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/19141/thumb_WhatsApp_Image_2023_07_25_a_17_51_36.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_19141)  |\n| --- |\n[MECANO CONCEPTS](https://www.business-senegal.com/fre/Entreprises/profilent/_19141 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/18471/thumb_logo_atl.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_18471)  |\n| --- |\n[AFRICA TALENTS & LEADERS](https://www.business-senegal.com/fre/Entreprises/profilent/_18471 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/17591/thumb_o2678770_Capture.PNG)](https://www.business-senegal.com/fre/Entreprises/profilent/_17591)  |\n| --- |\n[BIGKANZ](https://www.business-senegal.com/fre/Entreprises/profilent/_17591 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/14950/thumb_1607079_843168425800289_803110691623309775_n.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_14950)  |\n| --- |\n[XILEMBANE TELECTRON SéNéGAL](https://www.business-senegal.com/fre/Entreprises/profilent/_14950 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/15087/thumb_logo.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_15087)  |\n| --- |\n[PROFESSIONAL LABO](https://www.business-senegal.com/fre/Entreprises/profilent/_15087 \"Voir Entreprise...\")\n(Maroc)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/9146/thumb_Construction_barque_Conakry.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_9146)  |\n| --- |\n[LE BLOG DU BUSINESS EN AFRIQUE](https://www.business-senegal.com/fre/Entreprises/profilent/_9146 \"Voir Entreprise...\")\n(France)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/15082/thumb_logo_DT.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_15082)  |\n| --- |\n[DELTA TRANSIT](https://www.business-senegal.com/fre/Entreprises/profilent/_15082 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/9069/thumb_INTERAKTIVE_logo1.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_9069)  |\n| --- |\n[2B INTERAKTIVE](https://www.business-senegal.com/fre/Entreprises/profilent/_9069 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/8955/thumb_00_ev_logo_new.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_8955)  |\n| --- |\n[EXPERTS VISIONS](https://www.business-senegal.com/fre/Entreprises/profilent/_8955 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/17389/thumb_LOGO_INKOA_EN_INGLES.JPG)](https://www.business-senegal.com/fre/Entreprises/profilent/_17389)  |\n| --- |\n[INKOA](https://www.business-senegal.com/fre/Entreprises/profilent/_17389 \"Voir Entreprise...\")\n(Espagne)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/18140/thumb_Foodex_Fb_Logo.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_18140)  |\n| --- |\n[FOODEX SAUDI](https://www.business-senegal.com/fre/Entreprises/profilent/_18140 \"Voir Entreprise...\")\n(Arabie Saoudite)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/9419/thumb_oo.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_9419)  |\n| --- |\n[EMSA GENERATOR](https://www.business-senegal.com/fre/Entreprises/profilent/_9419 \"Voir Entreprise...\")\n(Turquie)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/9314/thumb_logo_bdassist.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_9314)  |\n| --- |\n[DATABASE ASSISTANCE](https://www.business-senegal.com/fre/Entreprises/profilent/_9314 \"Voir Entreprise...\")\n(Côte d Ivoire)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/18530/thumb_0.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_18530)  |\n| --- |\n[SOCAF CONFECTION](https://www.business-senegal.com/fre/Entreprises/profilent/_18530 \"Voir Entreprise...\")\n(Tunisie)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/17620/thumb_West_Agri_Invest_Addict.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_17620)  |\n| --- |\n[WEST AGRO INVEST ADDICT](https://www.business-senegal.com/fre/Entreprises/profilent/_17620 \"Voir Entreprise...\")\n(Côte d Ivoire)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/14647/thumb_Logo_MTK_Consulting.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_14647)  |\n| --- |\n[MTK CONSULTING](https://www.business-senegal.com/fre/Entreprises/profilent/_14647 \"Voir Entreprise...\")\n(Sénégal)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/14385/thumb_business_logos_9.jpg)](https://www.business-senegal.com/fre/Entreprises/profilent/_14385)  |\n| --- |\n[FREE BUSINESS CLASSE -SARL](https://www.business-senegal.com/fre/Entreprises/profilent/_14385 \"Voir Entreprise...\")\n(Maroc)\n|  [![logo](https://www.business-senegal.com/files/entreprise/logo/17550/thumb_Capture_d_e_cran_2018_09_27_a_11_12_22.png)](https://www.business-senegal.com/fre/Entreprises/profilent/_17550)  |\n| --- |\n[UNAL KABLO](https://www.business-senegal.com/fre/Entreprises/profilent/_17550 \"Voir Entreprise...\")\n(Côte d Ivoire)\n![Tout](https://www.business-senegal.com/img/images/list.png) **[TOUTES LES ENTREPRISES](https://www.business-senegal.com/fre/entreprises/recherche)** | ![Tout](https://www.business-senegal.com/img/images/list.png) **[AJOUTER](https://www.business-senegal.com/fre/Entreprises/addentreprise)**\n[‹](https://www.business-senegal.com/fre/Entreprises/profilent/_1665",
+    "website_metadata": {
+        "url": "https://www.business-senegal.com/fre/Entreprises/profilent/_16651",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/actafriquegroup"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "https://linkedin.com/company/actafriquegroup",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "(221) 338679598",
+        "(221) 338679500"
+    ],
+    "geographic_focus": [
+        "Senegal",
+        "Gabon",
+        "Canada",
+        "Switzerland"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\act_afrique.json",
+    "normalized_name": "act afrique",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "business-senegal.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/actafriquegroup",
+                    "normalized": "https://linkedin.com/company/actafriquegroup",
+                    "username": "actafriquegroup",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Senegal",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Senegal",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Senegal",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 41,
+            "valid": 0,
+            "removed": 41,
+            "duplicates": 0,
+            "invalid": [
+                "+221221338679598",
+                "+221221338679500",
+                "+22119374",
+                "+22114507",
+                "+22119372",
+                "+22118897",
+                "+22115098",
+                "+22114293",
+                "+22118561",
+                "+22118334",
+                "+22117358",
+                "+22110749096",
+                "+22110203106757658587",
+                "+221132539339",
+                "+22114358",
+                "+22119322",
+                "+22114387",
+                "+22118613",
+                "+22119266",
+                "+22115099",
+                "+22118489",
+                "+22117604",
+                "+22117499",
+                "+22118443",
+                "+22113310",
+                "+22119343",
+                "+22119141",
+                "+22118471",
+                "+22117591",
+                "+221843168425800289",
+                "+221803110691623309775",
+                "+22114950",
+                "+22115087",
+                "+22115082",
+                "+22117389",
+                "+22118140",
+                "+22118530",
+                "+22117620",
+                "+22114647",
+                "+22114385",
+                "+22117550"
+            ]
+        }
+    }
+}

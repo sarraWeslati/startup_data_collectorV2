@@ -1,0 +1,275 @@
+{
+    "name": "Beta.Ventures",
+    "description": "Beta.Ventures invests in driven, early-stage entrepreneurs scaling tech and tech-enabled startups to become market leaders in Africa.",
+    "organization_type": "Venture Capital",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "website": "https://www.cbinsights.com/investor/betaventures",
+    "linkedin": "https://linkedin.com/company/betaaventures",
+    "investment_focus": [
+        "Technology",
+        "Tech-enabled startups"
+    ],
+    "investment_stages": [
+        "Early-stage"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/investor/betaventures",
+        "linkedin": "https://www.linkedin.com/company/betaaventures",
+        "crunchbase": "https://www.crunchbase.com/organization/beta-ventures"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/betaaventures"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T16:09:07.384628+00:00",
+        "website_enriched": true,
+        "tavily_results": 12,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Beta.Ventures",
+        "answer": "",
+        "results_count": 12,
+        "urls": [
+            "https://beta.ventures/about-us/",
+            "https://beta.ventures/contact/",
+            "https://beta.ventures/our-investments/",
+            "https://beta.ventures/process/",
+            "https://linkedin.com/company/betaaventures",
+            "https://www.linkedin.com/company/betaaventures",
+            "https://beta.ventures/",
+            "https://linkedin.com/in/ikeeze",
+            "https://beta.ventures/our-team/",
+            "https://www.crunchbase.com/organization/beta-ventures",
+            "https://www.cbinsights.com/investor/betaventures",
+            "https://tracxn.com/d/venture-capital/betaventures/__4sETr_XLbaKDybX5mROaZtD6i9Y1Debi-ajoX6sOGlA",
+            "https://beta.ventures/our-impact/",
+            "https://www.linkedin.com/posts/ikeeze_diaspora-africa-investments-activity-7374074640022933525-b39m"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 9,
+        "investment_focus_count": 2,
+        "investment_stages_count": 1,
+        "geographic_focus_count": 2,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 1,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "techpoint.africa"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\nLoading...\n## Predict your next investment\n[Request a Demo](https://www.cbinsights.com/request-a-demo?utm_source=betaventures&utm_medium=public-profiles&utm_campaign=cbinsights&utm_term=trial-signup&utm_content=trialsignup-betaventures-banner)\nVenture Capital\n# Beta.Ventures\n[beta.ventures](https://beta.ventures)\n## Are you an investor?\nSubmit your portfolio details now to be considered in our investor rankings.\n[Submit portfolio details](https://cbinsights.iad1.qualtrics.com/jfe/form/SV_e8rXTxvkDDEQS7c)\n## Investments\n14\n## About Beta.Ventures\nBeta.Ventures invests in driven, early-stage entrepreneurs scaling tech and tech-enabled startups to become market leaders.\n## Headquarters Location\nNigeria\nAre you an investor?\nSubmit your portfolio details now to be considered in our investor rankings.\n[Submit portfolio details](https://cbinsights.iad1.qualtrics.com/jfe/form/SV_e8rXTxvkDDEQS7c)\n## Latest Beta.Ventures News\n[Ike Eze to lead masterclass on how to build startups with the exit in mind at Lagos Startup Expo 2.0](https://startupuniversal.com/ike-eze-to-lead-masterclass-on-how-to-build-startups-with-the-exit-in-mind-at-lagos-startup-expo-2-0/)\nJun 5, 2025\nLearn how to build your startup with a high-value exit in mind from seasoned investor Ike Eze. Psst… you’re reading Techpoint Digest Every day, we handpick the biggest stories, skip the noise, and bring you a fun digest you can trust. Digest Subscription (In-post) Join free At Lagos Startup Expo 2.0 by Techpoint Africa , founders and startup operators will have the rare opportunity to learn from one of Africa’s most seasoned tech entrepreneurs and investors. We’re excited to announce that Ike Eze, Managing Partner at Beta.Ventures and a three-time Silicon Valley founder with a successful $130 million exit, will lead a powerful masterclass titled: “Begin with the End: How to Build Your Startup with the Exit in Mind.” This session is designed to shift your perspective from simply building and scaling to doing so with strategic clarity and purpose. Most startup founders obsess over growth, but few truly prepare for the endgame. Be it an acquisition, merger, or IPO , exits usually don’t happen by luck; they happen by design. About the Masterclass Eze will demystify the exit process and unpack the strategies that smart founders use to make their startups exit-ready from day one in this session. Attendees will explore how to identify the right business structures, build operational systems that attract acquirers, and position themselves for high-value outcomes. You’ll gain insight into what potential acquirers and investors are looking for , how timing plays into valuation, and how to send the right signals to the market as you grow. Whether you’re at Seed, Series A, or gearing up for Series B, this session will show you how to lay the foundation for a successful exit, even if it’s years away. Who Should Attend Startup founders at all stages (especially Seed to Series B) Business development and strategy leads in growth-stage startups Investor-backed founders planning for long-term value creation Operators and executives involved in M&A or fundraising planning About the Speaker – Ike Eze Ike Eze brings a unique blend of entrepreneurial grit and investor insight. He has founded and exited three Silicon Valley-based companies, including QSpace, which was acquired by Experian for $130 million. He’s held roles at global firms like AT&T, Bechtel, Boston Consulting Group, and eTranzact, where he served as an executive director. Eze also serves on multiple startup boards across financial services, logistics, and technology. Register for the Lagos Startup Expo 2.0 Masterclass Don’t miss this chance to learn directly from a founder who’s been through the journey and come out on top multiple times. Register now for Lagos Startup Expo 2.0 and secure your seat for Ike Eze’s masterclass by getting a VIP pass ticket here: lagosstartupexpo.com We have a special offer for founders of early-stage startups no more than two years old. You can showcase your product or solution to thousands of attendees and potential partners. Additionally, you will gain exclusive access to representatives of venture capital firms at the investor lounge and the masterclass. To take advantage of this offer, send an email to chris@techpoint.africa or call +2348146586642. Spaces are limited. Come with questions, leave with a blueprint. Follow Techpoint Africa on WhatsApp! Never miss a beat on tech, startups, and business news from across Africa with the best of journalism.\nJun 5, 2025\n[Ike Eze to lead masterclass on how to build startups with the exit in mind at Lagos Startup Expo 2.0](https://techpoint.africa/general/ike-eze-masterclass-lagos-startup-expo/)\nMay 29, 2024\n[SUBJECT: Beta.Ventures Newsletter - June & July 2023](https://betaventures.substack.com/p/subject-betaventures-newsletter-june)\nJul 18, 2018\n[Nigeria’s TaxiTV secures seed funding from Beta.Ventures](https://incubateafrica.net/2018/07/18/nigerias-taxitv-secures-seed-funding-from-beta-ventures/)\nLearn more by requesting a demo\n## Beta.Ventures Investments\n14 Investments\nBeta.Ventures has made**14 investments**. Their latest investment was in [Rayda](https://www.cbinsights.com/company/rayda) as part of their **Seed VC** on **November 20, 2023**.\n![CBI Logo](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_icon-centered.png?w=64&q=75)\n### Beta.Ventures Investments Activity\n![investments chart](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/investment_chart.png?w=1920&q=75)\nView Investments Chart\n| Date  | Round  | Company  | Amount  | New?  | Co-Investors  | Sources  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 11/20/2023  | Seed VC  | Rayda  | $0,47M  | Yes  | [HoaQ](https://www.cbinsights.com/investor/hoaq), [Microtraction](https://www.cbinsights.com/investor/microtraction), and [Techstars](https://www.cbinsights.com/investor/techstars)  | 2  |\n| 2/14/2023  | Series B  | Smile ID  | $20M  | No  | 500 FinTech, [Catalyst Fund](https://www.cbinsights.com/investor/catalyst-fund), [Commerce Ventures](https://www.cbinsights.com/investor/commerce-ventures), [Costanoa Ventures](https://www.cbinsights.com/investor/costanoa-venture-capital), [Courtside VC](https://www.cbinsights.com/investor/courtside-ventures), [CRE](https://www.cbinsights.com/investor/africa-angels-network), [Duro Ventures](https://www.cbinsights.com/investor/duro-ventures), [Everywhere Ventures](https://www.cbinsights.com/investor/everywhere-ventures), Full Circle Africa, Future Africa, Great Horned Capital, [Intercept Ventures](https://www.cbinsights.com/investor/intercept-ventures), Jae Choi, [Latitude](https://www.cbinsights.com/investor/latitude), [Matt Penneycard](https://www.cbinsights.com/investor/matt-penneycard), [Meltwater Entrepreneurial School of Technology](https://www.cbinsights.com/investor/meltwater-entrepreneurial-school-of-technology), [Nimble Partners](https://www.cbinsights.com/investor/nimble-partners), [Norrsken22](https://www.cbinsights.com/investor/norrsken22), [Phoenix Court](https://www.cbinsights.com/investor/localglobe), [Pontem Ventures](https://www.cbinsights.com/investor/pontem-ventures), [PTB Ventures](https://www.cbinsights.com/investor/ptb-ventures), [Savannah Fund](https://www.cbinsights.com/investor/savannah-fund), [Sebastian Serrano](https://www.cbinsights.com/investor/sebastian-serrano), [Story Ventures](https://www.cbinsights.com/investor/story-ventures), [Susa Ventures](https://www.cbinsights.com/investor/susa-ventures), [Two Culture Capital](https://www.cbinsights.com/investor/two-culture-capital), [ValueStream Ventures](https://www.cbinsights.com/investor/valuestream-ventures), and [Vinod Khosla](https://www.cbinsights.com/investor/vinod-khosla)  | 10  |\n| 5/30/2022  | Seed VC - III  | BetaStore  | $2,5M  | Yes  | [500 Global](https://www.cbinsights.com/investor/500-startups), [Loyal VC](https://www.cbinsights.com/investor/loyal-vc), and [VestedWorld](https://www.cbinsights.com/investor/vestedworld)  | 6  |\n| 2/23/2022  | Seed VC - II  | Subscribe to see more  | $XXM  | Subscribe to see more  | [Subscribe to see more](https://www.cbinsights.com/)  | 10  |\n| 10/1/2021  | Seed VC - II  | Subscribe to see more  |   | Subscribe to see more  |   | 10  |\n| Date  | 11/20/2023  | 2/14/2023  | 5/30/2022  | 2/23/2022  | 10/1/2021  |\n| --- | --- | --- | --- | --- | --- |\n| Round  | Seed VC  | Series B  | Seed VC - III  | Seed VC - II  | Seed VC - II  |\n| Company  | Rayda  | Smile ID  | BetaStore  | Subscribe to see more  | Subscribe to see more  |\n| Amount  | $0,47M  | $20M  | $2,5M  | $XXM  |   |\n| New?  | Yes  | No  | Yes  | Subscribe to see more  | Subscribe to see more  |\n| Co-Investors  | [HoaQ](https://www.cbinsights.com/investor/hoaq), [Microtraction](https://www.cbinsights.com/investor/microtraction), and [Techstars](https://www.cbinsights.com/investor/techstars)  | 500 FinTech, [Catalyst Fund](https://www.cbinsights.com/investor/catalyst-fund), [Commerce Ventures](https://www.cbinsights.com/investor/commerce-ventures), [Costanoa Ventures](https://www.cbinsights.com/investor/costanoa-venture-capital), [Courtside VC](https://www.cbinsights.com/investor/courtside-ventures), [CRE](https://www.cbinsights.com/investor/africa-angels-network), [Duro Ventures](https://www.cbinsights.com/investor/duro-ventures), [Everywhere Ventures](https://www.cbinsights.com/investor/everywhere-ventures), Full Circle Africa, Future Africa, Great Horned Capital, [Intercept Ventures](https://www.cbinsights.com/investor/intercept-ventures), Jae Choi, [Latitude](https://www.cbinsigh",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/investor/betaventures",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [
+            "chris@techpoint.africa"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/betaaventures"
+    },
+    "founders": [
+        {
+            "name": "Ike Eze",
+            "role": "Managing Partner",
+            "linkedin": "",
+            "bio": "Managing Partner at Beta.Ventures and a three-time Silicon Valley founder with a successful $130 million exit. He has founded and exited three Silicon Valley-based companies, including QSpace, which was acquired by Experian for $130 million. He’s held roles at global firms like AT&T, Bechtel, Boston Consulting Group, and eTranzact, where he served as an executive director. Eze also serves on multiple startup boards across financial services, logistics, and technology."
+        }
+    ],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "https://linkedin.com/company/betaaventures",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "emails": [
+        "chris@techpoint.africa"
+    ],
+    "phones": [
+        "9-0584-4",
+        "+2348146586642"
+    ],
+    "geographic_focus": [
+        "Africa",
+        "United States"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 92,
+        "level": "High"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\beta_ventures.json",
+    "normalized_name": "betaventures",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/betaaventures",
+                    "normalized": "https://linkedin.com/company/betaaventures",
+                    "username": "betaaventures",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "techpoint.africa"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "chris@techpoint.africa",
+                    "normalized": "chris@techpoint.africa",
+                    "domain": "techpoint.africa",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Nigeria",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Nigeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "chris@techpoint.africa",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 0,
+            "removed": 2,
+            "duplicates": 0,
+            "invalid": [
+                "+234905844",
+                "+2348146586642"
+            ]
+        }
+    }
+}

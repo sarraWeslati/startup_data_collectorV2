@@ -1,0 +1,239 @@
+{
+    "entity_type": "startup",
+    "name": "Tunisia Market",
+    "description": "Tunisia-Market est un site de vente en ligne, spécialiste des articles tunisiens de très haute qualité. Tous les articles artisanaux, mis en vente sur www.Tunisia-Market.com, sont faits à la main selon des méthodes ancestrales et innovatrices qui reflètent un patrimoine riche et varié selon les régions. Nos produits sont authentiques et 100 % Tunisiens. Nos produits sont à votre disposition pour vivre l’expérience tunisienne là ou que vous soyez. Restez tunisiens consommez Tunisia-Market.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2022",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "",
+    "linkedin_url": "",
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "contact@tunisia-market.com"
+        ],
+        "phones": [
+            {
+                "number": "+21656208595",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [
+        {
+            "name": "Ibrahim Chouikh",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Abdelfattah Lahbib",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Abdelhamid Guinoubi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Ahmed Ettoumi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Laila Balti",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": false,
+        "has_linkedin": false,
+        "founders_count": 5,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "tunisia-market.com"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Apr-22"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\tunisia_market.json",
+    "normalized_name": "tunisia market",
+    "industries": [],
+    "external_profiles": {},
+    "etl": {
+        "website_validation": {
+            "website_valid": false,
+            "website_domain": "",
+            "website_type": "unknown",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "tunisia-market.com"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "contact@tunisia-market.com",
+                    "normalized": "contact@tunisia-market.com",
+                    "domain": "tunisia-market.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "phone",
+            "confidence": 0.95,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@tunisia-market.com",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "name": "Acacia.ac",
+    "description": "Looking at different business opportunities in impact in Africa.",
+    "organization_type": "",
+    "country": "",
+    "city": "Tijuana",
+    "website": "https://expose-news.com/wp-content/uploads/2022/06/YGL-list-November-2020.pdf",
+    "linkedin": "https://linkedin.com/company/acacia-ac",
+    "investment_focus": [
+        "impact"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://expose-news.com/wp-content/uploads/2022/06/YGL-list-November-2020.pdf",
+        "linkedin": "https://linkedin.com/company/acacia-ac"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/acacia-ac"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T14:31:12.382052+00:00",
+        "website_enriched": false,
+        "tavily_results": 9,
+        "llm_enriched": true
+    },
+    "tavily": {
+        "query": "Acacia.ac",
+        "answer": "",
+        "results_count": 9,
+        "urls": [
+            "https://robtex.com/en/dns-lookup/ac/acacia",
+            "https://www.ukrlp.co.uk/ukrlp/ukrlp_provider.page_pls_provDetails?pn_p_id=10000060&pv_status=VERIFIED&pv_vis_code=L&x=",
+            "https://linkedin.com/company/acacia-ac",
+            "http://www.sitedossier.com/site/acacia.ac.uk",
+            "https://sg.linkedin.com/company/acacia-ac",
+            "https://linkedin.com/in/acacia-a-c-academia-de-ciencias-administrativas-720168373",
+            "https://linkedin.com/in/acacia-ac-8004411a5",
+            "https://expose-news.com/wp-content/uploads/2022/06/YGL-list-November-2020.pdf",
+            "https://www.afsic.net/private-equity-firms-in-africa/",
+            "https://acaciaacademy.com/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 1,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 64,
+        "level": "Medium"
+    },
+    "geographic_focus": [
+        "Africa"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\acacia_ac.json",
+    "normalized_name": "acaciaac",
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "primary_social": "https://linkedin.com/company/acacia-ac"
+    },
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "expose-news.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/acacia-ac",
+                    "normalized": "https://linkedin.com/company/acacia-ac",
+                    "username": "acacia-ac",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

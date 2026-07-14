@@ -1,0 +1,456 @@
+{
+    "entity_type": "investor",
+    "name": "216 Capital",
+    "description": "216 Capital is a venture capital firm focusing on early-stage technology companies. Founded in Tunis by a team of entrepreneurs and investors, they invest across sectors in determined and creative founders building transformational businesses.",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "website": "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
+    "linkedin": "https://www.linkedin.com/company/216capital/",
+    "investment_focus": [
+        "early-stage technology companies"
+    ],
+    "ticket_size": "€250,000",
+    "portfolio_companies": [
+        "Deplike",
+        "Addvocate.AI",
+        "Talenteo",
+        "Winshot",
+        "Avidea",
+        "Youree",
+        "Wattnow",
+        "Drest",
+        "Actum Group",
+        "My Easy Transfer",
+        "Cynoia",
+        "Imaginario",
+        "Logidoo",
+        "Proxalys",
+        "eSteps",
+        "Arcube",
+        "Juridoc",
+        "Beekeeper Tech"
+    ],
+    "partners": [],
+    "team_members": [],
+    "emails": [
+        "hello@216capital.vc"
+    ],
+    "phones": [
+        "83483987"
+    ],
+    "organization_type": "venture capital firm",
+    "headquarters": "Tunis, Tunisia",
+    "linkedin_url": "https://www.linkedin.com/company/216capital",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/216capital",
+        "facebook": "https://facebook.com/WamdaME",
+        "twitter": "https://twitter.com/216Capital",
+        "instagram": "https://instagram.com/wamdame",
+        "youtube": "https://youtube.com/user/wamda"
+    },
+    "investment_stages": [
+        "Early-stage"
+    ],
+    "portfolio_startups": [
+        {
+            "name": "Deplike",
+            "description": "AI-powered platform that makes learning music as intuitive and enjoyable as playing a game"
+        },
+        {
+            "name": "Addvocate.AI",
+            "description": "AI-powered sales intelligence to help B2B teams close deals faster with real-time insights, meeting prep automation, and pipeline tracking."
+        },
+        {
+            "name": "Talenteo",
+            "description": "African HRTech startup offering an all-in-one SaaS platform for human resources and payroll management."
+        },
+        {
+            "name": "Winshot",
+            "description": "Centralize retail execution: streamline store ops, improve communication, gain insights in one platform"
+        },
+        {
+            "name": "Avidea",
+            "description": "Empowering insurers with a digital solution for auto claims, prioritizing customer focus and fraud control tools."
+        },
+        {
+            "name": "Youree",
+            "description": "Empower EV drivers and fleet managers, optimize charging, reducing impact, and driving positive change."
+        },
+        {
+            "name": "Wattnow",
+            "description": "Uses advanced technology to improve energy efficiency, optimize usage and achieve significant savings over time."
+        },
+        {
+            "name": "Drest",
+            "description": "Explore cosmetics and fashion on our e-commerce hub, a digital alternative to traditional shopping experiences."
+        },
+        {
+            "name": "Actum Group",
+            "description": "Empowering private equity with advanced analytics, providing key insights for value creation."
+        },
+        {
+            "name": "My Easy Transfer",
+            "description": "Easy-to-use money transfer solution enabling you to send funds at your convenience, wherever you are."
+        },
+        {
+            "name": "Cynoia",
+            "description": "Optimize collaboration: Unite, scale, and enhance operations for maximum efficiency and growth."
+        },
+        {
+            "name": "Imaginario",
+            "description": "Capture the most engaging visual and spoken moments from your long-form videos in a few clicks."
+        },
+        {
+            "name": "Logidoo",
+            "description": "The digital solution for your shipments in Africa."
+        },
+        {
+            "name": "Proxalys",
+            "description": "The modernizing solution for invoicing, strengthening cash flow and creating lasting relationships for long-term growth."
+        },
+        {
+            "name": "eSteps",
+            "description": "The eSteps insole is designed to comprehensively monitor and analyze various essential health metrics related to human movement."
+        },
+        {
+            "name": "Arcube",
+            "description": "The airline sector is grappling with challenges in loyalty program management to enhance customer relationships. With price comparison sites driving ticket prices down by 54% since 2013, airlines are increasingly reliant on ancillary revenue, allocating up to 56% to customer loyalty programs."
+        },
+        {
+            "name": "Juridoc",
+            "description": "Juridoc simplifies access to legal resources through a comprehensive database that includes legislation, case law, doctrine, and legal monitoring."
+        },
+        {
+            "name": "Beekeeper Tech",
+            "description": "Advanced technology devices providing beehive monitoring and tracking technology."
+        }
+    ],
+    "awards": [
+        "Hassen Arfaoui awarded full scholarship to Stanford × 500 Global VC Unlocked Program: Silicon Valley"
+    ],
+    "recent_news": [
+        "216 Capital invests in Startup EYST, the InsurTech accelerating instant claims settlement in insurance",
+        "Hassen Arfaoui awarded full scholarship to Stanford × 500 Global VC Unlocked Program: Silicon Valley",
+        "216 Capital invests in Deplike, the startup revolutionizing music learning through AI"
+    ],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "1000+ Scouted Startups, 4 Continents, 60+ Created jobs in Tunisia, 7 Subsidiaries of Global Startups in Tunisia",
+    "sources": [
+        "https://216capital.vc",
+        "https://www.linkedin.com/company/216capital/",
+        "https://twitter.com/216Capital",
+        {
+            "type": "website",
+            "url": "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T14:28:14.001420+00:00",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 18,
+        "investment_focus_count": 1,
+        "investment_stages_count": 1,
+        "geographic_focus_count": 4,
+        "partners_count": 8,
+        "team_members_count": 0,
+        "social_profiles": 5,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 3,
+        "social": {
+            "profiles_count": 5,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": true,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "2x.png"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "* [About](https://www.wamda.com/about)\n* [Contact](https://www.wamda.com/contact/contact-us)\n[![Wamda](https://www.wamda.com/img/wamda-logo@2x.png)](https://www.wamda.com) [Subscribe](javascript:;)\ntoggle search Search\nMenu\n* [Thought Leadership](https://www.wamda.com/media)\n* [Research](https://www.wamda.com/research)\n* [Events](https://www.wamda.com/events)\n* [Wamda Capital](https://wamdacapital.com/)\n* [Partner projects](https://www.wamda.com/partners-projects)\n* [About](https://www.wamda.com/about)\n* [Contact](https://www.wamda.com/contact/contact-us)\n* [عربي](https://www.wamda.com/ar)\n[عربي](https://www.wamda.com/ar)\n## Dhekra Khelifi leads 216 Capital to disrupt the Tunisian startup ecosystem\n[ **Thought Leadership** ](https://www.wamda.com/author/thought-leadership) • 14 March, 2024\n[Edit](https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem)\n![Dhekra Khelifi leads 216 Capital to disrupt the Tunisian startup ecosystem](https://cdn.wamda.com/feature-images/d04cc7b5cc264e0.jpg)\nOver the past two and a half years, Tunisian venture capital (VC) firm [216 Capital Ventures](https://216capital.vc/) has backed the Tunisian entrepreneurial scene, deploying capital into startups across four continents, focusing primarily on Tunisian and African founders. The firm has already backed over 15 startups across various sectors.\nDhekra Khelifi, a founding partner at 216 Capital, outlines all the details in her statement.\n**Tell us about 216 Capital and the vision you have achieved to date.**\n216 Capital Ventures is a venture capital firm born of encounters, opportunities, and talent.\nIt's the story of a country on the move, a community of thriving entrepreneurs, and the paths of three partners that crossed at just the right moment.\nThis is the first-born of the Tunisian ANAVA fund-of-funds, announced in 2022 with a closing of €10 million to invest in Tunisian and, by extension, African and Middle Eastern startups that want to make Tunisia not only a breeding ground for technical and technological production but also a source of innovation.\n216 Capital Ventures invests in Seed companies with average tickets of around €250,000 in entrepreneurs who are disrupting not only technology but also regional markets. Our mission is to help them conquer the world.\nWe have invested €4.3 million and have 15 startups in our portfolio to date.\n**Could you elaborate on 216 Capital's approach to investing in international startups?**\nThe choice we made from the very beginning in establishing our investment thesis was to create value for all stakeholders: our investors, our startups, and our regional ecosystem. We are convinced that our region is brimming with talent. As the founders of 216 Capital are themselves from the Tunisian diaspora in Europe, it was important for us to support entrepreneurs from this diaspora in exploring opportunities in Africa and the Middle East.\nPresenting the opportunities to set up an entity in Tunisia, to take advantage of the benefits of a well-established support system and of Tunisia's competitive talent pool, has led some entrepreneurs from the diaspora to set up here. This has given us access to international startups operating in European and Middle Eastern markets, resulting in job creation and interesting synergies and dynamics.\nTo date, we have invested in 15 companies that disrupt an emergent sector allowed in a particular industry or economy, such as e-banking, logistics, e-commerce, retail, and more. Our portfolio includes:\n[My Easy Transfer](https://www.myeasytransfer.com/): an easy-to-use money transfer solution addressing currency shortages and aiming to digitize merchant payments in Francophone Africa.\n[Winshot](https://www.winshot.net/): a mobile platform to centralize retail execution, streamline store operations, improve communication, and gain insights.\n[Logidoo](https://www.logidoo.co/home): a logistic marketplace with a unique and comprehensive solution covering the entire logistics value chain.\n[Imaginario IA](https://imaginario.ai/): an AI-powered API and no-code platform that makes any video in the world searchable without metadata or manual tags.\n[ProXalys](https://www.proxalys.net/): a neo-bank for auto-entrepreneurs with a modern solution for invoicing, strengthening cash flow, and creating lasting relationships for long-term growth.\n[Cynoia](https://cynoia.com/): all-in-one SaaS solution that simplifies collaboration and communication for teams worldwide.\n[Drest](https://www.drest.tn/): an e-commerce hub in cosmetics, and fashion, with a digital alternative to traditional shopping experiences.\n[Wattnow](https://wattnow.io/): IoT energy management solution that measures real time consumption using Smart meters connected to a cloud-based dashboard and mobile app.\n[Beekeepertech](https://www.beekeeper.io/): an advanced technology device that provides beehive monitoring and tracking technology.\n[Avidea](https://www.avidea.tn/): a digital insurance startup specializing in the digitalization of automobile claims management and the fight against fraud.\n**How do 216 Capital’s cross-continental investments align with its goals?**\nIt's clear that the task of positioning a Tunisian investment fund on the international stage is a challenging one. We carry on our shoulders the mission of proving not only that Tunisian entrepreneurs deserve their chance, but that Tunisia is also becoming an investment destination. In both senses, we feel increasingly legitimate, as we have been able, in a very short space of time, to test our two hypotheses.\nThe first is that, as a local player with an international outlook, we bring more credibility to the startups in which we invest because we know our market well and we are in the best position to assess, guide, and support the most talented entrepreneurs. To this end, we have co-invested and co-led investment rounds with funds such as Launch Africa, Katapult, Techstars, and others. In addition, we are involved in pre-seed and seed. It's up to us to prepare an interesting pipeline for Serie A investors, and we are confident that in the next rounds, we’ll be able to bring VCs with global reach to the table.\nWith regard to the second hypothesis, that of positioning Tunisia as an investment destination, we had the opportunity to test this with two pan-African startups initially based in Dakar. The Tunisian market, and North Africa in general, remains inaccessible to sub-Saharan startups, which struggle to find the necessary information and commercial outlets. The link between North Africa and Sub-Saharan Africa must be strengthened by solid partnerships between the ecosystems if we hope one day to reach the full potential of Africa's entrepreneurs and innovators.\n**What is 216 Capital’s role in promoting and highlighting Tunisian talent within the startups it finances abroad?**\nWe take this mission very seriously indeed. And while we remain focused on our core business of investing, we are convinced that we need to do more in terms of support at this stage. We have therefore teamed up with partners who provide talent sourcing services to local and foreign startups. We also have access to academic resources, which are generally very attractive for startups in AI or deep tech (PhD level), and for this, we guide our portfolio companies to the best universities and research laboratories in Tunisia.\n[Actum](https://actumgroup.com/), Imaginario AI, and Esteps, for example, have found rare gems and resources that will be decisive for their development in this pool of researchers.\n**Looking ahead, what are 216 Capital's plans for further expanding its impact and reach, both locally and internationally?**\nInvestment firms do not usually stop at a single fund, so it is a logical next step for us to continue investing in the current fund and start raising our second fund with a thesis that complements the current one. This will enable us to continue supporting startups with high potential in more advanced phases.\n**Are there specific sectors or regions you aim to target for your next investment?**\nWe're sector agnostic, so we have an appetite for any innovation that comes along in any field of application. In terms of geography, we're not limited. Our choice is essentially based on the founders. We work closely with the startups in our portfolio in all aspects and choose people who are capable, resilient, open-minded, coachable, and who execute operationally in the field. Our next investment will be like our previous ones, a mark of confidence and a desire to participate in an adventure that is above all human, but also brings value to all stakeholders.\nAuthor: [ **Thought Leadership** ](https://www.wamda.com/author/thought-leadership)\n* [Dhekra Khelifi](https://www.wamda.com/tag/Dhekra%20Khelifi)\n* [216 Capital Ventures](https://www.wamda.com/tag/216%20Capital%20Ventures)\n## Share\n[Facebook](https://www.wamda.com/#facebook) [Twitter](https://www.wamda.com/#twitter) [LinkedIn](https://www.wamda.com/#linkedin)\n## Suggested Reads\n* ![](https://cdn.wamda.com/thumbnails/1c83483987c4f6d.jpg)\n##  [Catalyst Fund secures $30 million to back Africa's climatetech startups](https://www.wamda.com/2026/07/catalyst-fund-secures-30-million-africas-climatetech-startups)\n* ![](https://cdn.wamda.com/thumbnails/cc5089143a89be6.jpg)\n##  [Saudi Venture Capital backs Khwarizmi Venture Capital Fund 2](https://www.wamda.com/2026/06/saudi-venture-capital-backs-khwarizmi-venture-capital-fund-2)\n* ![](https://cdn.wamda.com/thumbnails/073b6c8b6992ff6.jpg)\n##  [Anara Impact Capital announces $48 million first close of MENA-focused fund](https://www.wamda.com/2026/06/anara-impact-capital-announces-48-million-close-mena-focused-fund)\n## All the information you need to navigate Mena's startup ecosystem\nSign up to receive our weekly digest of stories, op-eds, events and more updates.\n[Subscribe](javascript:;)\n![](https://www.wamda.com/2024/03/img/wamda-logo@2x.png)\nWamda accelerates entrepreneurship ecosystems across the Middle East and North Africa region through its sector-agnostic investment vehicle, Wamda Capital, which invests in high-growth technology and tech-enabled startups. Its leading knowledge platform provides the region with impactful thought leadership and research, community development as well as corporate and government advisory services to stakeholders of the startup ecosystem. [Learn more](https://www.wamda.com/about)\n## Learn more\n* [About](https://www.wamda.com/about)\n* [FAQ](https://www.wamda.com/faq)\n* [Partner Companies](https://www.wamda.com/wamda-investments#partner_companies)\n* [Legal](https://www.wamda.com/legal)\n## Explore\n* [Podcasts](https://www.wamda.com/media/podcast)\n* [Research](https://www.wamda.com/research)\n* [Events by Wamda](https://www.wamda.com/events/wamda)\n## Get Involved\n* [Send us a story](https://www.wamda.com/contact/send-us-story)\n* [Host a session with Wamda](https://www.wamda.com/contact/host-session-with-wamda)\n* [Collaborate with our Partner companies](https://www.wamda.com/contact/collaborate-with-our-partner-companies)\n* [Launch an innovation programme](https://www.wamda.com/contact/launch-innovation-program)\n* [Pitch to Wamda](https://www.wamda.com/contact/pitch-to-wamda)\n[عربي](https://www.wamda.com/ar)\nWamda is licensed under a creative commons attribution-nonCommercial - noDerivs 3.0 unported license\n* [ Facebook ](https://www.facebook.com/WamdaME)\n* [ Youtube ](https://www.youtube.com/user/wamda)\n* [ Twitter ](https://twitter.com/wamdame)\n* [ Instagram ](https://www.instagram.com/wamdame)\n* [ Linkedin ](https://www.linkedin.com/company/wamda)\n![](https://www.wamda.com/img/close.svg)\n## All the information you need to navigate Mena's startup ecosystem\nSign up to receive our weekly digest of stories, op-eds, events and more updates.\nFirst Name\nLast Name\nCompany name\nCountry Country Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Cote D'Ivoire Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guinea Guinea-Bissau Guyana Haiti Heard Island and Mcdonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Helena Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia and Montenegro Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Virgin Islands, British Virgin Islands, U.s. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe\nYour email address\nNewsletter language  English  عربي\n![](https://www.wamda.com/img/checkmark-filled.svg)\nThank you! Please check your email to confirm your subscription.\nSubscribe ![](https://www.wamd",
+    "website_metadata": {
+        "url": "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [
+            "wamda-logo@2x.png"
+        ],
+        "phones": [
+            {
+                "number": "+21683483987",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/216capital"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [
+        "venture capital",
+        "seed",
+        "technology",
+        "African",
+        "Tunisian"
+    ],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "certifications": [],
+    "patents": [],
+    "tagline": "Our mission is to help them conquer the world.",
+    "industry": "Venture Capital",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "external_profiles": {
+        "website": "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
+        "linkedin": "https://tn.linkedin.com/company/216capital",
+        "dealroom": "https://app.dealroom.co/news/feed/addvocate-ai-secures-investment-from-216-capital"
+    },
+    "tavily": {
+        "query": "216 Capital",
+        "answer": "216 Capital is a venture capital firm based in Tunis, Tunisia, investing in early-stage technology startups, particularly in Africa. Founded in 2021, it focuses on sectors like AI, fintech, and healthcare. The firm supports diaspora entrepreneurs and provides strategic advice.\n216 Capital Ventures is a venture capital firm investing in tech startups in Tunisia and beyond. It recently launched an accelerator with Plug and Play to support Tunisian startups. The firm focuses on early-stage investments in technology and innovation.\n216 Capital Ventures is a venture capital firm investing in tech startups from Tunisia and beyond. It focuses on pre-seed and seed stage funding. The firm has 2-10 employees.\n216 Capital is a venture capital firm founded in 2021 in Tunis, Tunisia, focusing on early-stage technology startups in Africa. It invests in sectors like fintech, SaaS, and AI. The firm has invested over $4.3 million in 15 startups.\n216 Capital is a venture capital firm investing in early-stage technology companies, with a focus on Africa and the Middle East. It has invested in Addvocate.AI and other tech startups. The firm is based in Tunis, Tunisia.",
+        "results_count": 15,
+        "urls": [
+            "https://tn.linkedin.com/company/216capital",
+            "https://superscout.co/investor/216-capital-ventures",
+            "https://opportunitiesforyouth.org/2025/09/23/applications-open-for-the-216-capital-venture-accelerator-in-partnership-with-plug-and-play",
+            "https://www.tryfundable.ai/investor/216-capital",
+            "https://startupintros.com/orgs/216-capital",
+            "https://www.linkedin.com/posts/216capital_hrtech-216capital-investmentnews-activity-7341430799092649984-Qm4b",
+            "https://www.linkedin.com/posts/216capital_salestech-ai-216capital-activity-7368642010389372929-X4af",
+            "https://www.linkedin.com/posts/wamda_216-capital-plug-and-play-launch-new-accelerator-activity-7371868036217200640-R_NO",
+            "https://www.linkedin.com/posts/danbowyer_what-will-venture-capital-look-like-in-10-activity-7371472894318526464-J81g",
+            "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
+            "https://privateequitylist.com/investors/216-capital",
+            "https://www.linkedin.com/company/216capital",
+            "https://app.dealroom.co/news/feed/addvocate-ai-secures-investment-from-216-capital",
+            "https://www.linkedin.com/posts/dealroom-co_uzbekistan-ecosystem-launch-activity-7382263622233788416-2Oss",
+            "https://216capital.vc",
+            "https://linkedin.com/company/216capital",
+            "https://216capital.vc/for-startups",
+            "https://216capital.vc/our-dna",
+            "https://216capital.vc/our-companies",
+            "https://216capital.vc/our-stories/about-216-capital",
+            "https://linkedin.com/in/hassen-arfaoui-976a0799",
+            "https://216capital.vc/",
+            "https://linkedin.com/in/nada-bendhaw-354aa41b6",
+            "https://www.linkedin.com/company/216-ventures",
+            "https://www.cbinsights.com/investor/216-capital-ventures",
+            "https://www.startuplist.africa/investors/216-capital",
+            "https://app.dealroom.co/investors/216_capital_ventures",
+            "https://tracxn.com/d/venture-capital/216-capital/__d9RrPWSQGF_j3OykIs3KT3yLLZB5S2lTo1KDexoS-xI"
+        ]
+    },
+    "geographic_focus": [
+        "Tunisia",
+        "Africa",
+        "Middle East",
+        "Europe"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\216_capital.json",
+    "normalized_name": "216 capital",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "wamda.com",
+            "website_type": "official",
+            "social_profiles": 5,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 5,
+                "valid": 5,
+                "official": 5,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "twitter",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/216capital",
+                    "normalized": "https://linkedin.com/company/216capital",
+                    "username": "216capital",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/WamdaME",
+                    "normalized": "https://facebook.com/WamdaME",
+                    "username": "WamdaME",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/216Capital",
+                    "normalized": "https://twitter.com/216Capital",
+                    "username": "216Capital",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/wamdame",
+                    "normalized": "https://instagram.com/wamdame",
+                    "username": "wamdame",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/user/wamda",
+                    "normalized": "https://youtube.com/user/wamda",
+                    "username": "user",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "2x.png"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "wamda-logo@2x.png",
+                    "normalized": "wamda-logo@2x.png",
+                    "domain": "2x.png",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "wamda-logo@2x.png",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

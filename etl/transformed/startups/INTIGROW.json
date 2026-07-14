@@ -1,0 +1,286 @@
+{
+    "entity_type": "startup",
+    "name": "INTIGROW",
+    "description": "17\nAPII / CIDT – SEPTEMBER 2022\nINTIGROW (2019)\nSecteur d’activité / Sector : Mobility\nintigo.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nBASSEM BOUGUERRA\n-\n13, Rue Emna Bent Waheb El Menzah 2091 6 Ariana\nActivité Intigrow est une plateforme numérique offrant \ndes services de mobilité, de logistique et de m-paiement.\nAspect Technologique - \nOriginalité -\nActivity Intigrow is a digital platform offering mobility, \nlogistics and m-payment services.\nTechnological Aspect -\nOriginality -\nFR\nEN",
+    "tagline": "Société de Livraison E‑commerce en Tunisie",
+    "industry": "Mobility",
+    "keywords": [
+        "e‑commerce delivery",
+        "logistics",
+        "last‑mile",
+        "real‑time tracking",
+        "white label"
+    ],
+    "country": "Tunisia",
+    "city": "Ariana",
+    "headquarters": "17 Rue de l'Usine, Charguia 2 — Ariana, Tunisie",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://intigo.tn",
+    "linkedin_url": null,
+    "social_media": {
+        "facebook": "https://facebook.com/intigo.delivery"
+    },
+    "contact": {
+        "emails": [
+            "hello@intigo.net"
+        ],
+        "phones": [
+            {
+                "number": "+21670223000",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "17 Rue de l'Usine, Charguia 2 — Ariana, Tunisie",
+        "primary_social": "https://facebook.com/intigo.delivery"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Bizgo",
+            "description": "Official mobile app for e‑commerce sellers to manage logistics, billing and real‑time tracking.",
+            "category": "Mobile Application"
+        }
+    ],
+    "services": [
+        "E-commerce",
+        "Livraison Express",
+        "Fulfilment",
+        "White Label"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [
+        "Tunisia"
+    ],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://intigo.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 62,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:46:57.934759",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 4,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "intigo.net"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[ ![INTIGO](https://www.intigo.net/static/img/logo-white.png) ![INTIGO](https://www.intigo.net/static/img/logo-or.png) ](https://www.intigo.net/)\n* [Créer un compte→](https://my.intigo.net/signup/)\n* [Mon colis virtuel](https://www.intigo.net/colis-virtuel/)\n* [Ecommerce](https://www.intigo.net/#ecommerce)\n* [Services](https://www.intigo.net/#services)\n* [Tarifs](https://www.intigo.net/#pricing)\n* [App](https://www.intigo.net/#apps)\n* [Espace Partenaire](https://my.intigo.net)\n* [Blog](https://www.intigo.net/blog/)\n* [Admin](https://www.intigo.net/admin/login/?next=/)\n[Mon colis virtuel](https://www.intigo.net/colis-virtuel/)\nSociété de Livraison E-commerce en Tunisie\n# L'art de la _livraison_ ,\nperfectionné.\nمع بعضنا نوصلو لبعيد\nTunis → Sousse\nINTIGO est la société de livraison e-commerce N°1 en Tunisie. Livraison J+1 dans les 24 gouvernorats, tarifs publics transparents, technologie de bout en bout.\n[Créer un compte](https://my.intigo.net/signup/)\nSuivre un colis\nSuivre\nChargement...\nColis introuvable.\nTarifs Publics\n##\nLa\nseule\nSociété\nde\nLivraison\nqui\n_\naffiche\nses\nprix.\n_\nUn seul pallier. Public. Identique pour tout le monde.\nمعادش \"إجا إنبوكس نقولك السوم\"\nLivraison — par taille et volume mensuel\nPlus vous livrez, moins vous payez. Les palliers se calculent automatiquement sur vos 30 derniers jours.\n| Colis / 30j  | S  | L  | XL  |\n| --- | --- | --- | --- |\n|  0 – 100   | 8.00 DT  | 10.00 DT  | 15.00 DT  |\n|  101 – 500   | 7.50 DT  | 10.00 DT  | 15.00 DT  |\n|  501 – 1500   | 7.00 DT  | 10.00 DT  | 15.00 DT  |\n|  1501 – 5000   | 6.50 DT  | 10.00 DT  | 15.00 DT  |\n|  5001 – 10000   | 6.00 DT  | 10.00 DT  | 15.00 DT  |\n|  10001+   | 5.60 DT  | 10.00 DT  | 15.00 DT  |\nRetour — selon votre taux\nUn taux de retour faible réduit vos frais sur les colis retournés.\n| Taux retour  | S  | L  | XL  |\n| --- | --- | --- | --- |\n|  0.00% – 10.00%   | 0.00 DT  | 4.00 DT  | 4.00 DT  |\n|  10.00% – 15.00%   | 1.00 DT  | 4.00 DT  | 4.00 DT  |\n|  15.00% – 20.00%   | 2.00 DT  | 4.00 DT  | 4.00 DT  |\n|  20.00% – 25.00%   | 3.00 DT  | 4.00 DT  | 4.00 DT  |\n|  25.00%+   | 4.00 DT  | 4.00 DT  | 4.00 DT  |\n[Profiter de ces tarifs](https://my.intigo.net/signup/) Inscription gratuite · Sans engagement\nL'application Bizgo\n## Votre logistique _dans la poche._\nTrois écrans, un partenaire. L'app officielle pour les vendeurs e-commerce sur Android.\nFacturation & paiement\n###  Soyez payé,\nau bon moment.\nCOD collecté, frais détaillés, TVA, timbre fiscal — votre net à percevoir, sans calcul.\nNET À PERCEVOIR\n284,75 DT\n* Total COD\n* Frais livraison\n* TVA (7%)\n* Timbre fiscal\nDEMANDER LE PAIEMENT\n10:04 · 0 KB/s\nFacturation\nNET À RECEVOIR\n284,75DT\n5 livrés · 0 retournés\n312\nCOD\n284,7\nNET\n-27\nFRAIS\nTotal COD collecté+312,00 DT\nFrais de livraison-22,00 DT\nTVA (7%)-1,54 DT\nTimbre fiscal-1,00 DT\nTotal déductions-24,54 DT\nNET À PERCEVOIR284,75 DT\nTableau de bord\n###  Tout votre business\nen direct.\nCOD à recevoir, pickup en attente, retours prêts, livraisons du jour — tout en un coup d'œil.\n10:03 · 0 KB/s\nboutique sahar\nNET À RECEVOIR\n284,750DT\n5 livrés · 0 retournés\n468,000\nCOD\n312,000\nDISPO\n-27,250\nFRAIS\nPICKUP\n14 colis\nen attente de confirmation\nRETOURS\n3 colis\nprêts à récupérer\nLIVRAISONS\n4 auj.\nSuivi de colis\n###  Chaque colis,\nchaque jour,\nen temps réel.\nFiltres par jour, par état, par destinataire — trouvez n'importe quel colis en quelques secondes.\n284\nTOTAL\n14\nRAMASSAGE\n22\nEN COURS\n186\nLIVRÉS\n62\nRETOURS\n10:04 · 0 KB/s\nColis\nTout ▾\nAujourd'hui 7 jours Ce mois\nLun\n6 Mai\n8 colis\n7 LIVRÉ 1 RETOUR\nMar\n7 Mai\n22 colis\n2 PICKUP 16 LIVRÉ\nTéléchargez maintenant\n### Bizgo, l'app partenaire.\nGratuite — Android 7+ — iOS bientôt\n[ Disponible sur Google Play ](https://play.google.com/store/apps/details?id=com.bizgo.app&pcampaignid=web_share) Bientôt sur App Store\nE-commerce\n##\nVotre\ne-commerce,\nune\nseule\n_\nplateforme.\n_\nBoutique en ligne, messagerie unifiée, vérification automatique, reroutage des retours — pilotez toute votre vente en ligne depuis INTIGO.\n01\n### Boutique en ligne incluse\nVotre vitrine en quelques clics — produits, catégories, commandes. Sans Shopify ni site web.\n02\n### Une vitrine à votre nom\nUn sous-domaine personnalisé, SSL inclus, prêt à partager avec vos clients.\nvotre-boutique**.dannous.store**\n03\n### Messagerie unifiée\nMessenger, Instagram et Gmail dans une seule boîte. Répondez à tous vos commentaires d'un seul endroit.\n04\n### Vérification automatique\nLes Robo Calls confirment vos commandes : le client appuie sur 1 pour confirmer, 2 pour retourner.\n05\n### Retours re-routés\nLe client ne répond pas ? Revendez le colis en 1 clic — zéro retour à gérer.\n06\n### Tout dans la poche\nSuivez livraisons et commandes depuis l'app Bizgo. iOS & Android bientôt.\n[Créer ma boutique gratuite →](https://my.intigo.net/signup/) Inscription gratuite · sans engagement\nNos Services\n##\nUne\nlogistique\n_\nd'exception.\n_\nUne solution clés en main pour le e-commerce tunisien. Technologie de pointe et service impeccable.\n01\n### Technologie Avancée\nLa meilleure plateforme technologique du marché. Suivi en temps réel, notifications intelligentes, et analytics avancés.\n02\n### Solution Clés en Main\nIntégration complète pour votre e-commerce. De la collecte à la livraison, nous gérons tout pour vous.\n03\n### Livraison Express\nLivraison le jour même dans le Grand Tunis, J+1 sur tout le territoire. Couverture nationale complète.\n04\n### White Label\nBientôt disponible : notre solution white label pour les entreprises de livraison. Votre marque, notre technologie.\n[Essayer gratuitement](https://my.intigo.net/signup/) Activation en 5 minutes\n10M+\nColis Livres\n500+\nPartenaires Actifs\n98%\nTaux de Satisfaction\n24\nGouvernorats\n[Rejoindre nos partenaires](https://my.intigo.net/signup/)\nNotre Réseau\n##\nPrésents\npartout\nen\n_\nTunisie.\n_\n11 entrepôts stratégiquement positionnés pour une couverture nationale optimale.\nBizerte\nBizerte et environs\nGafsa\nGafsa, Tozeur, Kébili, Kasserine\nJendouba\nBéja, Siliana, Jendouba, Le Kef\nKairouan\nKairouan et environs\nMahdia\nMahdia et environs\nMonastir\nMonastir et environs\nMédenine\nMédenine, Tataouine, Gabès\nNabeul\nCap Bon\nSfax\nSfax et environs\nSousse\nSousse et environs\nTunis\nTunis, Ariana, Manouba\nJ+1\n24 gouvernorats · couverture nationale\n[Livrer dans toute la Tunisie](https://my.intigo.net/signup/) J+1 dans les 24 gouvernorats\nCarrières\n## Rejoignez notre équipe\nNous recherchons des talents passionnés pour accompagner notre croissance.\n[ 01 Agent Logistique senior Salarié\nCentrale Sfax  ](https://www.intigo.net/careers/15/apply/) [ 02 Agent Logistique Senior Salarié\nCentrale Sousse  ](https://www.intigo.net/careers/14/apply/) [ 03 Conseiller Juridique Salarié\nCentrale Tunis  ](https://www.intigo.net/careers/13/apply/) [ 04 call center Salarié\nCentrale Tunis  ](https://www.intigo.net/careers/12/apply/) [ 05 Chef Comptable Salarié\nCentrale Tunis  ](https://www.intigo.net/careers/11/apply/)\n[Toutes les offres](https://www.intigo.net/careers/)\n## Rejoignez l'excellence\nPlus de 500 e-commercants tunisiens nous font confiance. Rejoignez-les et beneficiez de la meilleure technologie du marche.\n[Créer un Compte](https://my.intigo.net/signup/) [Espace Partenaire](https://my.intigo.net)\n![INTIGO](https://www.intigo.net/static/img/logo-white.png)\nSociété de livraison e-commerce N°1 en Tunisie.\nJ+1 dans les 24 gouvernorats, tarifs publics.\n[ Facebook ](https://www.facebook.com/intigo.delivery/)\n#### Services\n* [E-commerce](https://www.intigo.net/#ecommerce)\n* [Tous les services](https://www.intigo.net/services/)\n* [Livraison Express](https://www.intigo.net/services/livraison-express/)\n* [Fulfilment](https://www.intigo.net/services/fulfilment/)\n* [White Label](https://www.intigo.net/services/white-label/)\n#### Couverture\n* [Tunis](https://www.intigo.net/societe-livraison/tunis/)\n* [Sfax](https://www.intigo.net/societe-livraison/sfax/)\n* [Sousse](https://www.intigo.net/societe-livraison/sousse/)\n* [Nabeul](https://www.intigo.net/societe-livraison/nabeul/)\n* [Monastir](https://www.intigo.net/societe-livraison/monastir/)\n#### Plateforme\n* [Espace Partenaire](https://my.intigo.net)\n* [Mon colis virtuel](https://www.intigo.net/colis-virtuel/)\n* [Application Bizgo](https://www.intigo.net/#apps)\n* [Shopify](https://www.intigo.net/integrations/shopify/)\n* [WooCommerce](https://www.intigo.net/integrations/woocommerce/)\n* [PrestaShop](https://www.intigo.net/integrations/prestashop/)\n* [Blog](https://www.intigo.net/blog/)\n* [FAQ](https://www.intigo.net/faq/)\n#### Nous contacter\n[ Service client +216 70 223 000 ](tel:+21670223000)\n* Email hello@intigo.net\n* Siège social 17 Rue de l'Usine,\nCharguia 2 — Ariana, Tunisie\n* Horaires Lun – Ven · 08h – 18h\nSam · 08h – 13h\n© 2026 INTIGROW. Tous droits réservés.\n* [Confidentialité](https://www.intigo.net/privacy-policy/)\n* [Conditions d'utilisation](https://www.intigo.net/terms/)\n* [Contact](https://www.intigo.net/contact/)",
+    "website_metadata": {
+        "url": "https://intigo.tn",
+        "content_length": 8872
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "INTIGROW",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\intigrow.json",
+    "normalized_name": "intigrow",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "intigo.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "facebook"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/intigo.delivery",
+                    "normalized": "https://facebook.com/intigo.delivery",
+                    "username": "intigo.delivery",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "intigo.net"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "hello@intigo.net",
+                    "normalized": "hello@intigo.net",
+                    "domain": "intigo.net",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 5,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "hello@intigo.net",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 1,
+            "removed": 1,
+            "duplicates": 1,
+            "invalid": [
+                "+21610000"
+            ]
+        }
+    }
+}

@@ -1,4 +1,4 @@
-from enrichment.tavily_client import tavily_search
+from enrichment.search_router import (search_web)
 import re
 from difflib import SequenceMatcher
 
@@ -59,7 +59,19 @@ TRUSTED_DOMAINS = [
     "disruptafrica",
     "startupblink",
     "magnitt",
-    "linkedin"
+    "linkedin",
+
+    # Afrique
+    "weetracker",
+    "africabusinesscommunities",
+    "african.business",
+    "innovation-village",
+    "techpoint.africa",
+    "techcabal",
+
+    # Généralistes
+    "reuters",
+    "bloomberg",
 ]
 
 FUNDING_PATTERNS = [
@@ -95,7 +107,7 @@ def search_startup_investors(
 
         try:
 
-            result = tavily_search(query)
+            result = search_web(query)
 
             if not result:
                 continue
@@ -120,6 +132,7 @@ def search_startup_investors(
             print(
                 f"[INVESTOR SEARCH] {e}"
             )
+            continue
 
     all_results = deduplicate_results(
         all_results

@@ -1,0 +1,280 @@
+{
+    "entity_type": "startup",
+    "name": "OPTIMALOGISTIC SA",
+    "description": "25\nAPII / CIDT – SEPTEMBER 2022\nOPTIMALOGISTIC SA (2019)\nSecteur d’activité / Sector : Mobility\noptimalogistic.com\nFondateur / Founder\nE-mail\nAdresse / Address\nMAHER CHAKROUN\ninfo@optimalogistic.com\nTechnopole de Sfax, pépinière entreprise 3, EP8. Sfax \n3021\nActivité La façon traditionnelle de réserver un camion \net de gérer ses livraisons est inefficace en terme de \ntemps et de coût. OptimaLogistic offre aux entreprises \nles meilleures options de transport, via une bourse de fret \nqui les mets en relation avec les meilleur prestataires de \ntransport, selon leurs besoins spécifiques.\nAspect \nTechnologique \nIndustry \n4.0 \nenabled-solution \nincluding a BID Marketplace, native mobile app for drivers \nand Embedded hardware & sensors.\nOriginalité On permet au client de gérer la logistique de \nses biens d'une façon sécurisée avec le meilleur rapport \nqualité prix.\nActivity The traditional way to book a truck and \nmanage its deliveries is inefficient in terms of time and \ncost. OptimaLogistic provides companies with the best \ntransportation options through a freight exchange that \nconnects them with the best transportation providers for \ntheir specific needs.\nTechnological \nAspect \nUne \nsolution \ncompatible \navec \nl'industrie 4.0 comprenant une place de marché BID, une \napplication mobile native pour les conducteurs, ainsi que \ndu matériel et des capteurs embarqués. \nOriginality We allow the customer to manage the logistics \nof his goods in a secure way with the best quality-price \nratio.\nFR\nEN",
+    "tagline": "L'OS Unifié Ultime pour une Logistique Fiable et un Fret Intelligent dans la zone MENA",
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://optimalogistic.com",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "info@optimalogistic.com"
+        ],
+        "phones": [
+            {
+                "number": "+21628716111",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21628132236",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [
+        "Transport terrestre",
+        "Fourgonette",
+        "Pickup",
+        "Camion Cabine 2,5 T",
+        "Camion plateau 2.5T",
+        "Camion plateau 3T",
+        "Camion Cabine 3T",
+        "Camion Plateau 5T",
+        "Camion Cabine 5T",
+        "Camion Plateau 10T",
+        "Camion Cabine 10T",
+        "Camion semi",
+        "Semi plateau",
+        "Semi remorque",
+        "Camion Semi Citerne",
+        "Camion Semi benne",
+        "Matériel de manutention",
+        "Transport frigorifique",
+        "Transport de palette",
+        "Gestion de flotte TMS",
+        "Entreposage et éclatement",
+        "Location des camions et des engins",
+        "Solution industrie 4.0",
+        "Transit et assistance Import export",
+        "Location de camion cabine en Tunisie",
+        "Location de camion plateau en Tunisie"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://optimalogistic.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:22:14.974143",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 26,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "optimalogistic.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "According to the EU cookie law, you must accept the use all the features of our websites\n[I Accept](javascript:void\\(0\\)) [More Information](https://www.optimalogistic.com/dz/content/2-mentions-legales)\n* [ Direction: +216 28 716 111 ](tel:+21628716111)\n* Sales: 28 132 236\n* [ Devis en ligne ](https://www.optimalogistic.com/fr/content/82-contact-us)\n* Horaire de travail (Tunis, Algier, Tripoli): 8:00 AM à 17:00\n[ ![](https://www.optimalogistic.com/img/cms/logo.png) ](https://www.optimalogistic.com/fr/)\nMenu\n* Menu\nRetour\n* [ Transport terrestre  ](https://www.optimalogistic.com/fr/)\n* [ ![](https://www.optimalogistic.com/img/ets_megamenu/comionette-ico.png) Fourgonette ](https://www.optimalogistic.com/fr/)\n*         * Pickup\n![Pickup](https://www.optimalogistic.com/img/ets_megamenu/17f0e616ae-pickup.png)\n*         * Fourgonnette\n![Fourgonnette](https://www.optimalogistic.com/img/ets_megamenu/camionnette.png)\n*         * Camion Cabine 2,5 T\n![Camion Cabine 2,5 T](https://www.optimalogistic.com/img/ets_megamenu/956da3dc18-camion-cabine-3t.png)\n*         * Camion plateau 2.5T\n![Camion plateau 2.5T](https://www.optimalogistic.com/img/ets_megamenu/camion-3t.png)\n* [ ![](https://www.optimalogistic.com/img/ets_megamenu/poids-lourd-ico.png) Poids lourd ](https://www.optimalogistic.com/fr/)\n*         * Camion plateau 3T\n![Camion plateau 3T](https://www.optimalogistic.com/img/ets_megamenu/camion-5t.png)\n* Camion Cabine 3T\n![Camion Cabine 3T](https://www.optimalogistic.com/img/ets_megamenu/28_camion-cabine-5t.png)\n* séparateur\n*         * Camion Plateau 5T\n![Camion Plateau 5T](https://www.optimalogistic.com/img/ets_megamenu/2727a464cc-camion-5t.png)\n* Camion Cabine 5T\n![Camion Cabine 5T](https://www.optimalogistic.com/img/ets_megamenu/d0c7942540-camion-cabine-5t.png)\n*         * Camion Plateau 10T\n![Camion Plateau 10T](https://www.optimalogistic.com/img/ets_megamenu/camion-10t.png)\n* Camion Cabine 10T\n![Camion Cabine 10T](https://www.optimalogistic.com/img/ets_megamenu/camion-cabine-10t.png)\n* [ ![](https://www.optimalogistic.com/img/ets_megamenu/camion-semi-optima-ico.png) Camion semi ](https://www.optimalogistic.com/fr/)\n*         * Semi plateau\n![Semi plateau](https://www.optimalogistic.com/img/ets_megamenu/semi-plateau.png)\n*         * Semi remorque\n![Semi remorque](https://www.optimalogistic.com/img/ets_megamenu/semi-remorque.png)\n*         * Camion Semi Citerne\n![Camion Semi Citerne](https://www.optimalogistic.com/img/ets_megamenu/semi-citerne.png)\n*         * Camion Semi benne\n![Camion Semi benne](https://www.optimalogistic.com/img/ets_megamenu/34_semi-citerne.png)\n* [ ![](https://www.optimalogistic.com/img/ets_megamenu/chariot-elevateur-ico.png) Matériel de manutention ](https://www.optimalogistic.com/fr/)\n* [ Notre startup  ](https://www.optimalogistic.com/fr/content/4-a-propos)\n* [ Solutions  ](https://www.optimalogistic.com/fr/2-accueil)\n*       * Image & HTML\n![Image & HTML](https://www.optimalogistic.com/img/ets_megamenu/5931b62cd1-frigo-icon.png)\n* Transport frigorifique\n_Transport frigorifique des produits alimentaires ou pharmaceutique comme les vaccins à partir de -20°C_\n* Transport de palette\n_Transport de palette sur demande ou en groupage avec un prix abordable._\n*       * Image & HTML\n![Image & HTML](https://www.optimalogistic.com/img/ets_megamenu/tms-20.jpg)\n* Gestion de flotte TMS\n_Solution digital pour la gestion de flotte, gestion interne de véhicules, des chauffeurs, des dépenses et des revenues en mode Cloud avec toutes les fonctionnalités web et mobile._\n* [Notre Blog](https://www.optimalogistic.com/fr/blog)\n* [Entreposage et éclatement](https://www.optimalogistic.com/fr/content/36-entreposage-et-eclatement)\n* [Expansion d'Optimalogistic vers le Marché Algérien](https://www.optimalogistic.com/fr/content/74-expansion-d-optimalogistic-vers-le-marche-algerien-)\n*       * Etude de cas\n* [Entreposage et éclatement](https://www.optimalogistic.com/fr/content/36-entreposage-et-eclatement)\n* [Location des camions et des engins](https://www.optimalogistic.com/fr/content/30-location-des-camions-et-des-engins-)\n* [Solution industrie 4.0](https://www.optimalogistic.com/fr/content/27-solution-industrie-40)\n* [Transit et assistance Import export](https://www.optimalogistic.com/fr/content/19-transit-et-assistance-import-export)\n* [Transport de palette et groupage de marchandises](https://www.optimalogistic.com/fr/content/37-transport-de-palette-et-groupage-de-marchandises)\n* [Transport frigorifique](https://www.optimalogistic.com/fr/content/18-transport-frigorifique-et-surgele)\n* Flotte de camions\n* [Location de camion cabine en Tunisie](https://www.optimalogistic.com/fr/content/35-location-de-camion-cabine-en-tunisie)\n* [Location de camion plateau en Tunisie](https://www.optimalogistic.com/fr/content/34-location-de-camion-plateau-de-capacite-1t-3t-5t-10t-25t-en-tunisie)\n* [ Ressources  ](https://www.optimalogistic.com/fr/)\n*       * Mentions et conditions\n* [CGU](https://www.optimalogistic.com/fr/content/33-cgu)\n* [Conditions pour les expéditeurs](https://www.optimalogistic.com/fr/content/28-conditions-pour-les-expediteurs)\n* [Mentions légales](https://www.optimalogistic.com/fr/content/2-mentions-legales)\n*       * [Inscrivez vous ici](https://www.instafret.com/auth/register)\nInscription sur notre Marketplace\n* [Formulaire de satisfaction client](https://docs.google.com/forms/d/1t9HiThbm1uAuVZXsKYJfCXtZuEeW51dBWt6cYgUSz-8/viewform)\nPrenez 2 minutes pour répondre à ce questionnaire et nous aider à améliorer notre service. Votre avis nous intéresse !\n*       * Lien utiles\n* [Investisseur](https://www.optimalogistic.com/fr/content/24-investisseur)\n* [Recrutement](https://www.optimalogistic.com/fr/nous-contacter)\nEnvoyer votre candidature\n* [ Nos produits Hot ](https://www.optimalogistic.com/fr/)\n*       * [Marketplace Logistique](https://www.instafret.com)\nAbonnez-vous à notre Marketplace logistique, centraliser et optimiser votre activité:\n* Location de camion\n* Service de manutention\n* Service d'entreposage\n* Transport international\n* Transport Maritime\n* Gestion de flotte\n* INSTAFRET\n[ ![INSTAFRET](https://www.optimalogistic.com/img/ets_megamenu/instafret-demo.jpg) ](https://www.instafret.com/)\n*       * [ERP Gestion de flotte](https://www.optimalogistic.com/fr/)\nGrâce à notre ERP Optifret, gérer en temps réel votre activité:\n* Facture électronique\n* Gestion Facturation\n* Gestion GRH\n* Gestion de produits/services/stock\n* Gestion commercial\n* Gestion de flotte\n* optifret Gestion complète\n[ ![optifret Gestion complète](https://www.optimalogistic.com/img/ets_megamenu/optifret.png) ](https://www.optimalogistic.com/fr/)\n*       * [B2B E-COMMERCE](https://digimoll.com/?lang=fr)\nGrâce à notre B2B E-Commerce Marketplace, gérer en temps réel votrs commerce avec la solution logistique incluse\n* Boutique en lgne\n* Gestion des commandes\n* Paiement en ligne\n* QR code Menu\n* Gestion commercial\n* Gestion de livraison\n* DIGIMOLL B2B E-COMMERCE\n[ ![DIGIMOLL B2B E-COMMERCE](https://www.optimalogistic.com/img/ets_megamenu/digimoll-screen.jpg) ](https://digimoll.com/?lang=fr)\n* [ ![fr](https://www.optimalogistic.com/img/l/1.jpg) fr ](javascript:;)\n* [ ![fr](https://www.optimalogistic.com/img/l/1.jpg) fr ](https://www.optimalogistic.com/fr/)\n* [ ![en](https://www.optimalogistic.com/img/l/2.jpg) en ](https://www.optimalogistic.com/en/)\n* [ ![dz](https://www.optimalogistic.com/img/l/3.jpg) dz ](https://www.optimalogistic.com/dz/)\n1. Accueil\n# L'OS Unifié Ultime pour une Logistique Fiable et un Fret Intelligent dans la zone MENA\n[ Démarrer ](https://www.instafret.com/home)\n[ Demo gratuit ](https://calendly.com/maher-chakroun)\n* Automatisation par IA\n* 30% d'économie\n* Ecologique\n🚨 LIVE MARKETPLACE:  Ilya5min:��Nouveaucamion10TCabineinscritsurleréseauIlya10min:��Nouvelledemande10T|AxeSfax➔TunisIlya15min:��Nouveaucamion3TPlateauajoutéàlaflotteIlya22min:✅Succès:Livraison5TPL(Sfax➔Tunis)confirméeIlya30min:��Nouveaucamion3TCabinedisponiblesurlaplateformeIlya38min:��Nouvelledemande5T|TrajetGabès➔Sfax➔TunisIlya45min:��Nouveaucamion25TPlateauprêtpourchargementIlya52min:✅Matchréussi!Camion10TCabine(Gabès➔Tunis)Ilya1h00:��Nouveaucamion5TCabineinscritparunpartenaireIlya1h10:��Nouveaucamion3TCabineinscritsurleréseauIlya1h25:��Nouvelledemande25T|ItinéraireBizerte➔TunisIlya1h40:✅Succès:Livraison25T(Tunis➔Sfax)terminéeIlya2h00:��Nouveaucamion25TCabineprêtpourmissionIlya2h15:✅Matchréussi!Camion3TCabine(Sousse➔Gabès)Ilya2h30:��Opportunité:Retouràvide10TdisponibleviaTunisDepuis4.5h:��Nouveauvéhicule3TPlateauajoutéàl'annuaireDepuis6h00:✅Expéditionvalidée:TransportmultimodalversportDepuis9h00:��Besoinurgent:20T|Sousse➔Alger(International)Depuis12h:��NouveautransporteurcertifiérejointlaplateformeDepuis17h:��Résumé:150camionsactifssurl'axeSfax-Tunis\n![](https://www.optimalogistic.com/img/cms/Header/winner-optimalogistic.png)\n![](https://www.optimalogistic.com/img/cms/Header/flat6labs-optimalogistic.png)\n![](https://www.optimalogistic.com/img/cms/Header/startup-mentoring-enpact-optimalogistic.png)\n![](https://www.optimalogistic.com/img/cms/Header/seedstars-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/takeoff-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/diafrik-invest-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/startup-marroc-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/WSHTunis-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/startup-germany-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/scip-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/jetro-Optimalogistic-local-winners.png)\n![](https://www.optimalogistic.com/img/cms/Header/StartVenture-Ebrd-Optimalogistic-local-winners.png)\n## Révolutionner les échanges dans la région MENA grâce à une Marketplace tout-en-un, une suite SaaS intégrée et une automatisation par IA pour des chaînes d'approvisionnement plus intelligentes.\n###  Simple et efficace\nUne seule facture/mois et un seul vis à vis pour simplifier la gestion de votre comptabilité et la collecte des bons de livraisons.\n[ Lire plus ](https://www.optimalogistic.com/fr/)\n###  Meilleur % Qualité prix\nTrouvez le plus proche camion adéquat parmi des transporteurs de confiance pour gagner du temps et servir vos clients à temps.\n[ Lire plus ](https://www.optimalogistic.com/fr/)\n###  Solution Eco-friendly\nFaite une geste à l'environnement en utilisant nos services. Nous réduisons les émissions CO2 et les embouteillage dans les routes.\n[ Lire plus ](https://www.optimalogistic.com/fr/)\n## **Nos chiffres KPI**\n0\nG/CO2 réduit par an\n0\nTons livrés / an\n0\nCamions vérifiés\n## Pourquoi louer un camion chez Optimalogistic ?\n### Gagnez en efficacité et éliminez la complexité de vos opérations de transport des marchandises et de manutention. **Optimalogistic** répond à tous vos besoins de **transformation digitale** : de notre suite logicielle SaaS (facturation automatisée, gestion de flotte par IA, suivi en temps réel et planification) à **la mise en relation avec des transporteurs certifiés** (location de camions, manutention, stockage et fret spécialisé). Centralisez vos opérations avec **un interlocuteur unique pour une gestion simplifiée** de votre facturation et un support technique réactif.\n## Location en ligne des camions et de matériel de manutention\nJusqu'à -30% d'économie en temps et en coût\nOptimalogistic est une solution simple, sécurisée et économique dédiée aux entreprises qui ont des besoins récurrents en transport et manutention.\n[ Voir tous nos services ](https://www.optimalogistic.com/fr/#service)\n[ Envoyer vos marchandises ](https://www.instafret.com/home)\n[ Découvrir notre flotte ](https://www.optimalogistic.com/fr/#flotte)\n## Plus de 2000 **livraisons optimisées**\nQu'attendez vous pour rejoidre notre famille\nPrevious\n![](https://www.optimalogistic.com/img/cms/Header/servicom-optima.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-pct-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/derbigum-africa-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/armis-group-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/may-tunisia-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-poulina-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-serinus-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-smartbat-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-cotub-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/servicom-optima.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-pct-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/derbigum-africa-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/armis-group-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/may-tunisia-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-poulina-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-serinus-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-smartbat-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-cotub-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/servicom-optima.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/optima-pct-g.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/derbigum-africa-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/armis-group-optimalogistic.jpg)\n![](https://www.optimalogistic.com/img/cms/Header/may-tunisia-optimalogistic.jpg)\nNext\n* 1\n* 2\n* 3\n* 4\n* 5\n* 6\n* 7\n* 8\n* 9\n[ Découvrez nos camions ](https://www.optimalogistic.com/fr/#flotte)\n[ Abonnez votre camion ](https://www.instafret.com/home)\n## Le plus grand réseau de transporteurs au nord de l'afrique\ndes transporteurs équipés et 100% certifiés\nNous misons sur la satisfaction de nos clients et sur notre savoir faire comme clé de succès.\nDans un esprit écologique, nous favorisons le remplissage des espaces vides dans les camions pour réduire les embouteillages sur les routes et l'émission du CO2.\n#### SEMI REMORQUE / SEMI PLATEAU / semi ridelle / poids lourd cabine / poids lour ridelle / tourisme fourgon / tourisme plateau / camion avec hayon / camion avec bache / camion avec ceintures\n## Comment utiliser notre solution\n### La solution Optimalogistic en action\nPrevious\n![](https://www.optimalogistic.com/img/cms/blocks/etape3-client.jpg)Suivez votre livraison\n![](https://www.optimalogistic.com/img/cms/blocks/etape1-client.jpg)Inscrivez vous et Connectez-vous\n![](https://www.optimalogistic.com/img/cms/blocks/etape2-client.jpg)Envoyez votre demande\n![](https://www.optimalogistic.com/img/cms/blocks/etape3-client.jpg)Suivez votre livraison\n![](https://www.optimalogistic.com/img/cms/blocks/etape1-client.jpg)Inscrivez vous et Connectez-vous\n![](htt",
+    "website_metadata": {
+        "url": "https://optimalogistic.com",
+        "content_length": 15000
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "OPTIMALOGISTIC SA",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\optimalogistic_sa.json",
+    "normalized_name": "optimalogistic sa",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "optimalogistic.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "optimalogistic.com"
+                ]
+            },
+            "official": [
+                "info@optimalogistic.com"
+            ],
+            "details": [
+                {
+                    "original": "info@optimalogistic.com",
+                    "normalized": "info@optimalogistic.com",
+                    "domain": "optimalogistic.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@optimalogistic.com",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 1,
+            "invalid": [
+                "+2167942540"
+            ]
+        }
+    }
+}

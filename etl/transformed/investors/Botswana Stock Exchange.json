@@ -1,0 +1,244 @@
+{
+    "name": "Botswana Stock Exchange",
+    "description": "Botswana’s national stock exchange",
+    "organization_type": "",
+    "country": "Botswana",
+    "city": "Gaborone",
+    "website": "https://tracxn.com/d/companies/botswanastockexchange/__mF9rIWrsEscU19Fm5SQqOQGTBg0RFXBqSeP4NU0PLB8",
+    "linkedin": "https://linkedin.com/company/botswana-stock-exchange",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://tracxn.com/d/companies/botswanastockexchange/__mF9rIWrsEscU19Fm5SQqOQGTBg0RFXBqSeP4NU0PLB8",
+        "linkedin": "https://linkedin.com/company/botswana-stock-exchange",
+        "dealroom": "https://dealroom.co/countries/botswana"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/botswana-stock-exchange"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T16:14:37.808579+00:00",
+        "website_enriched": true,
+        "tavily_results": 18,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Botswana Stock Exchange",
+        "answer": "",
+        "results_count": 18,
+        "urls": [
+            "https://www.bse.co.bw/services/",
+            "https://www.bse.co.bw/companies/",
+            "https://www.bse.co.bw/history/",
+            "https://linkedin.com/company/botswana-stock-exchange",
+            "https://en.wikipedia.org/wiki/Botswana_Stock_Exchange",
+            "https://bw.linkedin.com/company/botswana-stock-exchange",
+            "https://linkedin.com/in/aupa-monyatsi-b9742a17",
+            "https://www.linkedin.com/posts/botswana-stock-exchange_expression-of-interest-for-the-provision-activity-7470481151162241025-2jxn",
+            "https://www.linkedin.com/posts/botswana-stock-exchange_educational-video-overview-of-the-botswana-activity-7189195290162196480-xJ-B",
+            "https://linkedin.com/in/kgotla-segwe-msc-2283a7120",
+            "https://tracxn.com/d/companies/botswanastockexchange/__mF9rIWrsEscU19Fm5SQqOQGTBg0RFXBqSeP4NU0PLB8",
+            "https://www.wikidata.org/wiki/Q2380000",
+            "https://www.bse.co.bw/wp-content/uploads/2023/06/BSE-2022-ANNUAL-REPORT_COMPRESSED.pdf",
+            "https://www.bse.co.bw/",
+            "https://www.bse.co.bw/process-of-investing/",
+            "https://bse.co.bw/",
+            "https://dealroom.co/countries/botswana/",
+            "https://www.bse.co.bw/wp-content/uploads/2026/01/A-GUIDE-TO-LISTING-ON-THE-BOTSWANA-STOCK-EXCHANGE-BOTSWANA-DEPOSITORY-RECEIPTS.pdf",
+            "https://www.bse.co.bw/press-release/",
+            "https://linkedin.com/in/tsametse-c-mmolai-61450918",
+            "https://linkedin.com/in/kopano-mogorosi",
+            "https://bse.co.bw/boards/",
+            "https://bouncewatch.com/companies-in-botswana"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 3,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "![Tracxn](https://cdn.tracxn.com/images/static/tracxn_logo_new.png)\n# To continue accessing the data without interruption, please signup and continue\n[Signup for Free](https://tracxn.com/signup)",
+    "website_metadata": {
+        "url": "https://tracxn.com/d/companies/botswanastockexchange/__mF9rIWrsEscU19Fm5SQqOQGTBg0RFXBqSeP4NU0PLB8",
+        "content_length": 194
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/botswana-stock-exchange"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "https://linkedin.com/company/botswana-stock-exchange",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "+267 3674400"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 76,
+        "level": "Medium"
+    },
+    "geographic_focus": [
+        "Botswana",
+        "South Africa",
+        "Italy"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\botswana_stock_exchange.json",
+    "normalized_name": "botswana stock exchange",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "tracxn.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/botswana-stock-exchange",
+                    "normalized": "https://linkedin.com/company/botswana-stock-exchange",
+                    "username": "botswana-stock-exchange",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Botswana",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Botswana",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

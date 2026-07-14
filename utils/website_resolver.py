@@ -1,6 +1,9 @@
+# utils/website_resolver.py
+
 from urllib.parse import urlparse
 
 from utils.url_normalizer import normalize_website
+from utils.name_normalizer import normalize_name
 
 
 PREFERRED_TLDS = (
@@ -39,10 +42,12 @@ BLACKLIST_DOMAINS = {
     "instagram.com",
 
     "youtube.com",
+    "www.youtube.com",
 
     "github.com",
 
     "crunchbase.com",
+    "www.crunchbase.com",
 
     "wellfound.com",
 
@@ -55,10 +60,24 @@ BLACKLIST_DOMAINS = {
     "startupblink.com",
 
     "medium.com",
+    "www.medium.com",
 
-    "wikipedia.org"
+    "wikipedia.org",
+    "www.wikipedia.org",
 
+    "techcrunch.com",
+    "www.techcrunch.com",
+
+    "forbes.com",
+    "www.forbes.com",
+
+    "reuters.com",
+    "www.reuters.com",
+
+    "bloomberg.com",
+    "www.bloomberg.com",
 }
+
 
 def get_domain(url: str) -> str:
 
@@ -68,18 +87,68 @@ def get_domain(url: str) -> str:
     url = normalize_website(url)
 
     try:
-
         return urlparse(url).netloc.lower()
 
     except Exception:
-
         return ""
 
 
-def compute_score(url: str) -> int:
-    """
-    Attribue un score de confiance à une URL.
-    """
+# =====================================================
+# COMPANY SCORE
+# =====================================================
+
+def company_name_score(
+    company_name: str,
+    url: str
+) -> int:
+
+    if not company_name:
+        return 0
+
+    company = normalize_name(
+        company_name
+    )
+
+    domain = get_domain(
+        url
+    )
+
+    if not domain:
+        return 0
+
+    # enlève www.
+    domain = domain.replace(
+        "www.",
+        ""
+    )
+
+    # 2binnovations.com -> 2binnovations
+    domain = domain.split(".")[0]
+
+    domain = normalize_name(
+        domain
+    )
+
+    if company == domain:
+        return 100
+
+    if company in domain:
+        return 80
+
+    if domain in company:
+        return 60
+
+    return 0
+
+
+# =====================================================
+# URL SCORE
+# =====================================================
+
+def compute_score(
+    company_name: str,
+    url: str
+) -> int:
 
     if not isinstance(url, str):
         return -100
@@ -91,36 +160,23 @@ def compute_score(url: str) -> int:
 
     domain = get_domain(url)
 
-    score = 0
-
-    # -----------------------------
-    # Blacklist
-    # -----------------------------
-
     if domain in BLACKLIST_DOMAINS:
         return -100
 
-    # -----------------------------
-    # HTTPS
-    # -----------------------------
+    score = 0
 
+    # HTTPS
     if url.startswith("https://"):
         score += 5
 
     elif url.startswith("http://"):
         score += 2
 
-    # -----------------------------
     # WWW
-    # -----------------------------
-
     if domain.startswith("www."):
         score += 1
 
-    # -----------------------------
-    # TLD
-    # -----------------------------
-
+    # Domaine
     if domain.endswith(".com"):
         score += 5
 
@@ -150,20 +206,50 @@ def compute_score(url: str) -> int:
 
             break
 
-    # -----------------------------
-    # Longueur
-    # -----------------------------
-
+    # Domaine court
     if len(domain.split(".")) <= 3:
         score += 2
+
+    # Similarité avec le nom
+    score += company_name_score(
+        company_name,
+        url
+    )
+
+    # Pénalise les articles
+    path = urlparse(url).path.lower()
+
+    ARTICLE_KEYWORDS = [
+
+        "/news/",
+        "/article/",
+        "/articles/",
+        "/blog/",
+        "/posts/",
+        "/story/",
+        "/stories/",
+
+    ]
+
+    for keyword in ARTICLE_KEYWORDS:
+
+        if keyword in path:
+            score -= 20
+
+    if len(path.split("/")) > 3:
+        score -= 5
 
     return score
 
 
-def resolve_official_website(*urls: str) -> str:
-    """
-    Choisit le meilleur site parmi toutes les sources.
-    """
+# =====================================================
+# RESOLVE WEBSITE
+# =====================================================
+
+def resolve_official_website(
+    company_name: str,
+    urls: list
+) -> str:
 
     candidates = []
 
@@ -184,20 +270,23 @@ def resolve_official_website(*urls: str) -> str:
 
         seen.add(url)
 
-        domain = get_domain(url)
-
-        if domain in BLACKLIST_DOMAINS:
+        if get_domain(url) in BLACKLIST_DOMAINS:
             continue
 
         candidates.append(url)
 
     if not candidates:
-
         return ""
 
     candidates.sort(
-        key=compute_score,
+
+        key=lambda url: compute_score(
+            company_name,
+            url
+        ),
+
         reverse=True
+
     )
 
     return candidates[0]

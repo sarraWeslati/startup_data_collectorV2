@@ -1,0 +1,194 @@
+{
+    "name": "D-SAP",
+    "description": "Laboratoire digital de recherche et développement.",
+    "industry": "LegalTech",
+    "country": "Mali",
+    "city": "Reims",
+    "website": "https://d-sap.tech",
+    "linkedin": "",
+    "founders": [],
+    "entity_type": "startup",
+    "website_content": "[![Magnus Data](https://d-sap.tech/assets/magnus-data-logo-CFn0lDCo.jpg)](https://d-sap.tech/)\n[Home](https://d-sap.tech/)[About](https://d-sap.tech/about)[Product](https://d-sap.tech/product)[Solutions](https://d-sap.tech/solutions)[Innovation](https://d-sap.tech/innovation)[Contact](https://d-sap.tech/contact)FR[Book a Demo](https://d-sap.tech/contact)\n![](https://d-sap.tech/assets/hero-bg-BdTjnfy_.jpg)\nIndustrial Intelligence Platform\n# AI that turns industrial data into action.\nMAGNUS DATA leverages artificial intelligence to connect your machines, analyze production data in real time, and deliver actionable insights — so you can optimize processes, prevent downtime, and boost performance across your entire operation.\n[Book a Demo](https://d-sap.tech/contact)[Discover our Platform](https://d-sap.tech/product)\n![MAGNUS DATA Dashboard](https://d-sap.tech/assets/dashboard-mockup-CCUJkaB8.jpg)\n-50%\nMachine Downtime\n-20%\nEnergy Consumption\n+16%\nYield Improvement\n## A Modular Platform for Industrial Intelligence\nThree powerful modules that work together to transform your industrial operations.\n### Intelligent Dashboarding\nReal-time production KPI visualization, equipment supervision, smart alerts, and automated reporting for better decision-making.\n[Learn more ](https://d-sap.tech/product)\n### AI Parameter Optimizer\nIntelligent process parameter adjustment, continuous performance improvement, loss reduction, and advanced energy optimization.\n[Learn more ](https://d-sap.tech/product)\n### Industrial Conversational Agent\nInteract with industrial data using natural language. Assist operators, explain anomalies, recommend actions — human in the loop.\n[Learn more ](https://d-sap.tech/product)\n## Why MAGNUS DATA\nBuilt by industrial AI experts, backed by leading institutions.\n### Optimize Processes\nFine-tune every parameter of your production lines with AI-driven insights.\n### Reduce Downtime\nProactive maintenance and intelligent alerts to prevent unplanned stops.\n### Improve Energy Efficiency\nMonitor and reduce energy consumption across your entire operations.\n### Carbon Footprint Tracking\nEstablish and monitor your carbon footprint with precision data.\n### Human in the Loop\nKeep humans at the center of every decision with our conversational AI.\n### Proactive Maintenance\nShift from reactive to predictive maintenance strategies.\n## Backed by Leading Institutions\nSupported by top-tier partners and public institutions.\n![Bpifrance](https://d-sap.tech/assets/logo-bpifrance-BxU2sScY.svg)\n![Région Grand Est](https://d-sap.tech/assets/logo-region-grand-est-Bg60tkGT.svg)\n![Union Européenne](https://d-sap.tech/assets/logo-union-europeenne-BUfn-woW.svg)\n![Smart Capital](https://d-sap.tech/assets/logo-smart-capital-v6xwNo4v.png)\n![AFD](https://d-sap.tech/assets/logo-afd-C_lYvjNs.svg)\n## Ready to Transform Your Industrial Operations?\nJoin the next generation of smart manufacturing with MAGNUS DATA.\n[Book a Demo](https://d-sap.tech/contact)[Talk to Our Team](https://d-sap.tech/contact)\n![Magnus Data](https://d-sap.tech/assets/magnus-data-logo-CFn0lDCo.jpg)\nTransforming machine data into industrial performance. AI-powered industrial intelligence platform.\n#### Navigation\n[Home](https://d-sap.tech/)[About](https://d-sap.tech/about)[Product](https://d-sap.tech/product)[Solutions](https://d-sap.tech/solutions)[Innovation](https://d-sap.tech/innovation)[Contact](https://d-sap.tech/contact)\n#### Legal\n[Privacy Policy](https://d-sap.tech/privacy)[Terms of Service](https://d-sap.tech/terms)\n#### Contact\nMAGNUS DATA\n28 Rue Thiers\n51100 Reims, France\n+33 7 67 53 05 87\n© 2025 MAGNUS DATA. All rights reserved.",
+    "website_metadata": {
+        "url": "https://d-sap.tech/",
+        "content_length": 3643
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "28 Rue Thiers, 51100 Reims, France",
+        "primary_social": ""
+    },
+    "social_media": {},
+    "leadership": [],
+    "products": [
+        {
+            "name": "Industrial Intelligence Platform",
+            "description": "AI-powered industrial intelligence platform",
+            "category": "Platform"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [
+        "Industrial Intelligence",
+        "AI",
+        "Machine Data"
+    ],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "Industrial Intelligence Platform",
+    "headquarters": "28 Rue Thiers, 51100 Reims, France",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:14:42.865073",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "sources": [],
+    "external_profiles": {},
+    "tavily": {
+        "query": "D-SAP",
+        "answer": "SAP is a global enterprise software company founded in 1972, headquartered in Walldorf, Germany. Wellfound, a startup platform, is based in New York City and focuses on connecting individuals with startup jobs. Wellfound has raised $24 million in funding.",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 58,
+        "level": "Low"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\d_sap.json",
+    "normalized_name": "d sap",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "d-sap.tech",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Mali",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Mali",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+33767530587"
+            ]
+        }
+    }
+}

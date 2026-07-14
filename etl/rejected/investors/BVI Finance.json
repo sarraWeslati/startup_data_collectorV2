@@ -1,0 +1,305 @@
+{
+    "entity": {
+        "name": "BVI Finance",
+        "description": "Bvifinance is an unfunded company based in British Virgin Islands.",
+        "organization_type": "",
+        "country": "",
+        "city": "Road Town",
+        "website": "https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+        "linkedin": "https://linkedin.com/company/bvifinance",
+        "investment_focus": [],
+        "investment_stages": [],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "external_profiles": {
+            "website": "https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+            "linkedin": "https://linkedin.com/company/bvifinance"
+        },
+        "social_media": {
+            "linkedin": "https://linkedin.com/shareArticle",
+            "facebook": "https://facebook.com/sharer/sharer.php",
+            "twitter": "https://twitter.com/bvifinance"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T16:37:23.243947+00:00",
+            "website_enriched": true,
+            "tavily_results": 13,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "tavily": {
+            "query": "BVI Finance",
+            "answer": "",
+            "results_count": 13,
+            "urls": [
+                "https://bvifinance.vg/Contact-Us",
+                "https://bvifinance.vg/Who-We-Are/Our-Team",
+                "https://linkedin.com/company/bvifinance",
+                "https://bvi.gov.vg/media-centre/bvi-finance-becomes-bvi-finance-ltd",
+                "https://bvifinance.vg/The-BVI-Advantage/Our-Territory",
+                "https://vg.linkedin.com/company/bvifinance",
+                "https://linkedin.com/in/bvifinance",
+                "https://linkedin.com/in/elise-donovan-05aa2932",
+                "https://bvifinance.vg/",
+                "https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+                "https://bvifinance.vg/Industry-Sectors/Corporate-Business",
+                "https://www.gov.vg/bvi-finance-board",
+                "https://bvifinance.vg/Industry-Sectors/FinTech"
+            ]
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 0,
+            "investment_focus_count": 0,
+            "investment_stages_count": 0,
+            "geographic_focus_count": 1,
+            "partners_count": 0,
+            "team_members_count": 0,
+            "social_profiles": 3,
+            "founders_count": 0,
+            "leadership_count": 0,
+            "investors_count": 0,
+            "products_count": 4,
+            "services_count": 3,
+            "technologies_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 3,
+                "linkedin": true,
+                "facebook": true,
+                "instagram": false,
+                "twitter": true,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 1,
+                "domains": [
+                    "tracxn.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "website_content": "Your browser was unable to load all of Tracxn resources. They may have been blocked by your firewall, proxy or browser configuration. Press **Ctrl+F5** or **Ctrl+Shift+R** to have your browser try again and if that doesn't work, [**click here to retry**](https://tracxn.com/) or mail us at **hi@tracxn.com**\nInternal Server Error\n[![Tracxn.com](https://cdn.tracxn.com/images/static/tracxn-logo-full-100x22.svg)](https://tracxn.com/?redirect=false)\nToggle navigation\n* Customers\nInvestment Industry\n[Venture Capital Funds](https://w.tracxn.com/customers/solutions-for-venture-capital-funds)[Private Equity Funds](https://w.tracxn.com/customers/solutions-for-private-equity-funds)[Accelerators & Incubators](https://w.tracxn.com/customers/solutions-for-incubators)[Investment Banks](https://w.tracxn.com/customers/solutions-for-investment-banks)\nCorporates and Startups\n[Corp Dev and M&A Teams](https://w.tracxn.com/customers/solutions-for-corporate-dev-and-ma-team)[Corporate Innovation](https://w.tracxn.com/customers/solutions-for-corporate-innovation)[Startup Founders](https://w.tracxn.com/customers/solutions-for-startup-founders)[Sales Team](https://w.tracxn.com/customers/sales-teams)\nEcosystem\n[Journalists and Publications](https://w.tracxn.com/customers/solutions-for-journalists-publications)[Universities](https://w.tracxn.com/customers/solutions-for-universities)[Government Agencies](https://w.tracxn.com/customers/tracxn-for-government)[Banks and NBFCs](https://w.tracxn.com/customers/tracxn-for-banks)\n[View All Customers](https://w.tracxn.com/customers)[Contact Us](https://tracxn.com/contactus)\n* Offerings\nRich Data Sets\n[Companies](https://w.tracxn.com/companies-database)[Legal Entities](https://w.tracxn.com/offerings/legal-entities-database)[Investors](https://w.tracxn.com/investor-database)[Funding](https://w.tracxn.com/funding-database)[Acquisitions](https://w.tracxn.com/acquisitions-database)[Financials](https://w.tracxn.com/offerings/financials-db)[Cap Tables](https://w.tracxn.com/offerings/cap-tables-db)[Employee Count](https://w.tracxn.com/offerings/employee-count-trend)\nDeep Dives\n[Company deep-dive](https://w.tracxn.com/company-profiles)[Investor deep-dive](https://w.tracxn.com/investor-profiles)[Activity by Corporates](https://w.tracxn.com/activity-by-corporates)[Sector Coverage](https://w.tracxn.com/sector-profiles)\nWorkflow Solutions\n[Sourcing new deals](https://w.tracxn.com/deal-sourcing-made-easy)[Tracking Market Updates](https://w.tracxn.com/tracking-market-activity)[Portfolio Management](https://w.tracxn.com/portfolio-management)[Deal Flow CRM](https://w.tracxn.com/offerings/deal-flow-crm)[LiveDeals](https://w.tracxn.com/live-deals)\nIntegrations\n[CRM Integrations](https://w.tracxn.com/crm-integrations)[Workbook Integrations](https://w.tracxn.com/workbook-integrations)\nApps & Extensions\n[![Android](https://cdn.tracxn.com/images/static/downloadSection/Android_App_Icon.svg)![Apple](https://cdn.tracxn.com/images/static/downloadSection/iOS_App_Icon.svg)](https://w.tracxn.com/offerings/web-application)[![Chrome Web Store](https://cdn.tracxn.com/images/static/integrations/chromelogo.png)](https://chrome.google.com/webstore/detail/tracxn-extension/mcplkbacfdjapifgiidjidmnfilipnep?hl=en)[![Firefox Extension](https://cdn.tracxn.com/images/static/integrations/firefoxlogo.png)](https://help.tracxn.com/en/articles/6635148-how-to-use-tracxn-s-firefox-extension)\nData Solutions\n[API & Developer Tools](https://w.tracxn.com/api-developers-page)\nAnd Much More...\n[Reports by Tracxn](https://w.tracxn.com/offerings/reports-by-tracxn)[Enterprise Grade Support](https://w.tracxn.com/offerings/enterprise-grade-support)\n[View All Offerings](https://w.tracxn.com/offerings)[Contact Us](https://tracxn.com/contactus)\n![tracxn ai suite](https://cdn.tracxn.com/images/static/homepage/tracxn-ai-suit.png)\nExplore AI Solutions\nAI-powered market intelligence across companies, investors, and sectors.\n[Get Started](https://w.tracxn.com/tracxn-ai-suite)\n* Company\n* [About us](https://w.tracxn.com/about-us)\n* [Our Investors](https://tracxn.com/tracxninvestors)\n* [Media & Newsroom](https://tracxn.com/p/media)\n* [Careers](https://w.tracxn.com/careers)\n* [Contact Us](https://tracxn.com/contactus)\n* [Pricing](https://tracxn.com/pricing)\n* [Login](https://tracxn.com/login)\n* [Sign Up for Free](https://tracxn.com/signup)\n1. [Discover](https://tracxn.com/d)\n>\n2. [Companies](https://tracxn.com/d/companies)\n>Bvifinance\n[![Logo for Bvifinance](https://i.tracxn.com/logo/company/a7715c8dc5b4f22ebee25fb2177cefad?format=webp&height=120&width=120)](http://bvifinance.vg)\n# [Bvifinance - Company Profile](http://bvifinance.vg)\nLast updated: June 30, 2026\n[Claim Profile](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/bvifinance/claimprofile?utm_source=product-seo%20page&utm_medium=companies-funding&utm_campaign=unclaimed%20claim%20profile&utm_content=cta%20claimprofile)[Suggest Edits](https://tracxn.com/b/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY/edit)\n* [Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)\n* [Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)\n* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)\n* Email\n* Copy Url\n* [Request page removal](https://tracxn.com/b/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY/remove)\nNavigate to\nOverview\n* [About the company](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#about-the-company)\n* [Funding and Investors](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#funding-and-investors)\n* [Founders and Board of Directors](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#founders-and-board-of-directors)\n* [Investments and Acquisitions](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#investments-and-acquisitions)\n* [Reports](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#reports)\n* [News](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY#news)\n[Competitors Landscape![lock](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb#a:competitors)[Comparables![lock](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/globalequivalent)[All Related Reports![lock](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/reports)\n[Most viewed in 2019](https://tracxn.com/d/companies/artificial-intelligence-gaokdp-by-tuujow)\n## Bvifinance - About the company\nBvifinance is an unfunded company based in British Virgin Islands. It operates as a Home. Bvifinance has not raised any funding yet.\n### Company Details\nBVI Finance Limited Website\n[bvifinance.vg](http://bvifinance.vg) Social\n[![X](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)](https://twitter.com/bvifinance)[![Facebook](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)](http://facebook.com/bvifinance)\nKey Metrics\nLocation\n[British Virgin Islands](https://tracxn.com/d/geographies/british-virgin-islands/__M43a-AgsfK3LvgIGrffDKs99duC2Jk_uYMDvlQdbgoQ)\nStage\nUnfunded\nEmployee Count\n[20](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb#a:people) as on May 31, 2026\n[View Bvifinance's full profile](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb)\n![PDF Illustration Image](https://cdn.tracxn.com/images/static/cta/pdf-icon-illustration.svg)\nSign up to download Bvifinance's company profile\nSign Up for Free\n## Bvifinance's funding and investors\nBvifinance has not raised any funding rounds yet.\n## Bvifinance's founders and board of directors\n[Founder? Claim Profile](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/claimprofile?utm_source=product-seo%20page&utm_medium=companies-funding&utm_campaign=unclaimed%20claim%20profile&utm_content=cta%20claimprofile)\n### Bvifinance's employee count trend\nBvifinance has 20 employees as of May 26. Here is Bvifinance's employee count trend over the years:\n![Employee count trend for Bvifinance](https://cdn.tracxn.com/images/static/cta/sample-employee-count-chart_1.png)\n![lock](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)Uncover Bvifinance's growth story! [Sign up today!](https://tracxn.com/signup)\n![chrome_extension_cta_illustration](https://cdn.tracxn.com/images/static/cta/chrome_extension_cta_illustration.svg)\nAccess Tracxn on any website\nOur Google Chrome extension lets you view company details while browsing their websites\n[Install Tracxn Extension](https://chromewebstore.google.com/detail/tracxn-extension/mcplkbacfdjapifgiidjidmnfilipnep?hl=en)\n## Bvifinance's Investments and acquisitions\nBvifinance has made no investments or acquisitions yet.\n## Reports related to Bvifinance\nHere is the latest report on Bvifinance's sector:\n[ ![An image depicting Services for Investment Industry - Sector Report](https://i.tracxn.com/tracxn-data-attachments/report/thumbnail/image/Services_for_Investment_Industry_-_Feed_Report_2b8a43b9-f400-410f-9586-63a1747830bd.jpg?width=350)Free Services for Investment Industry - Sector Report Edition: November, 2025 (67 Pages) ](https://tracxn.com/d/sectors/services-for-investment-industry/__vY2zOlAjv-M_Zlnv7fIEDi6sAAhsB63UF2qrmbMj4po/feed-report)\nView [all reports related to Bvifinance](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb#a:reports)\n## News related to Bvifinance\n•\n[Response From Bvi Finance On The Uk Government's Decision Not To Impose Direct Rule](https://www.prnewswire.co.uk:443/news-releases/response-from-bvi-finance-on-the-uk-government-s-decision-not-to-impose-direct-rule-879930703.html)PR Newswire•Jun 09, 2022•[Bvifinance](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY), [Gov](https://platform.tracxn.com/a/d/company/5319bb68e4b0f7e165ff41fd/gov.vg)\n![lock](https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY)Get curated news about company updates, funding rounds, M&A deals and others. [Sign up today!](https://tracxn.com/signup)\n[View complete company profile of Bvifinance](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb)\nAre you a Founder ?\n[Claim your Profile Claim and keep your data updated to ensure investors can find you easily.](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/claimprofile?utm_source=product-seo%20page&utm_medium=companies-overview&utm_content=cta%20FounderBanner&utm_campaign=claimprofile)[Looking to raise funds? Showcase fundraising requirement to VCs, PEs, Angels & IBs.](https://platform.tracxn.com/a/s/livedeals/t/create?utm_source=product-seo%20page&utm_medium=companies-overview&utm_content=cta%20FounderBanner&utm_campaign=listyourdeal)[Find Investors for your Next Round Discover potential investors for your next round of investment.](https://platform.tracxn.com/a/s/nextroundinvestors?utm_source=product-seo%20page&utm_medium=companies-overview&utm_content=cta%20FounderBanner&utm_campaign=nextroundinvestors)\n## FAQs about Bvifinance\nWhat does Bvifinance do?\nBVI Finance Limited\nHow many employees does Bvifinance have?\nAs of May 31, 2026, the latest [employee count](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb/bvifinance#a:people) at Bvifinance is 20.\nWhere is Bvifinance located?\nBvifinance is headquartered in [British Virgin Islands](https://tracxn.com/d/geographies/british-virgin-islands/__M43a-AgsfK3LvgIGrffDKs99duC2Jk_uYMDvlQdbgoQ).\nIs Bvifinance a funded company?\nBvifinance is a funded company, having raised a total of [ $*****](https://platform.tracxn.com/a/d/company/54b658c8e4b0c710e41845eb#a:funding-and-investors) in its 1st and only funding round.\nExplore our recently published companies\n* [Metzler Switzerland](https://tracxn.com/d/companies/metzler-switzerland/__aBhllDKZO6flkJAxgZKFL-kXMeWk2kwxyLQeddDqypI) - Switzerland based, Unfunded company\n* [Thomasnayler](https://tracxn.com/d/companies/thomasnayler/__WP07uRCrX2I1wzZ1kn5Q2fdCoYGzJkFCGfMV4CU7Mho) - United Kingdom based, Unfunded company\n* [Wildlandservices](https://tracxn.com/d/companies/wildlandservices/__xWvBfhkPcm82Q9IAQH_lBbJhykaOLOb15kMH2QL2VJk) - Auburn based, 2009 founded, Unfunded company\n* [Boninogroup](https://platform.tracxn.com/a/d/company/5800d561e4b07ebdd9afed4f) - 1979 founded, Funding Raised company\n* [Techlib](https://tracxn.com/d/companies/techlib/__MInbqLvpxW3lf2V1MRGg-u9UXcHlJ6b9C7G8AIq9MKw) - India based, 2011 founded, Unfunded company\n* [AND SO](https://tracxn.com/d/companies/and-so/__dWPTS4UbZV7msbXpUSqjuVbf8ln39D-7oRtxm9lYIh8) - Penha de Franca based, 2018 founded, Unfunded company\nUnlock this company's full profile\n[Sign Up for Free](https://tracxn.com/signup)\nTracxn powers 1,000+ customers across 30+ countries\n![Accel Partners](https://cdn.tracxn.com/images/static/homepage/clients/accel_90x90_1x.png)![Partech](https://cdn.tracxn.com/images/static/homepage/clients/partech-wbg_90x90_1x.png)![IN-Q-TEL - US](https://cdn.tracxn.com/images/static/homepage/clients/iqt_90x90_1x.png)![Fujitsu](https://cdn.tracxn.com/images/static/homepage/clients/fujitsu_90x90_1x.png)![Tenity](https://cdn.tracxn.com/images/static/homepage/clients/tenity-wbg_90x90_1x.png)![Stanford](https://cdn.tracxn.com/images/static/homepage/clients/stanford-university_90x90_1x.png)\n* Company\n* [About us](https://w.tracxn.com/about-us)\n* [Our Investors](https://tracxn.com/tracxninvestors)\n* [Product Releases](https://w.tracxn.com/product-announcements)\n* [News and Press Resources](https://tracxn.com/p/media)\n* [Investor Relations](https://w.tracxn.com/investor-relations)\n* [ODR Portal](https://smartodr.in/login)\n* [Terms of Use](https://tracxn.com/termsofuse)\n* [Privacy Policy ](https://tracxn.com/privacypolicy)\n* Cookie Preferences\n* [GDPR](https://tracxn.com/gdpr)\n* [FAQs](https://w.tracxn.com/faqs)\n* [Careers](https://w.tracxn.com/careers)\n* Customers\n* [Venture Capital Funds](https://w.tracxn.com/customers/solutions-for-venture-capital-funds)\n* [Private Equity Funds ](https://w.tracxn.com/customers/solutions-for-private-equity-funds)\n* [Accelerators and Incubators](https://w.tracxn.com/customers/solutions-for-incubators)\n* [Investment Banks](https://w.tracxn.com/customers/solutions-for-investment-banks)\n* [Corporate Inno",
+        "website_metadata": {
+            "url": "https://tracxn.com/d/companies/bvifinance/__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+            "content_length": 15000
+        },
+        "contact": {
+            "emails": [
+                "hi@tracxn.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/shareArticle"
+        },
+        "founders": [],
+        "leadership": [],
+        "products": [
+            {
+                "name": "Workflow Solutions",
+                "description": "",
+                "category": ""
+            },
+            {
+                "name": "Data Solutions",
+                "description": "",
+                "category": ""
+            },
+            {
+                "name": "Deal Flow CRM",
+                "description": "",
+                "category": ""
+            },
+            {
+                "name": "LiveDeals",
+                "description": "",
+                "category": ""
+            }
+        ],
+        "services": [
+            "Workflow Solutions",
+            "Data Solutions",
+            "AI Solutions"
+        ],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "industry": "",
+        "headquarters": "British Virgin Islands",
+        "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+        "employee_count": 20,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "sources": [],
+        "emails": [
+            "info@bvifinance.vg",
+            "enquiries@bvi.org.uk",
+            "hi@tracxn.com"
+        ],
+        "phones": [
+            "+44 20 7355 9570",
+            "(852) 3468 8530",
+            "(284) 542-9725"
+        ],
+        "geographic_focus": [
+            "British Virgin Islands"
+        ],
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 92,
+            "level": "High"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bvi_finance.json",
+        "normalized_name": "bvi finance",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "tracxn.com",
+                "website_type": "official",
+                "social_profiles": 3,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 3,
+                    "valid": 3,
+                    "official": 3,
+                    "platforms": [
+                        "facebook",
+                        "linkedin",
+                        "twitter"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+                        "normalized": "https://linkedin.com/shareArticle",
+                        "username": "shareArticle",
+                        "valid": true,
+                        "official": true
+                    },
+                    "facebook": {
+                        "platform": "facebook",
+                        "original": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftracxn.com%2Fd%2Fcompanies%2Fbvifinance%2F__afcC06HOkXjoeeYjVVDCiYL2RgIM56_U-hD1sptLViY",
+                        "normalized": "https://facebook.com/sharer/sharer.php",
+                        "username": "sharer",
+                        "valid": true,
+                        "official": true
+                    },
+                    "twitter": {
+                        "platform": "twitter",
+                        "original": "https://twitter.com/bvifinance",
+                        "normalized": "https://twitter.com/bvifinance",
+                        "username": "bvifinance",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 1,
+                    "domains": [
+                        "tracxn.com"
+                    ]
+                },
+                "official": [
+                    "hi@tracxn.com"
+                ],
+                "details": [
+                    {
+                        "original": "hi@tracxn.com",
+                        "normalized": "hi@tracxn.com",
+                        "domain": "tracxn.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": true,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "hi@tracxn.com",
+        "quality": {
+            "phones": {
+                "total": 3,
+                "valid": 0,
+                "removed": 3,
+                "duplicates": 0,
+                "invalid": [
+                    "6635148",
+                    "202567",
+                    "879930703"
+                ]
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

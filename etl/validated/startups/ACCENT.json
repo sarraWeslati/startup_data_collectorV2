@@ -1,0 +1,286 @@
+{
+    "entity_type": "startup",
+    "name": "ACCENT",
+    "description": "Mise en place d'interconnexion entre Internet et des objets, des lieux et des environnements physiques.souvent connu sous le nom :IoT Model.",
+    "tagline": "",
+    "industry": "Consumer products and services",
+    "keywords": [],
+    "country": "Morocco",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2018",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.hyundai.com/worldwide/en/cars/accent/highlights",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/accent",
+        "facebook": "https://facebook.com/sharer/sharer.php",
+        "instagram": "https://instagram.com/hyundai",
+        "youtube": "https://youtube.com/user/hyundaiworldwide"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/accent"
+    },
+    "founders": [
+        {
+            "name": "Mohamed MASMOUDIMalek ALOULOUMoez AFFES",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:10:22.552463",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Mar-20"
+    },
+    "external_profiles": {
+        "website": "https://www.hyundai.com/worldwide/en/cars/accent/highlights",
+        "linkedin": "https://www.linkedin.com/company/accent",
+        "crunchbase": "https://www.crunchbase.com/organization/accent-technologies",
+        "dealroom": "https://app.dealroom.co/investors/accent_1_2"
+    },
+    "tavily": {
+        "query": "ACCENT",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://accentvoice.com/",
+            "https://accentglobal.com/",
+            "https://www.hyundai.com/worldwide/en/cars/accent/highlights",
+            "https://accentvocal.com/",
+            "https://accent.com.ph/",
+            "https://www.linkedin.com/company/accent",
+            "https://www.linkedin.com/company/accent-technologies",
+            "https://www.linkedin.com/company/accent-global-learning",
+            "https://www.linkedin.com/company/accent-consulting-services",
+            "https://www.linkedin.com/company/accent-balepackagingsolutions",
+            "https://www.crunchbase.com/organization/accent-technologies",
+            "https://www.cbinsights.com/company/accent-4",
+            "https://accent.design/",
+            "https://linkedin.com/company/accent-technologies",
+            "https://linkedin.com/company/accent",
+            "https://www.moneycontrol.com/news/trends/we-need-american-accent-up-techie-gets-rejected-by-us-startup-despite-impressing-founder-13947305.html",
+            "https://app.dealroom.co/investors/accent_1_2",
+            "https://tracxn.com/d/accelerator-incubator/accent/__tiF9mH9YRG_kGHzcSH4wAvYfTGqkGY9ELUgtAagW-7w",
+            "https://mergr.com/transaction/volaris-group-acquires-accent",
+            "https://www.mapco.ai/company/accent",
+            "https://accent.at/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[Go to menu](https://www.hyundai.com/worldwide/en/cars/accent/highlights#gnbMenu) [Go to content](https://www.hyundai.com/worldwide/en/cars/accent/highlights#container)\nHighlights [ ![hyundai](https://www.hyundai.com/etc/designs/hyundai/ww/en/images/common/logo.png) ![hyundai](https://www.hyundai.com/content/dam/hyundai/ww/en/images/main/new/common/logo-wh.png) ](https://www.hyundai.com/worldwide/en)\nHyundai Worldwide Global Navigation\n* Brand journal\n* [FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026)\n* [Forests Without Names](https://www.hyundai.com/worldwide/en/brand-journal/forests-without-names)\n* [Sustainable vision](https://www.hyundai.com/worldwide/en/brand-journal/sustainable-vision)\n* [Mobility solution](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution)\n* [IONIQ](https://www.hyundai.com/worldwide/en/brand-journal/ioniq)\n* [Lifestyle](https://www.hyundai.com/worldwide/en/brand-journal/lifestyle)\n* [Heritage](https://www.hyundai.com/worldwide/en/brand-journal/heritage)\n[ ![A human hand and a robotic hand are holding a football. The image is blurred, making it difficult to identify any details.](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/campaign/worldcup2026/260324-landingpage/worldcup2026-holding-a-football-gnb2.jpg) FIFA World Cup 2026™ Next Starts Now ](https://www.hyundai.com/worldwide/en/brand-journal/worldcup2026)\n[ ![An image of a red map pin placed over a sea forest](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/campaign/forests-without-names/main/forests-without-names-gnb_2.jpg) ](https://www.hyundai.com/worldwide/en/brand-journal/forests-without-names)\n[ ![Introducing “Tree Correspondents” – Hyundai gives trees a voice](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/tree-correspondents/250723-introducing-tree-correspondents/thumbnail/hyundai-introducing-tree-correspondents-gnb.jpg) Green project Introducing “Tree Correspondents”\n– Hyundai gives trees a voice ](https://www.hyundai.com/worldwide/en/brand-journal/sustainable-vision/tree-correspondents-campaign-cannes)\n[ ![Photo of Hyundai Motor Group's public exhibition at CES 2026 showcasing its AI Robotics technologies](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/mobility-solution/260106-ces-2026-robotics-exhibition/thumbnail/hyundai-ces-robotics-future-gnb.jpg) Robotics CES 2026: Hyundai Motor Group brings AI Robotics to life at the CES 2026 ](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-exhibition)\n[ ![Hyundai Opens a New Chapter in China with IONIQ](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/ioniq/260410-china-ioniq-launching/thumbnail/hyundai-ioniq-launch-in-china-gnb.jpg) IONIQ concept Hyundai Opens a New Chapter in China with IONIQ ](https://www.hyundai.com/worldwide/en/brand-journal/ioniq/ioniq-launch-in-china)\n[ ![Installation view of Kelly Akashi’s Monument \\(Altadena\\) \\(2026\\), showing the glass-brick chimney installation on the Whitney Museum’s rooftop terrace.](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/lifestyle/260608-whitney-2026/thumbnail/hyundai-whitney-2026-gnb.jpg) Art Whitney Biennial 2026 and Hyundai Terrace Commission: Kelly Akashi ](https://www.hyundai.com/worldwide/en/brand-journal/lifestyle/whitney-2026)\n[ ![Hyundai STELLAR PRIMA STUDIO CUT](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/heritage/250919-stellar-sonata-exhibition/thumbnail/hyundai-stellar-sonata-gnb.jpg) Heritage model STELLAR & SONATA Heritage: The significance of long-lasting relationship ](https://www.hyundai.com/worldwide/en/brand-journal/heritage/stellar-sonata-exhibition)\n* Vehicles\n* Company\n* [Philosophy](https://www.hyundai.com/worldwide/en/brand-journal/our-vision)\n* [Sustainability](https://www.hyundai.com/worldwide/en/company/sustainability)\n* [Innovation](https://www.hyundai.com/worldwide/en/company/innovation)\n* [Investor Relations](https://www.hyundai.com/worldwide/en/company/ir)\n* [Global distributors](https://www.hyundai.com/worldwide/en/company/hyundai-world-wide)\n* [Contact us](https://www.hyundai.com/worldwide/en/company/contact-us)\n[ ![Hyundai NEXO driving along a coastal cliff road](https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand/251020-philosophy-our-vision/hyundai-philosophy-gnb-251017.jpg) Brand Our vision ](https://www.hyundai.com/worldwide/en/brand-journal/our-vision)\n[ ![Carbon Neutrality Vision](https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/thumbnail/sustainability-carbon-neutrality-vision-gnb.jpg) Sustainability Our carbon neutrality vision ](https://www.hyundai.com/worldwide/en/company/sustainability/carbon-neutrality-vision)\n[ ![Robotics](https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/innovation/gnb-innovation.jpg) Future mobility Robotics ](https://www.hyundai.com/worldwide/en/company/innovation/future-mobility)\n[ ![Investor Relations](https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/thumbnail/ir-calendar-gnb.jpg) Investor Relations ](https://www.hyundai.com/worldwide/en/company/ir)\n[ ![Global Distributors](https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/thumbnail/global-distributor-gnb.jpg) Global distributors ](https://www.hyundai.com/worldwide/en/company/hyundai-world-wide)\n[ ![Contact Us](https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/thumbnail/contact-us-gnb.jpg) Contact us ](https://www.hyundai.com/worldwide/en/company/contact-us)\n* Newsroom\n* [Go to Global Distributors page](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\n* [KR](https://www.hyundai.com/worldwide/ko \"Go to Korean Website\")\n* search\nSearch\n* [sonata 2016](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\nsearch reset\n* menu\n1. [Home](https://www.hyundai.com/worldwide/en/)\n2. [Cars](https://www.hyundai.com/worldwide/en/vehicles.car)\n3. [ACCENT](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\n4. **Highlights**\n[Page sharing](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\n**Share**\n* [ Facebook ](http://www.facebook.com/sharer/sharer.php)\n* [ Twitter ](https://twitter.com/intent/tweet)\n[close](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\n![Left side front view of silver accent in front of house](https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/accent-hc/accent-hc-highlights-kv-pc.jpg)\n# ACCENT\nAll you ever wanted\nACCENT\n* [Highlights](https://www.hyundai.com/worldwide/en/cars/accent/highlights)\n* [Design](https://www.hyundai.com/worldwide/en/cars/accent/design)\n* [Performance](https://www.hyundai.com/worldwide/en/cars/accent/performance)\n* [Safety](https://www.hyundai.com/worldwide/en/cars/accent/safety)\n* [Convenience](https://www.hyundai.com/worldwide/en/cars/accent/convenience)\n[e-Brochure](https://www.hyundai.com/content/dam/hyundai/ww/en/images/footer/downloads/cars/e-brochure/accent-ebrochure-2018.pdf)\n## Highlights\n###  Big on style and features\nThe all-new ACCENT gives you everything you have ever wanted in a small family car and much more.\n![Right side front view of silver accent and right side rear view of silver accent](https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/accent-hc/accent-hc-highlights-right-side-front-view-silver-right-side-rear-view-silver-pc.jpg)\n![Left side front view of silver accent](https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/accent-hc/accent-hc-highlights-left-side-front-view-silver-pc.jpg)\n### Sophisticated\nChrome detailing on the front grille and around the fog lamps take ACCENT to a higher level.\n### Dynamic\nEvery details radiates dynamic tension and motion even though it is sitting still.\n### Body structure\nACCENT’s super-strong body structure offers unparalleled protection. Critical areas are reinforced with ultra high-tensile strength steel so that ACCENT meets the very latest crash safety standards of the National Highway Traffic and Safety Administration of the United States.\n### Smart trunk\nStand close to the trunk and in three seconds the lid opens automatically without pressing any key button. The smart trunk feature is easily deactivated at any time.\n### Flat-folding 60:40-split rear seats\nACCENT's versatility is surprising: It can handle a mix of passenger and cargo hauling duties thanks to the flat-folding rear seats.\n## Gallery\n*   *   *   *   *\nprev\nnext\n*   *   *   *   *\nprev\nnext\n[Download](https://www.hyundai.com/wsvc/ww/download.file.do?id=/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/accent-hc/gallery/accent-hc-gallery-left-side-front-view-silver-front-house-pc.jpg \"Download\")\n[Design](https://www.hyundai.com/worldwide/en/cars/accent/design \"ACCENT Design\")\nSpecification\nChoose a Trim\nPerformance\nDimension\nWheels\n* Vehicle options and details on this website may vary by country, and some vehicle models may not be available in your country.\n* All descriptions are subject to change without notice.\n* For more detailed information, select your country's dealer website.\nSelect your country\nTop\n## footer menus\n* Contact & legal view sub menu list\n* [Legal](https://www.hyundai.com/worldwide/en/footer/contact-legal/legal)\n* [Privacy policy](https://www.hyundai.com/worldwide/en/footer/contact-legal/privacy-policy)\n* [Cookies policy](https://www.hyundai.com/worldwide/en/footer/contact-legal/cookies-policy)\n* [Do not sell my information](https://www.hyundai.com/worldwide/en/footer/contact-legal/privacy-policy#california)\n* [Sitemap](https://www.hyundai.com/worldwide/en/footer/contact-legal/site-map)\n* Corporate view sub menu list\n* [History](https://www.hyundai.com/worldwide/en/footer/corporate/history/2021-2025)\n* [Awards](https://www.hyundai.com/worldwide/en/footer/corporate/awards)\n* [Vehicle history](https://www.hyundai.com/worldwide/en/footer/corporate/vehicle-history)\n* [Affiliates](https://www.hyundai.com/worldwide/en/footer/corporate/affiliates)\n* [Supplier](http://supplier.hyundai.com/)\n* Hyundai experiences view sub menu list\n* [N](https://www.hyundai-n.com/)\n* [Hyundai Motorstudio](https://motorstudio.hyundai.com/itg/ln/main.do?lang=en)\n* [Hyundai Collection](https://collection.hyundai.com/index.do?lang=en)\n* [Hyundai Artlab](https://artlab.hyundai.com)\n* [Hyundai Metaverse, NFT](https://www.hyundai.com/worldwide/en/footer/hyundai-experiences/metaverse)\n* Hyundai social media view sub menu list\nWorldwide\n[ ![Facebook](https://www.hyundai.com/content/dam/hyundai/ww/en/images/common/static/facebook.png) ](https://www.facebook.com/Hyundaiworldwide) [ ![Instagram](https://www.hyundai.com/content/dam/hyundai/ww/en/images/common/static/instagram.png) ](https://www.instagram.com/hyundai/) [ ![Youtube](https://www.hyundai.com/content/dam/hyundai/ww/en/images/common/static/youtube.png) ](http://www.youtube.com/user/hyundaiworldwide) [ ![Twitter](https://www.hyundai.com/content/dam/hyundai/ww/en/images/common/static/twitter.png) ](https://twitter.com/hyundai_global)\nⓒ 2026 Hyundai Motor Company",
+    "website_metadata": {
+        "url": "https://www.hyundai.com/worldwide/en/cars/accent/highlights",
+        "content_length": 11149
+    },
+    "linkedin": "https://www.linkedin.com/company/accent",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\accent.json",
+    "normalized_name": "accent",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "hyundai.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 4
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/accent",
+                    "normalized": "https://linkedin.com/company/accent",
+                    "username": "accent",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "http://www.facebook.com/sharer/sharer.php",
+                    "normalized": "https://facebook.com/sharer/sharer.php",
+                    "username": "sharer",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/hyundai",
+                    "normalized": "https://instagram.com/hyundai",
+                    "username": "hyundai",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "http://www.youtube.com/user/hyundaiworldwide",
+                    "normalized": "https://youtube.com/user/hyundaiworldwide",
+                    "username": "user",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "20212025"
+            ]
+        }
+    }
+}

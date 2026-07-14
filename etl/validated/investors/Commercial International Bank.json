@@ -1,0 +1,319 @@
+{
+    "name": "Commercial International Bank",
+    "description": "Egypt’s leading private-sector bank serving individuals, households, high-net-worth individuals, large corporations, and small businesses. Listed in Egyptian Stock Exchange (EGX), London Stock Exchange (LSE), & traded OTCQX Int’l Premier. Total assets of USD 23 bn. Established in 1975, consistently ranked as the most profitable bank in Egypt. Recognized for gender equality and other awards. Established a commercial representative office in Addis Ababa, Ethiopia in April 2019.",
+    "organization_type": "",
+    "country": "Egypt",
+    "city": "Cairo",
+    "website": "https://www.cibeg.com/en",
+    "linkedin": "https://ke.linkedin.com/company/cib-kenya-ltd",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cibeg.com/en",
+        "linkedin": "https://ke.linkedin.com/company/cib-kenya-ltd",
+        "wellfound": "https://wellfound.com/startups/industry/banking?page=3"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/CIBEgypt",
+        "instagram": "https://instagram.com/cibegypt",
+        "youtube": "https://youtube.com/user/CIBEgypt",
+        "x": "https://x.com/CIB_EG_OFFICIAL"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:11:07.282331+00:00",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Commercial International Bank",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://www.cibeg.com/en",
+            "https://en.wikipedia.org/wiki/Commercial_International_Bank",
+            "https://cibke.com/",
+            "https://www.annualreports.com/Company/commercial-international-bank",
+            "https://apps.apple.com/eg/app/cib-mobile-banking-app/id6618151705",
+            "https://ke.linkedin.com/company/cib-kenya-ltd",
+            "https://eg.linkedin.com/in/karim-hany-a1a00449",
+            "https://unglobalcompact.org/what-is-gc/participants/143177-Commercial-International-Bank",
+            "https://www.linkedin.com/posts/mohamed-gamal-b51a58135_cib-banking-financialresults-activity-7427036577492758528-GFwL",
+            "https://www.globaldata.com/company-profile/commercial-international-bank-egypt-sae/",
+            "https://tracxn.com/d/companies/cibegypt/__NhgtLJGrTBtHWYKwW8DbXPhSIAoymxJ-dvej-8CeM8w",
+            "https://www.investing.com/equities/com-intl-bk-company-profile",
+            "https://uk.marketscreener.com/quote/stock/COMMERCIAL-INTERNATIONAL--6491751/company/",
+            "https://mergr.com/company/commercial-international-bank",
+            "https://www.insidentity.com/report/commercial-international-bank/",
+            "https://wellfound.com/startups/industry/banking?page=3",
+            "https://www.cibeg.com/-/media/project/downloads/investor-relations/ir-library/financial-statements/2024/q4/cib-separate-financial-statements-december-2024-english.pdf",
+            "https://liners.com/investors/commercial-international-bank",
+            "https://foundersuite.com/firms/commercial-international-bank",
+            "https://www.globaldata.com/company-profile/commercial-international-bank-egypt-sae/deals/",
+            "https://www.agbi.com/companies/commercial-international-bank/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 2,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 5,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": true,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "cibeg.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ ![logo](https://www.cibeg.com/-/media/feature/navigation/footer/logo-white.svg) ](https://www.cibeg.com/en)\n[ Home ](https://www.cibeg.com/en)\n* [ Home ](https://www.cibeg.com/en)\n* [ Personal Banking ](https://www.cibeg.com/en/personal)\n* [ Business Banking ](https://www.cibeg.com/en/business)\n* [ Institutional Banking ](https://www.cibeg.com/en/institutional)\n* [ CIB Private ](https://www.cibeg.com/en/private)\n[العربية](https://www.cibeg.com/ar)\n* [ Currency converter  Currency converter  ](https://www.cibeg.com/en/currency-converter)\n* [ Branch & ATM Finder ](https://www.cibeg.com/en/branch-and-atm-finder)\n* [ Contact Us ](https://www.cibeg.com/en/contact-us)\n[ Log in ](https://www.cibeg.com/en)\n* [Personal](https://www.cibeg.com/en#tab-6228D095B38446AC99DCBAE565B9763B)\n* [Business](https://www.cibeg.com/en#tab-EBDD08ED813D45FE8A9695DF450A716C)\n* [ Online Banking ](https://digitalinternetbanking.cibeg.com/)\n* [ Bonus loyalty ](https://bonus.cibeg.com/rewards/phoenix/cib/)\n* [ CIB Business Online ](https://businessonline.cibeg.com/FBCC/portal)\n* [ ACH Credit/Debit ](https://cibcorpay.egyptianbanks.net/EG-ACH-Corporate-Web-Station-CIB/portal)\n* [ Corporate Online Hub ](https://coh.cibeg.com/CBH)\n* [ Epayroll ](https://epayroll.cibeg.com)\n* [ Government ePayment (CPS) ](https://cps.efinance.com.eg/CPSWebApp/Login.aspx)\n* [ Corporate Download Portal ](https://downloadportal.cibeg.com)\n[ Home ](https://www.cibeg.com/en)\n* [ Home ](https://www.cibeg.com/en)\n* [ Personal Banking ](https://www.cibeg.com/en/personal)\n* [ Business Banking ](https://www.cibeg.com/en/business)\n* [ Institutional Banking ](https://www.cibeg.com/en/institutional)\n* [ CIB Private ](https://www.cibeg.com/en/private)\n[ ](https://www.cibeg.com/en/search)\n* [ About Us ](https://www.cibeg.com/en/about-us)\n* [ ESG ](https://www.cibeg.com/en/sustainability)\n* [ Investor Relations ](https://www.cibeg.com/en)\n* [IR Home](https://www.cibeg.com/en/investor-relations)\n* [About CIB](https://www.cibeg.com/en/investor-relations/about-cib)\n* [IR Library](https://www.cibeg.com/en/investor-relations/ir-library)\n* [Governance](https://www.cibeg.com/en/investor-relations/governance)\n* [ Responsible Banking ](https://www.cibeg.com/en/responsible-banking)\n* [ Newsroom ](https://www.cibeg.com/en/newsroom)\n* [ Learning center ](https://www.cibeg.com/en/learning-center)\n* [ Careers ](https://www.cibeg.com/en/careers)\n* [ Risk and Responsibility ](https://www.cibeg.com/en/risk-and-responsibility)\n[ Branch & ATM finder ](https://www.cibeg.com/en/branch-and-atm-finder) [ Contact us ](https://www.cibeg.com/en/contact-us)\n[العربية](https://www.cibeg.com/ar)\n* [About Us](https://www.cibeg.com/en/about-us)\n* [ESG](https://www.cibeg.com/en/sustainability)\n* [ Investor Relations ](https://www.cibeg.com/en/investor-relations)\n* [IR Home](https://www.cibeg.com/en#tab-mega-D85A1F7F05D74B8BA18F387DCCC7BC28)\n* [About CIB](https://www.cibeg.com/en#tab-mega-23C05304FF7542219142B429BDD61C2C)\n* [IR Library](https://www.cibeg.com/en#tab-mega-756585F2CCF4421B94A175BA868208E3)\n* [Governance](https://www.cibeg.com/en#tab-mega-8CE79892DF3A4F13B2467DCECD39E906)\n### [Investor Relations ](https://www.cibeg.com/en/investor-relations)\n### [Overview ](https://www.cibeg.com/en/investor-relations/about-cib/overview)\n### [Investment Case ](https://www.cibeg.com/en/investor-relations/about-cib/investment-case)\n### [Environmental and Social Responsibility ](https://www.cibeg.com/en/investor-relations/about-cib/environmental-and-social-responsibility)\n[View All](https://www.cibeg.com/en/investor-relations/about-cib)\n### [Investor toolkit ](https://www.cibeg.com/en/investor-relations/ir-library/investor-toolkit)\n### [Financial Highlights ](https://www.cibeg.com/en/investor-relations/ir-library/financial-highlights)\n### [Financials Statements ](https://www.cibeg.com/en/investor-relations/ir-library/financial-statements)\n[View All](https://www.cibeg.com/en/investor-relations/ir-library)\n### [Board Resolutions ](https://www.cibeg.com/en/investor-relations/governance/board-resolutions)\n### [Board Reports ](https://www.cibeg.com/en/investor-relations/governance/board-reports)\n### [Ownership Structure ](https://www.cibeg.com/en/investor-relations/governance/ownership-structure)\n[View All](https://www.cibeg.com/en/investor-relations/governance)\n* [Responsible Banking](https://www.cibeg.com/en/responsible-banking)\n* [Newsroom](https://www.cibeg.com/en/newsroom)\n* [Learning Center](https://www.cibeg.com/en/learning-center)\n* [Careers](https://www.cibeg.com/en/careers)\n* [Risk & Responsibility](https://www.cibeg.com/en/risk-and-responsibility)\n* [Others](https://www.cibeg.com/en)\n[ ](https://www.cibeg.com/en/search)\n# Welcome\n##\n* [Apply Online](https://www.cibeg.com/en#2)\n* [News](https://www.cibeg.com/en#3)\n* [Offers & Loyalty](https://www.cibeg.com/en#4)\n* [Learning Center](https://www.cibeg.com/en#5)\n* [CIB International](https://www.cibeg.com/en#6)\n* [Sustainable Finance](https://www.cibeg.com/en#7)\n* [Awards](https://www.cibeg.com/en#8)\n* [ More ](https://www.cibeg.com/en)\n#  Apply Online Apply online now for cards and loans with ease!\n### [ Apply for a New Account  ](https://www.cibeg.com/en/personal/new-account)\n### [ Apply for a card  ](https://www.cibeg.com/en/personal/card)\n### [ Apply for a loan or overdraft  ](https://www.cibeg.com/en/personal/loan)\n# News\n![CIB starts the due diligence process on HSBC’s retail banking portfolio](https://www.cibeg.com/-/media/images/cib-2026z.jpg?cx=0&cy=0&cw=600&ch=338&hash=106DAD55C97F23F0790424FBA21E3743)\n24/02/2026\n### [CIB starts the due diligence process on HSBC’s retail banking portfolio ](https://www.cibeg.com/en/newsroom/news/2-24-2026-hsbc-due-diligence)\n![CIB Has Been Honored at the Stock Exchange for Winning the Best Bank in Sustainable Finance Award in Africa for 2025](https://www.cibeg.com/-/media/project/cib/news-articles-media/egx-photo.jpeg?cx=0&cy=0&cw=600&ch=338&hash=DC7BCFCBC05F7BF7640B44607D6237D3)\n19/02/2026 - CIB Has Been Honored at the Stock Exchange for Winning the Best Bank in Sustainable Finance Award in Africa for 2025\n### [CIB Has Been Honored at the Stock Exchange for Winning the Best Bank in Sustainable Finance Award in Africa for 2025 ](https://www.cibeg.com/en/newsroom/news/2-19-2026-cib-egx-award)\nCIB, Egypt’s leading and largest private-sector bank, has been honored by the Egyptian Exchange as Best Bank in Sustainable Finance in Africa for 2025.\n![Changes in the Board of Directors](https://www.cibeg.com/-/media/project/cib/news-articles-media/50-years-building---cropped.jpg?cx=0&cy=0&cw=600&ch=338&hash=55159A215D959BAAC5B4C2C5BF945E1C)\n14/12/2025\n### [Changes in the Board of Directors ](https://www.cibeg.com/en/newsroom/news/12-14-2025-changes-in-the-board-of-directors-ss)\nIn light of the upcoming end of term of office of Mr. Sherif Samir Samy’s as a non-executive board member...\n[View All News](https://www.cibeg.com/en/newsroom/news)\n# Offers & Loyalty\nMake every transaction more valuable\n[ ![Installments and Discounts](https://www.cibeg.com/-/media/project/cib/offers/personal/offers-and-loyalty/seasonal-offers.jpg?cx=0&cy=0&cw=350&ch=197&hash=510E55DDC9577CE5067B3D08158701C4) Installments & Discounts  Click Here  ](https://www.cibeg.com/en/personal/cib-offers/offers)\n[ ![Bonus Points Program](https://www.cibeg.com/-/media/images/cib-bonus-logo-600x338px.png?cx=0&cy=0&cw=350&ch=197&hash=A166DDEE8124D1208A13C6E9F2B10E1D) BONUS Points Program  Click Here  ](https://www.cibeg.com/en/personal/loyalty/bonus-loyalty-program)\n[ ![CIB EXPLORE Program](https://www.cibeg.com/-/media/images/cib-explore-logo-600x338px.png?cx=0&cy=0&cw=350&ch=197&hash=E4CD418159BDC3605138B6C58893C447) CIB EXPLORE Program  Click Here  ](https://www.cibeg.com/en/personal/loyalty/cib-explore)\n# Learning Center\nLearn more about banking and your finances\n[ ![Buying and making a home](https://www.cibeg.com/-/media/project/cib/product-cards/personal/mortgages/product-card---mortgages---standard-en.jpg?cx=0&cy=0&cw=350&ch=197&hash=B380E4BA160C9341D441A49C12AFEBE9) Buying and making a home  Buying a home can be an emotional process, but it&rsquo;s important to approach it logically  Read more ](https://www.cibeg.com/ar/learning-center/general-topics/how-to-buy-a-home?sc_cn=Personalization&sc_page=Home-page&sc_component=Quick-links&sc_variant=Buying-and-making-a-home-AR&)\n[ ![Traveling on budget](https://www.cibeg.com/-/media/feature/media/blogs/01head.jpg?cx=0&cy=0&cw=350&ch=197&hash=2920BF6CD0D57DA47B5F05A0414967FE) Traveling on a budget  So for all of you travelers, take a vacation without spending a fortune with these helpful tips and tricks:  Read more ](https://www.cibeg.com/en/learning-center/general-topics/traveling-on-a-budget?sc_cn=Personalization&sc_page=Home-page&sc_component=Quick-links&sc_variant=Traveling-on-budget-EN&)\n[ ![University life tips](https://www.cibeg.com/-/media/project/cib/product-cards/personal/loans/product-card---loans---educaitonal---ar.jpg?cx=0&cy=0&cw=350&ch=197&hash=E025C4A59037712B5C15C27E7C118A3B) University life tips  The impact of a good education can be transformative.  Read more ](https://www.cibeg.com/en/learning-center/general-topics/university-life-tips?sc_cn=Personalization&sc_page=Home-page&sc_component=Quick-links&sc_variant=University-tips-EN&)\n[View more](https://www.cibeg.com/en/learning-center)\n###  CIB on an international scale\nLearn more about CIB's presence outside of Egypt\n[Learn more](https://www.cibeg.com/en/about-us/cib-international)\n#  Sustainable finance Sustainability is an integral part of the way we work\n###  S&P/EGX ESG Index\n###  Bloomberg Gender Equality Index\n###  FTSE4Good Index\n[Learn more](https://www.cibeg.com/en/sustainability)\n#  Awards CIB's integrity and quality are recognized internationally\n###  Best Private Bank in Egypt\nGlobal Finance - 2023\n###  Best Mergers & Acquisitions Deal in MENA\nEMEA Finance - 2023\n###  Best Bank in Egypt\nEuromoney - 2023\n[See all our awards](https://www.cibeg.com/en/about-us/awards)\n#  We care Our dedicated team is committed to meeting your needs\n### [ Online  Chat with 'Zaki' our digital assistant to guide you through our products and services, or reach out on social media. ](https://www.cibeg.com/en/contact-us)\n### [ On the phone  For support, including emergencies such as cards closure or immediate critical feedback. ](https://www.cibeg.com/en/contact-us)\n### [ In branch  Our trained team of tellers and relationship managers are here to help you get the service you need.  ](https://www.cibeg.com/en/branch-and-atm-finder)\nWe use cookies and similar technologies to personalize your experience , and make sure the most relevant content reaches you. Learn more about our [use of cookies.](https://www.cibeg.com/en/cookie-policy)\n[Reject](javascript:;) [Accept](javascript:;)\n[ ![logo](https://www.cibeg.com/-/media/feature/navigation/footer/logo-white.svg) ](https://www.cibeg.com/en)\n* [ FAQs ](https://www.cibeg.com/en/faqs)\n* [ Learning Center ](https://www.cibeg.com/en/learning-center)\n* [ Fees & Charges ](https://www.cibeg.com/en/fees-and-charges)\n* [ Terms & Conditions ](https://www.cibeg.com/en/terms-and-conditions)\n* [ Local ](https://www.cibeg.com/en/personal)\n* [ Abroad ](https://www.cibeg.com/en/personal/segments/overseas-banking)\n* [ Business ](https://www.cibeg.com/en/business)\n* [ Corporate ](https://www.cibeg.com/en/institutional)\n* [ Careers ](https://www.cibeg.com/en/careers)\n* [ Why CIB ](https://www.cibeg.com/en/about-us/what-we-do)\n* [ Email us ](javascript:var%20formattedBody%20=%20\"\";var%20mailToLink%20=%20\"mailto:cib.customercareunit@cibeg.com\"%20+%20encodeURIComponent\\(formattedBody\\);window.location.href%20=%20mailToLink;%20window.location.target%20=%20\"_blank\";%20)\n* [ System Status ](https://www.cibeg.com/en/system-status)\n* [ ](https://play.google.com/store/apps/details?id=com.cibeg.ddc1.digitalbanking.live)\n* [ ](https://apps.apple.com/us/app/cib-egypt-mobile-banking/id6618151705)\n* [ CBE Approvals ](https://www.cibeg.com/en/cbe-approvals)\n* [ Cookie Policy ](https://www.cibeg.com/en/cookie-policy)\n* [ Privacy Policy ](https://www.cibeg.com/en/privacy-policy)\n* [ User Agreements ](https://www.cibeg.com/en/user-agreements)\n* [ ](https://www.facebook.com/CIBEgypt)\n* [ ](https://www.instagram.com/cibegypt/)\n* [ ](https://www.linkedin.com/company/cibegypt)\n* [ ](https://www.youtube.com/user/CIBEgypt)\n* [ ](https://x.com/CIB_EG_OFFICIAL)\n* [ ](https://wa.me/20219666/)\nCopyright © 2026 Commercial International Bank\nComparing (_0/3_) Reset\n[Compare](https://www.cibeg.com/en/comparison)\nComparing (_0/3_)",
+    "website_metadata": {
+        "url": "https://www.cibeg.com/en",
+        "content_length": 12609
+    },
+    "contact": {
+        "emails": [
+            "cib.customercareunit@cibeg.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://x.com/CIB_EG_OFFICIAL"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [
+        "banking",
+        "retail banking"
+    ],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Banking",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/company/cibegypt",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "emails": [
+        "cib.customercareunit@cibeg.com"
+    ],
+    "phones": [
+        "7542219142",
+        "3743) 24",
+        "2-24-2026-",
+        "2-19-2026-",
+        "12-14-2025-",
+        "08158701",
+        "59037712",
+        "6618151705)",
+        "20219666"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "geographic_focus": [
+        "Egypt",
+        "Ethiopia"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\commercial_international_bank.json",
+    "normalized_name": "commercial international bank",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cibeg.com",
+            "website_type": "official",
+            "social_profiles": 5,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "x",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/CIBEgypt",
+                    "normalized": "https://facebook.com/CIBEgypt",
+                    "username": "CIBEgypt",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/cibegypt",
+                    "normalized": "https://instagram.com/cibegypt",
+                    "username": "cibegypt",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/user/CIBEgypt",
+                    "normalized": "https://youtube.com/user/CIBEgypt",
+                    "username": "user",
+                    "valid": true,
+                    "official": true
+                },
+                "x": {
+                    "platform": "x",
+                    "original": "https://x.com/CIB_EG_OFFICIAL",
+                    "normalized": "https://x.com/CIB_EG_OFFICIAL",
+                    "username": "CIB_EG_OFFICIAL",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "cibeg.com"
+                ]
+            },
+            "official": [
+                "cib.customercareunit@cibeg.com"
+            ],
+            "details": [
+                {
+                    "original": "cib.customercareunit@cibeg.com",
+                    "normalized": "cib.customercareunit@cibeg.com",
+                    "domain": "cibeg.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Egypt",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Egypt",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Egypt",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "cib.customercareunit@cibeg.com",
+    "quality": {
+        "phones": {
+            "total": 9,
+            "valid": 0,
+            "removed": 9,
+            "duplicates": 0,
+            "invalid": [
+                "+207542219142",
+                "+20374324",
+                "+202242026",
+                "+202192026",
+                "+2012142025",
+                "+2008158701",
+                "+2059037712",
+                "+206618151705",
+                "+2020219666"
+            ]
+        }
+    }
+}

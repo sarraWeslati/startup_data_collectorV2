@@ -1,0 +1,308 @@
+{
+    "entity_type": "startup",
+    "name": "Arcana Soft",
+    "description": "Arcana Soft est une Startup technologique innovante basée en Tunisie, spécialisée dans les solutions de gestion pour l'industrie. Nous avons développé Arckium GMAO, une solution de maintenance  orientée vers l'industrie 4.0. Cette plateforme intègre l'IoT, l'intelligence artificielle et le cloud pour optimiser la gestion des actifs, anticiper les pannes et réduire les coûts de maintenance en temps réel.",
+    "tagline": "",
+    "industry": "Advanced Manufacturing & Robotics",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "Tunis, Tunisia",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.b2match.com/e/technology-business-cooperation-days-2025/participations/479752",
+    "linkedin_url": "https://www.linkedin.com/company/arcana-soft",
+    "social_media": {
+        "linkedin": "https://linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+        "github": "https://github.com/arcana-softworks"
+    },
+    "contact": {
+        "emails": [
+            "contact@arcana-soft.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk"
+    },
+    "founders": [
+        {
+            "name": "Mohamed Yassine Boumedien",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Sofien Jerfel",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "Arckium",
+            "description": "Arckium is a powerful Computerized Maintenance Management System (CMMS) designed to optimize maintenance operations for businesses of all sizes, offering an intuitive, cloud-based platform to manage assets, schedule maintenance tasks, track work orders, and monitor performance in real-time.",
+            "category": "CMMS"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "startup",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 96,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:09:45.139319",
+        "website_enriched": true,
+        "tavily_results": 17,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": true,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "arcana-soft.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Sep-24"
+    },
+    "external_profiles": {
+        "website": "https://www.b2match.com/e/technology-business-cooperation-days-2025/participations/479752",
+        "linkedin": "https://www.linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+        "github": "https://github.com/arcana-softworks"
+    },
+    "emails": [
+        "contact@arcana-soft.com"
+    ],
+    "phones": [
+        "21623608647"
+    ],
+    "tavily": {
+        "query": "Arcana Soft",
+        "answer": "",
+        "results_count": 17,
+        "urls": [
+            "https://arcana-soft.com/en",
+            "https://arcana-soft.com/",
+            "https://www.linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+            "https://arcanasoft.de/",
+            "https://aeroleads.com/c/arcana-soft",
+            "https://tn.linkedin.com/company/arcana-soft",
+            "https://linkedin.com/in/mohamed-yassine-boumedien-a73895182",
+            "https://linkedin.com/in/sofien-jerfel",
+            "https://linkedin.com/in/seif-allah-ben-ahmed-b4045b242",
+            "https://linkedin.com/in/ahlem-said",
+            "https://linkedin.com/company/arcana-softworks",
+            "https://arcana-softworks.co.uk/",
+            "https://linkedin.com/company/somipem",
+            "https://fakto.ch/company/1815896P",
+            "https://uk.linkedin.com/company/arcana-softworks",
+            "https://github.com/arcana-softworks",
+            "https://www.b2match.com/e/technology-business-cooperation-days-2025/participations/479752"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "[Skip to main content](https://www.b2match.com/e/technology-business-cooperation-days-2025/participations/479752#main-content)\n[Technology & Business Cooperation Days 2025](https://www.b2match.com/e/technology-business-cooperation-days-2025)\nHannover, Germany\n[Home](https://www.b2match.com/e/technology-business-cooperation-days-2025/components/49635)[Participants](https://www.b2match.com/e/technology-business-cooperation-days-2025/components/49636)[Marketplace](https://www.b2match.com/e/technology-business-cooperation-days-2025/components/49637)[Agenda](https://www.b2match.com/e/technology-business-cooperation-days-2025/components/49638)[Organisers](https://www.b2match.com/e/technology-business-cooperation-days-2025/components/50496)\nLog inRegister\nLog inRegister\nLog inRegister\nGo back\n![](https://storage.googleapis.com/b2match-as-1/hGBCSKWBVt8rr52qDuL3BwD4)\n# Arcana Soft\nStart-up\n[www.arcana-soft.com](https://www.arcana-soft.com)Tunis, Tunisia\n1 profile visit\nAboutRepresentativesOpportunities\n## About\n**Arcana Soft** is a dynamic startup specializing in **Arckium** , a powerful **Computerized Maintenance Management System (CMMS)** designed to optimize maintenance operations for businesses of all sizes. **Arckium** offers an intuitive, cloud-based platform that allows companies to manage their assets, schedule maintenance tasks, track work orders, and monitor performance in real-time.\nOur solution helps businesses reduce downtime, improve asset lifespan, and increase operational efficiency through automated workflows and data-driven insights. With **Arckium** , companies can streamline preventive maintenance, ensure compliance, and enhance decision-making with real-time analytics.\nBuilt with scalability in mind, **Arckium** is ideal for industries ranging from manufacturing and facilities management to transportation and healthcare. Arcana Soft’s commitment to continuous innovation ensures that **Arckium** evolves with your business needs, helping you stay ahead in an ever-changing environment.\nSocial media\n[](https://www.linkedin.com/company/arcana-soft/)\nDigital Ecosystems\nBusiness Management Software\nSmart Manufacturing\nProcess Automation\n## Representatives\n[Mohamed Yassine Boumedien](https://www.b2match.com/e/technology-business-cooperation-days-2025/participants/2861120)\nCEO\nArcana Soft\n## Marketplace (1)\n* ![](https://img.youtube.com/vi/0_fcwNbP9Sg/mqdefault.jpg)\nVideo\nProduct\n[Arckium](https://www.b2match.com/e/technology-business-cooperation-days-2025/opportunities/UGFydGljaXBhdGlvbk9wcG9ydHVuaXR5OjE0OTUzOA==)\nArckium is a cloud-based CMMS developed by Arcana Soft to help businesses streamline maintenance management.\n* Buyer\n* Investment/Finance\n* Re-Seller/Wholesaler\n* and 1 more item+ 1\nAuthor\n[Mohamed Yassine Boumedien](https://www.b2match.com/e/technology-business-cooperation-days-2025/participants/2861120)\nCEO at Arcana Soft\nTunis, Tunisia\n## We use cookies\nHi, this website uses essential cookies to ensure its proper operation and tracking cookies to understand how you interact with it. The latter will be set only after consent. Let me choose\nAccept allRefuse all\n## Footer navigation\nPowered by [b2match](https://www.b2match.com?utm_source=nexteventapp&utm_medium=logo&utm_content=web_app_footer&utm_term=technology-business-cooperation-days-2025)\n* [Terms of Use](https://www.b2match.com/terms-of-use-participants?utm_source=nexteventapp&utm_medium=link&utm_content=web_app_footer&utm_term=technology-business-cooperation-days-2025)\n* [Privacy Policy](https://www.b2match.com/privacy-policy?utm_source=nexteventapp&utm_medium=link&utm_content=web_app_footer&utm_term=technology-business-cooperation-days-2025)\n* [Imprint](https://www.b2match.com/imprint?utm_source=nexteventapp&utm_medium=link&utm_content=web_app_footer&utm_term=technology-business-cooperation-days-2025)\n* Cookie Settings\nPowered by [b2match](https://www.b2match.com?utm_source=nexteventapp&utm_medium=logo&utm_content=web_app_footer&utm_term=technology-business-cooperation-days-2025)\n[![Get it on Google Play](https://cdn-next.b2match.com/e/img/google_play.svg)](https://play.google.com/store/apps/details?id=com.b2match.app)[![Download on the App Store](https://cdn-next.b2match.com/e/img/app_store.svg)](https://itunes.apple.com/us/app/b2match/id1029868635)",
+    "website_metadata": {
+        "url": "https://www.b2match.com/e/technology-business-cooperation-days-2025/participations/479752",
+        "content_length": 4301
+    },
+    "linkedin": "https://www.linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\arcana_soft.json",
+    "normalized_name": "arcana soft",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "b2match.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "github",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+                    "normalized": "https://linkedin.com/posts/arcana-soft_hannovermesse-arckium-arckybot-activity-7312484078480465920-tcxk",
+                    "username": "posts",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/arcana-softworks",
+                    "normalized": "https://github.com/arcana-softworks",
+                    "username": "arcana-softworks",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "arcana-soft.com"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "contact@arcana-soft.com",
+                    "normalized": "contact@arcana-soft.com",
+                    "domain": "arcana-soft.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@arcana-soft.com",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+21621623608647",
+                "+2162861120",
+                "+2161029868635"
+            ]
+        }
+    }
+}

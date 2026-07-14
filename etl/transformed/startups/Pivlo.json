@@ -1,0 +1,188 @@
+{
+    "entity_type": "startup",
+    "name": "Pivlo",
+    "description": "Pivlo est une plateforme de visualisation de produits en 3D et de réalité augmentée qui permet aux marques de collaborer, de gérer et de distribuer des visuels interactifs en temps réel à grande échelle.",
+    "tagline": "",
+    "industry": "Ad Tech and Creative Tech",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2022",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "",
+    "linkedin_url": "",
+    "social_media": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [
+        {
+            "name": "Hamadi Ben Slimane",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Montassar Mosbehi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": false,
+        "has_linkedin": false,
+        "founders_count": 2,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-22"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\pivlo.json",
+    "normalized_name": "pivlo",
+    "industries": [],
+    "external_profiles": {},
+    "etl": {
+        "website_validation": {
+            "website_valid": false,
+            "website_domain": "",
+            "website_type": "unknown",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

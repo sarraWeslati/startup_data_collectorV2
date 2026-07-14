@@ -1,0 +1,282 @@
+{
+    "name": "Africa Eats",
+    "description": "A publicly listed holding company that invests in and supports a portfolio of African food and agriculture companies, aiming to reduce post‑harvest losses, increase smallholder farmer incomes and move Africa towards net food export.",
+    "organization_type": "",
+    "country": "Mauritius",
+    "city": "",
+    "website": "https://www.africaeats.com",
+    "linkedin": "https://linkedin.com/company/africa-eats",
+    "investment_focus": [
+        "food",
+        "agriculture",
+        "smallholder farmers",
+        "food security",
+        "impact investing"
+    ],
+    "investment_stages": [
+        "growth-stage"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.africaeats.com/africa-eats-ltd",
+        "linkedin": "https://linkedin.com/company/africa-eats"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/africa-eats"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T15:07:35.479201+00:00",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Africa Eats",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://www.africaeats.com/africa-eats-ltd/",
+            "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africa-eats-ltd?market=official",
+            "https://www.africaeats.com/portfolio/",
+            "https://en.wikipedia.org/wiki/Africa_Eats",
+            "https://linkedin.com/company/africa-eats",
+            "https://mu.linkedin.com/company/africa-eats",
+            "https://linkedin.com/in/lunarmobiscuit",
+            "https://www.linkedin.com/posts/africa-eats_berkshire-africa-activity-7221924266596782080-SE44",
+            "https://linkedin.com/in/saifahmed",
+            "https://www.cbinsights.com/company/africa-eats",
+            "https://startupintros.com/orgs/africa-eats",
+            "https://www.africaeats.com/",
+            "https://www.africaeats.com/how-it-works/",
+            "https://images.afsic.net/African-Investments-Brochure.pdf",
+            "https://africanfinancials.com/company/mu-eats/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 1,
+        "investment_focus_count": 5,
+        "investment_stages_count": 1,
+        "geographic_focus_count": 1,
+        "partners_count": 2,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 3,
+        "leadership_count": 2,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "# [![Africa Eats](https://www.africaeats.com/wp-content/uploads/2020/06/Africa-Eats-Maize-200.png)](https://www.africaeats.com/)\n* [Home](https://www.africaeats.com/)\n* [Portfolio](https://www.africaeats.com/portfolio/)\n* [How it Works](https://www.africaeats.com/how-it-works/)\n* [Invest](https://www.africaeats.com/invest/)\n* [Blog](https://www.africaeats.com/blog/)\n* [Podcasts](https://www.africaeats.com/podcast/)\n## [Stories of for-profit solutions to hunger and poverty](https://www.africaeats.com/stories-of-for-profit-solutions-to-hunger-and-poverty/)\n[Read](https://www.africaeats.com/stories-of-for-profit-solutions-to-hunger-and-poverty/)\n![Stories of for-profit solutions to hunger and poverty](https://www.africaeats.com/wp-content/uploads/2021/08/Africa-Eats-stories-header.jpg)\n## [Guided Tours](https://www.africaeats.com/guided-tours/)\n[Read](https://www.africaeats.com/guided-tours/)\n![Guided Tours](https://www.africaeats.com/wp-content/uploads/2020/07/Guided-tours.jpg)\n## [Invest](https://www.africaeats.com/invest/)\n[Read](https://www.africaeats.com/invest/)\n![Invest](https://www.africaeats.com/wp-content/uploads/2024/10/SEM-transparent.png)\n## [How it Works](https://www.africaeats.com/how-it-works/)\n[Read](https://www.africaeats.com/how-it-works/)\n![How it Works](https://www.africaeats.com/wp-content/uploads/2024/05/Slide2.jpeg)\n## [Portfolio](https://www.africaeats.com/portfolio/)\n[Read](https://www.africaeats.com/portfolio/)\n![Portfolio](https://www.africaeats.com/wp-content/uploads/2024/01/Africa-Eats-Map-2023.12.png)\n## [Berkshire Africa](https://www.africaeats.com/berkshire-africa/)\n[Read](https://www.africaeats.com/berkshire-africa/)\n![Berkshire Africa](https://www.africaeats.com/wp-content/uploads/2024/07/Berkshire-Africa-on-Amazon.png)\n## [Stories of for-profit solutions to hunger and poverty](https://www.africaeats.com/stories-of-for-profit-solutions-to-hunger-and-poverty/)\n[Read](https://www.africaeats.com/stories-of-for-profit-solutions-to-hunger-and-poverty/)\n![Stories of for-profit solutions to hunger and poverty](https://www.africaeats.com/wp-content/uploads/2021/08/Africa-Eats-stories-header.jpg)\n## [Guided Tours](https://www.africaeats.com/guided-tours/)\n[Read](https://www.africaeats.com/guided-tours/)\n![Guided Tours](https://www.africaeats.com/wp-content/uploads/2020/07/Guided-tours.jpg)\n## [Invest](https://www.africaeats.com/invest/)\n[Read](https://www.africaeats.com/invest/)\n![Invest](https://www.africaeats.com/wp-content/uploads/2024/10/SEM-transparent.png)\n## [How it Works](https://www.africaeats.com/how-it-works/)\n[Read](https://www.africaeats.com/how-it-works/)\n![How it Works](https://www.africaeats.com/wp-content/uploads/2024/05/Slide2.jpeg)\n## [Portfolio](https://www.africaeats.com/portfolio/)\n[Read](https://www.africaeats.com/portfolio/)\n![Portfolio](https://www.africaeats.com/wp-content/uploads/2024/01/Africa-Eats-Map-2023.12.png)\n## [Berkshire Africa](https://www.africaeats.com/berkshire-africa/)\n[Read](https://www.africaeats.com/berkshire-africa/)\n![Berkshire Africa](https://www.africaeats.com/wp-content/uploads/2024/07/Berkshire-Africa-on-Amazon.png)\n### Africa Eats\n![](https://www.africaeats.com/wp-content/uploads/2020/06/Africa-Eats-Maize-400.png)\nDespite over ¾ of Africans being **farmers** or **children of farmers** , not every African is able to eat three meals per day. Most of that is due to post-harvest losses, with up to ⅓ of the grain and almost ½ of all the fruit and vegetables grown never making it to a plate to eat.\nBecause of the post-harvest losses, Africa spends **tens of billions of dollars** per year **importing food**. Ending this downward spiral of mounting debt ends when Africa is a net exporter of food.\nThere is **far too much friction** in **funding** the existing, homegrown, for-profit **solutions to hunger and poverty** too often ignored by financial institutions. Not just initial funding, but growth-stage funding and critical financial services.\nA solution for all these issues is **Africa Eats** , a holding company with a diverse set of African food/ag companies supporting hundreds of thousands of **smallholder farmers** , feeding millions of Africans.\n![](https://www.africaeats.com/wp-content/uploads/2026/04/Africa-Eats-Map-2025-09.png)\nAfrica Eats does not try solving this problem from scratch, but instead begins with **two dozen[bizi](https://www.africaeats.com/bizi/)**, who were all once tiny SMEs, who in 2025 earned **over $56 million** in aggregate revenues, **over $8 million** in aggregate profits, and which increased the incomes of more than 1 million smallholder farmers and their families.\n[![](https://www.africaeats.com/wp-content/uploads/2022/03/How-it-works-1024x75.png)](https://www.africaeats.com/how-it-works/)\n[See how it works](https://www.africaeats.com/how-it-works/) in more detail and [contact us](https://www.africaeats.com/contact/) if you are interested in owning a piece of this fast-growing portfolio or if you can help us grow these companies even faster.\n### Latest stories\n## [Why did we list on a stock exchange?](https://www.africaeats.com/why-did-we-list-on-a-stock-exchange/)\nIn [Event](https://www.africaeats.com/category/event/)\n4 weeks ago\n2 Min read\nW\n[![](https://www.africaeats.com/wp-content/uploads/2026/06/Why-a-Public-Company-720x405.jpg)](https://www.africaeats.com/why-did-we-list-on-a-stock-exchange/)\nWhy is Africa Eats a publicly listed company? Why did we do that when the company was valued at just $25 million? Why Mauritius? Recorded live at Africa Eats’ 2026 Annual Gathering. Africa Eats’ co-founders Luni Libes and Jumaane Tafawa answer these and related questions. A glimpse into the internal-only Day 2 activities of that event. AI SUMMARY: Key Highlights & Core Motivations...\n## [How do you value the bizi?](https://www.africaeats.com/how-do-you-value-the-bizi/)\nIn [Event](https://www.africaeats.com/category/event/)\n4 weeks ago\n3 Min read\nH\n[![](https://www.africaeats.com/wp-content/uploads/2026/06/How-do-you-Value-SMEs-720x405.jpg)](https://www.africaeats.com/how-do-you-value-the-bizi/)\nHow do you value a portfolio of fast-growing, profitable African SMEs? Carefully. One by one. Using a mix of fundamentals, depending on the stage of growth, historic performance, and other factors: Recorded live at Africa Eats’ 2026 Annual Gathering. Africa Eats’ co-founders Luni Libes and Jumaane Tafawa explain to the bizi how the world values their companies, and through that how...\n## [What do Farmers Need?](https://www.africaeats.com/what-do-farmers-need/)\nIn [Event](https://www.africaeats.com/category/event/)\n4 weeks ago\n14 Min read\nW\n[![](https://www.africaeats.com/wp-content/uploads/2026/06/What-do-Farmers-Need-720x405.jpg)](https://www.africaeats.com/what-do-farmers-need/)\nWhat do African smallholder farmers need? No one truly knows. No one that we know of has ever asked more than 1,000 (of the hundreds of millions) what they think they need. Recorded live at Africa Eats’ 2026 Annual Gathering. This is a discussion between Africa Eats’ co-founders Luni Libes and Jumaane Tafawa with the founders of the bizi. A glimpse into the internal-only Day 2...\n## [The Q1 2026 Earnings Call](https://www.africaeats.com/the-q1-2026-earnings-call/)\nIn [News](https://www.africaeats.com/category/news/)\n2 months ago\n4 Min read\nT\nAfrica Eats shared the highlights of Q1 2026 on a Zoom call with shareholders. A video recording of that call is below. The written report can be downloaded here, the slides from this presentation here, and all published reports are available on tuesday.africa/EATS: 00:00 Welcome00:28 Mission01:07 2026 Annual Gathering03:44 Bizi03:56 Aggregate Revenues05:01 Valuation09:58 Quarterly Financial...\n## [2025 Annual Report](https://www.africaeats.com/2025-annual-report/)\nIn [Uncategorized](https://www.africaeats.com/category/uncategorized/)\n3 months ago\n1 Min read\n2\nAs a publicly listed company Africa Eats publishes a detailed report of its annual activities along with audited financial reports. This year’s Annual Report includes details on: Aggregate portfolio revenues Aggregate portfolio profits Another lesson from Berkshire Hathaway New bizi Failed bizi Compliance ESG The Annual Gathering Financial reports Stock price Team The complete report from...\n## [The IPO Playbook](https://www.africaeats.com/the-ipo-playbook/)\nIn [Uncategorized](https://www.africaeats.com/category/uncategorized/)\n5 months ago\n1 Min read\nT\nWe listed three African companies on the Mauritian stock exchange in a single day, a meat processor from Rwanda, an agro-vet supplier from Malawi, and Africa Eats too. In this podcast, Luni Libes, Africa Eats’ CEO, explains how and why we did that. In this episode, we break down how we took SMEs public, why we created Africa’s first equity market maker, and how African founders can...\n## [25KW of Solar on Nyota](https://www.africaeats.com/25kw-of-solar-on-nyota/)\nIn [Impact](https://www.africaeats.com/category/impact/), [News](https://www.africaeats.com/category/news/)\n8 months ago\n1 Min read\n2\n[![](https://www.africaeats.com/wp-content/uploads/2025/11/Solar-Nyota-heading-720x126.jpg)](https://www.africaeats.com/25kw-of-solar-on-nyota/)\nNyota manufactures frozen vegetables, fruits, and beans under the brand name Frozen Isle and sauces under the brand Ntamu. And now, thanks to Africa Eats, is doing so using 25KW of solar power on the roof of their factory outside Nairobi, Kenya.\nafricaeats.com/nyota/\n## [Top Performing Stock](https://www.africaeats.com/top-performing-stock/)\nIn [Stock Market](https://www.africaeats.com/category/stock-market/)\n8 months ago\n1 Min read\nT\n[![](https://www.africaeats.com/wp-content/uploads/2025/11/SEM-YTD-header-720x198.jpg)](https://www.africaeats.com/top-performing-stock/)\nAfrica Eats listed on the Stock Exchange of Mauritius 11 months ago. How is the stock performing as a public company. Fifth best performer year-to-date, up 18% for the year: Up over 2.6x over the last five years. The stock price was $1.00/share upon incorporation, and the price closed today at $2.68, up again from when the screen shot below was taken. Anyone in the world can buy shares via...\n## [Why Invest in Africa?](https://www.africaeats.com/why-invest-in-africa/)\nIn [News](https://www.africaeats.com/category/news/)\n8 months ago\n1 Min read\nW\n[![](https://www.africaeats.com/wp-content/uploads/2025/11/Impact-Investing-in-Africa-header-720x205.jpg)](https://www.africaeats.com/why-invest-in-africa/)\nIn this conversation, Luni Libes, CEO of Africa Eats, discusses the transformative potential of impact investing in Africa, focusing on agriculture and food security. He shares insights on how his approach differs from traditional venture capital, emphasizing profitability and sustainable business models. Luni highlights the unique challenges and opportunities within the African startup...\n## [The Q3 2025 Earnings Call](https://www.africaeats.com/the-q3-2025-earnings-call/)\nIn [News](https://www.africaeats.com/category/news/)\n8 months ago\n1 Min read\nT\nAfrica Eats shared the highlights of Q3 2025 on a Zoom call with shareholders, recorded below:\n00:00 Welcome 21:30 Foward Looking 30:20 Q&A\nSee tuesday.africa/EATS for the latest share price, audited financial reports, announcements, and news.\n[Load More](https://www.africaeats.com/page/2/)\nCopyright © 2023 Africa Eats Ltd.\n[![Africa Eats](https://www.africaeats.com/wp-content/uploads/2020/06/Africa-Eats-Maize-200.png)](https://www.africaeats.com/)\n* [Home](https://www.africaeats.com/)\n* [Portfolio](https://www.africaeats.com/portfolio/)\n* [How it Works](https://www.africaeats.com/how-it-works/)\n* [Invest](https://www.africaeats.com/invest/)\n* [Blog](https://www.africaeats.com/blog/)\n* [Podcasts](https://www.africaeats.com/podcast/)\nSearch\n#### Recent Posts\n* [Why did we list on a stock exchange?](https://www.africaeats.com/why-did-we-list-on-a-stock-exchange/)\n* [How do you value the bizi?](https://www.africaeats.com/how-do-you-value-the-bizi/)\n* [What do Farmers Need?](https://www.africaeats.com/what-do-farmers-need/)\n* [The Q1 2026 Earnings Call](https://www.africaeats.com/the-q1-2026-earnings-call/)\n* [2025 Annual Report](https://www.africaeats.com/2025-annual-report/)\n#### Categories\n* [Business overview](https://www.africaeats.com/category/business-overview/)\n* [Country](https://www.africaeats.com/category/country/)\n* [Botswana](https://www.africaeats.com/category/country/botswana/)\n* [Ethiopia](https://www.africaeats.com/category/country/ethiopia/)\n* [Ghana](https://www.africaeats.com/category/country/ghana/)\n* [Kenya](https://www.africaeats.com/category/country/kenya/)\n* [Malawi](https://www.africaeats.com/category/country/malawi/)\n* [Nigeria](https://www.africaeats.com/category/country/nigeria/)\n* [Rwanda](https://www.africaeats.com/category/country/rwanda/)\n* [Tanzania](https://www.africaeats.com/category/country/tanzania/)\n* [Uganda](https://www.africaeats.com/category/country/uganda/)\n* [Zambia](https://www.africaeats.com/category/country/zambia/)\n* [e-Commerce](https://www.africaeats.com/category/e-commerce/)\n* [Event](https://www.africaeats.com/category/event/)\n* [Impact](https://www.africaeats.com/category/impact/)\n* [Investments](https://www.africaeats.com/category/investments/)\n* [News](https://www.africaeats.com/category/news/)\n* [Other](https://www.africaeats.com/category/other/)\n* [Podcast](https://www.africaeats.com/category/podcast/)\n* [Research reports](https://www.africaeats.com/category/research-reports/)\n* [Sector](https://www.africaeats.com/category/sector/)\n* [Aggregation](https://www.africaeats.com/category/sector/aggregation/)\n* [Cooking](https://www.africaeats.com/category/sector/cooking/)\n* [Fruits and Vegetables](https://www.africaeats.com/category/sector/fruits-and-vegetables/)\n* [Honey](https://www.africaeats.com/category/sector/honey/)\n* [Livestock](https://www.africaeats.com/category/sector/livestock/)\n* [Logistics](https://www.africaeats.com/category/sector/logistics/)\n* [Manufacturing](https://www.africaeats.com/category/sector/manufacturing/)\n* [Seeds](https://www.africaeats.com/category/sector/seeds/)\n* [Site Visits](https://www.africaeats.com/category/site-visits/)\n* [Stock Market](https://www.africaeats.com/category/stock-market/)\n* [Uncategorized](https://www.africaeats.com/category/uncategorized/)\n* [White papers](https://www.africaeats.com/category/whitepaper/)\n![](https://pixel.wp.com/g.gif?v=ext&blog=179110762&post=2&tz=3&srv=www.africaeats.com&j=1%3A15.9.1&host=www.africaeats.com&ref=&fcp=10520&rand=0.43043872253539484)",
+    "website_metadata": {
+        "url": "https://www.africaeats.com/",
+        "content_length": 14589
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/africa-eats"
+    },
+    "founders": [
+        {
+            "name": "Luni Libes",
+            "role": "Co-founder, CEO",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Jumaane Tafawa",
+            "role": "Co-founder",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [
+        {
+            "name": "Luni Libes",
+            "role": "CEO",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Jumaane Tafawa",
+            "role": "Co-founder",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Food and Agriculture",
+    "headquarters": "",
+    "linkedin_url": "https://linkedin.com/company/africa-eats",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "geographic_focus": [
+        "Africa"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "phones": [
+        "07 2026",
+        "179110762",
+        "8509261721854103)",
+        "5866523789863466)",
+        "43043872253539484)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\africa_eats.json",
+    "normalized_name": "africa eats",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "africaeats.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/africa-eats",
+                    "normalized": "https://linkedin.com/company/africa-eats",
+                    "username": "africa-eats",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Mauritius",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Mauritius",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Kenya",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 0,
+            "removed": 5,
+            "duplicates": 0,
+            "invalid": [
+                "072026",
+                "179110762",
+                "8509261721854103",
+                "5866523789863466",
+                "43043872253539484"
+            ]
+        }
+    }
+}

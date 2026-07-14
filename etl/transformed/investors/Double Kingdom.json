@@ -1,0 +1,181 @@
+{
+    "name": "Double Kingdom",
+    "description": "Double Kingdom is an infrastructure developer, operator and logistics services company focused on West Africa. Based in London, Double Kingdom has operations in Energy Logistics, Real Estate, Waste Recycling and Facilities Management.",
+    "organization_type": "",
+    "country": "",
+    "city": "London",
+    "website": "https://www.doublekingdom.com",
+    "linkedin": "https://linkedin.com/in/angus-mccaffrey-b812b410",
+    "investment_focus": [
+        "Energy Logistics",
+        "Real Estate",
+        "Waste Recycling",
+        "Facilities Management",
+        "Infrastructure"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.doublekingdom.com",
+        "linkedin": "https://linkedin.com/in/angus-mccaffrey-b812b410",
+        "wellfound": "https://index.stuntdouble.io/d/wellfound.com"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/angus-mccaffrey-b812b410"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:14:32.644695+00:00",
+        "website_enriched": false,
+        "tavily_results": 13,
+        "llm_enriched": true
+    },
+    "tavily": {
+        "query": "Double Kingdom",
+        "answer": "",
+        "results_count": 13,
+        "urls": [
+            "https://www.doublekingdom.com/",
+            "https://double-kingdom.com/",
+            "https://find-and-update.company-information.service.gov.uk/company/08704172/persons-with-significant-control",
+            "https://www.offertoday.com/hk/company/_v4yuUysQPX3EekG0gzmbQ==",
+            "https://library.oapen.org/handle/20.500.12657/87108",
+            "https://linkedin.com/in/angus-mccaffrey-b812b410",
+            "https://linkedin.com/in/hercules-christina-1a311516b",
+            "https://linkedin.com/in/alex-hing-hung-wu-28b93678",
+            "https://linkedin.com/in/candy-fu",
+            "https://hkg.databasesets.com/en/gongsimingdan/number/2707427",
+            "https://beststartup.co.uk/united-kingdoms-101-most-impressive-successful-ceos-in-the-information-technology-space/",
+            "https://index.stuntdouble.io/d/wellfound.com",
+            "https://www.afsic.net/private-equity-firms-in-africa/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 5,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "geographic_focus": [
+        "West Africa"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 64,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\double_kingdom.json",
+    "normalized_name": "double kingdom",
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "primary_social": "https://linkedin.com/in/angus-mccaffrey-b812b410"
+    },
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "doublekingdom.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/angus-mccaffrey-b812b410",
+                    "normalized": "https://linkedin.com/in/angus-mccaffrey-b812b410",
+                    "username": "angus-mccaffrey-b812b410",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

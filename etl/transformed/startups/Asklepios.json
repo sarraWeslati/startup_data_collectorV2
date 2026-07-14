@@ -1,0 +1,316 @@
+{
+    "entity_type": "startup",
+    "name": "Asklepios",
+    "description": "Asklepios est un compagnon médical permettant au patient de communiquer ses informations médicales à son médecin pour l'optimisation thérapeutique de ses maladies.",
+    "tagline": "",
+    "industry": "HealthTech",
+    "keywords": [],
+    "country": "",
+    "city": "Hamburg",
+    "headquarters": "Rübenkamp 226, 22307 Hamburg",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.asklepios.com/en/group",
+    "linkedin_url": "https://de.linkedin.com/company/asklepios",
+    "social_media": {
+        "facebook": "https://facebook.com/asklepioskliniken",
+        "instagram": "https://instagram.com/asklepioskliniken",
+        "youtube": "https://youtube.com/asklepioskliniken"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "Rübenkamp 226, 22307 Hamburg",
+        "primary_social": "https://facebook.com/asklepioskliniken"
+    },
+    "founders": [
+        {
+            "name": "Marwen Badri",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Youssef El Behi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:15:01.590763",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jun-19"
+    },
+    "external_profiles": {
+        "website": "https://www.asklepios.com/en/group",
+        "linkedin": "https://de.linkedin.com/company/asklepios"
+    },
+    "tavily": {
+        "query": "Asklepios",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://www.asklepios.com/en/group",
+            "https://asklepios.com/konzern",
+            "https://www.asklepios.com/konzern/standorte",
+            "https://www.asklepios.com/konzern/unternehmen",
+            "https://en.wikipedia.org/wiki/Asklepios_Kliniken",
+            "https://de.linkedin.com/company/asklepios",
+            "https://www.linkedin.com/company/asklepios-klinik-st.-georg",
+            "https://www.linkedin.com/company/asklepios-klinik-langen",
+            "https://linkedin.com/in/torsten-j%C3%B6rres-34a69851",
+            "https://www.linkedin.com/company/asklepios-stadtklinik",
+            "https://tracxn.com/d/companies/asklepios/__ISLGnRfb4-epk8Y3N3SYbZQv5Y1bJlErGlXCxz79K7k",
+            "https://tracxn.com/d/companies/asklepios/__ISLGnRfb4-epk8Y3N3SYbZQv5Y1bJlErGlXCxz79K7k/funding-and-investors",
+            "https://linkedin.com/company/asklepios",
+            "https://www.asklepios.com/konzern/unternehmen/investor-relations/auf-einen-blick",
+            "https://www.asklepios.com/karriere",
+            "https://www.asklepios.com/karriere/ausbildung-studium/traineeprogramm-klinikmanagement",
+            "https://startupcity.hamburg/startups-ecosystem/asklepios",
+            "https://www.asklepios.com/en/group/investor-relations/at-a-glance",
+            "https://www.asklepios.com/dam/jcr:e3e93ed6-41d6-4108-bd29-8309e01f7361/asklepios-factsheet-en-2022.pdf"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "Zum HauptbereichZum Footer\n[To homepage](https://www.asklepios.com/en/group)\nEN | English\n* [Search](https://www.asklepios.com/en/group/search)\n* [Contact](https://www.asklepios.com/en/group/contact)\n* Locations\n* About us\n* Investor Relations\n* Career\n# Asklepios Group\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F9x4%252Fdam%252Fjcr%253Aaea1e7f3-2b0c-49ce-8d01-24051914b68d%252Fasklepios-kliniken-konzern-start_.jpg&w=1920&q=75)\n## We are here for you. 24 hours a day. 365 days a year.\n* [Find location](https://www.asklepios.com/en/group/locations)\n* [About us](https://www.asklepios.com/en/group/about-us)\n* [Find job](https://www.asklepios.com/en/group/career)\n* [Financial information](https://www.asklepios.com/en/group/investor-relations)\nAs a leading private operator of hospitals and healthcare facilities in Germany, Asklepios provides top-class care to medical patients. With 70,000 employees, we put all our energy and experience into the medical quality of our treatment — for the benefit of our patients.\n## Our locations\n### Nothing found?\n[Find a location](https://www.asklepios.com/en/group/locations/find-a-location)\n## Clinics and medical care centers\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253Aff6d52d4-8fe0-4573-a887-a822bbf543d5%252FHaus%252B1_8B.jpg&w=1920&q=75)\nacademic teaching hospital, acute care hospital, Center of Excellence, psychosomatics/psychiatry\n### Asklepios Klinikum Harburg\nEißendorfer Pferdeweg 52\n21075 Hamburg\n(0 40) 18 18-860\n[To the facility](https://www.asklepios.com/harburg)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253A9f84ebdf-3f6b-4aba-bf98-8ba535136008%252Flangen-aklangen%252B4910.jpg&w=1920&q=75)\nacute care hospital, academic teaching hospital, scientific activities\n### Asklepios Klinik Langen\nRöntgenstraße 20\n63225 Langen\n(0 61 03) 912-0\n[To the facility](https://www.asklepios.com/langen)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253Ad7f14229-5c07-4556-929c-22ec3fbe82c0%252FAKGauting_Websitebild-Eingang_3150x1172.jpg&w=1920&q=75)\nCenter of Excellence, acute care hospital, academic teaching hospital, scientific activities\n### Asklepios Lungenklinik Gauting\nRobert-Koch-Allee 2\n82131 München-Gauting\n(0 89) 85 791-0\n[To the facility](https://www.asklepios.com/gauting)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253A6f945d92-2c2f-41d7-b8f5-6bb920e13c1c%252F20260302-schwedt-DJI_0157.jpg&w=1920&q=75)\nCenter of Excellence, acute care hospital, academic teaching hospital, scientific activities\n### Asklepios Klinikum Uckermark\nAm Klinikum 1\n16303 Schwedt/Oder\n(0 33 32) 53-0\n[To the facility](https://www.asklepios.com/schwedt)\n[All acute care hospitals](https://www.asklepios.com/konzern/standorte/einrichtungssuche?typeIds=8acb2944-4a7a-41a8-993f-029324ecc393)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253A28a85d64-dc4e-40f5-92ae-c8cc8ed6d38b%252FEmpfang02.jpg&w=1920&q=75)\ndoctor's office / Medical Care Center\n### Facharztzentrum an der Kampnagelfabrik\nJarrestraße 2-6\n22303 Hamburg\n040181215·0\n[To the facility](https://www.facharztzentrum-kampnagel.de/)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253Affe4878f-3a3a-4ceb-9e5f-d631d2fa7f21%252FASK_Visual_MVZ_1232x693%252B%2525281%252529.png&w=1920&q=75)\ndoctor's office / Medical Care Center\n### Asklepios MVZ Harburg\nEißendorfer Pferdeweg 52\n21075 Hamburg\n[To the facility](https://www.asklepios.com/mvz-harburg)\n![](https://www.asklepios.com/_next/image?url=%2Fimages%2Fsvg%2Ffallback-facility-teaser.svg&w=1920&q=75)\ndoctor's office / Medical Care Center\n### RheinMain-Med Praxis für Allgemeinmedizin, Kardiologie & Gastroenterologie Frankfurt\nHainer Weg 24\n60599 Frankfurt am Main\n[To the facility](https://www.asklepios.com/rheinmainmed-frankfurt/)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253Ab2499b8f-245f-4dc1-864a-8e2ab778af30%252FASK_Visual_MVZ_1232x693%252B%2525281%252529.png&w=1920&q=75)\ndoctor's office / Medical Care Center\n### Asklepios MVZ Lich\nGoethestraße 4\n35423 Lich\n+496404 9284-48\n[To the facility](https://www.asklepios.com/mvz-lich)\n[All medical care centers](https://www.asklepios.com/konzern/standorte/einrichtungssuche?typeIds=12c42a04-4bca-4a5b-84c0-5803215d5de4)\n![](https://www.asklepios.com/_next/image?url=%2Fapi%2Fimage%3ForiginalSource%3D%252F.imaging%252Ffocalpoint%252F16x9%252Fdam%252Fjcr%253Ac87ddb18-37d8-41cb-b57c-09166815d3ff%252Fasklepios-karriere-ausbildung-und-studium-pj.jpg&w=1920&q=75)\n## Career opportunities\nDiscover exciting job opportunities at Asklepios in Germany – from apprenticeships to senior management roles. Learn about our modern, supportive work environment and find helpful guidance for international applicants to prepare your application. Be part of future healthcare!\n[Find your job](https://www.asklepios.com/en/group/career)\n## Recent financial news\n[Recent financial news](https://www.asklepios.com/en/group/investor-relations/financial-news)\n### Asklepios Kliniken GmbH & Co. KGaA\nRübenkamp 226 22307 Hamburg\nTel.: +49 40 1818 82 66 96\n[+49 40 1818 82 66 96](tel:+49%2040%201818%2082%2066%2096)[Write a message](https://www.asklepios.com/en/group/contact)[Route Planner](https://maps.google.de/maps?daddr=R%C3%BCbenkamp%20226,%2022307%20Hamburg)\n### Asklepios Group\n* [Find facility](https://www.asklepios.com/konzern/standorte)\n* [Find treatment](https://www.asklepios.com/konzern/diagnosen)\n### Career\n* [Find a job](https://www.asklepios.com/karriere/jobs)\n### Stay informed\n* [](http://www.facebook.com/asklepioskliniken \"Facebook\")\n* [](http://www.youtube.com/asklepioskliniken \"Youtube\")\n* [](https://www.instagram.com/asklepioskliniken/ \"Instagram\")\n* [](https://de.linkedin.com/company/asklepios \"LinkedIn\")\n* [](https://www.tiktok.com/@asklepioskliniken \"TikTok\")\n* [Imprint](https://www.asklepios.com/en/group/imprint)\n* [Privacy Policy](https://www.asklepios.com/en/group/privacy-policy)\n* [Accessibility Statement](https://www.asklepios.com/en/group/accessibility-statement)\n* [Report Barrier](https://www.asklepios.com/en/group/accessibility-statement/report-barrier)\n* Cookie Settings\n© Asklepios Kliniken GmbH & Co. KGaA 2026",
+    "website_metadata": {
+        "url": "https://www.asklepios.com/en/group",
+        "content_length": 6745
+    },
+    "linkedin": "https://de.linkedin.com/company/asklepios",
+    "phones": [
+        "01-24051914",
+        "52 21075",
+        "0 40) 18 18-860",
+        "535136008",
+        "20 63225",
+        "0 40) 18 18-860",
+        "07-4556-929",
+        "2 82131",
+        "0 61 03) 912-0",
+        "20260302-",
+        "1 16303",
+        "0 33 32) 53-0",
+        "2-6 22303",
+        "040181215",
+        "24 60599",
+        "4 35423",
+        "+496404 9284-48",
+        "0-5803215",
+        "09166815",
+        "226 22307",
+        "+49 40 1818 82 66 96"
+    ],
+    "employees_count": "null",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\asklepios.json",
+    "normalized_name": "asklepios",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "asklepios.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "http://www.facebook.com/asklepioskliniken",
+                    "normalized": "https://facebook.com/asklepioskliniken",
+                    "username": "asklepioskliniken",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/asklepioskliniken",
+                    "normalized": "https://instagram.com/asklepioskliniken",
+                    "username": "asklepioskliniken",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "http://www.youtube.com/asklepioskliniken",
+                    "normalized": "https://youtube.com/asklepioskliniken",
+                    "username": "asklepioskliniken",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 21,
+            "valid": 0,
+            "removed": 21,
+            "duplicates": 0,
+            "invalid": [
+                "0124051914",
+                "5221075",
+                "0401818860",
+                "535136008",
+                "2063225",
+                "061039120",
+                "074556929",
+                "282131",
+                "089857910",
+                "20260302",
+                "116303",
+                "03332530",
+                "2622303",
+                "040181215",
+                "2460599",
+                "435423",
+                "+496404928448",
+                "05803215",
+                "09166815",
+                "22622307",
+                "+49401818826696"
+            ]
+        }
+    }
+}

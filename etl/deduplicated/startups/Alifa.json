@@ -1,0 +1,329 @@
+{
+    "entity_type": "startup",
+    "name": "Alifa",
+    "description": "Alifa permet aux propriétaires d'animaux de compagnie de se connecter et de collaborer en ligne. Elle facilite ainsi l'échange d'informations, de conseils, de services, et même d'expériences entre eux. Ce qui permet de créer une communauté en ligne dédiée à la santé et au bien-être des animaux de compagnie en Tunisie.",
+    "tagline": "craft digital success stories",
+    "industry": "HealthTech",
+    "keywords": [],
+    "country": "Morocco",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://thealifa.com",
+    "linkedin_url": "https://pk.linkedin.com/company/the-alifa",
+    "social_media": {
+        "facebook": "https://facebook.com/p/The-Alifa-Digital-Marketing-Agency-61576516214612",
+        "instagram": "https://instagram.com/thealifadigital",
+        "linkedin": "https://linkedin.com/in/alifa-karim"
+    },
+    "contact": {
+        "emails": [
+            "contact@alifa.tn",
+            "contact@thealifa.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/alifa-karim"
+    },
+    "founders": [
+        {
+            "name": "Olfa Abid",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Karim Gharbi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [
+        "Web Development",
+        "SEO",
+        "Social Media Marketing (SMM)",
+        "Amazon FBA (Private Label)",
+        "Content Management System (CMS)",
+        "App Development",
+        "Graphic Design",
+        "Pay-Per-Click (PPC) Advertising",
+        "Email Marketing",
+        "Content Strategy",
+        "E-commerce Platform Development",
+        "Amazon Private Label Services",
+        "Google Marketing Services"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:03:48.638280",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 13,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "alifa.tn",
+                "thealifa.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jun-23"
+    },
+    "external_profiles": {
+        "website": "https://thealifa.com",
+        "linkedin": "https://linkedin.com/in/alifa-karim"
+    },
+    "tavily": {
+        "query": "Alifa",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://www.alifa.ac.id/",
+            "https://alifa.jp/",
+            "https://thealifa.com/",
+            "https://alifa.com.au/",
+            "https://alifa.vn/",
+            "https://linkedin.com/in/alifa-karim",
+            "https://linkedin.com/in/alifa-starlika",
+            "https://linkedin.com/in/alifa-tasnim-tultul",
+            "https://linkedin.com/in/alifawatkins",
+            "https://linkedin.com/in/alifa-alam-ba9661311",
+            "https://alifa.nl/",
+            "https://alifaedtech.com/",
+            "https://linkedin.com/in/alifaazzahraea",
+            "https://linkedin.com/in/alifa-sayed-6524021b4",
+            "https://linkedin.com/in/alifa-ufaira-yusuf-283b201bb",
+            "https://infobiz.md/en/1003604153173/societatea-cu-raspundere-limitata-alifa",
+            "https://companieshouse.id/alifa-budikarina-mandiri",
+            "https://wajahborneo.com/alifa-resmi-di-lounching-tawarkan-warna-baru-penyelenggaraan-even/",
+            "https://portaly.cc/alifaedtech"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![WhatsApp-Image-2025-07-08-at-2.05.49-PM-300×120](https://thealifa.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-07-08-at-2.05.49-PM-300x120-1.webp)](https://thealifa.com/)\n* [Home](https://thealifa.com/)\n* [Services](https://thealifa.com/our-services/)\n* [Web Development](https://thealifa.com/web-development/)\n* [WordPress websites](https://thealifa.com/wordpress-websites/)\n* [Ecommerce Websites](https://thealifa.com/ecommerce-websites/)\n* [Digital Marketing](https://thealifa.com/digital-marketing/)\n* [Social Media Marketing](https://thealifa.com/social-media-marketing/)\n* [Email Marketing](https://thealifa.com/email-marketing/)\n* [PPC Management](https://thealifa.com/ppc-management/)\n* [Meta Ads](https://thealifa.com/meta-ads/)\n* [SEO](https://thealifa.com/our-services/)\n* [GBP Management](https://thealifa.com/gbp-management/)\n* [Local SEO](https://thealifa.com/local-seo/)\n* [Graphic Designing](https://thealifa.com/graphic-designing/)\n* [UI/UX Design](https://thealifa.com/ui-ux-design/)\n* [Print Media Design](https://thealifa.com/print-media-design/)\n* [Social Media Post Design](https://thealifa.com/social-media-post-design/)\n* [Amazon PL/FBA](https://thealifa.com/amazon-pl-fba/)\n* [About Us](https://thealifa.com/about-us/)\n* [Blog](https://thealifa.com/blog/)\n* [Portfolio](https://thealifa.com/portfolio/)\n* [Contact Us](https://thealifa.com/contact-us/)\n[ +92 333 3023391 ](tel:+1-825-747-7024)\n[ Let’s Talk ](https://thealifa.com/contact-us/#contact-form)\n[ ![](https://thealifa.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-07-08-at-2.05.49-PM-300x120-1.webp)](https://thealifa.com/)\n* [Home](https://thealifa.com/)\n* [Services](https://thealifa.com/our-services/)\n* [Web Development](https://thealifa.com/web-development/)\n* [WordPress websites](https://thealifa.com/wordpress-websites/)\n* [Ecommerce Websites](https://thealifa.com/ecommerce-websites/)\n* [Digital Marketing](https://thealifa.com/digital-marketing/)\n* [Social Media Marketing](https://thealifa.com/social-media-marketing/)\n* [Email Marketing](https://thealifa.com/email-marketing/)\n* [PPC Management](https://thealifa.com/ppc-management/)\n* [Meta Ads](https://thealifa.com/meta-ads/)\n* [SEO](https://thealifa.com/our-services/)\n* [GBP Management](https://thealifa.com/gbp-management/)\n* [Local SEO](https://thealifa.com/local-seo/)\n* [Graphic Designing](https://thealifa.com/graphic-designing/)\n* [UI/UX Design](https://thealifa.com/ui-ux-design/)\n* [Print Media Design](https://thealifa.com/print-media-design/)\n* [Social Media Post Design](https://thealifa.com/social-media-post-design/)\n* [Amazon PL/FBA](https://thealifa.com/amazon-pl-fba/)\n* [About Us](https://thealifa.com/about-us/)\n* [Blog](https://thealifa.com/blog/)\n* [Portfolio](https://thealifa.com/portfolio/)\n* [Contact Us](https://thealifa.com/contact-us/)\n[ X ](https://thealifa.com/)\n[ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20120'%3E%3C/svg%3E)](https://thealifa.com/)\n##### About Us\nSide Info Text\n##### Gallery\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal1.webp)\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal2.webp)\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal3.webp)\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal4.webp)\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal5.webp)\n* [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://thealifa.com/wp-content/uploads/2025/05/gal2-Copy.webp)\n##### Follow Us\n![Working late](https://thealifa.com/wp-content/uploads/2025/12/professional-programmer-working-late-dark-office-scaled.jpg)\n## Web Development\nWe build fast, responsive, and SEO-optimized websites tailored to your business goals.\n[ Read More ](https://thealifa.com/contact-us/)\n![representation-user-experience-interface-design](https://thealifa.com/wp-content/uploads/2025/12/representation-user-experience-interface-design-scaled.jpg)\n## Digital Marketing\nStrategic campaigns that increase your visibility on the internet as well as engagement and conversions.\n[ Read More ](https://thealifa.com/digital-marketing/)\n![representation-user-experience-interface-design-3](https://thealifa.com/wp-content/uploads/2025/12/representation-user-experience-interface-design-3-scaled.jpg)\n## SEO Services\nRank higher on search engines with proven on-page, offpage, and technical SEO strategies.\n[ Read more ](https://thealifa.com/seo-services/)\n![Marketing Strategy Planning Strategy Concept](https://thealifa.com/wp-content/uploads/2025/12/marketing-strategy-planning-strategy-concept-scaled.jpg)\n## Graphic Designing\nEye-catching designs for logos, posts, ads, and branding that leave a lasting impression.\n[ Read More ](https://thealifa.com/graphic-designing/)\n![standard-quality-control-concept-m](https://thealifa.com/wp-content/uploads/2025/12/standard-quality-control-concept-m-scaled.jpg)\n## Amazon PL/FBA\nWe help you launch and scale profitable privatelabel products on Amazon using FBA.\n[ Read More ](https://thealifa.com/amazon-pl-fba/)\n![programming-clean](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20736%20736'%3E%3C/svg%3E)\n###  1.5K+\nSatisfied Client\nAbout Our Company\n## Professional Digital Marketing Agency in Karachi, Pakistan\nAt Alifa Digital Marketing, we don’t just offer services—we craft digital success stories. Driven by efficiency and innovation, we are a result-oriented powerhouse delivering tailored web development, SEO, SMM, Amazon FBA, CMS, app development, and graphic design—all under one umbrella.\n[ Get Our Services  ](https://thealifa.com/contact-us/)\nContact Us\n###  [ +92 333 3023391 ](tel:+923333023391)\n## Professional Ecommerce Website\n#### We Help You Launch Your Best Online Store\nAt Alifa Digital Marketing, we build secure, scalable, and user-centric e-commerce platforms tailored to your business—whether you are launching your first online shop or expanding an established enterprise.\nWe go beyond functionality to design seamless shopping experiences that reflect your brand identity, simplify inventory and order management, and turn casual visitors into loyal customers.\n[ Read More ](https://thealifa.com/ecommerce-websites/)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20455'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20438'%3E%3C/svg%3E)\n## Digital Marketing\nAt **The Alifa** , we deliver data-driven marketing strategies designed to build credibility, maximize visibility, and drive measurable growth. Whether your goal is to acquire new customers, foster brand loyalty, or boost sales, our team seamlessly integrates SEO, SMM, PPC, email marketing, and content strategy into a powerful multi-channel approach tailored to your business.\n[ Read More ](https://thealifa.com/digital-marketing/)\n## Graphic Designing\nAt **The Alifa** , we deliver data-driven strategies to build credibility, boost visibility, and drive measurable sales growth. Our team seamlessly integrates SEO, SMM, PPC, email marketing, and content into a powerful, multi-channel approach tailored to your business goals.\n[ Read More ](https://thealifa.com/graphic-designing/)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20640'%3E%3C/svg%3E)\n![Group of young business people working in the office](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201707'%3E%3C/svg%3E)\nBook A Consultancy\n## Our mission is to empower businesses and individuals with cutting-edge digital solutions.\n[ Book Service  ](https://thealifa.com/our-service/)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20403%20192'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20577%20433'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20291'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20617%20404'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20232'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20104'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20339%20102'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2072'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20674%20382'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20195%20195'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20300'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20751'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20266'%3E%3C/svg%3E)\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)\n## Our dedicated support team is available\n24/7 to ensure smooth IT operations,\nquick issue resolution\n[ ](https://www.facebook.com/p/The-Alifa-Digital-Marketing-Agency-61576516214612/) [ ](https://www.instagram.com/thealifadigital/) [ ](https://pk.linkedin.com/company/the-alifa)\n#### Our Services\n* [ Web Development ](https://thealifa.com/web-development/)\n* [ Digital Marketing ](https://thealifa.com/digital-marketing/)\n* [ SEO ](https://thealifa.com/our-services/)\n* [ Graphic Designing ](https://thealifa.com/graphic-designing/)\n* [ Amazon PL/FBA ](https://thealifa.com/amazon-pl-fba/)\n#### Address Company\n[ 2nd Floor, 15-C, Khayaban-e-Rizwan, Phase-VII Defence Housing Authority, Karachi, 75500 ](https://thealifa.com/)\n[ Call Us : +92 333 3023391 ](https://thealifa.com/)\n[ contact@thealifa.com ](http://contact@thealifa.com)\n[ Office : 10:00 am 6:00 pm ](https://thealifa.com/)\n#### Latest Posts\n![Home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20590'%3E%3C/svg%3E)\nJune 24, 2026\n### [Trusted Amazon private label services in Pakistan](https://thealifa.com/amazon-private-label-services-in-pakistan/)\n[ Read More ](https://thealifa.com/amazon-private-label-services-in-pakistan/)\n![Home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E)\nJune 23, 2026\n### [Professional Google Marketing Services to Grow Your Business](https://thealifa.com/best-google-marketing-services-company/)\n[ Read More ](https://thealifa.com/best-google-marketing-services-company/)\n## Copyright @ 2026 The Alifa Digital Marketing Agency\nAll Rights Reserved.\n* [ Privacy policy ](https://thealifa.com/#0)\n* [ Terms of use ](https://thealifa.com/#0)\n* [ Site map ](https://thealifa.com/#0)\n[ Powered by Joinchat ](https://join.chat/en/powered/?site=The%20Alifa&url=https%3A%2F%2Fthealifa.com)\nWelcome to **The Alifa**!\nHow can we help you?\nOpen Chat",
+    "website_metadata": {
+        "url": "https://thealifa.com/",
+        "content_length": 12987
+    },
+    "linkedin": "https://linkedin.com/in/alifa-karim",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\alifa.json",
+    "normalized_name": "alifa",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "thealifa.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/p/The-Alifa-Digital-Marketing-Agency-61576516214612",
+                    "normalized": "https://facebook.com/p/The-Alifa-Digital-Marketing-Agency-61576516214612",
+                    "username": "p",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/thealifadigital",
+                    "normalized": "https://instagram.com/thealifadigital",
+                    "username": "thealifadigital",
+                    "valid": true,
+                    "official": true
+                },
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/alifa-karim",
+                    "normalized": "https://linkedin.com/in/alifa-karim",
+                    "username": "alifa-karim",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "alifa.tn",
+                    "thealifa.com"
+                ]
+            },
+            "official": [
+                "contact@thealifa.com"
+            ],
+            "details": [
+                {
+                    "original": "contact@alifa.tn",
+                    "normalized": "contact@alifa.tn",
+                    "domain": "alifa.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@thealifa.com",
+                    "normalized": "contact@thealifa.com",
+                    "domain": "thealifa.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@thealifa.com",
+    "quality": {
+        "phones": {
+            "total": 6,
+            "valid": 0,
+            "removed": 6,
+            "duplicates": 0,
+            "invalid": [
+                "55800300",
+                "20250708",
+                "+923333023391",
+                "+18257477024",
+                "+923333023391",
+                "61576516214612"
+            ]
+        }
+    }
+}

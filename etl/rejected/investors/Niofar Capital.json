@@ -1,0 +1,170 @@
+{
+    "entity": {
+        "name": "Niofar Capital",
+        "description": "Manages 5 data types including projects and helps teams and solo users organize, track, and share work in one place.",
+        "organization_type": "",
+        "country": "",
+        "city": "",
+        "website": "https://niofarcapital.com",
+        "linkedin": "",
+        "investment_focus": [],
+        "investment_stages": [],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "website_content": "Niofar Capital\nNiofar Capital\nNiofar Capital  manages 5 data types including projects. Helps you organize, track, and share your work in 1 place for teams and solo users.\nPages\nAbout\n— About on Niofar Capital . Niofar Capital  manages 5 data types including projects.\nAdmin\n— Admin on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nApply\n— Apply on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nContact\n— Contact on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nDashboard\n— Dashboard on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nInvestor Interest\n— Investor Interest on Niofar Capital . Niofar Capital  manages 5 data types including projects.\nMy Submissions\n— My Submissions on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nOur Approach\n— Our Approach on Niofar Capital . Niofar Capital  manages 5 data types including projects.\nProject Detail\n— Project Detail on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nProjects\n— Projects on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nRejoindre\n— Rejoindre on Niofar Capital . Niofar Capital  manages 5 data types including projects.\nRoadshow\n— Roadshow on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.\nSponsors\n— Sponsors on Niofar Capital . Niofar Capital  manages 5 data types including projects.\nSubmit Project\n— Submit Project on Niofar Capital . The premier digital bridge for institutional co-investment and strategic infrast.",
+        "website_metadata": {
+            "url": "https://niofarcapital.com/",
+            "content_length": 1805
+        },
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": ""
+        },
+        "social_media": {},
+        "founders": [],
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {},
+        "external_profiles": {},
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T19:14:48.721244+00:00",
+            "website_enriched": true,
+            "tavily_results": 0,
+            "llm_enriched": true
+        },
+        "tavily": {
+            "query": "Niofar Capital",
+            "answer": "",
+            "results_count": 0,
+            "urls": []
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": false,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 0,
+            "investment_focus_count": 0,
+            "investment_stages_count": 0,
+            "geographic_focus_count": 0,
+            "partners_count": 0,
+            "team_members_count": 0,
+            "social_profiles": 0,
+            "social": {
+                "profiles_count": 0,
+                "linkedin": false,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 41,
+            "level": "Low"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\niofar_capital.json",
+        "normalized_name": "niofar capital",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "niofarcapital.com",
+                "website_type": "official",
+                "social_profiles": 0,
+                "external_profiles": 0
+            },
+            "social_validation": {
+                "report": {
+                    "total": 0,
+                    "valid": 0,
+                    "official": 0,
+                    "platforms": []
+                },
+                "details": {}
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

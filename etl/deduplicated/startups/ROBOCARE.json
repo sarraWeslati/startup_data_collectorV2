@@ -1,0 +1,324 @@
+{
+    "entity_type": "startup",
+    "name": "ROBOCARE",
+    "description": "ROBOCARE (2020)\nSecteur d’activité / Sector : Agritech\nrobocare.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nIMEN HBIRI / AISSA AROUSSE\nihbiri@robocare.tn\nroute de tunis klm10, cité el Ons technopole de Sfax, \nSakiet Ezzit 3021\nActivité Robocare offre une solution pour prévenir la \npropagation rapide des maladies chez les plantes sous \nserres et l'utilisation massive des pesticides. Robocare \ndétecte les maladies à une étape précoce en utilisant la \ntechnologie spectrale ce qui va améliorer la qualité des \nrécoltes et diminuer l’utilisation des pesticides.\nAspect Technologique Nous prenons soin des cultures grâce \nà l'imagerie spectrale et à l'IA avancée.\nOriginalité TomaCare est un système de surveillance \nnumérique pour l'agriculture de précision et la détection \ndes maladies, basé sur des algorithmes d'IA et la \ntechnologie hyperspectrale. Il capte les signaux des \nplantes qui sont invisibles à l'œil humain, en utilisant les \ntechnologies hyper et multispectrales pour surveiller \nle stress des plantes et la diminution de leur activité \nphotosynthétique.\nActivity Robocare offers a solution to prevent the \nrapid spread of diseases in greenhouse plants and the \nmassive use of pesticides. Robocare detects diseases \nat an early stage using spectral technology which will \nimprove crop quality and reduce the use of pesticides. \nTechnological \nAspect \nprecision \nfarming \nand \ndisease \ndetection based on AI algorithms and hyperspectral \ntechnology. \nOriginality TomaCare is a digital monitoring system for \nprecision farming and disease detection based on AI \nalgorithms and hyperspectral technology. It captures \nplant signals that are invisible to human eyes, using hyper \nand multispectral technologies to monitor plant-stress \nand decrease in their photosynthetic activity.\nFR\nEN",
+    "tagline": "We Tech-Care Of your Land",
+    "industry": "Agritech",
+    "keywords": [
+        "satellites",
+        "drones",
+        "IoT",
+        "AI",
+        "spectral technology",
+        "precision agriculture",
+        "agronomic recommendations"
+    ],
+    "country": "Tunisia",
+    "city": "Sfax",
+    "headquarters": "Rue hedi nouira immeuble Fourat 3 éme étage num 307 bab el jebli, Sfax médina, Sfax, 3047",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://robocare.tn",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "ihbiri@robocare.tn",
+            "contact@robocare.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21620211800",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620260623",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620231203",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620231202",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620240506",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21653140011",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "Rue hedi nouira immeuble Fourat 3 éme étage num 307 bab el jebli, Sfax médina, Sfax, 3047",
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "RoboCare",
+            "description": "A monitoring management platform for farms providing agronomic recommendations for plant needs optimization and early stress detection, using satellites, drones, IoT and farmer expertise.",
+            "category": "Agricultural monitoring platform"
+        }
+    ],
+    "services": [
+        "Managed Services suite of intelligent tools",
+        "Digital monitoring system for preventing plant disease",
+        "Agronomic recommendations",
+        "Early stress detection"
+    ],
+    "technologies": [
+        "Satellites",
+        "Drones",
+        "IoT",
+        "Artificial Intelligence",
+        "Spectral technology"
+    ],
+    "customer_segments": [],
+    "target_market": "Farmers in the MENA region",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://robocare.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 66,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:33:22.066316",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 4,
+        "technologies_count": 5,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "robocare.tn"
+            ]
+        },
+        "phones": {
+            "count": 6,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 6
+        }
+    },
+    "website_content": "[Passer au contenu](https://robocare.tn/#content)\n[![](http://demo.robocare.tn/wp-content/uploads/2024/02/LOGO-ROBOCARE-FINAL-SEPT-2021-1-800x320.png)](https://robocare.tn/)\nToggle Navigation\n* [HOME](https://robocare.tn/)\n* [ABOUT](https://robocare.tn/about/)\n* [SERVICES](https://robocare.tn/services/)\n* [CONTACT US](https://robocare.tn/contact-us/)\n* [SIGN IN](https://app.satellite.robocare.tn/)\nHome[admin](https://robocare.tn/author/admin/)2026-06-23T16:35:16+02:00\n# We Tech-Care Of your Land\n**Boost yields and detect plant stress early with smart agronomic insights powered by satellites, drones, and IoT.**\n[Request demo](https://app.satellite.robocare.tn/signup)\n##\n## Do You Have A Land Project We Can Help With?\n[Contact us](https://robocare.tn/?page_id=13)\n## Why RoboCare is Different\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%271024%27%20viewBox%3D%270%200%201024%201024%27%3E%3Crect%20width%3D%271024%27%20height%3D%271024%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\nAt RoboCare, our strength comes from the integration of agronomy, data science, and cutting-edge technology.\nWith years of hands-on field experience and R&D, we’ve positioned ourselves as a leading digital transformation partner in agriculture, tailored specifically for the MENA region.\nOur Managed Services deliver an end-to-end suite of intelligent tools that:\n* Maximize crop productivity\n* Enhance sustainability through precision agriculture\n* Mitigate risks and reduce operational costs\n* Empower data-driven decision-making at every level\nWhat truly sets RoboCare apart is our ability to translate complex agricultural data into actionable insights — built by agronomists, powered by data, and delivered through intuitive technology.\nWe’re not just building digital solutions; we’re transforming agriculture — one field at a time.\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-5.png)\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-5.png)\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-5.png)\n## **\nRoboCare**\n_RoboCare is A monitoring management platform for farms:\nProviding agronomic recommendations for plant needs optimization and early stress detection, using Satellites, drones, OT and Farmer expertise._\n[LEARN MORE ABOUT ROBOCARE](https://robocare.tn/?page_id=7)\n[Take a look at the services we provide](https://robocare.tn/?page_id=9)\n## They Talk About Us\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27670%27%20height%3D%27335%27%20viewBox%3D%270%200%20670%20335%27%3E%3Crect%20width%3D%27670%27%20height%3D%27335%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Face aux aléas climatiques, le Maghreb mobilise drones et high-tech…\n[L'OBS](https://www.nouvelobs.com/monde/20231203.AFP5273/face-aux-aleas-climatiques-le-maghreb-mobilise-drones-et-high-tech.html)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27768%27%20height%3D%27387%27%20viewBox%3D%270%200%20768%20387%27%3E%3Crect%20width%3D%27768%27%20height%3D%27387%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Face aux aléas climatiques, le Maghreb mobilise drones et high-tech…\n[Sciences & Avenir](https://www.sciencesetavenir.fr/nature-environnement/face-aux-aleas-climatiques-le-maghreb-mobilise-drones-et-high-tech_175413)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27633%27%20height%3D%27316%27%20viewBox%3D%270%200%20633%20316%27%3E%3Crect%20width%3D%27633%27%20height%3D%27316%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Face aux aléas climatiques, le Maghreb mobilise drones et high-tech…\n[Arab News](https://www.arabnews.fr/node/449916/monde-arabe)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27768%27%20height%3D%27384%27%20viewBox%3D%270%200%20768%20384%27%3E%3Crect%20width%3D%27768%27%20height%3D%27384%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Face aux aléas climatiques, le Maghreb mobilise drones et high-tech…\n[Courrier International](https://www.courrierinternational.com/depeche/face-aux-aleas-climatiques-le-maghreb-mobilise-drones-et-high-tech.afp.com.20231202.doc.34499lc.xml)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27562%27%20height%3D%27281%27%20viewBox%3D%270%200%20562%20281%27%3E%3Crect%20width%3D%27562%27%20height%3D%27281%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Face aux aléas climatiques, le Maghreb mobilise drones et high-tech…\n[La Provence](https://www.laprovence.com/article/france-monde/72101652370638/face-aux-aleas-climatiques-le-maghreb-mobilise-drones-et-high-tech)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27353%27%20height%3D%27176%27%20viewBox%3D%270%200%20353%20176%27%3E%3Crect%20width%3D%27353%27%20height%3D%27176%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Maghreb farmers embrace drones to fight climate change…\n[TUKO](https://www.tuko.co.ke/business-economy/530066-maghreb-farmers-embrace-drones-fight-climate-change/)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27182%27%20height%3D%2791%27%20viewBox%3D%270%200%20182%2091%27%3E%3Crect%20width%3D%27182%27%20height%3D%2791%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> Maghreb farmers embrace drones to fight climate change…\n[Briefly](https://briefly.co.za/business-economy/economy/174884-maghreb-farmers-embrace-drones-fight-climate-change/)\n[](https://robocare.tn/)[](https://robocare.tn/)[](https://robocare.tn/)[](https://robocare.tn/)[](https://robocare.tn/)[](https://robocare.tn/)[](https://robocare.tn/)\n![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27512%27%20height%3D%27512%27%20viewBox%3D%270%200%20512%20512%27%3E%3Crect%20width%3D%27512%27%20height%3D%27512%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)\n> RoboCare is A monitoring management platform for farms:\n> Providing agronomic recommendations for plant needs optimization and early stress detection, using Satellites, drones, IOT and Farmer expertise.\n> Let’s sweeten the future together.\n> **[Join us now!](https://robocare.tn/?page_id=13)**\nPlay\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-7.png)\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-7.png)\n![](https://robocare.tn/wp-content/uploads/2024/02/Design-sans-titre-7.png)\n0+\nUsers\n0\nHa Covered\n0+\nPartners\n0+\nAlert sent\n## Latest News\n[](https://robocare.tn/)\n## Our Partners\n![](https://robocare.tn/wp-content/uploads/2024/05/Capture_d_ecran_2024-05-06_225116-removebg-preview.png)\n![](https://robocare.tn/wp-content/uploads/2024/05/logo_cesbio-removebg-preview.png)\n![](https://robocare.tn/wp-content/uploads/2024/05/LogoUPSUD-removebg-preview-1.png)\n![](https://robocare.tn/wp-content/uploads/2024/05/Capture_d_ecran_2024-05-06_223422-removebg-preview-1.png)\n![](https://robocare.tn/wp-content/uploads/2024/05/unnamed-removebg-preview.png)\n![](https://robocare.tn/wp-content/uploads/2024/05/Capture_d_ecran_2024-05-06_205223-removebg-preview-4.png)\n**We use technology for sustainable agriculture.\n**\n### RoboCare provides a digital monitoring system for preventing plant disease late detection, fast propagation, and reducing pesticide uses. Our solution is based on spectral technology and AI.\n[Contact us](https://robocare.tn/?page_id=13 \"get a free quote\")\nOnly takes a few seconds!\n![](https://robocare.tn/wp-content/uploads/2024/04/Design-sans-titre-5.png)\nWe bring the power of technology for early-stage plant disease detection. RoboCare provides a digital monitoring system for preventing plant disease late detection, fast propagation, and reducing pesticide uses. Our solution is based on spectral technology and AI.\n[Learn More](https://robocare.tn/?page_id=7)\n##### contact us today\n* Rue hedi nouira immeuble Fourat 3 éme étage num 307 bab el jebli, Sfax médina, Sfax, 3047\n* +216 53 140 011\n* contact@robocare.tn\n* Monday – Friday: 9:00 AM – 5:00 PM\nToggle Navigation\n##### our location\n[Page load link](https://robocare.tn/) [ Aller en haut ](https://robocare.tn/)",
+    "website_metadata": {
+        "url": "https://robocare.tn",
+        "content_length": 8302
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "ROBOCARE",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\robocare.json",
+    "normalized_name": "robocare",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "robocare.tn",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "robocare.tn"
+                ]
+            },
+            "official": [
+                "ihbiri@robocare.tn",
+                "contact@robocare.tn"
+            ],
+            "details": [
+                {
+                    "original": "ihbiri@robocare.tn",
+                    "normalized": "ihbiri@robocare.tn",
+                    "domain": "robocare.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@robocare.tn",
+                    "normalized": "contact@robocare.tn",
+                    "domain": "robocare.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "ihbiri@robocare.tn",
+    "quality": {
+        "phones": {
+            "total": 8,
+            "valid": 6,
+            "removed": 2,
+            "duplicates": 0,
+            "invalid": [
+                "+216175413",
+                "+21672101652370638"
+            ]
+        }
+    }
+}

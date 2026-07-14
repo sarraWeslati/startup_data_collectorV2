@@ -1,0 +1,255 @@
+{
+    "name": "Ethiopia Investment Commission",
+    "description": "A government organization.",
+    "organization_type": "Government",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "website": "https://investethiopia.gov.et",
+    "linkedin": "https://et.linkedin.com/company/ethiopian-investment-commission",
+    "investment_focus": [
+        "Agriculture",
+        "Manufacturing",
+        "Agro-processing",
+        "Leather & Leather Products",
+        "Pharmaceuticals",
+        "Textile & Garment",
+        "Mining",
+        "Tourism",
+        "ICT",
+        "Energy",
+        "Health",
+        "Transport & Logistics",
+        "Special Economic Zones",
+        "Integrated Agro-industrial Parks",
+        "Private SEZs",
+        "Public SEZs"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://investethiopia.gov.et",
+        "linkedin": "https://et.linkedin.com/company/ethiopian-investment-commission",
+        "dealroom": "https://dealroom.co/countries/ethiopia"
+    },
+    "social_media": {},
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:18:41.143257+00:00",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Ethiopia Investment Commission",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://investethiopia.gov.et/",
+            "https://investethiopia.gov.et/contact-us/",
+            "https://investethiopia.gov.et/get-started/invest-in-ethiopia/",
+            "https://investethiopia.gov.et/investment-process/",
+            "https://investethiopia.gov.et/invest-in-ethiopia-2026/",
+            "https://et.linkedin.com/company/ethiopian-investment-commission",
+            "https://www.linkedin.com/posts/ethiopian-investment-commission_iie2026-investinethiopia-globalinvestment-activity-7437890181766094848-xfb0",
+            "https://linkedin.com/in/mesay-woldesemayat-211099139",
+            "https://linkedin.com/in/tariku-getachew-6a4b36132",
+            "https://www.linkedin.com/in/elias-zekeria-95b099168",
+            "https://linkedin.com/company/ethiopian-investment-commission",
+            "https://investinethiopia.gov.et/about",
+            "https://www.iaip.gov.et/eic/",
+            "https://investinethiopia.gov.et/services",
+            "https://investethiopia.gov.et/invest-in-ethiopia-2026-forum/",
+            "https://dealroom.co/countries/ethiopia/",
+            "https://www.linkedin.com/posts/dealroom-co_ethiopia-activity-7273281579987218432-RCrW",
+            "https://www.risa-fund.org/wp-content/uploads/2025/01/The-State-of-Startup-Innovation-in-Ethiopia_-Mapping-Valuations-Investment-and-Employment-.pdf",
+            "https://www.risa-fund.org/resource/the-state-of-start-up-innovation-in-ethiopia-mapping-valuations-investment-and-employment/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 16,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[Skip to main content](https://investethiopia.gov.et/#brx-content) [Skip to footer](https://investethiopia.gov.et/#brx-footer)\n[![](https://investethiopia.gov.et/wp-content/uploads/2026/06/logo4-removebg-preview.avif)](https://investethiopia.gov.et/ \"Go to homepage\")\n* [Invest in Ethiopia 2026](https://forum.investethiopia.gov.et/)\n* [Why Ethiopia](https://investethiopia.gov.et/why-ethiopia/)\n* [Dynamic Policy](https://investethiopia.gov.et/why-ethiopia/#increase)\n* [Resilient Economy](https://investethiopia.gov.et/why-ethiopia/#fast)\n* [Enabling Infrastructure](https://investethiopia.gov.et/why-ethiopia/#expand)\n* [Connected Market](https://investethiopia.gov.et/why-ethiopia/#emerging)\n* [Resource-rich Nation](https://investethiopia.gov.et/why-ethiopia/#diverse)\n* [Competitive Workforce](https://investethiopia.gov.et/why-ethiopia/#young)\n* [Key Sectors](https://investethiopia.gov.et/key-sectors/)\n* [Agriculture](https://investethiopia.gov.et/key-sectors/agriculture/)\n* [Manufacturing](https://investethiopia.gov.et/key-sectors/manufacturing/)\n* [Agro-processing](https://investethiopia.gov.et/key-sectors/manufacturing/agro-processing/)\n* [Leather & Leather Products](https://investethiopia.gov.et/key-sectors/manufacturing/leather-and-leather-products/)\n* [Pharmaceuticals](https://investethiopia.gov.et/key-sectors/manufacturing/pharmaceuticals/)\n* [Textile & Garment](https://investethiopia.gov.et/key-sectors/manufacturing/textile-garment/)\n* [Mining](https://investethiopia.gov.et/key-sectors/mining/)\n* [Tourism](https://investethiopia.gov.et/key-sectors/tourism/)\n* [ICT](https://investethiopia.gov.et/key-sectors/ict/)\n* [Emerging Sectors](https://investethiopia.gov.et/key-sectors/emerging-sectors/)\n* [Energy](https://investethiopia.gov.et/key-sectors/emerging-sectors/energy/)\n* [Health](https://investethiopia.gov.et/key-sectors/emerging-sectors/health/)\n* [Transport And Logistics](https://investethiopia.gov.et/key-sectors/emerging-sectors/transport-and-logistics/)\n* [Special Economic Zones](https://investethiopia.gov.et/key-sectors/special-economic-zones/)\n* [Integrated Agro-industrial Parks](https://investethiopia.gov.et/key-sectors/special-economic-zones/integrated-agro-industrial-parks/)\n* [Private SEZs](https://investethiopia.gov.et/key-sectors/special-economic-zones/private-industrial-parks/)\n* [Public SEZs](https://investethiopia.gov.et/key-sectors/special-economic-zones/public-industrial-parks/)\n* [Get Started](https://investethiopia.gov.et/get-started/invest-in-ethiopia/)\n* [Invest in Ethiopia](https://investethiopia.gov.et/get-started/invest-in-ethiopia/)\n* [Grow in Ethiopia](https://investethiopia.gov.et/get-started/grow-in-ethiopia/)\n* [Live and Work in Ethiopia](https://investethiopia.gov.et/get-started/live-and-work-in-ethiopia/)\n* [About](https://investethiopia.gov.et/about-eic/who-we-are/)\n* [Who We Are](https://investethiopia.gov.et/about-eic/who-we-are/)\n* [How We Help Investors](https://investethiopia.gov.et/about-eic/who-we-are/how-we-help-investors)\n* [Meet Our Team](https://investethiopia.gov.et/about-eic/our-team/)\n* [Resources](https://investethiopia.gov.et/resources/news/)\n* [eInvest Portal](https://investinethiopia.gov.et/)\n* [PPD Tracking Portal](https://ppd.investethiopia.gov.et/)\n* [News and Events](https://investethiopia.gov.et/resources__trashed/news/)\n* [Investment Laws](https://investethiopia.gov.et/resources/publications/#laws)\n* [Publications](https://investethiopia.gov.et/resources/publications)\n* [Vacancies](https://investethiopia.gov.et/resources__trashed/vacancies/)\n* [FAQs](https://investethiopia.gov.et/resources__trashed/faqs/)\n* [Useful Links](https://investethiopia.gov.et/useful-links/)\n* [Project Opportunities](https://investethiopia.gov.et/resources__trashed/project-opportunities/)\n* [Invest in Ethiopia 2026](https://forum.investethiopia.gov.et/)\n* [Why Ethiopia](https://investethiopia.gov.et/why-ethiopia/)\n* [Dynamic Policy](https://investethiopia.gov.et/why-ethiopia/#increase)\n* [Resilient Economy](https://investethiopia.gov.et/why-ethiopia/#fast)\n* [Enabling Infrastructure](https://investethiopia.gov.et/why-ethiopia/#expand)\n* [Connected Market](https://investethiopia.gov.et/why-ethiopia/#emerging)\n* [Resource-rich Nation](https://investethiopia.gov.et/why-ethiopia/#diverse)\n* [Competitive Workforce](https://investethiopia.gov.et/why-ethiopia/#young)\n* [Key Sectors](https://investethiopia.gov.et/key-sectors/)\n* [Agriculture](https://investethiopia.gov.et/key-sectors/agriculture/)\n* [Manufacturing](https://investethiopia.gov.et/key-sectors/manufacturing/)\n* [Agro-processing](https://investethiopia.gov.et/key-sectors/manufacturing/agro-processing/)\n* [Leather & Leather Products](https://investethiopia.gov.et/key-sectors/manufacturing/leather-and-leather-products/)\n* [Pharmaceuticals](https://investethiopia.gov.et/key-sectors/manufacturing/pharmaceuticals/)\n* [Textile & Garment](https://investethiopia.gov.et/key-sectors/manufacturing/textile-garment/)\n* [Mining](https://investethiopia.gov.et/key-sectors/mining/)\n* [Tourism](https://investethiopia.gov.et/key-sectors/tourism/)\n* [ICT](https://investethiopia.gov.et/key-sectors/ict/)\n* [Emerging Sectors](https://investethiopia.gov.et/key-sectors/emerging-sectors/)\n* [Energy](https://investethiopia.gov.et/key-sectors/emerging-sectors/energy/)\n* [Health](https://investethiopia.gov.et/key-sectors/emerging-sectors/health/)\n* [Transport And Logistics](https://investethiopia.gov.et/key-sectors/emerging-sectors/transport-and-logistics/)\n* [Special Economic Zones](https://investethiopia.gov.et/key-sectors/special-economic-zones/)\n* [Integrated Agro-industrial Parks](https://investethiopia.gov.et/key-sectors/special-economic-zones/integrated-agro-industrial-parks/)\n* [Private SEZs](https://investethiopia.gov.et/key-sectors/special-economic-zones/private-industrial-parks/)\n* [Public SEZs](https://investethiopia.gov.et/key-sectors/special-economic-zones/public-industrial-parks/)\n* [Get Started](https://investethiopia.gov.et/get-started/invest-in-ethiopia/)\n* [Invest in Ethiopia](https://investethiopia.gov.et/get-started/invest-in-ethiopia/)\n* [Grow in Ethiopia](https://investethiopia.gov.et/get-started/grow-in-ethiopia/)\n* [Live and Work in Ethiopia](https://investethiopia.gov.et/get-started/live-and-work-in-ethiopia/)\n* [About](https://investethiopia.gov.et/about-eic/who-we-are/)\n* [Who We Are](https://investethiopia.gov.et/about-eic/who-we-are/)\n* [How We Help Investors](https://investethiopia.gov.et/about-eic/who-we-are/how-we-help-investors)\n* [Meet Our Team](https://investethiopia.gov.et/about-eic/our-team/)\n* [Resources](https://investethiopia.gov.et/resources/news/)\n* [eInvest Portal](https://investinethiopia.gov.et/)\n* [PPD Tracking Portal](https://ppd.investethiopia.gov.et/)\n* [News and Events](https://investethiopia.gov.et/resources__trashed/news/)\n* [Investment Laws](https://investethiopia.gov.et/resources/publications/#laws)\n* [Publications](https://investethiopia.gov.et/resources/publications)\n* [Vacancies](https://investethiopia.gov.et/resources__trashed/vacancies/)\n* [FAQs](https://investethiopia.gov.et/resources__trashed/faqs/)\n* [Useful Links](https://investethiopia.gov.et/useful-links/)\n* [Project Opportunities](https://investethiopia.gov.et/resources__trashed/project-opportunities/)\n[![en](https://investethiopia.gov.et/wp-content/plugins/gtranslate/flags/svg/en-us.svg) English▼](https://investethiopia.gov.et/)\n[ Arabic](https://investethiopia.gov.et/)[ Chinese (Simplified)](https://investethiopia.gov.et/)[ Dutch](https://investethiopia.gov.et/)[ English](https://investethiopia.gov.et/)[ French](https://investethiopia.gov.et/)[ German](https://investethiopia.gov.et/)[ Italian](https://investethiopia.gov.et/)[ Portuguese](https://investethiopia.gov.et/)[ Russian](https://investethiopia.gov.et/)[ Spanish](https://investethiopia.gov.et/)\n[Contact Us](https://investethiopia.gov.et/contact-us/ \"Contact Us\")\n[](https://investethiopia.gov.et/contact-us/)\n#### EIC MAP\n[](https://investethiopia.gov.et/resources__trashed/news/)\n#### NEWS\nkey\nSectors\n[Explore](https://investethiopia.gov.et/key-sectors/)\nPriority Sectors\n* [Agriculture](https://investethiopia.gov.et/key-sectors/agriculture/)\n* [Manufacturing](https://investethiopia.gov.et/key-sectors/manufacturing/)\n* [Mining](https://investethiopia.gov.et/key-sectors/mining/)\n* [ICT](https://investethiopia.gov.et/key-sectors/ict/)\n* [Tourism](https://investethiopia.gov.et/key-sectors/tourism/)\nOther Sectors\n* [Energy](https://investethiopia.gov.et/key-sectors/emerging-sectors/energy/)\n* [Health](https://investethiopia.gov.et/key-sectors/emerging-sectors/health/)\n* [Transport & Logistics](https://investethiopia.gov.et/key-sectors/emerging-sectors/transport-and-logistics/)\n[Emerging Sectors](https://investethiopia.gov.et/key-sectors/emerging-sectors/)\n* [Telecom](https://investethiopia.gov.et/key-sectors/emerging-sectors/#telecom)\n* [Financial Services](https://investethiopia.gov.et/key-sectors/emerging-sectors/#financial)\n* [Privatization](https://investethiopia.gov.et/key-sectors/emerging-sectors/#privatization)\n[Sezs](https://investethiopia.gov.et/sezs/)\n* [Public SEZs](https://investethiopia.gov.et/sezs/public-sezs/)\n* [Private SEZs](https://investethiopia.gov.et/sezs/private-sezs/)\n# Time to invest and grow in Ethiopia\nJoin the growing list of global and regional companies that make Ethiopia\na leading FDI destination in Africa.\n[Learn Why](https://investethiopia.gov.et/why-ethiopia/)\n###  **EIC’s E-Service Platform is live!**\nInvest smarter, faster, and online.\nVisit our portal and start your investment journey today.\n# [investinethiopia.gov.et](https://investinethiopia.gov.et/)\nYour browser does not support the video tag.\n## Why Ethiopia\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2065%2065'%3E%3C/svg%3E)\n### [Emerging and Connected Market](https://investethiopia.gov.et/why-ethiopia/#emerging)\nIn addition to being Africa´s second largest consumer market, we are a gateway to key regional and global markets.\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)\n### [Growing and Dynamic Economy](https://investethiopia.gov.et/why-ethiopia/#fast)\nFor the past 15 years, we have been Africa´s fastest growing economy and a top location for foreign direct investment.\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2061'%3E%3C/svg%3E)\n### [Attractive and Enabling Business Environment](https://investethiopia.gov.et/why-ethiopia/#increase)\nA government committed to improving the investment climate by implementing a business-oriented reform agenda.\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2066'%3E%3C/svg%3E)\n### [Young and Trainable Workforce](https://investethiopia.gov.et/why-ethiopia/#young)\nWe are Africa´s largest labor force. Our workforce of 56 million is young, eager to learn and productive.\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2052'%3E%3C/svg%3E)\n### [Expanding and Improved Infrastructure](https://investethiopia.gov.et/why-ethiopia/#expand)\nOur economic growth and attractiveness to investors is leveraged by an ambitious infrastructure development plan.\n![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2050%2067'%3E%3C/svg%3E)\n### [Untapped Wealth of Mineral Resources](https://investethiopia.gov.et/why-ethiopia/#diverse)\nA modern governance and legal framework to enable the extraction and beneficiation of our large and varied mineral reserves.\n## Why Ethiopia\nWe are a growing attractive investment location for market, efficiency and resource-seeking investors looking to start or expand operations in Africa.\n### Dynamic Policy\nThe government has committed to improving the investment climate by implementing a business-oriented reform agenda.\n[](https://investethiopia.gov.et/why-ethiopia/#increase)\n### Resilient Economy\nFor the past 15 years, we have been the fastest growing economy on the continent and one of the top locations for new foreign direct investment.\n[](https://investethiopia.gov.et/why-ethiopia/#fast)\n### Enabling Infrastructure\nOur economic growth and attractiveness to investors is leveraged by an ambitious infrastructure development plan.\n[](https://investethiopia.gov.et/why-ethiopia/#expand)\n### Connected Market\nIn addition to being Africa´s second largest consumer market, we are a gateway to key regional and global markets.\n[](https://investethiopia.gov.et/why-ethiopia/#emerging)\n### Resource-rich Nation\nOur modern governance and legal framework facilitate the extraction and commercialization of our large and varied mineral reserves.\n[](https://investethiopia.gov.et/why-ethiopia/#diverse)\n### Competitive Workforce\nWith a labor force of 56 million, we have Africa´s second largest pool of workers. Our workforce is young, fast learning and productive.\n[](https://investethiopia.gov.et/why-ethiopia/#young)\n## Explore Our Key Sectors\n* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)](https://investethiopia.gov.et/key-sectors/agriculture/)\n### [Agriculture](https://investethiopia.gov.et/key-sectors/agriculture/)\nThe opportunity to serve a growing domestic food market.\n[Learn More ![arrow](https://investethiopia.gov.et/)](https://investethiopia.gov.et/key-sectors/agriculture/ \"Agriculture\")\n* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)](https://investethiopia.gov.et/key-sectors/manufacturing/)\n### [Manufacturing](https://investethiopia.gov.et/key-sectors/manufacturing/)\nFrom light manufacturing to food and beverages: Ethiopia offers endless manufacturing potential.\n[Learn More ![arrow](https://investethiopia.gov.et/)](https://investethiopia.gov.et/key-sectors/manufacturing/ \"Manufacturing\")\n* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)](https://investethiopia.gov.et/key-sectors/mining/)\n### [Mining](https://investethiopia.gov.et/key-sectors/mining/)\nEthiopia — the ideal high-potential mining destination.\n[Learn More ![arrow](https://investethiopia.gov.et/)](https://investethiopia.gov.et/key-sectors/mining/ \"Mining\")\n* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)](https://investethiopia.gov.et/key-sectors/tourism/)\n### [Tourism](https://investethiopia.gov.et/key-sectors/tourism/)\nThe land of origins: partnerships in creating lifelong experiences.\n[Learn More ![arrow](https://investethiopia.gov.et/)](https://investethiopia.gov.et/key-sectors/tourism/ \"Tourism\")\n* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)](https://investethiopia.gov.et/key-sectors/ict/)\n### [ICT](https://investe",
+    "website_metadata": {
+        "url": "https://investethiopia.gov.et/",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "The land of origins: partnerships in creating lifelong experiences.",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "emails": [
+        "info@eic.gov.et"
+    ],
+    "phones": [
+        "+251 11 551 0033"
+    ],
+    "geographic_focus": [
+        "Ethiopia"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\ethiopia_investment_commission.json",
+    "normalized_name": "ethiopia investment commission",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "gov.et",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Ethiopia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Ethiopia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Ethiopia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Ethiopia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

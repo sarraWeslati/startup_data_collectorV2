@@ -1,0 +1,217 @@
+{
+    "name": "Grand Cru Olive Oil",
+    "description": "Grand Cru Olive Oil est une e-boutique qui propose des huiles d'olive tunisiennes de qualité, soutenant les petits agriculteurs.",
+    "industry": "Agritech",
+    "country": "",
+    "city": "",
+    "website": "https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality",
+    "linkedin": "",
+    "founders": [],
+    "entity_type": "startup",
+    "external_profiles": {
+        "website": "https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle",
+        "facebook": "https://facebook.com/sharer.php"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:34:22.292368",
+        "website_enriched": true,
+        "tavily_results": 1,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Grand Cru Olive Oil",
+        "answer": "Grand Cru Olive Oil is a premium extra virgin olive oil from Italy. Wellfound is a startup focused on connecting startups with talent, founded by Amit Matani. Amit Matani is the CEO of Wellfound.",
+        "results_count": 1,
+        "urls": [
+            "https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 57,
+        "level": "Low"
+    },
+    "website_content": "🍪 This website uses cookies to ensure you get the best experience. [Learn more](https://feastitaly.com/pages/privacy-policy)\nDeclineAccept\n✕\nMenu icon Menu\n[ ![Feast Italy](https://feastitaly.com/cdn/shop/files/Logo_feast_Italy_120x120.avif?v=1760860871) ![Feast Italy](https://feastitaly.com/cdn/shop/files/Logo_feast_Italy_60x60.avif?v=1760860871) ](https://feastitaly.com/)\n* [ OIL & VINEGAR  Chevron down icon ](https://feastitaly.com/collections/italian-extra-virgin-olive-oil-balsamic-vinegar)\n* [ Extra Virgin Olive Oil ](https://feastitaly.com/collections/italian-extra-virgin-olive-oil)\n* [ Flavoured Olive oil ](https://feastitaly.com/collections/flavoured-extra-virgin-olive-oil)\n* [ Vinegar ](https://feastitaly.com/collections/vinegar)\n* [ Giftable Olive Oil & Vinegar ](https://feastitaly.com/collections/giftable-olive-oil)\n* [ PASTA, RICE & FLOUR  Chevron down icon ](https://feastitaly.com/collections/italian-pasta-rice)\n* [ Wheat Germ Pasta ](https://feastitaly.com/collections/wheat-germ-pasta)\n* [ Bronze Die Cut Pasta ](https://feastitaly.com/collections/bronze-die-pasta)\n* [ Dried Egg Pasta ](https://feastitaly.com/collections/dried-egg-pasta)\n* [ Rice ](https://feastitaly.com/collections/rice)\n* [ Flour ](https://feastitaly.com/collections/flour)\n* [ SAUCES & PESTO  Chevron down icon ](https://feastitaly.com/collections/sauces-pesto)\n* [ Tomatoes ](https://feastitaly.com/collections/tomatoes)\n* [ Pasta Sauces ](https://feastitaly.com/collections/pasta-sauces)\n* [ Pesto ](https://feastitaly.com/collections/pesto)\n* [ CONDIMENTS & SAVOURY  Chevron down icon ](https://feastitaly.com/collections/condiments-savoury)\n* [ Antipasti & Olives ](https://feastitaly.com/collections/antipasti-olives)\n* [ Truffles & Condiments ](https://feastitaly.com/collections/truffles-condiments)\n* [ Fish & Seafood ](https://feastitaly.com/collections/tuna-anchovy-seafood)\n* [ Breadsticks & Savoury Snacks ](https://feastitaly.com/collections/breadsticks-savoury-snacks)\n* [ EVERYTHING SWEET  Chevron down icon ](https://feastitaly.com/collections/everything-sweet)\n* [ Biscuits & Cakes ](https://feastitaly.com/collections/biscuits-cakes)\n* [ Honey ](https://feastitaly.com/collections/honey-jam)\n* [ Jams, Marmalades & Spreads ](https://feastitaly.com/collections/jam-marmelade)\n* [ Dried Fruit & Nougat ](https://feastitaly.com/collections/dried-fruit-nougat)\n* [ Chocolates & Sweets ](https://feastitaly.com/collections/chocolate)\n* [ BUNDLES & GIFTING  Chevron down icon ](https://feastitaly.com/collections/bundles-gifting)\n* [ Gifting ](https://feastitaly.com/collections/gifting)\n* [ Hampers ](https://feastitaly.com/collections/hampers)\n* [ Everyday Bundles ](https://feastitaly.com/collections/everyday-bundles-1)\n* [ Gift Cards ](https://feastitaly.com/collections/gift-cards)\n* [ SPECIAL OFFERS  Chevron down icon ](https://feastitaly.com/collections/special-offers)\n* [ Short Dated ](https://feastitaly.com/collections/short-dated-but-delicious)\n* [ Damaged but Delicious ](https://feastitaly.com/collections/damaged-but-delicious)\n* [ Savoury ](https://feastitaly.com/collections/special-offers-savoury)\n* [ Sweet ](https://feastitaly.com/collections/special-offers-sweet)\nCancel  Search icon Spinner icon\n[ ](https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ ](https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ ](https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality)\nTranslation missing: en.general.icons.icon_search_close icon Close search\nSearch icon Search\n[ Account icon View account ](https://feastitaly.com/account) [ Cart icon View cart ](https://feastitaly.com/cart)\n* [ Account icon Log in ](https://feastitaly.com/account/login)\n[ Close icon Close ](https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality#site-header-nav)\n* [ OIL & VINEGAR ](https://feastitaly.com/collections/italian-extra-virgin-olive-oil-balsamic-vinegar)\nChevron down icon OIL & VINEGAR\n* [ Extra Virgin Olive Oil ](https://feastitaly.com/collections/italian-extra-virgin-olive-oil)\n* [ Flavoured Olive oil ](https://feastitaly.com/collections/flavoured-extra-virgin-olive-oil)\n* [ Vinegar ](https://feastitaly.com/collections/vinegar)\n* [ Giftable Olive Oil & Vinegar ](https://feastitaly.com/collections/giftable-olive-oil)\n* [ PASTA, RICE & FLOUR ](https://feastitaly.com/collections/italian-pasta-rice)\nChevron down icon PASTA, RICE & FLOUR\n* [ Wheat Germ Pasta ](https://feastitaly.com/collections/wheat-germ-pasta)\n* [ Bronze Die Cut Pasta ](https://feastitaly.com/collections/bronze-die-pasta)\n* [ Dried Egg Pasta ](https://feastitaly.com/collections/dried-egg-pasta)\n* [ Rice ](https://feastitaly.com/collections/rice)\n* [ Flour ](https://feastitaly.com/collections/flour)\n* [ SAUCES & PESTO ](https://feastitaly.com/collections/sauces-pesto)\nChevron down icon SAUCES & PESTO\n* [ Tomatoes ](https://feastitaly.com/collections/tomatoes)\n* [ Pasta Sauces ](https://feastitaly.com/collections/pasta-sauces)\n* [ Pesto ](https://feastitaly.com/collections/pesto)\n* [ CONDIMENTS & SAVOURY ](https://feastitaly.com/collections/condiments-savoury)\nChevron down icon CONDIMENTS & SAVOURY\n* [ Antipasti & Olives ](https://feastitaly.com/collections/antipasti-olives)\n* [ Truffles & Condiments ](https://feastitaly.com/collections/truffles-condiments)\n* [ Fish & Seafood ](https://feastitaly.com/collections/tuna-anchovy-seafood)\n* [ Breadsticks & Savoury Snacks ](https://feastitaly.com/collections/breadsticks-savoury-snacks)\n* [ EVERYTHING SWEET ](https://feastitaly.com/collections/everything-sweet)\nChevron down icon EVERYTHING SWEET\n* [ Biscuits & Cakes ](https://feastitaly.com/collections/biscuits-cakes)\n* [ Honey ](https://feastitaly.com/collections/honey-jam)\n* [ Jams, Marmalades & Spreads ](https://feastitaly.com/collections/jam-marmelade)\n* [ Dried Fruit & Nougat ](https://feastitaly.com/collections/dried-fruit-nougat)\n* [ Chocolates & Sweets ](https://feastitaly.com/collections/chocolate)\n* [ BUNDLES & GIFTING ](https://feastitaly.com/collections/bundles-gifting)\nChevron down icon BUNDLES & GIFTING\n* [ Gifting ](https://feastitaly.com/collections/gifting)\n* [ Hampers ](https://feastitaly.com/collections/hampers)\n* [ Everyday Bundles ](https://feastitaly.com/collections/everyday-bundles-1)\n* [ Gift Cards ](https://feastitaly.com/collections/gift-cards)\n* [ SPECIAL OFFERS ](https://feastitaly.com/collections/special-offers)\nChevron down icon SPECIAL OFFERS\n* [ Short Dated ](https://feastitaly.com/collections/short-dated-but-delicious)\n* [ Damaged but Delicious ](https://feastitaly.com/collections/damaged-but-delicious)\n* [ Savoury ](https://feastitaly.com/collections/special-offers-savoury)\n* [ Sweet ](https://feastitaly.com/collections/special-offers-sweet)\n[Skip to content](https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality#site-main)\n![Why Grand Cru Olive Oil is Worth the Investment: A Guide to Premium Extra Virgin Quality - Feast Italy](https://feastitaly.com/cdn/shop/articles/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality-669066_1236x824_crop_center.jpg?v=1730549087)\nShare:\n[ Share on Facebook ](https://www.facebook.com/sharer.php?u=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ Share on X ](https://x.com/intent/tweet?url=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ Share on LinkedIn ](https://www.linkedin.com/shareArticle?mini=true&url=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality&title=Why%20Grand%20Cru%20Olive%20Oil%20is%20Worth%20the%20Investment:%20A%20Guide%20to%20Premium%20Extra%20Virgin%20Quality) [ Pin on Pinterest ](https://pinterest.com/pin/create/button/?url=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality&media=//feastitaly.com/cdn/shop/articles/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality-669066_1024x.jpg?v=1730549087&description=Why%20Grand%20Cru%20Olive%20Oil%20is%20Worth%20the%20Investment:%20A%20Guide%20to%20Premium%20Extra%20Virgin%20Quality)\nNovember 1, 2024\n#  Why Grand Cru Olive Oil is Worth the Investment: A Guide to Premium Extra Virgin Quality\n**Why Choose Grand Cru Olive Oil Over Regular Extra Virgin?**\nFor anyone passionate about high-quality cooking, investing in premium olive oils like _Grand Cru extra virgin olive oil_ can transform recipes and enhance flavours. But what makes Grand Cru olive oil worth the extra cost compared to regular extra virgin olive oil? Here, we’ll dive into the nuances, exploring the production process, flavour, and health benefits that set Grand Cru oils apart. We’ll answer common questions to help you understand why Grand Cru olive oil is an excellent choice for discerning palates.\n### What is Grand Cru Olive Oil?\nGrand Cru extra virgin olive oil is a high-quality, limited-series olive oil crafted to showcase the full potential of a specific olive variety, or cultivar. Originating from carefully selected regions, _Grand Cru oils are often produced with single-origin olives_ and are renowned for their intense flavour profiles and superior quality.\n* * *\n### Why is Grand Cru Olive Oil Better?\n**1. Carefully Selected Olives**\n* Grand Cru oils use only hand-picked, early-harvest olives, ensuring that each batch represents the peak flavour and quality of the specific olive variety.\n* The olives used are generally chosen for their excellent polyphenol levels, acidity balance, and depth of flavour, setting Grand Cru oils apart from regular extra virgin varieties.\n**2. Limited Production and Small Batches**\n* Unlike mass-produced oils, Grand Cru is often produced in limited quantities, focusing on quality over quantity.\n* Smaller batches mean a higher degree of control over the production process, resulting in a meticulously crafted oil with a unique flavour profile.\n**3. Freshness and Speed of Processing**\n* Grand Cru oils are typically cold-pressed within hours of harvest, ensuring maximum freshness and nutrient retention.\n* Rapid pressing preserves the oil’s flavour, colour, and health benefits, as oxidation is minimised in this process.\n* * *\n### What Are the Health Benefits of Grand Cru Olive Oil?\nOlive oil is famous for its health benefits, but Grand Cru takes these benefits to another level. Here’s why:\n**1. Higher Polyphenol Content**\n* Grand Cru olive oils are packed with antioxidants, including polyphenols, which are anti-inflammatory and support heart health.\n* The careful production process preserves these polyphenols, giving Grand Cru oils higher antioxidant levels than most regular extra virgin options.\n**2. Lower Acidity Levels**\n* Premium Grand Cru oils have a lower acidity level, indicating higher quality. This contributes to a smoother taste and better digestibility.\n* The low acidity level means the oil has been processed with minimal exposure to air and light, preserving its quality.\n**3. Cold-Pressed and Unfiltered**\n* The cold-pressing method retains more vitamins, minerals, and antioxidants compared to heat extraction, a feature of some cheaper extra virgin olive oils.\n* Some Grand Cru oils are also unfiltered, preserving more natural compounds and intensifying both flavour and health benefits.\n* * *\n### Frequently Asked Questions\n**1. Does Grand Cru Olive Oil Taste Different?**\n* Yes! Grand Cru olive oils have a more intense, complex taste than standard extra virgin olive oils. Each bottle is rich in varietal flavours, whether it’s the fruity elegance of Peranzana or the robust spiciness of Coratina. For those who appreciate gourmet quality, Grand Cru oils add a vibrant layer to any dish.\n**2. Is Grand Cru Olive Oil Only for Special Dishes?**\n* While Grand Cru is perfect for finishing dishes or drizzling on salads, it’s also versatile enough for everyday use. Just a small amount can elevate simple recipes like roasted vegetables, seafood, or artisan bread. Using it as a finishing oil allows you to savour its unique profile.\n**3. How Should I Store Grand Cru Olive Oil?**\n* Like other olive oils, Grand Cru should be stored in a cool, dark place, away from direct sunlight. Many Grand Cru oils come in UV-protected or darkened bottles to protect them from light exposure, ensuring the flavours and nutrients are preserved.\n**4. Is Grand Cru Olive Oil Worth the Price?**\n* For those who value quality and flavour, the answer is yes. The careful cultivation, selection, and production techniques make Grand Cru oil a truly luxurious product, transforming dishes and offering unparalleled taste and nutritional benefits.\n* * *\n### Cooking with Grand Cru: Elevate Your Culinary Creations\nUsing Grand Cru olive oil can bring out the best in your culinary creations. Here are some great uses:\n* **Salads and Dressings** : Drizzle over fresh greens, tomatoes, and mozzarella for a simple yet elegant salad.\n* **Grilled Meats and Vegetables** : Add a finishing touch to grilled steak or roasted vegetables.\n* **Pasta and Seafood** : Its rich flavours pair well with seafood pasta or light, fresh seafood dishes.\n* **Dipping Oil for Bread** : Serve it with artisan bread as an appetiser to highlight its intense, fruity notes.\n* * *\n### Conclusion: Grand Cru Olive Oil vs. Regular Extra Virgin Olive Oil\nGrand Cru extra virgin olive oil stands out not only for its flavour but also for its dedication to quality. Made with the utmost care, from hand-picking olives to rapid cold-pressing, it preserves both taste and health benefits at a premium level. Whether you’re finishing a dish or looking to elevate your everyday cooking, Grand Cru olive oil offers an unmatched experience.\nInvesting in Grand Cru olive oil allows you to bring the best of Italian craftsmanship into your kitchen, making each meal a refined culinary experience. For olive oil connoisseurs and home cooks alike, Grand Cru is more than just an ingredient; it’s a flavour journey waiting to be discovered.\nShare:\n[ Share on Facebook ](https://www.facebook.com/sharer.php?u=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ Share on X ](https://x.com/intent/tweet?url=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality) [ Share on LinkedIn ](https://www.linkedin.com/shareArticle?mini=true&url=https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-",
+    "website_metadata": {
+        "url": "https://feastitaly.com/blogs/journal/why-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "leadership": [],
+    "products": [
+        {
+            "name": "Grand Cru extra virgin olive oil",
+            "description": "premium olive oil",
+            "category": "Olive Oil"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ffeastitaly.com%2Fblogs%2Fjournal%2Fwhy-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality&title=Why+Grand+Cru+Olive+Oil+is+Worth+the+Investment%3A+A+Guide+to+Premium+Extra+Virgin+Quality",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "1760860871)",
+        "1730549087)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\grand_cru_olive_oil.json",
+    "normalized_name": "grand cru olive oil",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "feastitaly.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 1
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ffeastitaly.com%2Fblogs%2Fjournal%2Fwhy-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality&title=Why+Grand+Cru+Olive+Oil+is+Worth+the+Investment%3A+A+Guide+to+Premium+Extra+Virgin+Quality",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffeastitaly.com%2Fblogs%2Fjournal%2Fwhy-grand-cru-olive-oil-is-worth-the-investment-a-guide-to-premium-extra-virgin-quality",
+                    "normalized": "https://facebook.com/sharer.php",
+                    "username": "sharer.php",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "1760860871",
+                "1730549087",
+                "1730549087"
+            ]
+        }
+    }
+}

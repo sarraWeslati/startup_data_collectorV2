@@ -1,0 +1,331 @@
+{
+    "entity_type": "startup",
+    "name": "RUN-IT",
+    "description": "RUN-IT (2020)\nSecteur d’activité / Sector : Business Software and services\nrun-it.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nMGASSEB SAIFEDDINE / BEN NJIMA SABER \nadministration@run-it.tn\nB12 pépinière d'entreprise mahdia\nActivité une application Web e-commerce B2B qui fait \nla relation entre fournisseurs et boutiques clientes. \nAspect Technologique Cette application a été développée \navec les technologies js et nous l'avons rendue adaptable \nsur les ordinateurs portables et les téléphones. \nOriginalité \nCette \napplication \ndigitalise \nle \nrôle \ndes \ncommerciaux.\nActivity \nE-commerce \nB2B \nWeb \nApplication \nconnecting sellers to retailers. \nTechnological Aspect This application developed with js \ntechnologies and we made it responsive to be adapted \non laptop and phone either. \nOriginality \nThis \napplication \nis \nthe \ndigitalisation \nof \ncommercials role.\nFR\nEN",
+    "tagline": "Your Technology partner",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Ksour Essef",
+    "headquarters": "4 Immeuble Elhana in front of station louage Ksour Essef Mahdia, Tunisie",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://run-it.tn",
+    "linkedin_url": "https://tn.linkedin.com/company/runit-tunisie",
+    "social_media": {
+        "facebook": "https://facebook.com/profile.php"
+    },
+    "contact": {
+        "emails": [
+            "administration@run-it.tn",
+            "commercial@gmail.com",
+            "runit.mahdia@gmail.com"
+        ],
+        "phones": [
+            {
+                "number": "+21698168360",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21694170360",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "4 Immeuble Elhana in front of station louage Ksour Essef Mahdia, Tunisie",
+        "primary_social": "https://facebook.com/profile.php"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "COMERCIALISIT",
+            "description": "It's a powerful e-commerce platform, designed for suppliers to streamline inventory, orders, and billing with ease.",
+            "category": ""
+        },
+        {
+            "name": "talent619",
+            "description": "The biggest platform of top businesses, design, and tech experts in Tunisia. Ready to take on your most important projects.",
+            "category": ""
+        },
+        {
+            "name": "WEBINTEGRALE",
+            "description": "Streamline your inventory and order management with our intuitive stock management software. Simplify tracking and optimize efficiency effortlessly.",
+            "category": ""
+        }
+    ],
+    "services": [
+        "Expertise and service digital innovation",
+        "Sale of cash register equipment",
+        "Creation of business plans",
+        "Showcase sites",
+        "Integration of touch checkout solutions",
+        "Marking innovative ideas",
+        "E-commerce platforms",
+        "SEO-SEA referencing"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://run-it.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 88,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:35:19.152459",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 8,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 1,
+            "generic_count": 2,
+            "official_count": 1,
+            "domains": [
+                "gmail.com",
+                "run-it.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "[ ![Run-IT Logo](https://run-it.tn/img/RunIt.png) ](https://run-it.tn/index.html)\n* [HOME](https://run-it.tn/index.html)\n* [SERVICES](https://run-it.tn/#sec1)\n* [VALUES](https://run-it.tn/#sec2)\n* [PRODUCTS](https://run-it.tn/#sec3)\n* [CONTACT](https://run-it.tn/html/contact.html)\n[ Let's talk about your project ](https://run-it.tn/html/project.html) English Français\n# Your Technology partner\nWith Run-IT, your projects will run seamlessly. Specializing in Web development, Mobile application, and Digital marketing.\n[Get Started](https://run-it.tn/html/project.html)\n# Run-IT Expertise\nWith our profound expertise and tailored approach, we ensure tangible and enduring outcomes for our clients, empowering them to distinguish themselves in a fiercely competitive digital landscape.\n#### Web development\nWeb development is like constructing a modern skyscraper—each line of code forms the foundation, every design choice shapes the facade. With years of craftsmanship, we build digital landmarks that stand tall in the virtual skyline.\n#### Mobile application\nMobile application development is akin to navigating uncharted waters—it's thrilling, innovative, and rife with challenges. Unlike space travel, though, there's no need for a helmet. At Run-IT, we embark on this journey with precision and creativity, crafting apps that redefine user experiences.\n#### Digital marketing\nDigital marketing is our canvas, where data-driven strategies meet creative prowess to paint success stories. Like orchestrating a symphony of clicks and conversions, we harmonize technology and insight to amplify your brand's melody across the digital landscape.\n↑\n# OUR SERVICES\n* Expertise and service digital innovation\n* Sale of cash register equipment\n* Creation of business plans\n* Showcase sites\n* Integration of touch checkout solutions\n* Marking innovative ideas\n* E-commerce platforms\n* SEO-SEA referencing\n# OUR VALUES\n#### The organization\nWe are a team of highly qualified engineers. Respect for time is an essential factor for good cooperation. Nothing can make you professional like being structured and organized...\n#### The Creativity\nTo invent, to experiment, to grow, to take risks, to break rules, to make mistakes and to have fun. The desire to create is one of the deepest aspirations of the human soul.\n#### The determination\nA dream doesn't magically become a reality, it takes sweat, determination and hard work. Hard work beats talent if talent doesn't work hard.\n# OUR PRODUCTS\n[ ![COMERCIALISIT](https://run-it.tn/img/comercialisit_preview_rev_1.png) ](http://commercialisit.com)\n####  [COMERCIALISIT](http://commercialisit.com)\nIt's a powerful e-commerce platform, designed for suppliers to streamline inventory, orders, and billing with ease. Transform your business with modern, intuitive tools today !\n**Test our web site now !\nUser name: commercial@gmail.com\nPassword: commercial **\n[ ![talent619](https://run-it.tn/img/619_preview_rev_1.png) ](https://talent619.com/)\n####  [talent619](https://talent619.com/)\nThe biggest platform of top businesses, design, and tech experts in Tunisia. Ready to take on your most important projects.\n**Create an account now !**\n[ ![WEBINTEGRALE](https://run-it.tn/img/webintegrale_preview_rev_1.png) ](http://gestion-commerciale.site)\n####  [WEBINTEGRALE](http://gestion-commerciale.site)\nStreamline your inventory and order management with our intuitive stock management software. Simplify tracking and optimize efficiency effortlessly.\n**Test our web site now !\nUser name: admin\nPassword: Test-1 **\nCreated by Run-IT\nLocation: 4 Immeuble Elhana in front of station louage Ksour Essef Mahdia,Tunisie\nEmails: administration@run-it.tn, runit.mahdia@gmail.com\nPhone numbers: +21698168360, +21694170360\n* [](https://www.facebook.com/profile.php?id=100094844006772)\n* [ ](https://tn.linkedin.com/company/runit-tunisie)",
+    "website_metadata": {
+        "url": "https://run-it.tn",
+        "content_length": 3866
+    },
+    "external_profiles": {},
+    "linkedin": "https://tn.linkedin.com/company/runit-tunisie",
+    "emails": [
+        "administration@run-it.tn",
+        "commercial@gmail.com",
+        "runit.mahdia@gmail.com"
+    ],
+    "phones": [
+        "+21698168360",
+        "+21694170360",
+        "100094844006772)"
+    ],
+    "tavily": {
+        "query": "RUN-IT",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\run_it.json",
+    "normalized_name": "run it",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "run-it.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "facebook"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/profile.php?id=100094844006772",
+                    "normalized": "https://facebook.com/profile.php",
+                    "username": "profile.php",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 1,
+                "generic": 2,
+                "official": 1,
+                "domains": [
+                    "gmail.com",
+                    "run-it.tn"
+                ]
+            },
+            "official": [
+                "administration@run-it.tn"
+            ],
+            "details": [
+                {
+                    "original": "administration@run-it.tn",
+                    "normalized": "administration@run-it.tn",
+                    "domain": "run-it.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "commercial@gmail.com",
+                    "normalized": "commercial@gmail.com",
+                    "domain": "gmail.com",
+                    "valid": true,
+                    "generic": true,
+                    "business": false,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "runit.mahdia@gmail.com",
+                    "normalized": "runit.mahdia@gmail.com",
+                    "domain": "gmail.com",
+                    "valid": true,
+                    "generic": true,
+                    "business": false,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "administration@run-it.tn",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+216100094844006772"
+            ]
+        }
+    }
+}

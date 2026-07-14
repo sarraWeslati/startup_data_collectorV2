@@ -1,0 +1,232 @@
+{
+    "entity_type": "startup",
+    "name": "MILLENIA ENGINEERING",
+    "description": "MILLENIA ENGINEERING (2000)\nSecteur d’activité / Sector : Communication services\nmillenia.com.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nIMED OUARDI\ni.ouardi@millenia.com.tn\nMB8 - Imm. Rosamis - av. Mustapha HJAIEJ - 2080 \nARIANA\nActivité TIC pour l'industrie EPC (Engineering, \nProcurement & Construction), spécialité communication \nindustrielle particulièrement secteur énergie.\nAspect Technologique LPWAN (LORA), réseaux industriel \nWireless ou câblés et équipements DNE correspondants.\nOriginalité Adaptation des technologies réseaux IT aux \ncontextes industriels.\nActivity Industrial IT EPC (Engineering, Procurement & \nConstruction). Energy fields (oil & gas, RNE, etc.).\nTechnological Aspect LPWAN (LORA), Wireless and wired \nindustrial networks and data network equipments. \nOriginality Adaptation of IT network technologies to \nindustrial contexts.\nFR\nEN",
+    "tagline": null,
+    "industry": "Communication services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://millenia.com.tn",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "i.ouardi@millenia.com.tn"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://millenia.com.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 57,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:15:26.196259",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "millenia.com.tn"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "Upload-ready redirect system for cPanel. Your destination is already configured.\n**Main link:** `https://millenia.com.tn/c/main`\n**Short link:** `https://millenia.com.tn/r/a1`\n**Base64 email example:** `https://millenia.com.tn/c/main?e=am9obkBleGFtcGxlLmNvbQ==`\n**Direct fallback:** `https://millenia.com.tn/go.php?c=main`\n## Dashboard login\nAdmin password\nOpen dashboard\nDefault password is set in `config.php`. Change it after upload.",
+    "website_metadata": {
+        "url": "https://millenia.com.tn",
+        "content_length": 436
+    },
+    "external_profiles": {},
+    "emails": [
+        "i.ouardi@millenia.com.tn"
+    ],
+    "tavily": {
+        "query": "MILLENIA ENGINEERING",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\millenia_engineering.json",
+    "normalized_name": "millenia engineering",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "com.tn",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "millenia.com.tn"
+                ]
+            },
+            "official": [
+                "i.ouardi@millenia.com.tn"
+            ],
+            "details": [
+                {
+                    "original": "i.ouardi@millenia.com.tn",
+                    "normalized": "i.ouardi@millenia.com.tn",
+                    "domain": "millenia.com.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "i.ouardi@millenia.com.tn",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

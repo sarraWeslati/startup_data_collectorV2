@@ -1,0 +1,259 @@
+{
+    "entity_type": "startup",
+    "name": "AbrarCom Analytics",
+    "description": "AbrarCom Analytics est un outil de reporting basé sur la Business Intelligence destiné à diffuser des rapports d'activité précis selon un format prédéterminé.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2017",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://startup.gov.tn/sites/default/files/2021-11/Compte-Rendu-label-janvier-2020.pdf",
+    "linkedin_url": "",
+    "social_media": {
+        "github": "https://github.com/AbrarComDev"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://github.com/AbrarComDev"
+    },
+    "founders": [
+        {
+            "name": "Houssem Nouri",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Slim Ben Salah",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Amira Ben Faiza",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Haythem Farhati",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:09:52.252775",
+        "website_enriched": true,
+        "tavily_results": 8,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": true,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-20"
+    },
+    "external_profiles": {
+        "website": "https://startup.gov.tn/sites/default/files/2021-11/Compte-Rendu-label-janvier-2020.pdf",
+        "wellfound": "https://help.wellfound.com/article/931-where-can-i-find-analytics-for-recruiting",
+        "github": "https://github.com/AbrarComDev"
+    },
+    "tavily": {
+        "query": "AbrarCom Analytics",
+        "answer": "",
+        "results_count": 8,
+        "urls": [
+            "https://startup.gov.tn/sites/default/files/2021-11/Compte-Rendu-label-janvier-2020.pdf",
+            "https://www.goafricaonline.com/tn/698442-abrarcom",
+            "https://piataonline.md/company/view/51383022/abrarcom-s-r-l-",
+            "https://infobiz.md/en/1004600048494/societatea-comerciala-abrarcom-srl",
+            "https://infodebit.md/en/1004600048494/societatea-comerciala-abrarcom-srl",
+            "https://podobne-firmy.pl/abrarcom",
+            "https://help.wellfound.com/article/931-where-can-i-find-analytics-for-recruiting",
+            "https://github.com/AbrarComDev"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "website_content": "%PDF-1.4\n% ����\n4\n0\nobj\n<<\n/Type\n/Catalog\n/Names\n<<\n/JavaScript\n3\n0\nR\n>>\n/PageLabels\n<<\n/Nums\n[\n0\n<<\n/S\n/D\n/St\n1\n>>\n]\n>>\n/Outlines\n2\n0\nR\n/Pages\n1\n0\nR\n>>\nendobj\n5\n0\nobj\n<<\n/Creator\n(��\u0000G\u0000o\u0000o\u0000g\u0000l\u0000e\u0000 \u0000S\u0000h\u0000e\u0000e\u0000t\u0000s)\n/Title\n(��\u0000C\u0000o\u0000m\u0000p\u0000t\u0000e\u0000-\u0000r\u0000e\u0000n\u0000d\u0000u\u0000 \u0000d\u0000e\u0000s\u0000 \u0000s\u0000e\u0000s\u0000s\u0000i\u0000o\u0000n\u0000s\u0000 \u0000d\u0000e\u0000 \u0000L\u0000a\u0000b\u0000e\u0000l\u0000 \u0000-\u0000 \u00002\u00000\u00002\u00000)\n>>\nendobj\n6\n0\nobj\n<<\n/Type\n/Page\n/Parent\n1\n0\nR\n/MediaBox\n[\n0\n0\n792\n612\n]\n/Contents\n7\n0\nR\n/Resources\n8\n0\nR\n/Annots\n10\n0\nR\n/Group\n<<\n/S\n/Transparency\n/CS\n/DeviceRGB\n>>\n>>\nendobj\n7\n0\nobj\n<<\n/Filter\n/FlateDecode\n/Length\n9\n0\nR\n>>\nstream\nx��]M�%�u}oZ��x�0\u0010&��v\u0000�UU��2\u0004\u0001\t�\u0004�\u0011@I\u0004(�d\u0006\b2���\u0013˙\n`���Yh\u0015\u0004�\u001f�g\u0015��X��\u0001a�H\u0016Ϲ|��_ՓƂ�w�U�^^������e{�\\���h�a�����o.q�\\9\u0013��\u000f���J��\u0019���\"����7��U���z�_tH<�G���7�]gUB�\t��\u001b\u0002\u000eF\u0014����˟Ov㿟�4�{��NƮ��^�s�\u001f\u0013��H���_m��'\u0001^gh#Ɵ�W��m��*X;eJ�\t*\u001b�t0�c�\n�X�tB�}��\u0007\u0013<�\n����Z���\tv\u001a�B0\n|��\n}���L7\nL�\u0018{��])[�?�\nhj\u0006��a�\u0013;9\u001ba��\u000e&x���.�=�?A�AU\b��\u000f�����\b3�t0�c�S�t\u0007���#�!�\n\u0017�������k��\n\u0017ǪN���m`p\u0012�Gzdl(\nM\u001aG��\u000eJ�\u0018{Y�\u001b\u000eE�\u0006�\u000f�ev���`ϡ�\u000e&h���2�92��\bqp2l�|O��l�88\u0019\na���B�!�\\\u0007���=2��v��\u0004\u0016����'x����\n�\"B�C��1���7\u0007�s8�\u0018.*�C%p�\u0004\u000e�>�#�w9�\u000e�j����[\nM\u000eǪñ���$x�}�U}�|S({��\u0003�\u0016�~1���\u0004=*��C��1�)v\u0003*��J0X\b4�E%\u0018P\t\u0006T�\u0001�>�E%\u0018P\t\u0006T���H3\n\u0016G뀣u���68>\u0019\u001f�\n6��g��[��1n���\n�W\u001b���4�c|���\n�)7��s�����!�M��y\u0016��^�c&��\u001b�uj�xq0d\u0013�uƖj�xqD�S��\u001f\u001a\u0013��\u0004�n1A�&80\u0011+L;\u0002\u001f3\u0001\u0015�\u0011�IX��c|�D\n����h�)L�\u0012/\u000f=ECO��Stu(���St��0m��\u001b�g���6�z0a\u0015z\u0019q���3>f\u0002*~#\u0002�������\t���\nL�4�\u0005^\n݆F���mh4\n�<�\n�nC���lW`sd\\�����Dę2\n���\t���\bLF3�#&<Es\u0015���zW��uBqY*\n�(\nY!\u000e%��B�dp\nAZ���\u0000񰑲��l�_��n�m�\\X��5�\n1j��P��)\bOc��F��X=0�8�B��IT�P�'գmL�7�.���j_#Q\nX��\u001a��\n��5�ת5Sc�\u0016qS��\\���$\n�8\n>��\n�_S\u0016֥�45�\u0016#�S�����\u00188�?7��Bk٘\u0002Li+M[�-ZiU��\n��EM\u0017��}/�G8�e[�\u0010���J�)\u001aLS�h�\u0016���\u0004\u000fW'w'\u0007}/��`����r�z\nV\u000f��4D�`:�n��1X=\u0004+[�\u000e&X\u001a<\u0010�\n��C����FBf_�ŝ�^<�܋��nK0\n|�a2{j\th�bU�JX�ߺa���\u0012�0�BK\u0010\n�愆�\u0006SK`�`�gx�:9��0�\u00041�3���N�,&f���a&&h\u0017s���l11;��\u0004�)��bb���\nfb�G��㍍���a&&��K��u0j\\\u0007�&o�M\u0007\u0013tw��tx���b���%���'�\u0013\u000e�\u0013\u000e�3\n��L8\nN8\nN8\n�0\u0018.N8\nN8\nN8\n�0\u0018�0�p8�p8�(vo���nS\u0002]X�Ik���\u0004{�t\u0010t\"i\u001f��&�-�\u001b8���\u0006���s��7p��p���\u0004� W��7p��p���\u0004� V�v}���7z\n}c��'�^���\"������Հ\u0013*���f@������\u001f\u000e8�\"(+w�\u001f�8��qz74��\bޱr������\u001f\u000e8�#ȕ�,������݀�9��\u000fݔl\u0006��\n8�\u001bp>���\u0019K��:9�y�}���&|��p3w<�8�d�ܭ\u001f\u000e8�\np6��\n��R�{�~8�lv����W����\u0001g�\u0003�f\u0007��2<�o�lv���|�J\\�'<�)�qE����G��3���_��c\u0013�\u0001g�\u0003Ξ��ol\u0005\u000f�̟\u0007�?\u000f8�M�]����b��\u0019�3��v����C�π�E<\u0007���y��)\u0013��j�\u0013ƭ�Ez���3��C��ki��qs��ӓ�x�x\nP\nN)\u0004n\u0017�Uf\u0013����:L�\u0002��d��jn l�\u000e3��G*67\u00006X�I�����a6���=\u0001$∯g��W�\u0013\u0004w6�{\u0004�\u0010K=���\u0002�l\"�\b�!�z\b�S��l5�\b�!�z\b���M�=�z��\n���\u0006��`�#\u0015�H�ݲ\u0006w�\u001a�\u0012���Ÿ;%s�Vs\u0003a�)�]��Tln\u0000j0J_��\u0017�[�NQ�R��\u0014m�\n|R�R��\u0014�/E;�\u0002/�/E�KQ�R�-/�)�K��I�sg7��\u0018�S�Of���B�b(��5|G���R�!.m�V,ya��cmH�\u000e(\\�(�!lj�M,�4C)�PJ3��\u0004>E!\n�4C)�P\n\u0013�����j�$�i(�\t|�+��`�3\u0016���ե�'�UCi�PZ5�F\u0005^N��Ҫ��j(�\n|R���j(�ZJ���\n�=g���`���t����-��ZE/��K-�r�w�jK+E���n)�3���:\n�vC��R*g\\���廿{�w��Us��_NOǏ��S�6�]�p�-�|?}�i7�{��/u�*(V?\n�<�&�\u0002�3\u0019�<�c�\u0013VMɣ��LF%OB��\u0002��3\t\u0001�E�|�I�ҙ�J\n���8k�,#�8\u001b����2*y\n��B�-D�Q�c)�\u0016�l!������ �\u000e\"˨�q\u0014g\u0007qv\u0010YF�Cq�!�=D�Q��S�\u0007��\u0000�eT�\n\u0014�\u0001�<@d\u0019\u0001\u000f�y^T*a\n�\u0002oX<\u001aT�\u0006\u0005C@$��ϫ'%�g\n\bd-�}��.a>[@ �\u001a&�Hf�l�H�\n��\u0001\u0014F\\@ S�\u0000\n\u001b@a�\u0005D2n\u0000�\n�1�\u0002\u0002��\u00060�\u0000\u0006#. �\u0019n\u0000�\n`0�\u0002\"\u00197��\u0006�\u0018q\u0001���\u0006��t?��U��K�u\u0015�G��>�ē�g�ҙ�J�9}N8��\u0012�3\u0019�\nK��dT�h���8k�,#�8\u001b����2*y\n��B�-D�Q�c)�\u0016�l!������ �\u000e\"˨�q\u0014g\u0007qv\u0010YF�Cq�!�=D�Q��S�\u0007��\u0000�eT�\n\u0014�\u0001�<@d\u0019\u0001\u000f�9�O�y�\n\bc�a�hP=\u001a\u0014\n\u0001��\"��'�|��@�R�s�\u0004��\u0016\u0010Ⱥ��,�Y<�!�q\u0003(l\u0000�\u0011\u0017\u0010�\u00147��\u0006P\u0018q\u0001��\u001b@c\u0003h���@��\u0001\n6���\n\bd�\u001b�`\u0003\u0018���H�\n`�\u0001,F\\@ �ӧ��+�\u001b@ח�j*����h�I�D�LF%Ϝ>'��g�ҙ�J�9}Fl�����\"OJ�%Jg2*y4�YC�5D�\u0011�P�\n��@d\u0019�<��l!�\u0016\"˨�\u0014g\nq�\u0010YF�Cqv\u0010g\u0007�eT�8���8;�,#�8�\u0010�\n\"˨��)�\u0003�y��2*y\u0006��\u0000q\n������'�<�\u0005�1߰x4�\n��HF\u0011��\u0013`>[@ k)�9}\u0002�g\n\bd]�d\u0016�,��\u0010ɸ\u0001\u00146�\n\bd�\u001b@a\u0003(���H�\n��\u00014F\\@ ��\u0000\u0006\u001b�`�\u0005\u00042�\n`�\u0001\nF\\@$�\u0006��\u0000\u0016#. ���W��m������ȋ��\u0013N�D�LF%Ϝ>'��g�ҙ�J�9}Fl�����\"OJ�%Jg2*y4�YC�5D�\u0011�P�\n��@d\u0019�<��l!�\u0016\"˨�\u0014g\nq�\u0010YF�Cqv\u0010g\u0007�eT�8���8;�,#�8�\u0010�\n\"˨��)�\u0003�y��2*y\u0006��\u0000q\n������'��\u0005\na�7,\n�G��! �Q�s�\u0004��\u0016\u0010�Z\n{N�\u0000緖0\u0004��a2�d\u0016�f�d�\u0000\n\u001b@a�\u0005\u00042�\n��\u0001\u0014F\\@$�\u0006��\u0000\u001a#. �in\u0000�\n`0�\u0002\u0002��\u00060�\u0000\u0006#. �q\u0003Xl\u0000�\u0011\u0017\u0010���\u0019߾\u0013�_�q��\u000e��\\�Ĕ\u0012h��\u0002�Ls\n�pJ�%ʧ\nX2�I4b\nL\u0016Oe\bL\u0016�R\u001a-Q>U��IS�5D\\c�\u0005\u0004&����\u001b\n��%���[���\u0010\nX2Y����[\n���D\u0011w\u0010q�!\u0016�dr\u0014q\u0007\u0011w\u0018b\u0001��\"�C�{\n��%SO\u0011\u001f �\u0003�X��i��\u000f\u0010�\u0001C, 0Q�sj\u00058\u000f�A\u000f\u001a��\u0006��!5�\u0018�(�9�\u0002�O�\u0018�Zj��`\u0001ΧK\nt]�t\u0016�,�.0�qS(l\nE��\u0018�\u00147�¦P\u0014z����BcSh\n��@��)\n6���K\nt���`S\u0018\n��H�Ma�),�^b��\u0013nzZڮ.�|�\u001a���|p&��D�\u001f��\u0014��� �\u001fn�~V\"'����L5@��T\u0012�E�\u0015�P��\n?%̇\n\b1+��i��i�\u0002Y׺C\u0018\u001b��\u0005���L�cΘZU`�IZ��n�!�>��\nQOo\b�>.Y(�Ui�\u0003\n裢�I�>*QkEcCQ�$&F1>\u0014����Y� |��2��$1��EˤJ�p���!�?W�|W�\n��\u0004�\u0002�������p �/�4p6�B\u0010��@�\u0005A���T`C1˷$�0\u001f. Ĭ�-�|I�\n���\u0006`�Zp�<�\u000e������W7\b�g\u0016�Đcv�'�\u000e�3�1[��\u0004��U�R?q\b4�L\u0005���{�\"�\u0003�\tӰ\u0012X2��jph�Op�\u001an*ڄ�VTK�I����j-^�N�\u0014X0�c>�x]�h�\u0013F��Y���� �f�Y<�$]�|��@�x�\nz���CR.!'@��H�!���&l\u0000�\u0011\u0017�����4���l\u0001�̰�g�+a>[@T.!t�\u0000\u0016#. ɠ�& s\u0018q\u0001Q���a\u00038���$�Dv�2�\u000e���\u00068��\u000e]�@6p\u0003\nz���C$�\u0006��\n�,\u0014\u0012�:�YWC3Æ�Gb������'��!�zό\u0007��և02v�(�\u001f)և01��Q�2�ZBb� 2�\nz\u0012T\u001f��QS�hj\t��Q��9��>��ш�9�T�>��Q������\u0012\u0012#c��\u0010\u001f\u0019�q\u0004|�\u001fޒ82\u001a��W\n������\u000f���\u0007��t�\u0017��˧��ן��叚+�>�\u0010~��6}\u0015�1�O��\u0012#JE��\u0014E\u0001Ţqv0\u0017M(\u0016��~.�P*�Pd��1\u000f�E\u0013*\n\u0016+�J7\n�aJ7,�aK7,�aK7\n��J7\n��J7zp�/�\u0018���tc\u00007�ҍ��e�tP��Ҕ�\u0004�,\n�ҙ yEa�@��BpH�C\nR�\u0002�4:��!�\u000e\u0019pȠC\u0006\n��\u0005�bY�A��Fdҧ6&�_�?.\u0016沈���*n��G\\Ԉ�W.\"�e�\u0014�y��̥y4�3�4\u000f�yj]�\u001a<��sG*\u0016נ�\nkг�;\u0015\n_e�\"~E���\u0015�k�O�#,�\u0014Q��\\�*�$��0Q�P4�t��b����EY�ùIt���Y�\t�i�PJ;Y��\u0005�®E��6e*`��;�5rX#�5rX#�5�]��o�\n\u0015�s\n֗�݆\u0006�M\n�\u000f�sy�\n�1`4�\u0006ϵ�\n\u0003֨xnp�P*��\u0016��[�Ln@Y:\u001f���[����K���gL���弉c�C�k�_�ڐ���7�?o��\u000e�O\u0002<\u001f����Ҹ�Q\n�\b�t^81���`\n~\u0013,��M9�&��_�P\n�G/��\u0004\n2;dG��u���\u0011Z,E��\u0006��3��4\u0014���-�\u0013�\"~�5�;[�XnȾ!���\u001b�\u000f��9�N����\u0017\"챴�RX�2��\u0004a\u0019��K�\u0011Z,�P��+�^i�J�W\u0006�2�E�,ze�+�^9�ʡW\u000e�r�\u0015^��^W�S�\u001b:��j�\n��K3�rK�X7��ͽ�(O��/j)$%�\u000eK��\u0011ҹ=��n� ��n� �Z,�P��+�^i�J�W\u0006�2�E�,ze�+�^9�ʡW\u000e�r��܍2�rn&:��j��(5\\C\n�P��r��܍2�rZ\u0011�S��:=]?\u0014�����B�\u001b/�g%�P񹱾�\u0011�X�Ci񑧾�\u0013�]0A,�Xj�T�W\u001a���F�\nze�+�^Y�ʢW\u0016�r�C�\nz�Ы��=t��)�\n��b��.�\u001a���l��R9֭|�]\u000f]0��_�z\nk4�W2�п�篠��2ݖe\u0001�\u001fe�ʲ��\u000fa\u0016%\u0001��\n�¢��oە�i\u00028=�,��4]�\u0016�\u0000+J�\u0015o�.T��\u0016K-�j�J�W\u001a���A�\nze�+�^Y�ʢW\u000e�r�C��ټ\u000fQ6���\u0001���W�NAY�^�Ձ�]�PN��`���@��W�!��|�U�0\u0013��?E�)�O�j����\\c��ET�\u00065('��ER�\b\\��U�&+i\\s-���\u0014y����\u0005\u001f�l\u0002��V�\n�\u0004���\n�\t\u0014���Eꉈ׮�\nE\b/3+/\u000f\".>.�\n~z��ݓ���{�W������ؽ����rwq�s������\n������\n���\\�G,��?����|���+���/�c�7�~�\u001f�|���|x���?������߹��o/?��_\u001a���W]�\u001am3\t@{�;�z��K��������5�[w����X���\u001bk�c�j��Zs�h�\n�\n2�Zk�W�\n��k�\no�����\u0013_��ퟥ��5;��\u0007\u0006i��7S��=�Qݠ�~\u00146�L}��-�)\u001fzcۙ3�:d�?�`Ά)N��\n�\u0016��[y\u0016��m�tU�5���a\\��\n���p\n\u0007\u0007\u0005�p\u000f��H��\u0011�Ћ��\n�\n>.��ݍ���\u000eZ��\u000f��\u0015ܭ;\n�\u000fG�X�=N?\u000fq\u0012�r�������\u0015V��G\u001b���/85�\n#�\n6��\t�;ܙn�\u0004�g�2G3P?�F��d��\u000f�{>4/�\u001f��_���?�X�B��\u0007�ȣ����������\u001b\u0015fE�lg��އ���7��t#1�T�P��;�\u0010�f�-���JM�q�u�c�1�\n���]�t�����GM.\n�/>[�<\"\u0014\u0013g��߬�U}w���\u0015�Q\nj��\u000f/�l��\nn�ܭ�O�\n֩�Fr��]�_��?/�p}�����s��\u0010�jp���������|���l���3\"?�a�r�G}Mt�\u0018Ӆ\u0017�\u000f|�x쳇7�p����Sp�:\\<���yst���w�g�_B��2T��gD�CU�\u001a�HB��4���_B\u0006�3\u0004O��KIjY�;͒���߃�?\u0018g@�:�w� �ӕҵ������\u0013�|�\u0003䃵�@��4��{!\u0011��>\u0006i!u.'\u0001i�ݻkE_�n&��zc�ﺚ���j�\u0017��B�\u000fsv}�9��Չ�Kb_��Fb;�b_7r>�\u001f\u001b��U�\u0019�~A\u0018U���-/\u001f��\u0010?\n��z��0\u001b^5c��O��~���ԐVFٻ���V���4��\u001f\u0016�V(U��!�L\u0004%��\"��D�V��p|\u0003\u0011<�si�[����t\u0014�\u001a�VBx+�BX5rF!�_�Y���j���?~z8�\n��\n��\u0005���=|\u0016&���dVYV�\u001f��ôu\\N\u0018��������1fS\\W�0���>\u000f\u0017\u0005O�\u001a���i�4��a���j�\u0016��)���X��>�r��[(�\t�K�]��z��n�ܷ�^��u#�Sn�_;嶷\\��6E[wB=wOwo{\u0007�������������'�<ٽ����\u001f���ۣ�/�߾\u001bJ����\u001f�G���J�t!4�����\u0003���R�[+���\u0019\u0016�kF6\u0012{I������\u0002��m��;��T�)3~\u0017�����o\u000eZZ#�Ӳ���K�\u0018\"�\u001b�bT}�(\u0005܎{e\n�\u001b9_\n���=��W1��1z\u0012��G\n���o��=V,/D�\u0014��>,�<��\u0018S�Y����;�\u001a��}\u0001��|{�\t�4��F�{\u0013OW7���\n\u001ay�\u0016��4Y�h�U�S8\u0017��[z��^���𖞮n�}��h���[~\"���Z(i?��>\n�\u0002Ӫ�<\t\n��`cK\u001a�p�@�o&��zcA4q/\u0003�\n����+\u0004��\n�j���~z�����U}�H�nǽR��F�'f��zm�ϊ]���e�?U@I�$�$L�A�\u0013j�(,�>Z��%��}�Y\b�t\u001b��\u000e˵\n(�l���zk\u0005�k��~�T8��\u0002V}]_���Q\u0005k�[�୸ת`��\u0019U0�p�6ˤ���2O؞���{�\"s������pj���'އ_�?\n޽Xc j�00-y�5zVܙ�z�*\n�\u0019�3\no�\nb\n�o�\nw���u�<4�����*�h���z�o\u0017LRo��V\u001f��nw�_����_�h���S8���Z����v�+��n�|zo��5�ub��\n�ʨ���G���� t�N�\n��Ri��P���Ç��S�֫�4��x�Z\b�ʕ�I'���tRRo�������'\n��\u001b̄�.?������:�b�׍T�v�+U�n�|���L\u0015Ŷ�'af�g��O_�\t�W\u001b\ba���qJy�Ep|�r���4��1v��x�EQib;!<�.��ǅp�\tc��\u001a\u0019�&�\"D\u001b�LU�u�\"A�w+y�\u0015�Zy�\u001a9�<��l���\u0015�~�n���NJzo��Q����/��D�G!����Ϧ�\u0001����4��|�éb/\nz4�u�U�������V쥡\n��$�f2/�7�������g��%Kw\u001fx�,�λ~GL�\n���a�\u0013��\u0016a7��UxV*��\u0019����&ٽ���������=\u0011˂:�]�ݟ�~�{w��Zi��o��M�\u0001o\u0006��h��Jk�\u000e,�z|�\u0005V��fB*��\u0016�\u0013���\u0016\u000e��\u001b,\n�}]^�X�\n/�`�l.8��lV-}��l~ûj�]w����3CmG�5�,\u000fbK�\u0007������\u000f�j�\n�>�}���\u001b,_�-��0�A\\�\n��^����\n&�+�T�j/�m��\u0003I��v�{sl�nY��\u0019&�uK�\u001a��_\n\u0016��r\u0012\\w�\n��尯T�3��p�=�3N�ۦ�����\nW�����\u0004\n<=`��Ÿ\ns�\u0017ޫWa)�������k\u0014��j�7y������Ðrv?\bA�b���\u001a�MߧP�p�Օ�*o���o\u0014k��X�o=��o�N���k^�\u0015_*V'^��\\'��b�#?][�9l�����\u0017kj;p\nVϿ\u000f�6�G����y�!L������������-���l�{xk��0����Ѥ��-�렱σ�>\n���l!���\u001b�N�r\n�ݼ\u0017!��\u000f�7�uͳfI�{��������L\u001b7\u001b?�\n���\b\u001b�N3ܓH�UWFu3ͽ\u0005�jŭ�8���vо}�m�\u0016̻�\u001f�+���\u0002�j�����\u001b\u0007V릴��~z����\u0018�mn|���$����\nch�\u0010~\u0011w\u0007��/ֿ��fv[��\u0016�V˶;�Z\nǷP�mI�Z�B�����n����^��5\u001bgW˶�\n���e'�Y��+��\u000e�\u000f�����H���~z���Ŏg���7�[J[��_\u0016Bɻ�\u0010J\n�\na/�p��v��\u0016\u0017�5_��\u001f���I\n���I�-�WKa��٥���&�\u0006R(�-����\n�_��ORX�3*�6ǻ\u0004^��i�O�\u0011X/���Y^�R���D�{S�����s�?[5�~K�D�e�<�3W5_����P��͚���fm\u000f�ۗM%��7��{qy�����p\u0003��v\u0016v���>�\u0014o�Z�FTT�����[��N���nɿ��J\n[+�j�2�\u0014�o1٬���jn�kT͊�[��m�תf���US���BJl\u0014�\u0015��=�w�Z\n���+��U�xIr(��U-\u0015+����7n�y6n��[,EnK�$�\n\u001b7��n&����M���%��ܸ�b7����Q\u0014�oqK�w»U�\n�,=\u000f\u001f�\u001ak����U{��v�\u0016Fiakaԕ=��Z/���-f�5_�\u001f�Z��㾮�m�����c�z���騌\u0015�ϯ���M�sެi����>m�x�/W+��\u001f��g�郭o��\u000f\n�`\u0003M��d�g:+�[+����\u0012V6>֨KTB��&JX�u�jG%<��j%�8��ÈQ\t��tR�oc�Ɯ�GsV%\u0014;\u0000����g�W(T�B��M���\u000f�3�?�\u0017ϫ\u001fr���Fn쩙�X*ϾYc*�\n�m�\u001bn��\n-�ܢ|\n��t�<��?U���\u000e����bt�Jj��\u001b����o�)�Vl\u0005��{4�.�O��[-��}�����n�Ӱ:��wP�v>\n�\u0018m5��\u0016�VLiakŴ���\n.���[L.k�n��N�vçݫ�k^E\u0018���C�V\n+N�_\n�i�2���?���?�=B�\nendstream\nendobj\n9\n0\nobj\n9265\nendobj\n10\n0\nobj\n[\n]\nendobj\n14\n0\nobj\n<<\n/Type\n/Page\n/Parent\n1\n0\nR\n/MediaBox\n[\n0\n0\n792\n612\n]\n/Contents\n15\n0\nR\n/Resources\n16\n0\nR\n/Annots\n18\n0\nR\n/Group\n<<\n/S\n/Transparency\n/CS\n/DeviceRGB\n>>\n>>\nendobj\n15\n0\nobj\n<<\n/Filter\n/FlateDecode\n/Length\n17\n0\nR\n>>\nstream\nx��]M�\n�u}ofVo�\u0011W\u0002!���\u0015�\u001a�guu@\u0004�A�@�\u0000�M�\u0001�\u0019 \ba�ƌ\u0019�&\n\b��&�\u0005WF0�c�Z�\u001b��Xv������U�����L�\u001b�\u0016A͜W]�V�[u�\u001f�X������x�E����/�/V�q׺$��|\\\n7�*���|\u0012@�@�?�Z\u001f7�n��7��5�*=����6P�\u001f竪Ru�g\u0001�U�9�FD�>Y=\\�r(�����V.];�c�g��f��kx��꧜��ku�\u00127u\u0007�\n\u0007��<��Lt�OMT�*�,\u0001\u0013���5&�iS���!����\n�H~��rŮ��8%��X\u0017\n��9^g\u0002jz.<\u00110Q��9^g��g�r.K\n��x\n\\l�E0�KMX�Zp�Ƅ\u000f�%6���\u0010t����j�X-\u0014֢���\n�3�}ه���\u001a(\u0002��{�7�������5�\n�s�Y1�,��\u0003�\nT\b���u�Ь\u0016\u001aj\u0011)��9^k\u0002JE�\"Rx\\\u0016X\n�����L�R\u0007\\bo\u0016x��Ac|�sY�C?\t�s��w�\t^jՂ�5&�o\u0015���ZԬEq\\n��d��:���(��0Q�p�,�\n/���p���a�hX,�\u0000��>�?2����H��,4�a�\u0002��C�B��?Nhy!\t\u0007�\b�s��D�0�\nF����&�;�Y�.�*���X\u0017�n�u������O~�\u001f�\n���\n���ⸯ��m��oCOo�(ͻ��\u000fD#\u0015N\b1ދMJy\nMx�L�T\u000es\u0013�T��A\u0006i�ץ=\"\u001a��s��N&�Ej����4K�Ɍ��a�Uש�+\u0014�\n*VԞ�W�f�]h\u00018}��s\n�ߺI�Aj��$��R���`�u�\tj\n�:�������D���A\u0006�d�?��:�hc�\bY\u0002Nf�E\u000e�&��ɺ���\n��Za�\u0015��\u0018+2A�a�R,V\n\u0017W�\u0015\u0019�ذX)\u0016+���\u0014}��\nY\b+\u0016+���\u0013�\u0011�S\u0003�}��%[s@��6\u000e�\u001a���AF*����i-��oʲ��l��UZ)?�j� �\u0007��\u0014\n�5��cn0�\u001a\u0015k�\n[c_a��X�iSkT�5*l�d@�u\u0018�_�\u001a\u0015k�\n[c��*rx�:�!\u000eX�����*����ce��ʞ���*���k���Ʊr�4Vƙ��<������\nR?�~\n�s\n\u0006���d��1��p\u001b���\n����������n�ֿ�}{Ѭ�hh/�z��`�ȍ��\no_1�n�B�5x�a����{2\u001a$ϡ'�@�����'�D�\nz��y��kLD7�\b{\nWY�bn���S�h���܆S\u0000�7N\t�Dt\u0013s�bn�H\u001b�v=�䅞�qfs�b�\u0005�����jh�\n[}�k1��+�7� �\n�W3���\u001b̅O���\u0018�n�\u00149��D\n,��׸h�{0�y��+.Z�Ar\u0013���E���`�m5\u0013���E�ā�-L4�c5�c�8�\u0011���U)��6��q2ڸ�h��py\u001a�V�\u001b\u0010qg�?���\u0019\u000e\u0019��`�Ҭ^\noaB3\u00138(���czޚ�b��ߞ��.V?��pj\u00197���I\n�VMYga������\u000f4�i��!�iFF\n�\u0014Rn\u0001�,�h�\u000fhe�B�- �Ń���B2��9D2��z\n@�\n\u0017\u0010�z\n�\n\u0003У�\u0005D2\u0016�8cIa�-aJ�\n:�\u000fJ\b\u0000��>��@V\u0016�L!���\n\"\u0019\n@UA\u0000<��\u0002\u0002YUq2�d\u001ass�d<\u00005\u0006�F�\n\bd5\u000f@�\u0001h��\u0002\u0002Y�\u0003Т�Zt��@�r���\u0016�$ �q�)��B'\t\bd���C�u�$\u0001���>��v�J\u0005D2�h5\u0006@��\u0005\u00042M\u0001hJ8\u0014\u0000x�RU���s�\n�H��Lcn\u000e�L3�0\u0006\u0000��\u0002\u0002Y\n\u0003�\u0007a\n\u0000H�\u0005\u0004�8\u0006�\u000f\u0014�)��!�)F�c\u0000z���@��\u0000�\u0018�\n=. ��\u0000�\u0018\u00000�0%K�\u0000�A\t\u0001 ���\u0005\u0004���d\n�\u0014��\u0010�X\u0000h\n\u0000H�\u0005\u0004���d\u001a�4��\u0010�x\u0000j\n@�\n\u0017\u0010�j\n�\u0006\u0003Р�\u0005\u0004��\u0007�E���$\u0001���>k�g-:I@$�>S�3�N\u0012\u0010�\u0014�Y�>��I\u0002\u0002Y�}�a����\n�d��j\n�F�\n\bdq\nP\u0015�F\u0003<[��B��aY\u0010�4�i��!�iF\u0016�\u0000��[@ �c�� �\u0001\u0000)��@\u0016ǀ��B2��9D2��z\n@�\n\u0017\u0010�z\n�\n\u0003У�\u0005D2\u0016\u0000\u001a\u0003\u0000��\u0012�d�\u0018�?(!\u0000$�>��@V\u0016�L!���\n\"\u0019\n\u0000�\u0001\u0000)��@VU�L#���\n\"\u0019\u000f@�\u0001���\u0002\u0002Y�\u0003�`\u0000\u001a���@��\u0000��\u0016�$ ���g-��E'\t�d�g\n}��I\u0002\u0002��>��g\n:I@ ��:l�\n�R\u0001��7Z�\u0001��q\u0001�,�\u0001��� �g�~\u0004j�����\u0007\u001a�4��\u0010�4#\nc\u0000@�- ��1�\u0010�\u0000��[@ �c@�@!���\n\"�bd=\u0006�G�\n\bd=\u000f@�\u0001���\u0002\"\u0019\n\u0000�\u0001\u0000Cn\tS�d\n�\u001f�\u0010\u0000\u0012�~\u0004\u0002YYp2�d\nss�d,\u00004\u0006\u0000��\u0002\u0002YUq2�d\u001ass�d<\u00005\u0006�F�\n\bd5\u000f@�\u0001h��\u0002\u0002Y�\u0003Т�Zt��@�r�i$Ә[@ �z�����9�x�/���\u0000���z�\u0005�YĚ\u0011r�\n\u0018d���z��^�P�t�;\u0014�\u0015�����@�]o\"H%��¡�P�(��\u0003�t�e\u0017\u0018�\u0014�/����Ϡ�7X�9��=�\"��R\b�$\u00121\u00140�A\u000f\u0005�\u0002���l4�Z\n�0�x�(qZ�D��\u0007%�7\n�\u0017c\u0018�ʂ�)�S,��HǢAj\n0f�\u0018�*�J#�f�\u0005F:�7H�\u0001�3_~�GHt\n��a��\u0018�\u001a\n�\u0016}�2_I\ntB�[\n�Z�+�Q��h�p4S�W\u0012\u0003���Y��Y�|%1�u|D�pJѱf+1��f�1\u0014��^b\b�\n�P�h�)� T�\u0018@�s��A�$�d\u0012Z����L򒣡\u0014�{p\u0012�$��P\nk\nđAbd�\n�\u0001�����\u001a�u����\u0018��R\n\u0019$�2*>�'gO)�\n\u0012#cz�T��\u0013q� 0cT܏��Q3�I�~L\"\u0003o\nd�@�ǰ\u000e\u0016�۲�F˹|�Eޛos8a��ݠ�q���0�1=Άk��o\t&���,.x\u0019��\u0003�9$�2�<21ր#��Ș�\u001a�=ʼ�Ԍa�����z,ia3�\u0019���\u0007\u0019��5c\u0018\u0019e{\n}o�\u0019ü�\nƱ���\u0018f��3�,2=���Ș�\np��\\�\u000f��=ab��:�N\u0001|&.�F�}*��Ҥw��\u0019�2n��N��\u001fc\u0019K�m\u0006�~/�b��h3���p�\nc\ng��\u0018F�JD�ҌQ3\u0006�\u0019��c��ز2I���(�f��1H��R�F�泛���\n�>{hoTk�Đ��^[�\nc�\u0001G\u0006��1���0Le\u0004|F\u0017Q%���fe\n#\u000f�W\u0011�\u0016�A`6riΨpN\u0011�b�AbdTb\u0006б\u0019\u0000��<���؉��f�\u0013\u0006�\u0019���,2�EBb�L��OW?r�S�*Vo����\b\n���?�\u0014��p���?\\}\\\n�qlw�n�~L\u0007\t-�]�\u00125&�4ю�I�\u0000C�\n8��\u0001R��D�&�X�\n�c���@n\b��\n��\u0012\n�!%*LL\n�47I�*HԘ\b\u0005��@5\u0014��\u00025P�\u0016m�`�E�-�ThS��\u000emv`�C't�\u0004�\u0005Ҿ@��v��\u0006H-��xKR\u0007H��.D�:@J��dI�\u0000)��9'�\u0003L�M\nԐ�|E@]a�\u0003֐\n�<\u000f\u0018^�n��\u000e�P\u001b��!`ؖi�7\nx\n�gW�i�\u0006\n�\tkHO��uZ}���i�O�M�\n���\u001f�};s��u\n1�.%}HV�m�N\u0012��\u0003\n�\u001a����b�\u0015�oI\nX%�K�&��W��\n��k柞��g�a��Q��z<�U|\n���\u0000����\u001b�)���ߖ�1�\u0010��?$|�y�/v�5ˏ��s�$|g�cLo\nLo0��\u0011�����8m�\u0001��7[h\n'��\u0016�W�\n�S���\u000fa����h?Ɵ0�'�\u0016��q����\u0003�,��o\nLo���<�\u0005�\u0019p���ŧ�\u0016p�\u0012I��1���d/�cX���\tX�t�鰎n�5��%�O��H�\bcz�\"P��\u0001G���~Ꟁ�5K�\u001f��?�1��C��+��0��C\u0018���\u0017;���\nڏ��8Y�t��\u0001G��9rꟀӵH�\u001f��\u0006��?\n�\u0002��?\u0001+��0��C\u0018ң\bcz���\u0006\n��i����$�c����~�N;�����5���=���4=���{@�b�\n�{V>\u001a��5<���%;BIz\n_���4�������ʚ毰|q|LvV =�/9�L�k�\u001f-\u0010�\u00176��\u0003+]\u0013�Gk�4��X:+]�1]�ҩ\u0006�;V��`�|\n+�f�\n+\n��h4�:L���T�)�/0��ڗ%�\u000e�R�T\nO��m:oM�Mu��I�f�,?�{�3\u0007HW,]az����~���h?�;�T'��:\u0001w���\n�� ��ש\u000e&�NH�q&�Ӻ\u0011ƙ�N��q&IW,\nu;�\u000fƙd\\������4=��O���?x`~>�r���=��+3b\n���o���@����MƂ\u0007�.����G�[�G�����g���\u0013���V\u000f~����5l4e������ro�j�o~�\\\n-_-/\n~�<����+�3��_\n._\u0018{Ϝ�����m�z�gcJ���z}���c�W�S�b�fE�x�K\"=Vei�9�}�ya��~�B�3�\nW#fJo���4\u0018�\u001f��t9F��\tN�u��)W/kө��.>���-:�8u�u�Q�\u0011J��B\u0019\u001b�b�t�\u0017�����T���Z�^ޙPǮ�BL\u001a3�]ͮ���\u001f,_��O�G���o\nzf3���t�WS����w��\n��Rv�<1eۛ,�Ҏ��+W���ω�������+��s�^O�Ni���w���b���zl����d���o\n���3ɧ ލ|v�N�3G��t�\\�k�g��s��f�\u0019�3g�\u0006���䭔O]��.���\n��f���\n>2��4�m$��|z�ʝ��hJ9���r�:��s\"w�����j�4YP���\b��3��Jn.����\nf�\n��\u0007�\u0006��M���֌���:ެ+]e=��\bnT��nVV�ٔu#��ʚ1v\u0003�jc�v*��}�kS�gv=m��nz:e�\u001btSX906N\n�^2!�g>y6]9��\n)��3�r\nS77��9C3�Jח����\n?�vf�:�vn��Q;s�nB;�[�����^��-��r��=I7�|�ݞ��Қ�\u0003�E��kc�z�\u0019͇��J{��V�w�+�O�Pic>\n��3-�\u0005�n��}�\u0013���n\u0016�q�z���M�3C;�tn��Q:s�n@:mS};�S\nU�.�.�Z<^���;]*\u0005���\u0004�dy�\b��N�/�Hy\u0000�|�|��������9�\u001b�r�\u0007G�{.�����>s³y�r�T^�\nX���\u0015o,�i�p;~���)W=��J�\u0007�4�X�kJ�g��f�>YS��\u000f�\bu1��U�ϭ���܊Z�=u�QQs��8}���ݼðQS��g�����~��34��u�ٌ����*wF����r*[�s��Ξ)�|��2V�\u0019�G�8�ȝX\n8I�co@�z���\u001b����7\u0010��f|6��n<��,�kϓ��k���YV3�s��ڃ�ɲ�)���� �k�3��fΰnNVs'Yo����䖻Y�-������\u0019�\u0017Vi�\n����N�/ݹ����Q�=��\n{��\u0004Sf�^l����i�+�30�]�\n��R+-�-�u��c'3؜�\u00196`s�S�\u001a��\n��*��w��ڜ���`3�nNj�����H������L�>\\\n��ޮ4�\t��d[u_�ںE�U4���8��p�㻃��뚉��\u0016�->[ܚ�Hϒ�6@�U)����W�)\u001b�Z���\u0017Fg8p\u001a��YSv���{���A�������?��ߤ���UK�����k���w/�W�g��\u0017v\\�2�Ocsz�W��&�\u0017��m�4�\n�Q|�\u0017����\u000f��3��~u��Z�!G4�?w�2��`�v�n2�p_�s�?�����B\n���0?��\u001a���k�#\u0013%��K��\u000f�k7){�\u0002�:0M/�ݔ�^~j�hu쾛w���\n\u0007ms�/]�|�\n=|ő�2��v�m\u0011N\n���+�V3��F���4���\u001a\u0007\u0016�\u0018S?�p�Iu��t�T���[^�71m�&�`0�˦n�ɝ:������-�Y\n��A\nu��\u0007.�'3H�0)\u00181bkv1�����RzsM��[z3��-��N\\�{�\u0016i���\u0001��q��w�\u0016�O�%�7��/�������,�o(Z��׭��pm��2\u0003�}���\u0005ϾA���v��#72<�AT�F*;���\u001a�\n��)��n\u001a9���f���Ϟ;��pҭ��e�d:ݻ.��ƫ�n\u0006{b���s�1]�¥_��\n{\n��d]�\u0016e\u0007����C]��4]��?;]�c_s�����b\n���(Ӂ\t�m��3�\u0003�W��Iș�l\u000e��EF�N\n���Dw�\u0016\u001aI<��\n>\nendobj\n8\n0\nobj\n<<\n/Font\n<<\n/Font1\n12\n0\nR\n/Font2\n13\n0\nR\n>>\n/Pattern\n<<\n>>\n/XObject\n<<\n>>\n/ExtGState\n<<\n/Alpha0\n11\n0\nR\n>>\n/ProcSet\n[\n/PDF\n/Text\n/ImageB\n/ImageC\n/ImageI\n]\n>>\nendobj\n16\n0\nobj\n<<\n/Font\n<<\n/Font1\n12\n0\nR\n/Font2\n13\n0\nR\n>>\n/Pattern\n<<\n>>\n/XObject\n<<\n>>\n/ExtGState\n<<\n/Alpha0\n11\n0\nR\n>>\n/ProcSet\n[\n/PDF\n/Text\n/ImageB\n/ImageC\n/ImageI\n]\n>>\nendobj\n12\n0\nobj\n<<\n/Type\n/Font\n/Subtype\n/Type0\n/BaseFont\n/MUFUZY+Calibri-Bold\n/Encoding\n/Identity-H\n/DescendantFonts\n[\n19\n0\nR\n]\n/ToUnicode\n20\n0\nR\n>>\nendobj\n13\n0\nobj\n<<\n/Type\n/Font\n/Subtype\n/Type0\n/BaseFont\n/MUFUZY+Calibri\n/Encoding\n/Identity-H\n/DescendantFonts\n[\n23\n0\nR\n]\n/ToUnicode\n24\n0\nR\n>>\nendobj\n20\n0\nobj\n<<\n/Filter\n/FlateDecode\n/Length\n27\n0\nR\n>>\nstre",
+    "website_metadata": {
+        "url": "https://startup.gov.tn/sites/default/files/2021-11/Compte-Rendu-label-janvier-2020.pdf",
+        "content_length": 15000
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\abrarcom_analytics.json",
+    "normalized_name": "abrarcom analytics",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "gov.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "github"
+                ]
+            },
+            "details": {
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/AbrarComDev",
+                    "normalized": "https://github.com/AbrarComDev",
+                    "username": "AbrarComDev",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "domain",
+            "confidence": 0.8,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "00792612"
+            ]
+        }
+    }
+}

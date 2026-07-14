@@ -1,0 +1,322 @@
+{
+    "name": "Clarmondial",
+    "description": "Investment advisory firm headquartered in Switzerland. Supported by colleagues in West, East and Southern Africa. Developing several investment strategies focused on Africa, starting with the Food Securities Fund – an innovative blended finance fund for agricultural value chains focused on sub Saharan Africa. Works with leading corporates on supporting investments related to sustainable sourcing, including products from Nigeria, DRC, Uganda, Ghana, and Madagascar. Active mandates to explore new funding mechanisms in Africa focused on financing the transition to sustainable fisheries and on the circular economy.",
+    "organization_type": "",
+    "country": "Uganda",
+    "city": "Zurich",
+    "website": "https://www.clarmondial.com/team",
+    "linkedin": "https://linkedin.com/company/clarmondial",
+    "investment_focus": [
+        "agriculture",
+        "food security",
+        "sustainable sourcing",
+        "fisheries",
+        "circular economy"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {},
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/tanja-havemann-1663626"
+    },
+    "geographic_focus": [
+        "Africa",
+        "Sub-Saharan Africa"
+    ],
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:10:34.700596+00:00",
+        "website_enriched": true,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Clarmondial",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://linkedin.com/company/clarmondial",
+            "https://www.clarmondial.com/team/",
+            "https://www.clarmondial.com/news/",
+            "https://www.devex.com/organizations/clarmondial-ag-44662",
+            "https://www.clarmondial.com/sei_dec2024/",
+            "https://ch.linkedin.com/company/clarmondial",
+            "https://linkedin.com/in/tanja-havemann-1663626",
+            "https://linkedin.com/in/elisacifiello",
+            "https://www.clarmondial.com/",
+            "https://www.linkedin.com/posts/clarmondial_clarmondials-julia-langenegger-attended-activity-7207365007485857793-dhXU",
+            "https://www.privatedebtinvestor.com/institution-profiles/clarmondial.html",
+            "https://www.clarmondial.com/biosphere-development/",
+            "https://www.clarmondial.com/inner/",
+            "https://agribusinessdealroom.org/capital_providers/clarmondial-food-securities-fund/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 5,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 2,
+        "partners_count": 8,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 2,
+        "leadership_count": 6,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ ![](https://www.clarmondial.com/wp-content/uploads/2024/09/logo_top.svg) ](https://www.clarmondial.com)\n* [Home](https://www.clarmondial.com/)\n* [About](https://www.clarmondial.com/inner/)\n* [Team](https://www.clarmondial.com/team/)\n* [News](https://www.clarmondial.com/news/)\n* [Publications](https://www.clarmondial.com/publications/)\n* [Home](https://www.clarmondial.com/)\n* [About](https://www.clarmondial.com/inner/)\n* [Team](https://www.clarmondial.com/team/)\n* [News](https://www.clarmondial.com/news/)\n* [Publications](https://www.clarmondial.com/publications/)\n[ ![](https://www.clarmondial.com/wp-content/uploads/2024/09/logo_top.svg) ](https://www.clarmondial.com)\n* [Home](https://www.clarmondial.com/)\n* [About](https://www.clarmondial.com/inner/)\n* [Team](https://www.clarmondial.com/team/)\n* [News](https://www.clarmondial.com/news/)\n* [Publications](https://www.clarmondial.com/publications/)\n* [Home](https://www.clarmondial.com/)\n* [About](https://www.clarmondial.com/inner/)\n* [Team](https://www.clarmondial.com/team/)\n* [News](https://www.clarmondial.com/news/)\n* [Publications](https://www.clarmondial.com/publications/)\n## Independent, employee-owned, women-led.\nOur team combines finance and environmental science backgrounds to deliver actionable, profitable and creative solutions for social and environmental businesses and their funders.\n## Core team\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/THteam2022-500x500.jpg)\nCo-founder, Director\n### Tanja Havemann\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/fw_website-1-500x500.jpg)\nCo-founder, Partner\n### Fred Werneck\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/KBteam2022-500x500.jpg)\nPartner\n### Kaspar Baumann\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/SDteam2022-500x500.jpg)\nPartner - West Africa\n### Soumaila Diakite\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/HHteam2022-500x500.jpg)\nPartner - East Africa\n### Herbert Hatanga\n![](https://www.clarmondial.com/wp-content/uploads/2025/01/Natasha_bio.png)\nPartner - Latin America\n### Natasha Barantseva\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/jl_website-500x500.jpeg)\n### Julia Langenegger\n![](https://www.clarmondial.com/wp-content/uploads/2024/09/EC_website-e1730455879968-450x450.jpg)\n### Elisa Cifiello\nCo-founder, Director\n## Tanja Havemann\nTanja has over 20 years of experience in environmental finance. She has led mandates with companies, private and public investors, governments, NGOs and foundations on investments, research, strategy development and advisory. Since establishing Clarmondial in 2010, Tanja has launched innovative investment vehicles and successfully linked sustainable natural resources initiatives, sustainable supply chains, and capital markets. Prior to establishing Clarmondial, she worked for several private investors on renewable energy, agroforestry, and carbon mandates, and originated, executed, and advised on transactions at Climate Change Capital, a boutique merchant bank. Tanja has an LLM in Environmental Law and Policy from University of Kent, and an MSc in Applied Environmental Economics (Imperial College London), and a BSc (Hons) in Tropical Environmental Science from University of Aberdeen. She has authored journal articles and papers on blended finance, climate finance, and impact investing. She also supports other mission-aligned organizations including as an independent board member of Heifer International and a Technical Advisory Group member of the Science Based Targets initiative (SBTi) Technical Advisory Group (TAG). She was born and raised in Tanzania and Kenya, and speaks English and Danish fluently, and limited German, Portuguese and Swahili.\n[](https://www.linkedin.com/in/tanja-havemann-1663626/)\nCo-founder, Partner\n## Fred Werneck\nFred is a specialist in private investments and financial structuring, with over 25 years of experience across various markets and financial products. He co-founded Clarmondial with Tanja Havemann in 2010, to design and implement investment solutions within the natural resource management sectors. Fred also acted as Chief Investment Officer of IFIT Fund Services from 2013 to 2016. Prior to joining IFIT, he was the fund manager of responsAbility Ventures I, a venture capital fund for businesses that address basic needs of low-income population in emerging markets. During his nearly 5 years at responsAbility, Fred led equity and quasi-equity investments in multiple sectors and continents, heading a team that analysed some 2’000 SMEs and microfinance institutions. He worked in investment banking (Mergers & Acquisitions) in South America from 1999 to 2006, before earning an MBA at London Business School, and leading climate-related investments at Climate Change Capital, a London-based asset manager. Swiss and Brazilian, Fred is a native Portuguese speaker, is fluent in English and Spanish, speaks French and is learning German.\n[](https://www.linkedin.com/in/fred-werneck/)\nPartner\n## Kaspar Baumann\nKaspar has over 15 years of experience in private investments across emerging and frontier markets. He specializes in developing and implementing investment solutions that support the sustainable management of natural resources, with a focus on agriculture and fisheries. He has also advised leading companies on financing strategies to achieve environmental targets in global supply chains. Before joining Clarmondial as Partner, Kaspar executed private equity transactions in financial institutions across Africa, Asia, Europe, and Latin America at responsAbility, a Swiss asset manager focused on impact investments. Since 2014, he has served as an independent board member at ProCredit, an SME-focused bank in North Macedonia. Kaspar holds an MSc in Neuroscience from the Swiss Federal Institute of Technology (ETH) Zurich and an MBA from Saïd Business School, University of Oxford. He is fluent in German, English, French, and Spanish.\n[](https://www.linkedin.com/in/kasparbaumann/)\nPartner - West Africa\n## Soumaila Diakite\nBased in Abidjan, Soumaila brings over 15 years of experience in private and impact investments, with a strong focus on agriculture and sustainable development. Before joining Clarmondial in 2018, he worked with a private equity fund manager specializing in equity and debt investments in agricultural value chains across six West African countries, as well as with the asset management division of a West African banking institution. From 2018 to 2021, Soumaila served as an independent board member for a sesame production company and as a consultant for the Climate Policy Initiative’s Sustainable Agriculture and Southern Africa streams within the Global Innovation Lab for Climate Finance. Since October 2021, he has been a member of the Finance, Mechanization, and Donor Alignment Committee of the ECOWAS Rice Observatory (ERO). He holds a degree from the Ecole Supérieure de Commerce d’Abidjan (ESCA), an MSc in Finance from EM Lyon Business School, and completed the Executive Programme on Impact Investing at Saïd Business School, University of Oxford.\n[](https://www.linkedin.com/in/soumaila-diakite-b3711816/)\nPartner - East Africa\n## Herbert Hatanga\nBased in Nairobi, Herbert has over 20 years of experience across finance, banking and business operations. In parallel to his mandate with Clarmondial, he is managing the last divestments of an agricultural fund for East Africa. Until 2018, he was Group CFO at Milbridge Holding, a construction material manufacturer, where he oversaw the accounting, fundraising and project management of new initiatives, among other functions. Prior to that, he worked as an Investment manager at Fanisi Capital, building on his previous experience in various roles in banking and venture capital, funding and supporting SMEs across sectors in Rwanda and Uganda. He holds a Bachelor of Statistics from Makerere University and a Postgraduate Diploma in Financial Management from Uganda Management Institute. He speaks English and has limited knowledge of Swahili and is fluent in several local dialects indigenous to Uganda and Rwanda.\n[](https://www.linkedin.com/in/herbert-hatanga-80658513/)\nPartner - Latin America\n## Natasha Barantseva\nBased in Lima, Natasha has 18 years of experience in impact investing, sustainable finance, and fund management, with a focus on agribusiness and economic inclusion in Latin America. Before joining Clarmondial, Natasha was Managing Partner at Andes Impact Partners, where she led the strategy development, fundraising, and pipeline building for a mezzanine debt fund focused on growth-stage SMEs in sustainable agribusiness in Peru and Colombia. Previously, Natasha served as Regional Director for Latin America at Grassroots Business Fund (GBF), where she structured and managed a portfolio of long-term investments and technical assistance projects in businesses along the agricultural supply chain, fostering economic opportunities for underserved communities while promoting sustainable land use practices. Earlier in her career, Natasha worked with the International Finance Corporation (IFC), where she contributed to financial structuring and advisory services for high-impact businesses in emerging markets. Natasha holds an MBA from Georgetown University, a Master of Arts in Liberal Studies from Dartmouth College, and a Bachelor of Economics from the International University of Moscow. She is fluent in English, Spanish, and Russian.\n[](https://www.linkedin.com/in/natasha-barantseva/)\n## Julia Langenegger\nJulia has developed strong expertise across financial analysis, sustainability and business strategy through a range of professional roles across three continents, and academic achievements. Before joining Clarmondial, she worked at a leading impact investment firm in Switzerland. She has earned a Private Markets and Alternative Investments certificate issued by the CFA Institute and holds a B.Sc. in International Hospitality Management from Ecole hôtelière de Lausanne and a M.Sc. in Responsible Management with specialisation in sustainable businesses and human rights from the University of Geneva.\n[](https://www.linkedin.com/in/julia-langenegger/)\n## Elisa Cifiello\nElisa has professional experience working in international development, specializing in climate change and smallholder farmers. She brings skills in data analytics and impact reporting, where she previously worked at the United Nations (IFAD) and the European Central Bank, focusing in climate finance, climate risk management, and social inclusion mainstreaming. She holds an MA in Sustainable Finance at the Frankfurt School of Finance and Management, where she wrote her thesis on asset managers’ sustainability strategies in convergence with the EU’s Sustainable Finance Disclosure Regulation (SFDR), and a BA from Boston University in International Relations specializing in Sustainable Development in Asia. Elisa grew up in Bangladesh, Israel, and the United States, speaks both English and Italian, and limited German and Spanish.\n[](https://www.linkedin.com/in/elisacifiello/)\n## Selected advisors\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Christine_bio.jpg)\n### Dr. Christine Negra\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Christian_bio-500x500.jpg)\n### Christian Speckhardt\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Debisi_bio.jpg)\n### Dr. Débísí Àràbà\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/cathy_bio.png)\n### Dr. Cathy Farnworth\n![](https://www.clarmondial.com/wp-content/uploads/2024/11/piera.png)\nDirector of Clarmondial AG\n### Piera Waibel\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Jacques_bio-e1730456708246-450x450.jpg)\n### Jacques Taylor\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Frank_bio.jpg)\n### Frank Hicks\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Danny_bio-500x500.jpg)\n### Danny van Det\n![](https://www.clarmondial.com/wp-content/uploads/2024/10/Orissa_bio-500x500.jpg)\n### Orissa Samaroo\n![](https://www.clarmondial.com/wp-content/uploads/2024/11/JPGennari_bio-450x450.png)\n### Jean-Paul Gennari\n![](https://www.clarmondial.com/wp-content/uploads/2024/11/Chris_bio-450x450.jpg)\n### Chris Knowles\n![](https://www.clarmondial.com/wp-content/uploads/2024/12/Karla_bio-450x450.jpeg)\n### Karla Canavan\n## Dr. Christine Negra\nChristine has a PhD in Soil Science from the University of Vermont and is an internationally recognised expert in sustainable land management. Building on her early career as a soil chemist and agricultural Extension agent, Christine has led research programs for EcoAgriculture Partners, the CGIAR Climate Change, Agriculture and Food Security Program (CCAFS), and the H. John Heinz III Centre for Science, Economics and Environment. She has also delivered multi-disciplinary research projects with the World Bank, the International Finance Corporation, the World Agroforestry Center, the Dutch Sustainable Trade Initiative, CSIRO, and the US Environmental Protection Agency. Based in New York City, Christine’s work emphasizes policy and finance innovation to address climate change and other challenges facing agricultural landscapes.\n[](https://www.linkedin.com/in/christine-negra-754a73a/)\n## Christian Speckhardt\nChristian led the growth of responsAbility from USD 80 million in 2006 to over USD 3 billion in AUM in 2018 as CIO, member of the investment committee and member of executive management responsible for debt financing activities, origination, portfolio management, risk management, operations and finance. Following a degree in banking & finance, Christian worked at Credit Suisse First Boston’s corporate, investment banking and credit risk departments before joining Zurich Insurance Group’s group treasury corporate finance departments. He later headed the investor relations department of a small listed private equity company and became group treasurer of the Swiss cable and telco company Cablecom (including during its IPO preparations and trade sale).\n[](https://www.linkedin.com/in/christian-speckhardt/)\n## Dr. Débísí Àràbà\nDébísí is a public policy and strategy specialist. He is currently the Managing Director at the African Green Revolution Forum – AGRF, following almost 4 years as the Regional Director for Africa at the CGIAR’s International Center for Tropical Agriculture (CIAT), focusing on climate-smart agriculture, building ecosystems action, sustainable food systems and big data. He was previously the Senior Technical Adviser on Environmental Policy to the Minister of Agriculture and Rural Development in Nigeria and the team leader of the Environment and Climate Change Unit in the Ministry (2012-2015). Débísí holds a MSc in Clean Technology from the University of Newcastle Upon Tyne, a Doctorate degree from Imperial College London and a Master in Public Administration from the Harvard University Kennedy School of Government.\n",
+    "website_metadata": {
+        "url": "https://www.clarmondial.com/team/",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/tanja-havemann-1663626"
+    },
+    "founders": [
+        {
+            "name": "Fred",
+            "role": "Co-founder",
+            "linkedin": "",
+            "bio": "Specialist in private investments and financial structuring with over 25 years of experience across various markets and financial products. Co‑founded Clarmondial with Tanja Havemann in 2010."
+        },
+        {
+            "name": "Tanja Havemann",
+            "role": "Co-founder",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [
+        {
+            "name": "Kaspar",
+            "role": "Partner",
+            "linkedin": "",
+            "bio": "Over 15 years of experience in private investments across emerging and frontier markets, focusing on sustainable management of natural resources."
+        },
+        {
+            "name": "Soumaila",
+            "role": "Partner",
+            "linkedin": "",
+            "bio": "Based in Abidjan, brings over 15 years of experience in private and impact investments with a focus on agriculture and sustainable development."
+        },
+        {
+            "name": "Natasha",
+            "role": "Partner",
+            "linkedin": "",
+            "bio": "Based in Lima, 18 years of experience in impact investing, sustainable finance, and fund management, focusing on agribusiness and economic inclusion in Latin America."
+        },
+        {
+            "name": "Christine",
+            "role": "Partner",
+            "linkedin": "",
+            "bio": "PhD in Soil Science, internationally recognised expert in sustainable land management, based in New York City."
+        },
+        {
+            "name": "Christian",
+            "role": "Partner",
+            "linkedin": "",
+            "bio": "Led growth of responsAbility, former CIO and member of investment committee."
+        },
+        {
+            "name": "Débísí",
+            "role": "Managing Director, African Green Revolution Forum",
+            "linkedin": "",
+            "bio": "Public policy and strategy specialist, former Regional Director for Africa at CGIAR’s CIAT."
+        }
+    ],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [
+        {
+            "name": "Tanja Havemann",
+            "role": "Co-founder, Director"
+        },
+        {
+            "name": "Fred Werneck",
+            "role": "Co-founder, Partner"
+        },
+        {
+            "name": "Kaspar Baumann",
+            "role": "Partner"
+        },
+        {
+            "name": "Soumaila Diakite",
+            "role": "Partner - West Africa"
+        },
+        {
+            "name": "Herbert Hatanga",
+            "role": "Partner - East Africa"
+        },
+        {
+            "name": "Natasha Barantseva",
+            "role": "Partner - Latin America"
+        },
+        {
+            "name": "Julia Langenegger",
+            "role": ""
+        },
+        {
+            "name": "Elisa Cifiello",
+            "role": "Co-founder, Director"
+        }
+    ],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/in/tanja-havemann-1663626",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\clarmondial.json",
+    "normalized_name": "clarmondial",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "clarmondial.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/in/tanja-havemann-1663626",
+                    "normalized": "https://linkedin.com/in/tanja-havemann-1663626",
+                    "username": "tanja-havemann-1663626",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Uganda",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Uganda",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 0,
+            "removed": 5,
+            "duplicates": 0,
+            "invalid": [
+                "2022500",
+                "1730455879968450",
+                "80658513",
+                "1730456708246450",
+                "20122015"
+            ]
+        }
+    }
+}

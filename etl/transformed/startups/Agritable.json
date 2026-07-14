@@ -1,0 +1,326 @@
+{
+    "entity_type": "startup",
+    "name": "Agritable",
+    "description": "Agritable est une enseigne de commerce équitable qui vend en ligne des produits de la terre directement du producteur au consommateur.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "La Marsa",
+    "headquarters": "Rue Jaber Ibn Hayen Bhar Lazreg , La Marsa",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.agritable.tn",
+    "linkedin_url": "https://www.linkedin.com/company/agritable",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/agritable",
+        "facebook": "https://facebook.com/agritable.tn)[](https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable",
+        "instagram": "https://instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable"
+    },
+    "contact": {
+        "emails": [
+            "support@agritable.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21620260113",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21629572222",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/agritable"
+    },
+    "founders": [
+        {
+            "name": "Hajer Siala",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Sophiene Jebabli",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Fruits",
+        "Légumes",
+        "Épicerie",
+        "Couffin"
+    ],
+    "services": [
+        "Livraison"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 100,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T14:59:46.008177",
+        "website_enriched": true,
+        "tavily_results": 4,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 4,
+        "services_count": 1,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "agritable.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jul-21"
+    },
+    "external_profiles": {
+        "website": "https://www.agritable.tn",
+        "linkedin": "https://tn.linkedin.com/company/agritable"
+    },
+    "tavily": {
+        "query": "Agritable",
+        "answer": "",
+        "results_count": 4,
+        "urls": [
+            "https://tn.linkedin.com/company/agritable",
+            "https://fr.linkedin.com/posts/agritable_equitable-fairtrade-paimentenligne-activity-7072474283452571651-7hdc",
+            "https://www.agritable.tn/",
+            "https://linkedin.com/in/manju-gajera-101278243"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "[Accueil](https://www.agritable.tn/)[À propos](https://www.agritable.tn/a-propos)[Produits](https://www.agritable.tn/categories)\n[![Agritable](https://www.agritable.tn/logo.png)](https://www.agritable.tn/)\n[Couffins](https://www.agritable.tn/couffins)[Bio / Non Traités](https://www.agritable.tn/bio)[Producteurs](https://www.agritable.tn/producteurs)\n[Se connecter](https://www.agritable.tn/login)[PRO](https://www.agritable.tn/b2b-signup \"Vous êtes pro ? Inscription B2B\")[](https://www.agritable.tn/reclamations \"Réclamations\")[![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/panier)\n[![Agritable](https://www.agritable.tn/logo.png)](https://www.agritable.tn/)\n[Se connecter](https://www.agritable.tn/login)[](https://www.agritable.tn/reclamations \"Réclamations\")[![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/panier)![Menu](https://www.agritable.tn/icons/hamburger.svg)Menu\n![Agritable](https://www.agritable.tn/logo.png)\n[Accueil](https://www.agritable.tn/)\n[À propos](https://www.agritable.tn/a-propos)\n[Produits](https://www.agritable.tn/categories)\nChargement…\n[Couffins](https://www.agritable.tn/couffins)\n[Bio / Non Traités](https://www.agritable.tn/bio)\n[Producteurs](https://www.agritable.tn/producteurs)\n[Vous êtes pro ?](https://www.agritable.tn/b2b-signup)\n[Se connecter](https://www.agritable.tn/login)\n[Réclamations](https://www.agritable.tn/reclamations)\n[](https://www.agritable.tn/)[](https://www.agritable.tn/)[](https://www.agritable.tn/)\n![](https://www.agritable.tn/hero-slider.png)\n![](https://www.agritable.tn/heroslide2.png)\n![](https://www.agritable.tn/heroslide3.png)\n# Livraison\nFruits\nLégumes\nÉpicerie\n[Je commande![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/categories)\n![Fruits, Légumes, Épicerie - Je commande le jour même](https://www.agritable.tn/subhero.png)\n![Fruits, Légumes, Épicerie - Je commande le jour même](https://www.agritable.tn/subheroMobilee.jpeg)\nSélection de la semaine\n## Nouveaux arrivages\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nSélection de la semaine\n## Nouveaux arrivages\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\n## Comment ça marche ?\n![Étape 1](https://www.agritable.tn/1.png)\nDécouvrez sur notre site une sélection de produits de saison.\n![Étape 2](https://www.agritable.tn/2.png)\nChoisissez vos produits et programmez la livraison\n![Étape 3](https://www.agritable.tn/3.png)\nNous récupérons vos produits directement chez les producteurs\n![Étape 4](https://www.agritable.tn/4.png)\nNous préparons votre commande : tri, contrôle qualité et emballage.\n![Étape 5](https://www.agritable.tn/5.png)\nNous livrons votre commande jusqu'à votre porte.\n## Comment ça marche?\n1\n![Étape 1](https://www.agritable.tn/1.png)\nDécouvrez sur notre site une sélection de produits de saison.\n2\n![Étape 2](https://www.agritable.tn/2.png)\nChoisissez vos produits et programmez la livraison\n3\n![Étape 3](https://www.agritable.tn/3.png)\nNous récupérons vos produits directement chez les producteurs\n4\n![Étape 4](https://www.agritable.tn/4.png)\nNous préparons votre commande : tri, contrôle qualité et emballage.\n5\n![Étape 5](https://www.agritable.tn/5.png)\nNous livrons votre commande jusqu'à votre porte.\nLe Meilleur de la Récolte\n## Mes catégories\n![Decoration](https://www.agritable.tn/icons/gold-grain-leaf.png)\n[![Bio/ Non traité ](https://api.agritable.tn/storage/v1/object/public/categories/bio-non-traite.jpg) Bio/ Non traité ](https://www.agritable.tn/produits?onlyBio=true)\n## Le Meilleur de la Récolte,\ndans couffin pré-composé !\nSimplifiez-vous la vie avec notre sélection hebdomadaire de fruits et légumes de saison. Nos experts composent pour vous un panier équilibré, frais et varié, directement issu des récoltes.\n[Commandez un couffin![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/couffins)\n-15%OFF\n![Le Couffin](https://www.agritable.tn/MobileCouffin.png)\n-15%OFF\n## Le Meilleur de la Récolte,\ndans un couffin pré-composé !\nSimplifiez-vous la vie avec notre sélection hebdomadaire de fruits et légumes de saison. Nos experts composent pour vous un panier équilibré, frais et varié, directement issu des récoltes.\n[Commandez un couffin![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/couffins)\n## Découvrez notre offre en bio/non traité\n## Découvrez notre offre en bio/non traité\n## Cultiver le vrai,\nRécolter la santé.\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nDerniers arrivages en circuit court de produits Bio et non traités. Récoltés avec soin par des producteurs conscients et responsables.\n![Bio Organic](https://www.agritable.tn/about-bio-stamp.svg)\n[Explorer Nos Produits Bio![](https://www.agritable.tn/icons/white-cart.svg)](https://www.agritable.tn/bio)\n## Fraîcheur des champs,\nsanté du cœur.\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nDerniers arrivage, circuit court, produits Bio et Non traités\nPréparer avec Amour, Responsabilité, Traçabilité & Qualité.\n[Explorer nos Produits Bio![](https://www.agritable.tn/icons/cart.svg)](https://www.agritable.tn/bio)\nNos Producteurs\n## Nos producteurs\npartenaires\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nDes femmes et des hommes passionnés, sélectionnés rigoureusement pour leur savoir-faire, leur engagement envers une agriculture durable et la qualité exceptionnelle de leurs produits.\n![Khawla](https://www.agritable.tn/producers/Rectangle%2029.jpg)\nL'épicerie Khawla\n![Walid](https://www.agritable.tn/producers/Rectangle%2030.jpg)\nLes salades Walid\n![Bouzid](https://www.agritable.tn/producers/Rectangle%2031.jpg)\nLégumes Bouzid\n![Ftima](https://www.agritable.tn/producers/Rectangle%2032.jpg)\nOeufs fermiers Ftima\nNos Producteurs\n## Nos producteurs partenaires\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nDes femmes et des hommes passionnés, sélectionnés rigoureusement pour leur savoir-faire, leur engagement envers une agriculture durable et la qualité exceptionnelle de leurs produits.\n![Khawla](https://www.agritable.tn/producers/Rectangle%2029.jpg)\nL'épicerie Khawla\n![Walid](https://www.agritable.tn/producers/Rectangle%2030.jpg)\nLes salades Walid\n![Bouzid](https://www.agritable.tn/producers/Rectangle%2031.jpg)\nLégumes Bouzid\n![Ftima](https://www.agritable.tn/producers/Rectangle%2032.jpg)\nOeufs fermiers Ftima\n![Sana](https://www.agritable.tn/producers/Rectangle%2033.jpg)\nGrenade Sana\nÀ PROPOS D'AGRITABLE\n## De la ferme à la table\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\n![De la ferme à la table - Agritable](https://i.postimg.cc/rsffK9xN/Whats-App-Image-2026-01-13-at-19-40-33-\\(1\\).jpg)\nActualités & Informations\n## Tous ce qu'il faut savoir\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\n![BIO/NON TRAITÉ](https://www.agritable.tn/blog/Rectangle%20212.jpg)\n### BIO/NON TRAITÉ\nTous ce qu'il faut savoir\n![ACTUALITÉS](https://www.agritable.tn/blog/Rectangle%20237.jpg)\n### ACTUALITÉS\nTous ce qu'il faut savoir\n![VALEURS](https://www.agritable.tn/blog/Rectangle%20215.jpg)\n### VALEURS\nTous ce qu'il faut savoir\n![LIVRAISON](https://www.agritable.tn/blog/Rectangle%20214.jpg)\n### LIVRAISON\nTous ce qu'il faut savoir\nÀ propos d'Agritable\n## De la ferme à la table\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\n![De la ferme à la table - Agritable](https://i.postimg.cc/rsffK9xN/Whats-App-Image-2026-01-13-at-19-40-33-\\(1\\).jpg)\nActualités & Informations\n## Tous ce qu'il faut savoir\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\n![BIO/NON TRAITÉ](https://www.agritable.tn/blog/Rectangle%20212.jpg)\n### BIO/NON TRAITÉ\nTous ce qu'il faut savoir\n![ACTUALITÉS](https://www.agritable.tn/blog/Rectangle%20214.jpg)\n### ACTUALITÉS\nTous ce qu'il faut savoir\n![LIVRAISON](https://www.agritable.tn/blog/Rectangle%20214.jpg)\n### LIVRAISON\nTous ce qu'il faut savoir\n![VALEURS](https://www.agritable.tn/blog/Rectangle%20215.jpg)\n### VALEURS\nTous ce qu'il faut savoir\nQuestions Fréquentes\n### FAQ\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nPouvez-vous m'en dire plus au sujet de votre entreprise?\nNous sommes un site de vente en ligne de fruits et légumes frais directement du producteur au consommateur dans le cadre du commerce équitable pour plus d'informations ou pour commander vous pouvez visiter notre site www.agritable.tn ou appeler le 29 57 22 22\nQuels sont vos produits ?\nQuelle est la commande minimale ?\nEst-ce que je peux choisir mes fruits et légumes ?\nSi je passe commande aujourd'hui, quand pourrai-je être livrée ?\nQue veut dire circuit court?\nOù et quand livrez-vous?\nAvez-vous des produits bio?\nComment passer une commande?\nQuestions Fréquentes\n### FAQ\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nPouvez-vous m'en dire plus au sujet de votre entreprise?\nNous sommes un site de vente en ligne de fruits et légumes frais directement du producteur au consommateur dans le cadre du commerce équitable pour plus d'informations ou pour commander vous pouvez visiter notre site www.agritable.tn ou appeler le 29 57 22 22\nQuels sont vos produits ?\nQuelle est la commande minimale ?\nEst-ce que je peux choisir mes fruits et légumes ?\nSi je passe commande aujourd'hui, quand pourrai-je être livrée ?\nQue veut dire circuit court?\nOù et quand livrez-vous?\nAvez-vous des produits bio?\nComment passer une commande?\n64\nProducteurs partenaires\ndans 10 gouvernorats\n![Frais Équitable](https://www.agritable.tn/icons/frais-equitable.svg)\nFruits & légumes changent\nchaque saison, tout lors n'est\nque variations\n64\nProducteurs partenaires\ndans 10 gouvernorats\n![Frais Équitable](https://www.agritable.tn/icons/frais-equitable.svg)\nFruits & légumes changent chaque saison,\ntout lors n'est que variations\nILS PARLENT DE NOUS\n## Ils nous font confiance\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nJe souligne leur sérieux et leur implication malgré les circonstances. Il faut bien les remercier pour leur mobilisation pour nous faciliter la vie en confinement. Bravo et merci Agritable\"\nHajer Benjrad\nCliente\n![Hajer Benjrad](https://www.agritable.tn/testimmonials-ppl/Ellipse%2049.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\nBonsoir, je viens de faire la connaissance de deux charmantes dames à qui j'adresse tous mes encouragements pour le travail qu'elles font vraiment je suis trop satisfaite des légumes et fruits ...\nArbiaa Saadi\nCliente\n![Arbiaa Saadi](https://www.agritable.tn/testimmonials-ppl/Ellipse%2041.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\nILS PARLENT DE NOUS\n## Ils nous font\nconfiance\n![](https://www.agritable.tn/icons/gold-grain-leaf.png)\nJe souligne leur sérieux et leur implication malgré les circonstances. Il faut bien les remercier pour leur mobilisation pour nous faciliter la vie en confinement. Bravo et merci Agritable\"\nHajer Benjrad\nCliente\n![Hajer Benjrad](https://www.agritable.tn/testimmonials-ppl/Ellipse%2049.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\nBonsoir, je viens de faire la connaissance de deux charmantes dames à qui j'adresse tous mes encouragements pour le travail qu'elles font vraiment je suis trop satisfaite des légumes et fruits ...\nArbiaa Saadi\nCliente\n![Arbiaa Saadi](https://www.agritable.tn/testimmonials-ppl/Ellipse%2041.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\nJe souligne leur sérieux et leur implication malgré les circonstances. Il faut bien les remercier pour leur mobilisation pour nous faciliter la vie en confinement. Bravo et merci Agritable\"\nHajer Benjrad\nCliente\n![Hajer Benjrad](https://www.agritable.tn/testimmonials-ppl/Ellipse%2049.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\nBonsoir, je viens de faire la connaissance de deux charmantes dames à qui j'adresse tous mes encouragements pour le travail qu'elles font vraiment je suis trop satisfaite des légumes et fruits ...\nArbiaa Saadi\nCliente\n![Arbiaa Saadi](https://www.agritable.tn/testimmonials-ppl/Ellipse%2041.jpg)\n![](https://www.agritable.tn/icons/commas.svg)\n![Agritable](https://www.agritable.tn/logo.png)\nLe circuit court de produits frais et locaux, du producteur à votre table. Fraîcheur et transparence garantie\n#### Liens Utiles\n* [Accueil](https://www.agritable.tn/)\n* [À Propos](https://www.agritable.tn/a-propos)\n* [Produits](https://www.agritable.tn/categories)\n* [Producteurs](https://www.agritable.tn/producteurs)\n* [Blogs](https://www.agritable.tn/blogs)\n* [Contact](https://www.agritable.tn/contact)\n* [Réclamations](https://www.agritable.tn/reclamations)\n#### Actualités\n![](https://www.agritable.tn/actualites/Rectangle%2095.jpg)\nDattes : bienfaits santé,calories ...\n05 Mars 2025\n![](https://www.agritable.tn/actualites/Rectangle%2096.jpg)\nProduits bio, non-traités ...\n30 Oct 2025\n#### Contact\n+216 29 57 22 22\nRue Jaber Ibn Hayen Bhar Lazreg , La Marsa\nSupport@Agritable.Tn\n![Send](https://www.agritable.tn/icons/send-email.svg)\n[](https://www.facebook.com/agritable.tn)[](https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable)\n![Scroll to top](https://www.agritable.tn/icons/arrow-up.svg)\n2025 © Tous droits réservés par Agritable.TN\n![Agritable](https://www.agritable.tn/logo.png)\nLe circuit court de produits frais et locaux, du producteur à votre table. Fraîcheur et transparence garantie\n#### Liens Utiles\n* [Accueil](https://www.agritable.tn/)\n* [À Propos](https://www.agritable.tn/a-propos)\n* [Produits](https://www.agritable.tn/categories)\n* [Producteurs](https://www.agritable.tn/producteurs)\n* [Blogs](https://www.agritable.tn/blogs)\n* [Contact](https://www.agritable.tn/contact)\n* [Réclamations](https://www.agritable.tn/reclamations)\n#### Actualités\n![](https://www.agritable.tn/actualites/Rectangle%2095.jpg)\nDattes : bienfaits santé, calories, combien par ...\n05 Mars 2025\n![](https://www.agritable.tn/actualites/Rectangle%2096.jpg)\nProduits bio, non-traités et raisonnés: C'est quoi ...\n30 Oct 2025\n#### Contact\n+216 29 57 22 22\nRue Jaber Ibn Hayen Bhar Lazreg , La Marsa\nsupport@agritable.tn\n![Send](https://www.agritable.tn/icons/send-email.svg)\n![Scroll to top](https://www.agritable.tn/icons/arrow-up.svg)\n2025 © Tous droits réservés par Agritable.TN\nDéclaration fiscale effectuée\n[](https://www.facebook.com/agritable.tn)[](https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable)",
+    "website_metadata": {
+        "url": "https://www.agritable.tn/",
+        "content_length": 14247
+    },
+    "linkedin": "https://tn.linkedin.com/company/agritable",
+    "emails": [
+        "support@agritable.tn"
+    ],
+    "phones": [
+        "2026-01-13-",
+        "19-40-33-",
+        "29 57 22 22",
+        "+216 29 57 22 22"
+    ],
+    "business_model": "Commerce équitable",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\agritable.json",
+    "normalized_name": "agritable",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "agritable.tn",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/agritable",
+                    "normalized": "https://linkedin.com/company/agritable",
+                    "username": "agritable",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/agritable.tn)[](https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable",
+                    "normalized": "https://facebook.com/agritable.tn)[](https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable",
+                    "username": "agritable.tn)[](https:",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable",
+                    "normalized": "https://instagram.com/agritable.tn)[](https://www.linkedin.com/company/agritable",
+                    "username": "agritable.tn)[](https:",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "agritable.tn"
+                ]
+            },
+            "official": [
+                "support@agritable.tn"
+            ],
+            "details": [
+                {
+                    "original": "support@agritable.tn",
+                    "normalized": "support@agritable.tn",
+                    "domain": "agritable.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "support@agritable.tn",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 1,
+            "invalid": [
+                "+216194033"
+            ]
+        }
+    }
+}

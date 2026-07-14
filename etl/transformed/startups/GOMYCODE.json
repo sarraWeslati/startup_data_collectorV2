@@ -1,0 +1,336 @@
+{
+    "name": "GOMYCODE",
+    "description": "Plateforme immobilière complète qui simplifie la publication d’annonces en Tunisie, permettant aux agences, intermédiaires et particuliers de proposer leurs biens à la vente, à la location ou en location saisonnière.",
+    "industry": "Real Estate / PropTech",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "website": "https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie",
+    "linkedin": "https://www.linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+    "founders": [],
+    "entity_type": "startup",
+    "external_profiles": {
+        "website": "https://www.startuplist.africa/startups/gomycode",
+        "linkedin": "https://www.linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+        "facebook": "https://facebook.com/gomycode/posts/in-two-months-of-launching-out-in-nigeria-our-first-batch-of-scholars-is-already/3875530252538118",
+        "instagram": "https://instagram.com/gomycode"
+    },
+    "sub_industry": "EdTech",
+    "headquarters": "GoMyCode Hackerspace, Rue du lac lochness, Tunis, les berges du lac1 1053, TN",
+    "founded_year": "2017",
+    "employees_count": "51-100",
+    "funding_stage": "Series A",
+    "funding_amount": "$8,000,000",
+    "investors": [
+        {
+            "name": "AfricInvest",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Series A",
+            "investment_round": "Series A",
+            "source": "https://techcrunch.com/2022/06/09/tunisian-edtech-gomycode-raises-8m"
+        },
+        {
+            "name": "Proparco",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Series A",
+            "investment_round": "Series A",
+            "source": "https://techcrunch.com/2022/06/09/tunisian-edtech-gomycode-raises-8m"
+        },
+        {
+            "name": "Wamda Capital",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Seed",
+            "investment_round": "Seed",
+            "source": "https://gomycode.com/ke/tunisian-edtech-startup-gomycode-raises-8-million-series-a-fueling-expansion-across-africa-and-the-middle-east"
+        },
+        {
+            "name": "Flat6labs",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Seed",
+            "investment_round": "Seed",
+            "source": "https://gomycode.com/ke/tunisian-edtech-startup-gomycode-raises-8-million-series-a-fueling-expansion-across-africa-and-the-middle-east"
+        },
+        {
+            "name": "Meninx Holding",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Pre-Series A",
+            "investment_round": "Pre-Series A",
+            "source": "https://www.menabytes.com/gomycode-pre-series-a"
+        },
+        {
+            "name": "Anava Seed Fund",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Pre-Series A",
+            "investment_round": "Pre-Series A",
+            "source": "https://www.menabytes.com/gomycode-pre-series-a"
+        },
+        {
+            "name": "Jasminum Capital",
+            "website": "",
+            "linkedin": "",
+            "country": "",
+            "investment_stage": "Pre-Series A",
+            "investment_round": "Pre-Series A",
+            "source": "https://www.menabytes.com/gomycode-pre-series-a"
+        }
+    ],
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:33:06.291240",
+        "website_enriched": true,
+        "tavily_results": 13,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "GOMYCODE",
+        "answer": "GoMyCode is a Tunisian EdTech startup founded in 2017, offering digital skills training across Africa and the Middle East. It raised $8 million in Series A funding in 2022. The company's headquarters is in Tunis, Tunisia.",
+        "results_count": 13,
+        "urls": [
+            "https://www.startuplist.africa/startups/gomycode",
+            "https://gomycode.com/ng/tunisian-edtech-startup-gomycode-raises-8-million-series-a-fueling-expansion-across-africa-and-the-middle-east",
+            "https://www.proparco.fr/fr/actualites/gomycode-1ere-startup-edtech-en-tunisie-leve-8-m-en-serie",
+            "https://tracxn.com/d/companies/gomycode/__Bb_V2Uy6qMtjLj54AszJUfxUz2hhWds2hJJ4xeCtH88",
+            "https://enterprisebureau.org/tunisian-ed-tech-startup-gomycode-raises-8m-series-a-for-expansion-plans",
+            "https://www.appsafrica.com/gomycode-raises-8-million-series-a-round",
+            "https://techcrunch.com/2022/06/09/tunisian-edtech-gomycode-raises-8m",
+            "https://school.gomycode.com",
+            "https://www.linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+            "https://business.gomycode.com",
+            "https://www.facebook.com/gomycode/posts/in-two-months-of-launching-out-in-nigeria-our-first-batch-of-scholars-is-already/3875530252538118",
+            "https://www.linkedin.com/posts/belkhayat_talent4startups-gomycode-et-chari-unissent-activity-7386762024137170944-uU1c",
+            "https://www.linkedin.com/posts/gomycode_gomycode-tech-ai-activity-7376576882693091329-XkYh"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 7,
+        "products_count": 0,
+        "services_count": 9,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 72,
+        "level": "Medium"
+    },
+    "website_content": "×\n#### Sélectionnez votre pays\n![Drapeau de Tunisie](https://www.goafricaonline.com/build-manifest/images/flags/afrique_130.png?mtime=1700577148)\nAfrique\n![Drapeau de Tunisie](https://www.goafricaonline.com/build-manifest/images/flags/afrique_130.png?mtime=1700577148)\nAfrique\n![Drapeau d'Afrique du Sud](https://www.goafricaonline.com/next-static/images/flags/shiny/64/za.png?mtime=1704358761)\nAfrique du Sud\n![Drapeau d'Algérie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/dz.png?mtime=1704358761)\nAlgérie\n![Drapeau du Angola](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ao.png?mtime=1704358761)\nAngola\n![Drapeau du Bénin](https://www.goafricaonline.com/next-static/images/flags/shiny/64/bj.png?mtime=1704358761)\nBénin\n![Drapeau du Botswana](https://www.goafricaonline.com/next-static/images/flags/shiny/64/bw.png?mtime=1704358761)\nBotswana\n![Drapeau du Burkina Faso](https://www.goafricaonline.com/next-static/images/flags/shiny/64/bf.png?mtime=1704358761)\nBurkina Faso\n![Drapeau du Cameroun](https://www.goafricaonline.com/next-static/images/flags/shiny/64/cm.png?mtime=1704358761)\nCameroun\n![Drapeau du Congo-Brazzaville](https://www.goafricaonline.com/next-static/images/flags/shiny/64/cg.png?mtime=1704358761)\nCongo-Brazzaville\n![Drapeau du Congo-Kinshasa](https://www.goafricaonline.com/next-static/images/flags/shiny/64/cd.png?mtime=1704358761)\nCongo-Kinshasa\n![Drapeau de Côte d’Ivoire](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ci.png?mtime=1704358761)\nCôte d’Ivoire\n![Drapeau du Djibouti](https://www.goafricaonline.com/next-static/images/flags/shiny/64/dj.png?mtime=1704358761)\nDjibouti\n![Drapeau du Égypte](https://www.goafricaonline.com/next-static/images/flags/shiny/64/eg.png?mtime=1704358761)\nÉgypte\n![Drapeau du Éthiopie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/et.png?mtime=1704358761)\nÉthiopie\n![Drapeau du Gabon](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ga.png?mtime=1704358761)\nGabon\n![Drapeau du Ghana](https://www.goafricaonline.com/next-static/images/flags/shiny/64/gh.png?mtime=1704358761)\nGhana\n![Drapeau de Guinée](https://www.goafricaonline.com/next-static/images/flags/shiny/64/gn.png?mtime=1704358761)\nGuinée\n![Drapeau of Kenya](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ke.png?mtime=1704358761)\nKenya\n![Drapeau du Libéria](https://www.goafricaonline.com/next-static/images/flags/shiny/64/lr.png?mtime=1704358761)\nLibéria\n![Drapeau du Madagascar](https://www.goafricaonline.com/next-static/images/flags/shiny/64/mg.png?mtime=1704358761)\nMadagascar\n![Drapeau du Malawi](https://www.goafricaonline.com/next-static/images/flags/shiny/64/mw.png?mtime=1704358761)\nMalawi\n![Drapeau du Mali](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ml.png?mtime=1704358761)\nMali\n![Drapeau du Maroc](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ma.png?mtime=1704358761)\nMaroc\n![Drapeau de Maurice](https://www.goafricaonline.com/next-static/images/flags/shiny/64/mu.png?mtime=1704358761)\nMaurice\n![Drapeau du Mozambique](https://www.goafricaonline.com/next-static/images/flags/shiny/64/mz.png?mtime=1704358761)\nMozambique\n![Drapeau du Namibie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/na.png?mtime=1704358761)\nNamibie\n![Drapeau du Niger](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ne.png?mtime=1704358761)\nNiger\n![Drapeau du Nigéria](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ng.png?mtime=1704358761)\nNigéria\n![Drapeau du Ouganda](https://www.goafricaonline.com/next-static/images/flags/shiny/64/ug.png?mtime=1704358761)\nOuganda\n![Drapeau de République centrafricaine](https://www.goafricaonline.com/next-static/images/flags/shiny/64/cf.png?mtime=1704358761)\nRépublique centrafricaine\n![Drapeau du Sénégal](https://www.goafricaonline.com/next-static/images/flags/shiny/64/sn.png?mtime=1704358761)\nSénégal\n![Drapeau du Somalie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/so.png?mtime=1704358761)\nSomalie\n![Drapeau du Tanzanie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/tz.png?mtime=1704358761)\nTanzanie\n![Drapeau du Togo](https://www.goafricaonline.com/next-static/images/flags/shiny/64/tg.png?mtime=1704358761)\nTogo\n![Drapeau de Tunisie](https://www.goafricaonline.com/next-static/images/flags/shiny/64/tn.png?mtime=1704358761)\nTunisie\n[Go Africa Online](https://www.goafricaonline.com/), votre réseau professionnel en Afrique\n[ ![Logo GoAfrica](https://www.goafricaonline.com/build-manifest/images/logo.png?mtime=1700577148) ](https://www.goafricaonline.com/tn) ![Tunisie](https://www.goafricaonline.com/next-static/images/circle-flags/flags/tn.svg?mtime=1710931804) Tunisie  [ Réseau  ](https://www.goafricaonline.com/tn/explorer) [ Entreprises  ](https://www.goafricaonline.com/tn/annuaire) [ Talents  ](https://www.goafricaonline.com/tn/pros) [ Emploi  ](https://www.goafricaonline.com/tn/emploi) Services\n[ Pack visibilité ](https://www.goafricaonline.com/tn/packs-en-ligne)\n[ ![Logo GoAfrica](https://www.goafricaonline.com/build-manifest/images/logo-gao-afrique.png?mtime=1700577148) ](https://www.goafricaonline.com/tn)\n1. [ Accueil ](https://www.goafricaonline.com/tn \"Accueil\")\n2. [ Informatique, internet ](https://www.goafricaonline.com/tn/annuaire/informatique-internet \"Informatique, internet\")\n3. [ Startup ](https://www.goafricaonline.com/tn/annuaire/startup \"Startup\")\n4. [ GOMYCODE ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie \"GOMYCODE\")\n![](https://www.goafricaonline.com/build-manifest/images/gao-afrique-placeholder_w300.jpg?mtime=1700577148)\n[ Coordonnées ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#coordonnees) [ Avis ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#avis-review)\n[ Coordonnées ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#coordonnees) [ Avis ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#avis-review)\n![](https://www.goafricaonline.com/build-manifest/images/gao-afrique-placeholder_w300.jpg?mtime=1700577148)\n[ Coordonnées ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#coordonnees) [ Avis ](https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie#avis-review)\n#  GOMYCODE\n[Startup](https://www.goafricaonline.com/tn/annuaire/startup)\n512 vues\nCette entreprise vous appartient ?\n### Coordonnées\nHackerspace, 1 Place Tahar Haddad\nTunis - Tunisie\n[gomycode.com/TN-FR/home](https://gomycode.com/TN-FR/home)\n[ ](https://www.facebook.com/gomycode.ci/?brand_redir=971935246230981 \"Page Facebook GOMYCODE\") [ ](https://tn.linkedin.com/school/gomycode/ \"Page Linkedin GOMYCODE\") [ ](https://www.instagram.com/gomycode/ \"Compte Instagram GOMYCODE\")\n[ (+216) 39 14 39 00](tel:+216%2039%2014%2039%2000)\n[ Appeler ](tel:+216%2039%2014%2039%2000)\n[ Site web Site ](https://gomycode.com/TN-FR/home)\n[ Appeler ](tel:+216%2039%2014%2039%2000)\n[ Site web Site ](https://gomycode.com/TN-FR/home)\n### Donner votre avis\nSoyez le premier à donner votre avis sur cette société.\nNote\nVotre avis\n(au moins 20 caractères)\nEnvoyer votre note/avis\nCette entreprise vous appartient ?\n### company.grid_services_title\n![Visibilité digitale](https://www.goafricaonline.com/images/services/visibility.png)\nVisibilité digitale\n![Devis centralisés](https://www.goafricaonline.com/images/services/devis.png)\nDevis centralisés\n![Messagerie instantanée](https://www.goafricaonline.com/images/services/chat.png)\nMessagerie instantanée\n![Avis clients](https://www.goafricaonline.com/images/services/like.png)\nAvis clients\n![Campagnes Emails et SMS](https://www.goafricaonline.com/images/services/chart.png)\nCampagnes Emails et SMS\n![Afrikad.com : notre plateforme de sites éditeurs](https://www.goafricaonline.com/images/services/africad.png)\nAfrikad.com : notre plateforme de sites éditeurs\n![Présentez vos produits à vendre](https://www.goafricaonline.com/images/services/products.png)\nPrésentez vos produits à vendre\n![Prise de rendez-vous en ligne](https://www.goafricaonline.com/images/services/meet.png)\nPrise de rendez-vous en ligne\n![Réseau social professionnel](https://www.goafricaonline.com/images/services/reseau-social-professionnel.png)\nRéseau social professionnel\nDécouvrez aussi nos plateformes\n![Logo d'Afrikad](https://www.goafricaonline.com/build-manifest/images/afrikad-logo-w220.png?mtime=1700577148)\nAfrikad\nRégie publicitaire Africaine.\n![Logo de Mapitoo](https://www.goafricaonline.com/build-manifest/images/mapitoo-logo-w220.png?mtime=1700577148)\nMapitoo\nSites dédiés: la connaissance à portée de main\n#### Annuaires d'Afrique\n[ ![](https://www.goafricaonline.com/build-manifest/images/flags/afrique_white_130.png?mtime=1700577148) ](https://www.goafricaonline.com/) [ ![Drapeau d'Afrique du Sud](https://www.goafricaonline.com/next-static/images/flags/shiny/48/za.png?mtime=1704358761) ](https://www.goafricaonline.com/za) [ ![Drapeau d'Algérie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/dz.png?mtime=1704358761) ](https://www.goafricaonline.com/dz) [ ![Drapeau du Angola](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ao.png?mtime=1704358761) ](https://www.goafricaonline.com/ao) [ ![Drapeau du Bénin](https://www.goafricaonline.com/next-static/images/flags/shiny/48/bj.png?mtime=1704358761) ](https://www.goafricaonline.com/bj) [ ![Drapeau du Botswana](https://www.goafricaonline.com/next-static/images/flags/shiny/48/bw.png?mtime=1704358761) ](https://www.goafricaonline.com/bw) [ ![Drapeau du Burkina Faso](https://www.goafricaonline.com/next-static/images/flags/shiny/48/bf.png?mtime=1704358761) ](https://www.goafricaonline.com/bf) [ ![Drapeau du Cameroun](https://www.goafricaonline.com/next-static/images/flags/shiny/48/cm.png?mtime=1704358761) ](https://www.goafricaonline.com/cm) [ ![Drapeau du Congo-Brazzaville](https://www.goafricaonline.com/next-static/images/flags/shiny/48/cg.png?mtime=1704358761) ](https://www.goafricaonline.com/cg) [ ![Drapeau du Congo-Kinshasa](https://www.goafricaonline.com/next-static/images/flags/shiny/48/cd.png?mtime=1704358761) ](https://www.goafricaonline.com/cd) [ ![Drapeau de Côte d’Ivoire](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ci.png?mtime=1704358761) ](https://www.goafricaonline.com/ci) [ ![Drapeau du Djibouti](https://www.goafricaonline.com/next-static/images/flags/shiny/48/dj.png?mtime=1704358761) ](https://www.goafricaonline.com/dj) [ ![Drapeau du Égypte](https://www.goafricaonline.com/next-static/images/flags/shiny/48/eg.png?mtime=1704358761) ](https://www.goafricaonline.com/eg) [ ![Drapeau du Éthiopie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/et.png?mtime=1704358761) ](https://www.goafricaonline.com/et) [ ![Drapeau du Gabon](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ga.png?mtime=1704358761) ](https://www.goafricaonline.com/ga) [ ![Drapeau du Ghana](https://www.goafricaonline.com/next-static/images/flags/shiny/48/gh.png?mtime=1704358761) ](https://www.goafricaonline.com/gh) [ ![Drapeau de Guinée](https://www.goafricaonline.com/next-static/images/flags/shiny/48/gn.png?mtime=1704358761) ](https://www.goafricaonline.com/gn) [ ![Drapeau of Kenya](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ke.png?mtime=1704358761) ](https://www.goafricaonline.com/ke) [ ![Drapeau du Libéria](https://www.goafricaonline.com/next-static/images/flags/shiny/48/lr.png?mtime=1704358761) ](https://www.goafricaonline.com/lr) [ ![Drapeau du Madagascar](https://www.goafricaonline.com/next-static/images/flags/shiny/48/mg.png?mtime=1704358761) ](https://www.goafricaonline.com/mg) [ ![Drapeau du Malawi](https://www.goafricaonline.com/next-static/images/flags/shiny/48/mw.png?mtime=1704358761) ](https://www.goafricaonline.com/mw) [ ![Drapeau du Mali](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ml.png?mtime=1704358761) ](https://www.goafricaonline.com/ml) [ ![Drapeau du Maroc](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ma.png?mtime=1704358761) ](https://www.goafricaonline.com/ma) [ ![Drapeau de Maurice](https://www.goafricaonline.com/next-static/images/flags/shiny/48/mu.png?mtime=1704358761) ](https://www.goafricaonline.com/mu) [ ![Drapeau du Mozambique](https://www.goafricaonline.com/next-static/images/flags/shiny/48/mz.png?mtime=1704358761) ](https://www.goafricaonline.com/mz) [ ![Drapeau du Namibie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/na.png?mtime=1704358761) ](https://www.goafricaonline.com/na) [ ![Drapeau du Niger](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ne.png?mtime=1704358761) ](https://www.goafricaonline.com/ne) [ ![Drapeau du Nigéria](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ng.png?mtime=1704358761) ](https://www.goafricaonline.com/ng) [ ![Drapeau du Ouganda](https://www.goafricaonline.com/next-static/images/flags/shiny/48/ug.png?mtime=1704358761) ](https://www.goafricaonline.com/ug) [ ![Drapeau de République centrafricaine](https://www.goafricaonline.com/next-static/images/flags/shiny/48/cf.png?mtime=1704358761) ](https://www.goafricaonline.com/cf) [ ![Drapeau du Sénégal](https://www.goafricaonline.com/next-static/images/flags/shiny/48/sn.png?mtime=1704358761) ](https://www.goafricaonline.com/sn) [ ![Drapeau du Somalie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/so.png?mtime=1704358761) ](https://www.goafricaonline.com/so) [ ![Drapeau du Tanzanie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/tz.png?mtime=1704358761) ](https://www.goafricaonline.com/tz) [ ![Drapeau du Togo](https://www.goafricaonline.com/next-static/images/flags/shiny/48/tg.png?mtime=1704358761) ](https://www.goafricaonline.com/tg) [ ![Drapeau de Tunisie](https://www.goafricaonline.com/next-static/images/flags/shiny/48/tn.png?mtime=1704358761) ](https://www.goafricaonline.com/tn)\n#### Go Africa Online\n**Portail de l'internet Africain** et **annuaire pages jaunes des entreprises Africaines**.\nCe site est 100% \"made in Africa\" et vous propose ses nombreux services en ligne.\n#### Infos & liens\nQui sommes nous ?\n[ Emploi par métier ](https://www.goafricaonline.com/tn/emploi/metiers)\nFAQ\nMentions légales\nPolitique de confidentialité\nCGU\nContact\n#### Nouveautés\nNouvelles sociétés\nDerniers commentaires\nBlog GoAfrica Online\n×\n#### GOMYCODE\nFermer",
+    "website_metadata": {
+        "url": "https://www.goafricaonline.com/tn/682898-gomycode-startup-tunis-tunisie",
+        "content_length": 14523
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21639143900",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43"
+    },
+    "leadership": [],
+    "products": [],
+    "services": [
+        "Visibilité digitale",
+        "Devis centralisés",
+        "Messagerie instantanée",
+        "Avis clients",
+        "Campagnes Emails et SMS",
+        "Afrikad.com : notre plateforme de sites éditeurs",
+        "Présentez vos produits à vendre",
+        "Prise de rendez-vous en ligne",
+        "Réseau social professionnel"
+    ],
+    "technologies": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "linkedin_url": "https://www.linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\gomycode.json",
+    "normalized_name": "gomycode",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "goafricaonline.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+                    "normalized": "https://linkedin.com/posts/gomycode_talent4startups-gomycode-digitalafrica-activity-7328781786363138048-rh43",
+                    "username": "posts",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/gomycode/posts/in-two-months-of-launching-out-in-nigeria-our-first-batch-of-scholars-is-already/3875530252538118",
+                    "normalized": "https://facebook.com/gomycode/posts/in-two-months-of-launching-out-in-nigeria-our-first-batch-of-scholars-is-already/3875530252538118",
+                    "username": "gomycode",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/gomycode",
+                    "normalized": "https://instagram.com/gomycode",
+                    "username": "gomycode",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 1,
+            "removed": 4,
+            "duplicates": 0,
+            "invalid": [
+                "1700577148",
+                "1704358761",
+                "1710931804",
+                "971935246230981"
+            ]
+        }
+    }
+}

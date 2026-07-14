@@ -1,0 +1,291 @@
+{
+    "name": "Afrinet Capital",
+    "description": "A venture capital firm that invests in bold, early‑stage entrepreneurs delivering solutions to fundamental structural issues with high growth potential.",
+    "organization_type": "Venture Capital Firm",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "website": "https://tracxn.com/d/venture-capital/afrinet-capital/__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+    "linkedin": "https://www.linkedin.com/company/afrinet-capital",
+    "investment_focus": [
+        "Early‑stage technology and innovation startups",
+        "FinTech",
+        "Food and Agriculture Tech",
+        "HealthTech",
+        "Kenya"
+    ],
+    "investment_stages": [
+        "Seed",
+        "Early stage"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "website_content": "![Tracxn](https://cdn.tracxn.com/images/static/tracxn_logo_new.png)\n# To continue accessing the data without interruption, please signup and continue\n[Signup for Free](https://tracxn.com/signup)",
+    "website_metadata": {
+        "url": "https://tracxn.com/d/venture-capital/afrinet-capital/__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+        "content_length": 194
+    },
+    "contact": {
+        "emails": [
+            "hi@tracxn.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle",
+        "facebook": "https://facebook.com/sharer/sharer.php"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "external_profiles": {
+        "website": "https://tracxn.com/d/venture-capital/afrinet-capital/__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+        "linkedin": "https://www.linkedin.com/company/afrinet-capital"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T15:17:12.491979+00:00",
+        "website_enriched": true,
+        "tavily_results": 10,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Afrinet Capital",
+        "answer": "Afrinet Capital's official website is not listed; its LinkedIn page connects African entrepreneurs to global investors. Afrinet Holdings operates in multiple sectors, including IT and communications.\nAfrinet Capital LLC connects African entrepreneurs to global investors; founded in 2015, it operates in financial services with 2-10 employees. Afrinet Global focuses on financial services and digital transformation in Africa, employing 201-500 staff.\nAfrinet Capital is a venture advisory firm founded in 2015, connecting African entrepreneurs to global investors. It focuses on financial services and has 2-10 employees. Crunchbase data indicates ongoing venture funding trends for diverse startups.\nWellfound is a hiring platform for startups, spun out of AngelList, offering a free self-serve talent pipeline. Afrinet Capital is a venture capital firm with investments in companies like World Education Services and Bidhaa Sasa. Wellfound's AI tool assists in recruiting by sourcing candidates and suggesting next steps.\nAfrinet Capital Dealroom raised $7M in funding led by Índico Capital Partners, with participation from existing investors. The platform connects African startups with investors and facilitates deal-making. The latest funding will enhance Dealroom's data and AI capabilities.",
+        "results_count": 10,
+        "urls": [
+            "https://www.linkedin.com/company/afrinet-capital",
+            "https://www.linkedin.com/company/afrinet-sprl",
+            "https://tracxn.com/d/venture-capital/afrinet-capital/__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+            "https://afrinetholdings.com/afrinet-business",
+            "https://afrinetholdings.com/afrinet-communications",
+            "https://ao.linkedin.com/company/afrinet-capital",
+            "https://www.linkedin.com/company/afrinetrdc",
+            "https://www.linkedin.com/company/afrinetglobal",
+            "https://tracxn.com/d/venture-capital/afrinetcapital/__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+            "https://nacapitalforum.com/vx-deal-room",
+            "https://linkedin.com/company/afrinet-capital",
+            "https://www.afsic.net/african-investors/",
+            "https://www.apc.org/en/users/declan-magero",
+            "https://www.bothogroup.com/blog/homegrown-venture-funds-in-africa",
+            "https://linkedin.com/in/emanuel-ashtor-6a8147101",
+            "https://www.signalhire.com/companies/afrinet-capital-llc",
+            "https://afrinet.capital/",
+            "https://icoholder.com/en/companies/afrinet-capital-8719",
+            "https://www.company-detail.com/company-afrinet-capital-llc-4927183",
+            "https://aeroleads.com/c/afrinet-capital",
+            "https://www.afsic.net/private-equity-firms-in-africa/",
+            "https://linkedin.com/in/nkesi-esther-ikinga-97756a214"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 10,
+        "investment_focus_count": 1,
+        "investment_stages_count": 2,
+        "geographic_focus_count": 3,
+        "partners_count": 2,
+        "team_members_count": 0,
+        "social_profiles": 2,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "tracxn.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "emails": [
+        "venture@afrinetcapital.com"
+    ],
+    "geographic_focus": [
+        "Kenya",
+        "Uganda",
+        "Netherlands"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftracxn.com%2Fd%2Fventure-capital%2Fafrinetcapital%2F__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "6635148-",
+        "1506517142727",
+        "1533637671712",
+        "168115813"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\afrinet_capital.json",
+    "normalized_name": "afrinet capital",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "tracxn.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftracxn.com%2Fd%2Fventure-capital%2Fafrinetcapital%2F__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftracxn.com%2Fd%2Fventure-capital%2Fafrinetcapital%2F__BnaoIkKvlebpIPdQZgbFxDmx3w8FTEG6zIBgZfpfpMA",
+                    "normalized": "https://facebook.com/sharer/sharer.php",
+                    "username": "sharer",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "tracxn.com"
+                ]
+            },
+            "official": [
+                "hi@tracxn.com"
+            ],
+            "details": [
+                {
+                    "original": "hi@tracxn.com",
+                    "normalized": "hi@tracxn.com",
+                    "domain": "tracxn.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Kenya",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Kenya",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "hi@tracxn.com",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 0,
+            "removed": 4,
+            "duplicates": 0,
+            "invalid": [
+                "+2546635148",
+                "+2541506517142727",
+                "+2541533637671712",
+                "+254168115813"
+            ]
+        }
+    }
+}

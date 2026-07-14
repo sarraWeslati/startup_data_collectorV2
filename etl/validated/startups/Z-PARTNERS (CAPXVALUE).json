@@ -1,0 +1,240 @@
+{
+    "entity_type": "startup",
+    "name": "Z-PARTNERS (CAPXVALUE)",
+    "description": "41\nAPII / CIDT – SEPTEMBER 2022\nZ-PARTNERS (CAPXVALUE) (2021)\nSecteur d’activité / Sector : Business Software and services\ncapxvalue.com\nFondateur / Founder\nE-mail\nAdresse / Address\nMAHER ZAANOUNI\nmaher.zaanouni@capxvalue.com\n6 Rue Imam Rassaa, 1002, Tunis, Tunisie\nActivité Capxvalue est une solution digitale innovante \nqui s’adresse au demandeur de financement (entrepreneur, \nprofessionnel de la finance) comme au fournisseurs de \nfinancements (Banques, Fonds d'Investissements). \nAspect Technologique Capxvalue est une plateforme web \nqui permet à l'utilisateur une fois loggé d'accéder à des \nfonctionnalités gratuites ou payantes. La programmation \nde l’interface client est basée sur JavaScript. Les \ntechnologies Apache, Symfony (PHP), Twig, Doctrine et \nMysql sont utilisées coté serveur/base de donnée.\nOriginalité L'originalité de Capxvalue est qu'elle mutualise \nles états financiers historiques et previsionnels, de façon \nanonyme, par secteur, pour permettre à l'utilisateur de \npositionner son projet par rapport à d'autres comparables \nsectoriels (23 indicateurs). L'autre valeur ajoutée de \nCapxvalue est qu'elle permet à l'utilisateur d'estimer la \nvaleur financière de son projet dans une perspective de \nlevée de fonds ou bien de valorisation periodique d'un \nportefeuille d'actifs.\nActivity Capxvalue is an innovative digital solution \nthat targets the financing applicant (entrepreneur, finance \nprofessional) as well as the financing provider (banks, \ninvestment funds).\nTechnological Aspect Capxvalue is a web platform that \nallows the user, once logged in, to access free or paid \nfeatures. The programming of the client interface is based \non JavaScript. Apache, Symfony (PHP), Twig, Doctrine \nand Mysql technologies are used on the server/database \nside.\nOriginality The originality of Capxvalue is that it \npools historical and forecasted financial statements, \nanonymously, by sector, to allow the user to position \nhis project in relation to other comparable sectors (23 \nindicators). The other added value of Capxvalue is \nthat it allows the user to estimate the financial value of \nhis project in a perspective of fund raising or periodic \nvaluation of an asset portfolio.\nFR\nEN",
+    "tagline": null,
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://capxvalue.com",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "maher.zaanouni@capxvalue.com",
+            "contact@capxvalue.com"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://capxvalue.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 57,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T16:23:50.169236",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "capxvalue.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ ![CapxValue](https://capxvalue.com/assets/images/capxvalue-1-L.png) ](https://capxvalue.com/login)\n[Connexion](https://capxvalue.com/login) [S'inscrire](https://capxvalue.com/register)\n[ ![CapxValue](https://capxvalue.com/assets/images/logo.svg) ](https://capxvalue.com/login)\n## Bienvenue à CapxValue\nConnectez-vous pour démarrer votre session\nNom d'utilisateur\nMot de passe\nVeuillez saisir les caractères que vous voyez dans l'image\n![](https://capxvalue.com/login) [ ](javascript:reload_captcha_6a43ed4e918d4\\(\\); \"Renouveler\")\n[Mot de passe oublié ?](https://capxvalue.com/sendingmail)\nConnexion\n[contact@capxvalue.com ](https://capxvalue.com/login)",
+    "website_metadata": {
+        "url": "https://capxvalue.com",
+        "content_length": 655
+    },
+    "external_profiles": {},
+    "emails": [
+        "maher.zaanouni@capxvalue.com",
+        "contact@capxvalue.com"
+    ],
+    "tavily": {
+        "query": "Z-PARTNERS (CAPXVALUE)",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\z_partners_capxvalue.json",
+    "normalized_name": "z partners capxvalue",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "capxvalue.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "capxvalue.com"
+                ]
+            },
+            "official": [
+                "maher.zaanouni@capxvalue.com",
+                "contact@capxvalue.com"
+            ],
+            "details": [
+                {
+                    "original": "maher.zaanouni@capxvalue.com",
+                    "normalized": "maher.zaanouni@capxvalue.com",
+                    "domain": "capxvalue.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@capxvalue.com",
+                    "normalized": "contact@capxvalue.com",
+                    "domain": "capxvalue.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "maher.zaanouni@capxvalue.com",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

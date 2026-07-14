@@ -1,0 +1,345 @@
+{
+    "entity_type": "startup",
+    "name": "Atome Academy",
+    "description": "",
+    "tagline": "",
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://atome.tn",
+    "linkedin_url": "https://www.linkedin.com/company/atome-edtech",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/atome-edtech)[![](https://atome.tn/_next/image",
+        "facebook": "https://facebook.com/atome.tn/)[![](https://atome.tn/_next/image",
+        "instagram": "https://instagram.com/atome.tn/)[![](https://atome.tn/_next/image",
+        "youtube": "https://youtube.com/@atome-tn)[![](https://atome.tn/_next/image"
+    },
+    "contact": {
+        "emails": [
+            "contact@atome.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21636016015",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/atome-edtech)[![](https://atome.tn/_next/image"
+    },
+    "founders": [
+        {
+            "name": "Zeidoun Meksi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Adnen Somai",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Jawhar Mtar",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "JOUDI YASSER",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 77,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:16:22.274059",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "atome.tn"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-24"
+    },
+    "external_profiles": {
+        "website": "https://atome.tn",
+        "linkedin": "https://www.linkedin.com/pulse/join-atom-academy-free-learn-from-shared-mobility-experts-rideatom-lyozf",
+        "dealroom": "https://dealroom.co/companies/atome-financial"
+    },
+    "tavily": {
+        "query": "Atome Academy",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://atome.tn/",
+            "https://www.odoo.com/customers/atome-edtech-sarl-15862347",
+            "https://startup.gov.tn/sites/default/files/2024-02/01-Liste%20Startups%20Labellis%C3%A9es%20Session%20Janvier%202024%20-%20Compte%20Rendu.pdf",
+            "https://www.atom-academy.education/",
+            "https://atomacademy.org/",
+            "https://www.odoo.com/da_DK/customers/atome-edtech-sarl-15862347",
+            "https://www.odoo.com/zh_TW/customers/atome-edtech-sarl-15862347",
+            "https://www.linkedin.com/pulse/join-atom-academy-free-learn-from-shared-mobility-experts-rideatom-lyozf",
+            "https://www.atommobility.com/academy",
+            "https://sg.linkedin.com/company/atomesg",
+            "https://tracxn.com/d/legal-entities/singapore/atoms-academy-pte.ltd./__izHWq0i05X1ioacYRRLoi5tTT5jOWIwnmZnZTkcp_Fw",
+            "https://www.cbinsights.com/company/atome",
+            "https://linkedin.com/company/atomyum-academy",
+            "https://tracxn.com/d/companies/atome/__h0y_TJKTQh6UZGaLqR-RLGCjLmlMSrj2vbetP9BkXq4",
+            "https://dealroom.co/companies/atome-financial/",
+            "https://app.dealroom.co/news/feed/atome-secures-75m-for-philippines-expansion-1"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "[![Atome](https://atome.tn/_next/image?url=%2Flanding%2Fbrand%2Fatome.svg&w=360&q=75)](https://atome.tn/)[الرئيسية](https://atome.tn/)[عروضنا](https://atome.tn/offers)\n[دخولتسجيل الدخول](https://atome.tn/login \"تسجيل الدخول\")[اشترك الآن](https://atome.tn/offers)\n✓منصة تعليمية رقمية لتلاميذ الأساسي\n# قراية تتحب![](https://atome.tn/landing/decorations/heart.gif)، وفهم يتبنى خطوة بخطوة مع Atome\nاطلب معلومات أكثر\n[كيف تعمل Atome؟](https://atome.tn/#problem)\n![](https://atome.tn/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fn5yae1Kq7qw%2Fmaxresdefault.jpg&w=1536&q=75)\n* ●مطابقة للبرنامج الرسمي\n* ●دروس تفاعلية بجرعات مناسبة\n* ●من المنزل وفي أي وقت\n* ●مناسبة لتلاميذ الأساسي\n✓التحدي الحقيقي\n## المشكلة ليست دائمًا في قدرات الطفل\nكثير من الأطفال يحتاجون فقط إلى طريقة تعلم أوضح، أقصر، وأكثر تنظيمًا. عندما تتراكم النقائص، يصبح التدارك أصعب والضغط أكبر على الطفل والولي.\n* 01الطفل لا يفهم الدرس جيدًا في القسم أو ينساه بعد أيام.\n* 02المراجعة في المنزل تتحول أحيانًا إلى توتر يومي.\n* 03الولي لا يعرف دائمًا كيف يشرح الدرس بطريقة بسيطة.\n* 04التمارين الكثيرة دون فهم الدرس لا تحل المشكلة.\n* 05النتائج قد تكشف النقائص بعد فوات الأوان.\n✓الحل مع Atome\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n## فهم أوضح، مراجعة منظمة، وتمارين بعد الفهم\nAtome لا تكتفي بتقديم التمارين، بل تساعد الطفل على بناء الفهم أولًا، ثم ترافقه في المراجعة والتطبيق بطريقة تدريجية.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Fsolution-1.png&w=1536&q=75)\n### يفهم الدرس أولًا\nشرح مبسط للمفاهيم حتى لا يطبق الطفل القواعد دون فهم حقيقي.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Fsolution-2.png&w=1536&q=75)\n### يتفاعل ولا يكتفي بالمشاهدة\nأسئلة وتمارين وأنشطة تجعل الطفل يشارك في التعلم بدل أن يبقى متفرجًا.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Fsolution-3.png&w=1536&q=75)\n### يدرس في أي وقت\nمن الهاتف أو الحاسوب أو اللوحة الرقمية، دون تنقل أو التزام بتوقيت ثابت.\n✓ليست دروسًا مسجلة فقط\n##  ![Atome](https://atome.tn/_next/image?url=%2Flanding%2Fbrand%2Fatome.svg&w=360&q=75) تجربة تعلم نشطة، وليست مجرد فيديوهات يشاهدها الطفل\nفي Atome، لا يبقى الطفل متلقيًا سلبيًا أمام الشاشة. التجربة التعليمية تتناوب بين كبسولات فيديو بجرعات مناسبة، أسئلة، أنشطة تفاعلية، وتمارين تطبيقية حتى يحافظ الطفل على نسق تعلم نشط ويفهم المفاهيم خطوة بخطوة.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Factive-learning-video.png&w=1536&q=75)\n### كبسولات فيديو مركزة\nشرح مبسط بجرعات مناسبة يساعد الطفل على فهم الفكرة دون إرهاق أو إطالة.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Factive-learning-interaction.png&w=1536&q=75)\n### أنشطة تفاعلية بين الشروحات\nأسئلة وتفاعلات تجعل الطفل يشارك في الدرس بدل الاكتفاء بالمشاهدة.\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Factive-learning-concept.png&w=1536&q=75)\n### بناء المفاهيم تدريجيًا\nكل خطوة تمهد للتي بعدها حتى يكوّن الطفل فهمًا أوضح قبل الانتقال إلى التمارين.\nفيديو قصير←\nسؤال تفاعلي←\nنشاط تطبيقي←\nفهم أوضح←\nتمارين لتثبيت المعلومة\n✓لماذا يحب الأطفال Atome؟\n## لأن التعلم يجب أن لا يكون مملًا\n![أطفال يستخدمون Atome](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Fkids-poster.png&w=1536&q=75)\nصُممت Atome لتكون قريبة من عالم الطفل: دروس بجرعات مناسبة، رسوم، شخصيات، وتفاعل يساعده على التركيز والاستقلالية.\n* ### دروس بجرعات مناسبة\nحتى لا يشعر الطفل أن وقت الدراسة طويل وثقيل.\n* ### محتوى تفاعلي\nأسئلة وأنشطة تساعد الطفل على المشاركة والفهم.\n* ### استقلالية أكبر\nيتعلم الطفل تدريجيًا كيف يراجع ويتقدم داخل البرنامج.\n★ أفضل عرض حاليًا\n## اشتركوا مبكرًا وابدؤوا التدارك من الصيف\n![اشتراك مبكر في عرض العودة المدرسية مع Atome](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Foffer-banner.jpg&w=1536&q=75)\n![اشتراك صيفي مبكر مع Atome](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Foffer-summer.jpg&w=1536&q=75)\nفرصة للطفل حتى يبدأ المراجعة قبل ضغط العودة المدرسية، ويتدارك نقائص العام الفارط بنسق أهدأ ومنظم.\n* **صيف مجاني** دخول مبكر للمنصة خلال فترة الصيف\n* **20%** تخفيض عند الدفع الكامل دون تقسيط\nالعرض متاح حسب فترة الحملة وشروط الاشتراك. الهدف ليس التخفيض فقط، بل إعطاء الطفل وقتًا أطول في الصيف للتدارك نقائص العام الفارط.\nأريد الاستفادة من العرض\n[اعرف طرق الدفع](https://atome.tn/#payment)\n✓المواد المتوفرة\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n## المواد الأساسية في تجربة واحدة\nمحتوى موجه لتلاميذ المرحلة الأساسية، مطابق للبرنامج الرسمي، ومصمم بطريقة تناسب سن الطفل.\n* 📖\n### العربية\nفهم النصوص، التعبير، القواعد، والقراءة بطريقة منظمة.\n* 🇫🇷\n### الفرنسية\nمفردات، نصوص، قواعد، وتدريب يساعد الطفل على اكتساب ثقة أكبر.\n* 🇬🇧\n### الإنجليزية\nمحتوى مبسط ومشجع يناسب مستوى الطفل ومرحلته العمرية.\n* ➗\n### الرياضيات\nفهم المفاهيم قبل حل التمارين حتى تصبح الرياضيات أوضح.\n* 🔬\n### الإيقاظ العلمي\nشرح تفاعلي يربط المفاهيم العلمية بعالم الطفل.\n✓السنة السادسة\n## برنامج التميّز في المناظرة\n![برنامج التميّز في المناظرة](https://atome.tn/_next/image?url=%2Flanding%2Fillustrations%2Fexam-book.png&w=1536&q=75)\nتحضير منظم لتلاميذ السنة السادسة، يركز على الفهم، المراجعة، التدريب، ومنهجية التعامل مع المناظرة دون وعود مبالغ فيها.\n* ✓دروس منظمة\n* ✓مراجعة شاملة\n* ✓تمارين وتدريبات\n* ✓فيديوهات مفاتيح المناظرة\n* ✓كتاب مفاتيح المناظرة\n* ✓منهجية الحل\n* ✓نصائح عملية للتحضير\n* ✓بناء الثقة والتنظيم\n[اكتشف برنامج التميّز](https://atome.tn/offers/25q2-g5t3-tmz-sa)\nاطلب مكالمة من مستشار\n✓مقارنة مع البدائل\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n##  ![Atome](https://atome.tn/_next/image?url=%2Flanding%2Fbrand%2Fatome.svg&w=360&q=75) تقدّم حلًا فعّالًا يستجيب لاحتياجات الولي والتلميذ\nكل حل تعليمي له قيمة. الفرق أن Atome تمنح الطفل مرونة، تفاعلًا، ومراجعة منظمة يمكن استعمالها في البيت دون تنقل أو توقيت ثابت.\n### الدروس المباشرة عبر الإنترنت مفيد عندما...\nيحتاج الطفل إلى شرح مباشر في وقت محدد. التحدي المحتمل\nقد تكون طويلة أو مرتبطة بتوقيت لا يناسب الطفل، وقد يصبح الطفل متلقيًا فقط. ✦ما الذي تضيفه Atome؟\nدروس تفاعلية بجرعات مناسبة يمكن الرجوع إليها في أي وقت.\n### الدروس الخصوصية الحضورية مفيد عندما...\nيحتاج الطفل إلى دعم إضافي مع أستاذ في مادة معينة. التحدي المحتمل\nتنقل، كلفة أعلى، ضغط توقيت، وصعوبة المتابعة اليومية بين الحصص. ✦ما الذي تضيفه Atome؟\nمراجعة يومية من المنزل، منظمة حسب المواد والمستوى.\n### المراجعة مع الولي في المنزل مفيد عندما...\nيريد الولي متابعة طفله ومساعدته عن قرب. التحدي المحتمل\nالولي قد لا يملك الوقت أو الطريقة المناسبة لشرح كل درس ببساطة. ✦ما الذي تضيفه Atome؟\nمحتوى واضح يساعد الطفل على الفهم ويخفف ضغط الشرح اليومي.\n### الكتب والتمارين فقط مفيد عندما...\nيحتاج الطفل إلى تدريب إضافي وتطبيق. التحدي المحتمل\nقد يبدأ الطفل بالتمارين دون فهم المفهوم، فيحفظ الطريقة ولا يفهم السبب. ✦ما الذي تضيفه Atome؟\nالفهم أولًا، ثم المراجعة، ثم التمرين لتثبيت المعلومة.\n★ موصى به\n### Atome مفيد عندما...\nيحتاج الطفل إلى فهم، تنظيم، تفاعل، وتدارك نقائص من المنزل. التحدي المحتمل\nيحتاج الطفل إلى انتظام بسيط حتى يستفيد أكثر من البرنامج. ✦ما الذي تضيفه Atome؟\nحل مرن، تفاعلي، مطابق للبرنامج الرسمي، ومناسب لوتيرة الطفل.\n| الحل  | مفيد عندما...  | التحدي المحتمل  | ما الذي تضيفه Atome؟  |\n| --- | --- | --- | --- |\n| **الدروس المباشرة عبر الإنترنت**  | يحتاج الطفل إلى شرح مباشر في وقت محدد.  | قد تكون طويلة أو مرتبطة بتوقيت لا يناسب الطفل، وقد يصبح الطفل متلقيًا فقط.  | دروس تفاعلية بجرعات مناسبة يمكن الرجوع إليها في أي وقت.  |\n| **الدروس الخصوصية الحضورية**  | يحتاج الطفل إلى دعم إضافي مع أستاذ في مادة معينة.  | تنقل، كلفة أعلى، ضغط توقيت، وصعوبة المتابعة اليومية بين الحصص.  | مراجعة يومية من المنزل، منظمة حسب المواد والمستوى.  |\n| **المراجعة مع الولي في المنزل**  | يريد الولي متابعة طفله ومساعدته عن قرب.  | الولي قد لا يملك الوقت أو الطريقة المناسبة لشرح كل درس ببساطة.  | محتوى واضح يساعد الطفل على الفهم ويخفف ضغط الشرح اليومي.  |\n| **الكتب والتمارين فقط**  | يحتاج الطفل إلى تدريب إضافي وتطبيق.  | قد يبدأ الطفل بالتمارين دون فهم المفهوم، فيحفظ الطريقة ولا يفهم السبب.  | الفهم أولًا، ثم المراجعة، ثم التمرين لتثبيت المعلومة.  |\n| **Atome**  | يحتاج الطفل إلى فهم، تنظيم، تفاعل، وتدارك نقائص من المنزل.  | يحتاج الطفل إلى انتظام بسيط حتى يستفيد أكثر من البرنامج.  | حل مرن، تفاعلي، مطابق للبرنامج الرسمي، ومناسب لوتيرة الطفل.  |\n✓ثقة العائلات\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n## آلاف العائلات اختارت ![Atome](https://atome.tn/_next/image?url=%2Flanding%2Fbrand%2Fatome.svg&w=360&q=75)\n* **+15,000** مستخدم\n* **220,000** متابع عبر الفايسبوك\n* **85%** من المستخدمين المنتظمين يؤكدون تحسنًا ملحوظًا لنتائج أبنائهم\n“\n> بنتي كانت تخاف من الرياضيات، أما مع التمارين التفاعلية وشرح المفاهيم بطريقة مبسّطة، ولات عندها ثقة في روحها وتحسن مستواها برشا!\nأبو سارةسوسة\n![](https://atome.tn/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fparent-9.png&w=96&q=75)\n“\n> لاحظت فرقًا كبيرًا في استيعاب ابني بعد استخدام المنصة. الدروس المشروحة بأسلوب بسيط والتمارين التفاعلية جعلت التعلم ممتعًا له.\nأب آدمتونس\n![](https://atome.tn/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fparent-10.png&w=96&q=75)\n“\n> عجبتو ولدي التجربة و قعد يقرى وحدو الحمد لله، الحقيقة تجربة سمحة برشا مع منصة أتوم. ماصاب بدينا معاكم في أول العام، وزيد شاخ برحلة النجاح عمل عليها برشا جو.\nوالدة محمد براءقفصة\n![](https://atome.tn/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fparent-11.png&w=96&q=75)\n“\n> ولدي ولا يحب يقرى روحو ، المنصة عاونتو يفهم وسّع مدارك، والمتابعة الشخصية خلتو يحس بتحسّن.\nأم يوسفبن عروس\n![](https://atome.tn/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fparent-12.png&w=96&q=75)\n“\n> تجربة ممتازة، الأسلوب بسيط والبرنامج يوازي البرنامج الرسمي بدقة، ونلقى المراجعة سهلة قبل الاختبارات.\nأم ليناالمنستير\n![](https://atome.tn/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fparent-9.png&w=96&q=75)\n✓الاشتراك والدفع\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n## طرق دفع ميسّرة\nيمكنكم اختيار الاشتراك المناسب حسب مستوى الطفل، مع إمكانية الدفع عند الاستلام أو بالبطاقة البنكية.\n* 💵\n### الدفع عند الاستلام\nحل مناسب للعائلات التي تفضل الدفع نقدًا عند استلام الاشتراك.\n* 💳\n### الدفع بالبطاقة البنكية\nطريقة دفع سهلة وسريعة للاشتراك مباشرة.\n* 🏷️\n### تخفيض 20%\nعند الدفع الكامل للاشتراك دون تقسيط.\nاعرف العرض المناسب لطفلك\n✓الأسئلة الشائعة\n![](https://atome.tn/_next/image?url=%2Flanding%2Fdecorations%2Fsquiggle.svg&w=48&q=75)\n## إجابات قبل الاشتراك\n### هل منصة Atome مطابقة للبرنامج الرسمي؟\nنعم، محتوى Atome متوافق مع البرنامج الرسمي لوزارة التربية التونسية.\n### هل يستطيع الطفل استعمالها وحده؟\nصُممت المنصة لتكون بسيطة وواضحة، وقد يحتاج الطفل إلى توجيه بسيط في البداية ثم يتعود تدريجيًا.\n### هل هي مناسبة لطفل لا يحب الدراسة؟\nنعم، لأنها تعتمد على دروس تفاعلية بجرعات مناسبة ورسوم تساعد على شد الانتباه.\n### هل تغني عن الدروس الخصوصية؟\nيعتمد ذلك على حاجة الطفل. يمكن أن تكون Atome حلًا عمليًا في بعض الحالات أو مكملًا للدروس الخصوصية.\n### كيف يتم الدفع؟\nيمكن الدفع عند الاستلام أو بالبطاقة البنكية.\n### هل يوجد تخفيض؟\nنعم، يوجد تخفيض 20% عند الدفع الكامل للاشتراك دون تقسيط.\n### هل البرنامج مناسب للسنة السادسة؟\nنعم، يوجد برنامج خاص بعنوان \"التميّز في المناظرة\" موجه للتحضير المنظم للمناظرة.\n### هل يمكن استعمال Atome من الهاتف؟\nنعم، يمكن استعمال المنصة من الهاتف أو الحاسوب أو اللوحة الرقمية.\n## لا تنتظروا حتى تتراكم النقائص أكثر\nاطلبوا معلومات الآن، وسنساعدكم على معرفة البرنامج الأنسب لمستوى طفلكم واحتياجاته.\nاتصلوا بي لمعرفة التفاصيل\n[أريد الاشتراك لطفلي](https://atome.tn/offers)\n![Atome](https://atome.tn/_next/image?url=%2Flanding%2Fbrand%2Fatome-white.svg&w=360&q=75)\nقراية تتحب مع Atome. منصة تعليمية رقمية لتلاميذ المرحلة الأساسية.\n[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-facebook.svg&w=1536&q=75)](https://www.facebook.com/atome.tn/)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-instagram.svg&w=1536&q=75)](https://www.instagram.com/atome.tn/)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-linkedin.svg&w=1536&q=75)](https://www.linkedin.com/company/atome-edtech)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-youtube.svg&w=1536&q=75)](https://www.youtube.com/@atome-tn)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-tiktok.svg&w=1536&q=75)](https://www.tiktok.com/@atome.tn)\n### الصفحة\n* [الرئيسية](https://atome.tn/)\n* [التحديات](https://atome.tn/#problem)\n* [الحل](https://atome.tn/#solution)\n* [المواد](https://atome.tn/#subjects)\n* [السنة السادسة](https://atome.tn/#exam)\n### معلومات\n* [الاشتراك المبكر](https://atome.tn/#offer)\n* [الدفع](https://atome.tn/#payment)\n* [الأسئلة الشائعة](https://atome.tn/#faq)\n* [الاشتراك](https://atome.tn/#contact)\n### تواصل معنا\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Femail.svg&w=48&q=75)contact@atome.tn\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fphone.svg&w=48&q=75)[36 016 015](tel:+21636016015)\n* ![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fmap-pin.svg&w=48&q=75)Avenue de l'artisanat, n° 6 Charguia 2 • Ariana 2053\nجميع الحقوق محفوظة - 2026\n[](https://wa.me/21629590281 \"تواصل معنا عبر واتساب\")",
+    "website_metadata": {
+        "url": "https://atome.tn/",
+        "content_length": 12783
+    },
+    "linkedin": "https://www.linkedin.com/pulse/join-atom-academy-free-learn-from-shared-mobility-experts-rideatom-lyozf",
+    "emails": [
+        "contact@atome.tn"
+    ],
+    "phones": [
+        "36 016 015",
+        "+21636015)",
+        "21629590281"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\atome_academy.json",
+    "normalized_name": "atome academy",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "atome.tn",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/atome-edtech)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-youtube.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.youtube.com%2F%40atome-tn%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-tiktok.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.tiktok.com%2F%40atome.tn",
+                    "normalized": "https://linkedin.com/company/atome-edtech)[![](https://atome.tn/_next/image",
+                    "username": "atome-edtech)[![](https:",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/atome.tn/)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-instagram.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.instagram.com%2Fatome.tn%2F%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-linkedin.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fatome-edtech%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-youtube.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.youtube.com%2F%40atome-tn%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-tiktok.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.tiktok.com%2F%40atome.tn",
+                    "normalized": "https://facebook.com/atome.tn/)[![](https://atome.tn/_next/image",
+                    "username": "atome.tn",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/atome.tn/)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-linkedin.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fatome-edtech%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-youtube.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.youtube.com%2F%40atome-tn%29%5B%21%5B%5D%28https%3A%2F%2Fatome.tn%2F_next%2Fimage%3Furl%3D%2Flanding%2Ficons%2Fsocial-tiktok.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.tiktok.com%2F%40atome.tn",
+                    "normalized": "https://instagram.com/atome.tn/)[![](https://atome.tn/_next/image",
+                    "username": "atome.tn",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@atome-tn)[![](https://atome.tn/_next/image?url=%2Flanding%2Ficons%2Fsocial-tiktok.svg&w=1536&q=75%29%5D%28https%3A%2F%2Fwww.tiktok.com%2F%40atome.tn",
+                    "normalized": "https://youtube.com/@atome-tn)[![](https://atome.tn/_next/image",
+                    "username": "@atome-tn)[![](https:",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "atome.tn"
+                ]
+            },
+            "official": [
+                "contact@atome.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@atome.tn",
+                    "normalized": "contact@atome.tn",
+                    "domain": "atome.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@atome.tn",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 1,
+            "removed": 1,
+            "duplicates": 1,
+            "invalid": [
+                "+21621629590281"
+            ]
+        }
+    }
+}

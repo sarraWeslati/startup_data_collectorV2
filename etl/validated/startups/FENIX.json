@@ -1,0 +1,226 @@
+{
+    "entity_type": "startup",
+    "name": "FENIX",
+    "description": "12\nAPII / CIDT – SEPTEMBER 2022\nFENIX (2020)\nSecteur d’activité / Sector : Business Software and services\nthefenix.io\nFondateur / Founder\nE-mail\nAdresse / Address\nSKANDER CHOUKA\nskander.c@thefenix.io\nCebalet ben ammar, route de bizerte km 17 Ariana Tunis, \n2032\nActivité Nous avons développé une application SAAS \nB2B de gestion commerciale hébergée 100.% sur le Cloud. \nFenix Saas permet aux entreprises de contrôler leurs \nstocks et leurs commandes multi-canaux en temps réel et \nainsi optimiser leurs ventes. Notre mission est d'amener \nl'inventaire hors ligne à l'ère du digital.\nAspect Technologique Fenix Saas est une solution de gestion \ncommerciale et facturation en mode Saas hébérgée 100.% \nsur le Cloud.\nOriginalité Fenix connecte tous les canaux de vente en \nligne et hors ligne et les transporteurs sur une seule \nplateforme centralisée.\nActivity We have developed a B2B SAAS inventory \nsolution hosted entirely on the cloud. Fenix Saas allows \nmerchants, sellers and brand owners to monitor their \nmulti-channels inventory and ordering in real time in \norder to optimise their sales.Our mission is to bring offline \ninventory to the online era.\nTechnological Aspect Fenix Saas is a web-based Saas \ninventory solution 100.% hosted on the cloud. Our \nsolution allows automated commerce.\nOriginality Fenix connects all online and offline sales \nchannels and carriers on one centralized platform.\nFR\nEN",
+    "tagline": null,
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://thefenix.io",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "skander.c@thefenix.io"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        "Fenix SaaS"
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 61,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:26:42.796316",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "thefenix.io"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "Il y a eu une erreur critique sur ce site.\n[En apprendre plus sur le débogage de WordPress.](https://fr.wordpress.org/support/article/debugging-in-wordpress/)",
+    "website_metadata": {
+        "url": "https://thefenix.io",
+        "content_length": 158
+    },
+    "external_profiles": {},
+    "emails": [
+        "skander.c@thefenix.io"
+    ],
+    "tavily": {
+        "query": "FENIX",
+        "answer": "Wellfound is a tech startup based in New York, focusing on connecting startups with job seekers. Founded by Amit Matani, it has raised $24 million in funding. Diane Yoo is associated with Fenix Global.",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\fenix.json",
+    "normalized_name": "fenix",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "thefenix.io",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "thefenix.io"
+                ]
+            },
+            "official": [
+                "skander.c@thefenix.io"
+            ],
+            "details": [
+                {
+                    "original": "skander.c@thefenix.io",
+                    "normalized": "skander.c@thefenix.io",
+                    "domain": "thefenix.io",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "skander.c@thefenix.io",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "entity_type": "startup",
+    "name": "ACRIDIDEA",
+    "description": "A pioneering company in the field of sustainable Locust farming in Tunisia. The company aims to transform traditional food practices while preserving ecological balance and innovate through cutting‑edge research. Its mission is to revolutionize the way the world perceives and consumes proteins through sustainable Locust farming practices.",
+    "tagline": "Innovating Sustainable Protein Solutions",
+    "industry": "FoodTech & New Food",
+    "keywords": [
+        "sustainable",
+        "locust",
+        "protein",
+        "Tunisia"
+    ],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://acrididea.com",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/acrididea"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21620220414",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21629899815",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/acrididea"
+    },
+    "founders": [
+        {
+            "name": "Noura AYADINajet Ayadi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Dehydrated Locusts",
+        "Seasoned Locusts",
+        "Locust Powder"
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [
+        "Tunisia"
+    ],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 83,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:11:05.415004",
+        "website_enriched": true,
+        "tavily_results": 13,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jun-24"
+    },
+    "external_profiles": {
+        "website": "https://acrididea.com",
+        "linkedin": "https://linkedin.com/company/acrididea"
+    },
+    "tavily": {
+        "query": "ACRIDIDEA",
+        "answer": "",
+        "results_count": 13,
+        "urls": [
+            "https://acrididea.com/",
+            "https://acrididea.com/products/",
+            "https://acrididea.com/contact/",
+            "https://linkedin.com/company/acrididea",
+            "https://acrididea.com/partnerships/",
+            "https://tn.linkedin.com/company/acrididea",
+            "https://fr.linkedin.com/posts/acrididea_tgf2025-staytuned-acrididea-activity-7395492592660082688-ttd_",
+            "https://acrididea.com/acrididea-passe-au-turbo/",
+            "https://acrididea.com/about-us/",
+            "https://acrididea.com/research/",
+            "https://acrididea.com/advances-and-techniques-in-our-breeding/",
+            "https://acrididea.com/sdgs/",
+            "https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "[![logo-acrididea](https://acrididea.com/wp-content/uploads/2024/03/logo-acrididea.png#483)![logo-acrididea](https://acrididea.com/wp-content/uploads/2024/03/logo-acrididea.png#483)![logo-acrididea](https://acrididea.com/wp-content/uploads/2024/03/logo-acrididea.png#483)![logo-acrididea](https://acrididea.com/wp-content/uploads/2024/03/logo-acrididea.png#483)](https://acrididea.com \"ACRIDIDEA\")\n[](https://acrididea.com/)\n* [ABOUT US](https://acrididea.com/about-us/)\n* [SDGs](https://acrididea.com/sdgs/)\n[](https://acrididea.com/)\n* [BREEDING](https://acrididea.com/breeding/)\n* [Breeding Methods](https://acrididea.com/breeding-methods/)\n* [Advances and Techniques in Our Breeding](https://acrididea.com/advances-and-techniques-in-our-breeding/)\n[](https://acrididea.com/)\n* [PRODUCTS](https://acrididea.com/products/)\n* [Fusion of Quality and Sustainability](https://acrididea.com/fusion-of-quality-and-sustainability/)\n* [Our Future Innovations](https://acrididea.com/our-future-innovations/)\n* [From Farm to Table](https://acrididea.com/from-farm-to-table/)\n[](https://acrididea.com/)\n* [RESEARCH](https://acrididea.com/research/)\n* [Our Partnerships for Innovation and Sustainability](https://acrididea.com/our-partnerships-for-innovation-and-sustainability/)\n* [Exploration and Innovation](https://acrididea.com/exploration-and-innovation/)\n[](https://acrididea.com/)\n* [PARTNERSHIPS](https://acrididea.com/partnerships/)\n* [BLOG](https://acrididea.com/blog/)\n* [CONTACT](https://acrididea.com/contact/)\n✕\n![](https://acrididea.com/wp-content/plugins/revslider/public/assets/assets/dummy.png) Our Team : At the Heart of Innovation and Sustainability Revolutionizing sustainable food through locust farming [Discover the products ](https://acrididea.com/index.php/products/)\n![](https://acrididea.com/wp-content/uploads/2024/03/hero-bg1.png)\n## Discover the inner workings of  Acrididea\nA pioneering company in the field of sustainable Locust farming in Tunisia. Our journey begins with a bold vision : to transform traditional food practices while preserving ecological balance. Located at the heart of Tunisia, our farm reflects our determination to innovate, promote sustainability, and conduct cutting-edge research in our field.\nAt Acrididea, we are driven by a shared passion for innovation and a deep commitment to the environment. We firmly believe that sustainable Locust farming can play a crucial role in creating a more equitable and planet-friendly food future. By combining technical expertise, thorough research, and environmentally friendly practices, we strive to push the boundaries of this emerging sector.\n[**ABOUT US**](https://acrididea.com/index.php/about-us/)\n## Exploring the Heart of Acrididea's Farming Innovations\nNestled in the lush landscape of Tunisia, Acrididea's farm embodies the very essence of innovation and sustainability. With a pioneering vision in Locust farming, our farm represents more than just a production site. It's a dynamic ecosystem where tradition meets innovation, where science partners with nature to create a revolutionary approach to agriculture. In our carefully designed facilities, every aspect of our farming process is meticulously orchestrated to ensure the well-being of the Locust, environmental sustainability, and the quality of our products. From the meticulous regulation of environmental conditions to the use of ethical farming practices, our farm epitomizes our commitment to healthy, environmentally-friendly, and community-oriented food production.\n[**OUR FARM**](https://acrididea.com/index.php/breeding/)\n![](https://acrididea.com/wp-content/uploads/2024/03/Screenshot-2022-04-14-at-16.41-4.jpg)\n## Discover the World of Acrididea Products\n![](https://acrididea.com/wp-content/uploads/2024/03/criquets-grilles-istock-921762874-merc67.png)\n#### Dehydrated Locusts\n![](https://acrididea.com/wp-content/uploads/2024/06/prod1.png)\n#### Seasoned Locusts\n![](https://acrididea.com/wp-content/uploads/2024/06/prod2.png)\n#### Locust Powder\n[**OUR PRODUCTS**](https://acrididea.com/index.php/products/)\n## Partnerships\nAcrididea's partnerships are the cornerstone of our commitment to innovation and sustainability. We collaborate with various organizations, institutions, and businesses that share our vision of a more environmentally friendly future of food. Together, we work to develop innovative agricultural practices, promote environmental sustainability, and strengthen local communities. Through these strategic partnerships, we are able to push the boundaries of Locust farming and advocate for sustainable food solutions globally.\n[**DISCOVER**](https://acrididea.com/index.php/partnerships/)\n![](https://acrididea.com/wp-content/uploads/2024/03/two-businessmen-shaking-hands-successful-business-agreement-generated-by-artificial-intelligence_188544-93872.png)\n## Read the latest news\n#### This is the title\n[](https://acrididea.com/)[](https://acrididea.com/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Meeting-960x675.png)](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n6 March 2024\n#### [Meeting Our Partners : Collaborating for Sustainability](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* * *\n[Read more](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Locust.png)](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n6 March 2024\n#### [From Field to Table : The Journey of Locust](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* * *\n[Read more](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/innovations-960x675.png)](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n5 March 2024\n#### [Innovations in Agroecology : Our Pioneering Farm](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* * *\n[Read more](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* [![](https://acrididea.com/wp-content/uploads/2025/11/Green-960x675.png)](https://acrididea.com/acrididea-passe-au-turbo/)\n4 November 2025\n#### [Acrididea Passe Au Turbo](https://acrididea.com/acrididea-passe-au-turbo/)\n* * *\n[Read more](https://acrididea.com/acrididea-passe-au-turbo/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/farming-960x675.png)](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n6 March 2024\n#### [Answers to Your Questions about Locust Farming](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n* * *\n[Read more](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Agroecology-960x675.png)](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n6 March 2024\n#### [Agroecology in Practice : Techniques and Tips](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n* * *\n[Read more](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Meeting-960x675.png)](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n6 March 2024\n#### [Meeting Our Partners : Collaborating for Sustainability](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* * *\n[Read more](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Locust.png)](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n6 March 2024\n#### [From Field to Table : The Journey of Locust](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* * *\n[Read more](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/innovations-960x675.png)](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n5 March 2024\n#### [Innovations in Agroecology : Our Pioneering Farm](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* * *\n[Read more](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* [![](https://acrididea.com/wp-content/uploads/2025/11/Green-960x675.png)](https://acrididea.com/acrididea-passe-au-turbo/)\n4 November 2025\n#### [Acrididea Passe Au Turbo](https://acrididea.com/acrididea-passe-au-turbo/)\n* * *\n[Read more](https://acrididea.com/acrididea-passe-au-turbo/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/farming-960x675.png)](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n6 March 2024\n#### [Answers to Your Questions about Locust Farming](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n* * *\n[Read more](https://acrididea.com/answers-to-your-questions-about-locust-farming/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Agroecology-960x675.png)](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n6 March 2024\n#### [Agroecology in Practice : Techniques and Tips](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n* * *\n[Read more](https://acrididea.com/agroecology-in-practice-techniques-and-tips/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Meeting-960x675.png)](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n6 March 2024\n#### [Meeting Our Partners : Collaborating for Sustainability](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* * *\n[Read more](https://acrididea.com/meeting-our-partners-collaborating-for-sustainability/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/Locust.png)](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n6 March 2024\n#### [From Field to Table : The Journey of Locust](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* * *\n[Read more](https://acrididea.com/from-field-to-table-the-journey-of-locust/)\n* [![](https://acrididea.com/wp-content/uploads/2024/03/innovations-960x675.png)](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n5 March 2024\n#### [Innovations in Agroecology : Our Pioneering Farm](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* * *\n[Read more](https://acrididea.com/innovations-in-agroecology-our-pioneering-farm/)\n* 0\n* 1\n[**OUR BLOG**](https://acrididea.com/index.php/blog/)\n###  For more details about Acrididea and our products\nContact our professionals today\n[**CONTACT US**](https://acrididea.com/index.php/contact/)\n**\n#### Acrididea — Breeding for living\n* * *\n* * *\nAcrididea : Innovating Sustainable Protein Solutions. Our mission is to revolutionize the way the world perceives and consumes proteins through sustainable Locust farming practices. Join us in creating a greener future, one delicious bite at a time.\n* * *\n###  [+216 29 899 815](tel:+216%2029%20899%20815)\n![](https://acrididea.com/wp-content/uploads/2024/03/bas-logo.png)\nHandcoded & Designed with 🤍 by [VISS](http://viss-tunisie.com/) @ 2024\n* [](https://acrididea.com/ \"Facebook\")\n* [](https://acrididea.com/ \"LinkedIn\")\n* [](https://acrididea.com/ \"Instagram\")\n**\n**[](https://acrididea.com/)\n![Acrididea](https://acrididea.com/wp-content/themes/betheme/images/cookies.png)\nThis website uses cookies to improve your experience. By using this website you agree to our Data Protection Policy.\n[Read more](https://acrididea.com/privacy-policy/)Accept all\nStart a Conversation\n[ +216 29 899 815 Acrididea ](https://api.whatsapp.com/send?phone=21629899815)\n[](https://ninjateam.org/whatsapp-chat-wordpress/) Powered by NinjaTeam\n[Call Now Button](tel:+216%2029%20899%20815) **",
+    "website_metadata": {
+        "url": "https://acrididea.com/",
+        "content_length": 11765
+    },
+    "linkedin": "https://linkedin.com/company/acrididea",
+    "phones": [
+        "2022-04-14-",
+        "921762874-",
+        "188544-93872",
+        "+216 29 899 815",
+        "21629899815)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\acrididea.json",
+    "normalized_name": "acrididea",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "acrididea.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/acrididea",
+                    "normalized": "https://linkedin.com/company/acrididea",
+                    "username": "acrididea",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 2,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+216921762874",
+                "+21618854493872",
+                "+21621629899815"
+            ]
+        }
+    }
+}

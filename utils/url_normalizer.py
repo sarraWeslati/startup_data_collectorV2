@@ -1,45 +1,29 @@
-# utils/url_normalizer.py
-
 from typing import Any
 
+from urllib.parse import urlparse
+
+
+# =====================================================
+# NORMALIZE WEBSITE
+# =====================================================
 
 def normalize_website(
     url: Any
 ) -> str:
-    """
-    Normalise une URL.
-
-    Accepte :
-        - str
-        - dict
-        - None
-
-    Retourne toujours une chaîne.
-    """
 
     if not url:
         return ""
 
-    # --------------------------------------------------
-    # Cas dictionnaire
-    # --------------------------------------------------
-
     if isinstance(url, dict):
 
-        # cas {"url": "..."}
         if "url" in url:
             url = url["url"]
 
-        # cas {"website": "..."}
         elif "website" in url:
             url = url["website"]
 
         else:
             return ""
-
-    # --------------------------------------------------
-    # Sécurité
-    # --------------------------------------------------
 
     if not isinstance(url, str):
         url = str(url)
@@ -49,22 +33,18 @@ def normalize_website(
     if not url:
         return ""
 
-    # Supprime les espaces
     url = url.replace(" ", "")
 
-    # www.domain.com
     if url.startswith("www."):
-        return f"https://{url}"
+        url = f"https://{url}"
 
-    # domain.com
-    if (
+    elif (
         "." in url
         and not url.startswith(("http://", "https://"))
         and "/" not in url
     ):
-        return f"https://{url}"
+        url = f"https://{url}"
 
-    # Cas spécifique TheDot
     if url.startswith("https://thedot.tn/"):
 
         candidate = url.replace(
@@ -73,6 +53,42 @@ def normalize_website(
         )
 
         if "." in candidate:
-            return f"https://{candidate}"
+
+            url = f"https://{candidate}"
 
     return url
+
+
+# =====================================================
+# DOMAIN
+# =====================================================
+
+def get_domain(
+    url: Any
+) -> str:
+    """
+    Retourne uniquement le domaine.
+
+    Exemple :
+
+    https://www.instadeep.com/about
+
+    →
+
+    instadeep.com
+    """
+
+    url = normalize_website(url)
+
+    if not url:
+        return ""
+
+    parsed = urlparse(url)
+
+    domain = parsed.netloc.lower()
+
+    if domain.startswith("www."):
+
+        domain = domain[4:]
+
+    return domain

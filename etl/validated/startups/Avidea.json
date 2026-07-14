@@ -1,0 +1,325 @@
+{
+    "entity_type": "startup",
+    "name": "Avidea",
+    "description": "Nous aidons les compagnies d'assurance à réduire le coût de sinistre automobile en leur offrant une plateforme logicielle de digitalisation de sinistre automobile et de lutte contre la fraude",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2017",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie",
+    "linkedin_url": "https://www.linkedin.com/company/digiconstat",
+    "social_media": {
+        "facebook": "https://facebook.com/avidea.tn",
+        "youtube": "https://youtube.com/channel/UCiWD6HI4EN1cPlY75eynd9w"
+    },
+    "contact": {
+        "emails": [
+            "contact@avidea.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21650883008",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620192024",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://facebook.com/avidea.tn"
+    },
+    "founders": [
+        {
+            "name": "Jaafar Nasri",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Anis Safraoui",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 87,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:19:07.149261",
+        "website_enriched": true,
+        "tavily_results": 17,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "avidea.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Apr-20"
+    },
+    "external_profiles": {
+        "website": "https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie",
+        "linkedin": "https://ca.linkedin.com/company/avidea-audio-video-ideas-inc"
+    },
+    "tavily": {
+        "query": "Avidea",
+        "answer": "",
+        "results_count": 17,
+        "urls": [
+            "https://avidea.tn/",
+            "https://www.hotel-avidea.com/en/",
+            "https://avidea.es/",
+            "https://avidea.es/index_en.html",
+            "https://www.avidea.de/",
+            "https://ca.linkedin.com/company/avidea-audio-video-ideas-inc.",
+            "https://tn.linkedin.com/company/digiconstat",
+            "https://linkedin.com/in/dannyrussellavidea",
+            "https://www.linkedin.com/company/avideasocial",
+            "https://linkedin.com/company/digiconstat",
+            "https://tracxn.com/d/companies/avidea/__Bk60jINoBI00LNMHP53b3aqFvWlJ0NOYL4iBQVJC5ms",
+            "https://insurtechanalyst.com/2022/02/23/insurtech-avidea-bags-696k-in-pre-series-a/",
+            "https://synapse.patsnap.com/organization/48816785d8ae538b1dd112837b554285",
+            "https://theorg.com/org/avidea",
+            "https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/",
+            "https://www.africaain.com/dealdetails.php?id=1434",
+            "https://ffnews.com/companies/avidea/"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "![avidea](https://www.avidea.tn/wp-content/themes/avidea/assets/images/logo_gif.gif)\nToggle navigation [ ![avidea](https://www.avidea.tn/wp-content/themes/avidea/assets/images/logo-small.svg) ](https://www.avidea.tn/)\n* [](https://www.facebook.com/avidea.tn)\n* [](https://www.linkedin.com/company/digiconstat/)\n* [Accueil](https://www.avidea.tn/)\n* [Nos produits](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)\n* [DigiClaim](https://www.avidea.tn/digiclaim-fr/)\n* [DigiConstat](https://www.avidea.tn/digiconstat-fr/)\n* [DigiFraud](https://www.avidea.tn/digifraud-fr/)\n* [Actualités](https://www.avidea.tn/actualites/)\n* [Carrières](https://www.avidea.tn/career/)\n* [Contact](https://www.avidea.tn/#contact)\n* [![English](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)](https://www.avidea.tn/en/home-en/)\n* [Accueil](https://www.avidea.tn/)\n* [Nos produits](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)\n* [DigiClaim](https://www.avidea.tn/digiclaim-fr/)\n* [DigiConstat](https://www.avidea.tn/digiconstat-fr/)\n* [DigiFraud](https://www.avidea.tn/digifraud-fr/)\n* [Actualités](https://www.avidea.tn/actualites/)\n* [Carrières](https://www.avidea.tn/career/)\n* [Contact](https://www.avidea.tn/#contact)\n* [![English](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)](https://www.avidea.tn/en/home-en/)\n* * *\n* [](https://www.facebook.com/avidea.tn)\n* [](https://www.linkedin.com/company/digiconstat/)\n* [](https://www.youtube.com/channel/UCiWD6HI4EN1cPlY75eynd9w)\n* * *\n* ## Actualités - Détails\n[ Retour ](https://www.avidea.tn/actualites/)\n* [Accueil](https://www.avidea.tn/)\n* [Actualités](https://www.avidea.tn/actualites/)\n* Avidea a été sélectionnée par la Fédération des Assurances FTUSA pour la digitalisation du constat automobile en Tunisie\n18 décembre 2024\n### Avidea a été sélectionnée par la Fédération des Assurances FTUSA pour la digitalisation du constat automobile en Tunisie\nLa Fédération Tunisienne des Sociétés d’Assurances (FTUSA) a sélectionné notre société Avidea pour la digitalisation du constat automobile en Tunisie.\nGrâce à ce grand projet sectoriel, plus de 2 million de Tunisiens auront la possibilité d’envoyer à leur assureurs un constat automobile digital déclaré sur un smartphone remplaçant ainsi la procédure de déclaration actuelle basée sur le papier.\nL’équipe Avidea est très fière de cette sélection qui nous permettra d’accompagner la Fédération et les 15 Compagnies d’assurance automobile tunisiennes dans la réalisation de ce projet stratégique.\n**A propos de notre produit DigiConstat :**\nDigiConstat est une plateforme qui permet de digitaliser la déclaration des constats automobiles.\nDestinée aux Fédérations et Associations des assurances, elle permet de déployer une plateforme centralisée entre les assurances pour la dématérialisation du constat automobile.\nLa plateforme se compose de 3 parties :\n**Une application mobil** e destinée aux assurés qui permet la déclaration digitale des constats.\n**Un Backoffice web** qui permet aux assurances et la fédération la consultation des constats reçus.\n**Un interfaçage API** avec les Systèmes des assurances pour la récupération automatique des constats reçus.\nPour plus de détails sur le produit, cliquer [ici](https://www.avidea.tn/digiconstat-fr/)\n#### DERNIÈRES ACTUALITÉS\n![](https://www.avidea.tn/wp-content/uploads/2024/12/signature-digiconstat-ftusa-final.jpeg)\n* [Avidea a été sélectionnée par la Fédération des Assurances FTUSA pour la digitalisation du constat automobile en Tunisie](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)\n18 décembre 2024\n* [Lire plus](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)\n* * *\n![](https://www.avidea.tn/wp-content/uploads/2024/06/com-buat.jpg)\n* [Avidea met en place la nouvelle plateforme d’édition électronique de l’attestation d’assurance internationale (Carte Verte)](https://www.avidea.tn/avidea-met-en-place-la-nouvelle-plateforme-dedition-electronique-de-lattestation-dassurance-internationale/)\n10 juin 2024\n* [Lire plus](https://www.avidea.tn/avidea-met-en-place-la-nouvelle-plateforme-dedition-electronique-de-lattestation-dassurance-internationale/)\n* * *\n[ ![DigiConstat](https://www.avidea.tn/wp-content/themes/avidea/assets/images/logo.svg) ](https://www.avidea.tn)\n#### Liens utiles\n* [Accueil](https://www.avidea.tn/)\n* [Nos produits](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)\n* [DigiClaim](https://www.avidea.tn/digiclaim-fr/)\n* [DigiConstat](https://www.avidea.tn/digiconstat-fr/)\n* [DigiFraud](https://www.avidea.tn/digifraud-fr/)\n* [Actualités](https://www.avidea.tn/actualites/)\n* [Carrières](https://www.avidea.tn/career/)\n* [Contact](https://www.avidea.tn/#contact)\n* [![English](https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/)](https://www.avidea.tn/en/home-en/)\n#### Contact\nCentre Urbain Nord, Immeuble Promed, B-6-1\ncontact@avidea.tn\n(+216) 50 883 008\n#### Suivre AVIDEA\n* [](https://www.facebook.com/avidea.tn)\n* [](https://www.linkedin.com/company/digiconstat/)\n© 2019-2024 AVIDEA Tous les droits sont réservés\nDemande Démo\n×\n### Demander une démo\nPour visualiser une démo, veuillez remplir ce formulaire ou appelez-nous sur **(+ 216) 50 883 008**",
+    "website_metadata": {
+        "url": "https://www.avidea.tn/avidea-a-ete-selectionnee-par-la-federation-des-assurances-ftusa-pour-la-digitalisation-du-constat-automobile-en-tunisie/",
+        "content_length": 5904
+    },
+    "linkedin": "https://ca.linkedin.com/company/avidea-audio-video-ideas-inc.",
+    "emails": [
+        "contact@avidea.tn"
+    ],
+    "phones": [
+        "+216) 50 883 008",
+        "2019-2024",
+        "216) 50 883 008"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\avidea.json",
+    "normalized_name": "avidea",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "avidea.tn",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/avidea.tn",
+                    "normalized": "https://facebook.com/avidea.tn",
+                    "username": "avidea.tn",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCiWD6HI4EN1cPlY75eynd9w",
+                    "normalized": "https://youtube.com/channel/UCiWD6HI4EN1cPlY75eynd9w",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "avidea.tn"
+                ]
+            },
+            "official": [
+                "contact@avidea.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@avidea.tn",
+                    "normalized": "contact@avidea.tn",
+                    "domain": "avidea.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@avidea.tn",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+21621650883008"
+            ]
+        }
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "entity_type": "startup",
+    "name": "4InA Technologie",
+    "description": "4InA technologie est une entreprise spécialisée dans le développement des solutions d’intelligence artificielle. Notre premier axe est le développement des systèmes de télégestion d’énergie électrique pour les industries.",
+    "tagline": "",
+    "industry": "Environment",
+    "keywords": [
+        "energy management",
+        "digitalization",
+        "AI",
+        "sustainability",
+        "carbon-free"
+    ],
+    "country": "Tunisia",
+    "city": "Manouba",
+    "headquarters": "Manouba, Tunisia",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.4inatechnologie.com/about",
+    "linkedin_url": "https://www.linkedin.com/company/4ina-technologie",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/hinda-zribi-258555140"
+    },
+    "contact": {
+        "emails": [
+            "contact@4inatechnologie.com"
+        ],
+        "phones": [
+            {
+                "number": "+21620241106",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21623507648",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/hinda-zribi-258555140"
+    },
+    "founders": [
+        {
+            "name": "Sabri Mhimdi",
+            "role": "",
+            "linkedin": "https://www.linkedin.com/in/sabri-mhimdi-aa636260/",
+            "bio": ""
+        },
+        {
+            "name": "Zribi Hinda",
+            "role": "",
+            "linkedin": "https://www.linkedin.com/in/hinda-zribi-258555140/",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 92,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:07:30.242650",
+        "website_enriched": true,
+        "tavily_results": 13,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "4inatechnologie.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Dec-20"
+    },
+    "external_profiles": {
+        "website": "https://www.4inatechnologie.com/about",
+        "linkedin": "https://linkedin.com/company/4ina-technologie"
+    },
+    "tavily": {
+        "query": "4InA Technologie",
+        "answer": "",
+        "results_count": 13,
+        "urls": [
+            "https://www.4inatechnologie.com/about/",
+            "https://www.4inatechnologie.com/home/",
+            "https://www.4inatechnologie.com/services/",
+            "https://linkedin.com/company/4ina-technologie",
+            "https://digital-energy.eu/fr/projets/4ina-technologie",
+            "https://tn.linkedin.com/company/4ina-technologie",
+            "https://linkedin.com/in/hinda-zribi-258555140",
+            "https://www.linkedin.com/posts/4ina-technologie_5-indicateurs-de-performance-%C3%A9nerg%C3%A9tique-activity-7404865037431218176-rxbm",
+            "https://linkedin.com/in/meriam-zouaoui-b08a51234",
+            "https://4inatechnologie.com/",
+            "https://www.4inatechnologie.com/accueil/",
+            "https://www.4inatechnologie.com/",
+            "https://beta.motherbase.ai/startup/199361-4ina-technologie/"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "[![Logo 4ina Technologie](https://www.4inatechnologie.com/_next/static/media/logo4ina.d964e234.png)](https://www.4inatechnologie.com/accueil/)☰\n### [Home](https://www.4inatechnologie.com/accueil/)\n### [AboutUs](https://www.4inatechnologie.com/about/)\n### [Services](https://www.4inatechnologie.com/services/)\n### technical platform\n### Posts\n### [Contact](https://www.4inatechnologie.com/contact/)\n# Who We Are ?\n4InA Technologie is a Tunisian startup, founded in November 2020 and labeled by Startup Act.\n4InA operates in the field of energy management and artificial intelligence. Our primary focus is the development and design of energy management systems.\n# Our Mission\nWe use real-time electricity data to optimize energy consumption, reduce costs, and drive sustainable growth. Our goal is to make energy management more efficient and effective.\n# Our Vision\nWe envision 4InA Technologie as a catalyst reshaping the future of energy management through digitalization and transformative AI-driven solutions. We are paving the way for a carbon-free future where sustainability and profitability go hand in hand.\nWant to learn more about our innovative approach?\nRequest a demo to see our solutions in action\n[Book a Demo](https://www.4inatechnologie.com/solutions/demo/)\n# Our\n# Team\nDriven by a shared commitment to excellence, our team combines diverse talents and perspectives to tackle challenges, foster innovation, and achieve outstanding results together\n![team-founder](https://res.cloudinary.com/ddngbriyu/image/upload/v1730448418/henda_fmfzae.webp)\n###### Hinda Zribi\nCo-Founder\n[](https://www.linkedin.com/in/hinda-zribi-258555140/)\n![team-founder](https://res.cloudinary.com/ddngbriyu/image/upload/v1730885413/Capture_d_%C3%A9cran_2024-11-06_102522_efj596.png)\n###### Sabri Mhimdi\nCo-Founder\n[](https://www.linkedin.com/in/sabri-mhimdi-aa636260/)\nElectrical Department\nIT Department\nMarketing & HR Department\nEmbedded Systems\nWeb & Mobile Development\nArtificial Intelligence\nHuman Resources (HR)\nDigital Marketing\n[![Log-4inaTechnologie](https://www.4inatechnologie.com/_next/static/media/logo4ina.d964e234.png)](https://www.4inatechnologie.com/accueil/)\nInnovate, Collaborate, Succeed\n[](https://www.linkedin.com/company/4ina-technologie/posts/?feedView=all)[4InA technologie](https://www.linkedin.com/company/4ina-technologie/posts/?feedView=all)\ncontact@4inatechnologie.com\n[](tel:+21623507648)[+216 23 507 648](tel:+21623507648)\n[](https://maps.app.goo.gl/qMi4e4pi4yWP7PK46)[Technopark mannouba, Mannouba](https://maps.app.goo.gl/qMi4e4pi4yWP7PK46)",
+    "website_metadata": {
+        "url": "https://www.4inatechnologie.com/about/",
+        "content_length": 2569
+    },
+    "linkedin": "https://linkedin.com/company/4ina-technologie",
+    "emails": [
+        "contact@4inatechnologie.com"
+    ],
+    "phones": [
+        "+21623507648"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\4ina_technologie.json",
+    "normalized_name": "4ina technologie",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "4inatechnologie.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/in/hinda-zribi-258555140",
+                    "normalized": "https://linkedin.com/in/hinda-zribi-258555140",
+                    "username": "hinda-zribi-258555140",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "4inatechnologie.com"
+                ]
+            },
+            "official": [
+                "contact@4inatechnologie.com"
+            ],
+            "details": [
+                {
+                    "original": "contact@4inatechnologie.com",
+                    "normalized": "contact@4inatechnologie.com",
+                    "domain": "4inatechnologie.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@4inatechnologie.com",
+    "quality": {
+        "phones": {
+            "total": 6,
+            "valid": 2,
+            "removed": 3,
+            "duplicates": 1,
+            "invalid": [
+                "+2161730448418",
+                "+216258555140",
+                "+2161730885413"
+            ]
+        }
+    }
+}

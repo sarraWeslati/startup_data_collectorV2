@@ -1,0 +1,312 @@
+{
+    "entity_type": "startup",
+    "name": "B2B Tunisia",
+    "description": "B2B Tunisia est une plateforme qui permet aux entreprises de mettre en avant leurs produits et services ainsi que d'autres services dans le but de les mettres en relation avec d'autre sociétés.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2018",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://b2b.tn/en",
+    "linkedin_url": "https://www.linkedin.com/company/b2b-tunisia",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/b2b-tunisia",
+        "facebook": "https://facebook.com/b2b.tunisia",
+        "youtube": "https://youtube.com/channel/UC7Obhyz3VwYg3guwRjHGNVg"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21671903156",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21626779904",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620212023",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/b2b-tunisia"
+    },
+    "founders": [
+        {
+            "name": "Mohamed Bechir Chniti",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Nedra Neffeti",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 71,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:20:17.329091",
+        "website_enriched": true,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jul-21"
+    },
+    "external_profiles": {
+        "website": "https://b2b.tn/en",
+        "linkedin": "https://linkedin.com/company/b2b-tunisia",
+        "wellfound": "https://wellfound.com/startups/location/tunisia",
+        "dealroom": "https://dealroom.co/countries/tunisia"
+    },
+    "tavily": {
+        "query": "B2B Tunisia",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://b2b.tn/en",
+            "https://b2b.tn/",
+            "https://linkedin.com/company/b2b-tunisia",
+            "https://b2b.tn/en/inscription",
+            "https://b2b.tn/en/actualites",
+            "https://tn.linkedin.com/company/b2b-tunisia",
+            "https://linkedin.com/in/nedra-neffeti-4a443a17b",
+            "https://www.linkedin.com/company/tpm-tunisia",
+            "https://www.lusha.com/business/5674c031e5a31c99/",
+            "https://bouncewatch.com/b2b-saas-companies-in-tunisia",
+            "https://wellfound.com/startups/location/tunisia",
+            "https://dealroom.co/countries/tunisia/",
+            "https://b2bmap.com/tunisia",
+            "https://www.africa2trust.com/B2B/tunisia/1/27/?c=27&l=1"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "Aucun résultat de recherche pour le mot clé \"\"!\n[VOIR TOUS (0)](https://b2b.tn/fr/recherche?s=)\n[0](javascript:void\\(0\\))[0](javascript:void\\(0\\))\n[![](https://b2b.tn/assets/img/votre-entreprise.webp)](https://b2b.tn/fr/compte-entreprise)\n[CONNEXION](javascript:void\\(0\\))![](https://b2b.tn/assets/img/profile.png)\n*\n[ ](https://b2b.tn/fr)\n[ ](https://b2b.tn/fr)\n[CONNEXION](https://b2b.tn/fr/signin)[INSCRIPTION!](https://b2b.tn/fr/inscription)\n* [ENTREPRISES](https://b2b.tn/fr/entreprises)\n* [PRODUITS ET SERVICES](https://b2b.tn/fr/produits-et-services)\n* [CARRIÈRES](javascript:void\\(0\\))\n* [EMPLOI](https://b2b.tn/fr/les-offres-demploi)\n* [FREELANCE](https://b2b.tn/fr/les-offres-missions)\n* [EXPERTS](https://b2b.tn/fr/experts)\n* [SERVICES AUX ENTREPRISES](javascript:void\\(0\\))\n* [ÉVÉNEMENTS B2B](https://b2b.tn/fr/evenements)\n* [FORMATIONS AUX ENTREPRISES](https://b2b.tn/fr/formations)\n* [SOUS-TRAITANCE](https://b2b.tn/fr/sous-traitance)\n* [WEBINAIRES B2B](https://b2b.tn/fr/webinaires)\n* [ACTU B2B](https://b2b.tn/fr/actualites)\n* [MY B2B](https://b2b.tn/fr/myb2b)\n* [ ANGLAIS](https://b2b.tn/en)\nAucun résultat de recherche pour le mot clé \"\"!\n[VOIR TOUS (0)](https://b2b.tn/fr/recherche?s=)\n* ![b2b tunise](https://b2b.tn/assets/img/slide/slide2.webp)\n##  RÉUSSISSEZ VOTRE PROJET:\nQuel que soit votre profil: Client, Fournisseur, Grossiste ou Distributeur; B2B-Tunisia© vous apporte LES OUTILS et LA FLEXIBILITÉ nécessaires pour RÉUSSIR VOTRE PROJET et pour SATISFAIRE VOS CLIENTS.\n* ![b2b tunise](https://b2b.tn/assets/img/slide/slide3.webp)\n##  DÉVELOPPEZ VOTRE NOTORIÉTÉ:\nB2B-Tunisia© votre partenaire spécialisé dans la connexion entre les fournisseurs tunisiens et leurs Partenaires et/ou Clients en Tunisie et à l’international, TOUT EN QUELQUES SIMPLES CLICS.\n* ![b2b tunise](https://b2b.tn/assets/img/slide/slide1.webp)\n##  AMÉLIOREZ VOTRE VISIBILITÉ:\nRetrouvez les meilleures opportunités, développez votre réseau d’affaires et votre notoriété, monétisez votre audience et faites décoller votre BUSINESS !\n* ![b2b tunise](https://b2b.tn/assets/img/slide/slide2.webp)\n##  RÉUSSISSEZ VOTRE PROJET:\nQuel que soit votre profil: Client, Fournisseur, Grossiste ou Distributeur; B2B-Tunisia© vous apporte LES OUTILS et LA FLEXIBILITÉ nécessaires pour RÉUSSIR VOTRE PROJET et pour SATISFAIRE VOS CLIENTS.\n* ![b2b tunise](https://b2b.tn/assets/img/slide/slide3.webp)\n##  DÉVELOPPEZ VOTRE NOTORIÉTÉ:\nB2B-Tunisia© votre partenaire spécialisé dans la connexion entre les fournisseurs tunisiens et leurs Partenaires et/ou Clients en Tunisie et à l’international, TOUT EN QUELQUES SIMPLES CLICS.\nSe souvenir de moi\n[Mot de passe oublié ?](https://b2b.tn/fr/rest-pass)\nCONNEXION\nVous n'avez pas de compte?[INSCRIPTION](https://b2b.tn/fr/inscription)\n##  ENTREPRISES EN VEDETTE\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n##  PRODUITS EN VEDETTE\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n##  ACTUALITÉS B2B\n##  RECOMMANDÉ POUR VOUS\n####  SERVICES INFORMATIQUES\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n####  INDUSTRIES MÉCANIQUES, MÉTALLIQUES,\nMÉTALLURGIQUES ET ÉLECTRIQUES\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n####  BTP – ARCHITECTURE – CONSTRUCTION\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n[](javascript:void\\(0\\))\n##  LISTE DES ENTREPRISES PAR SECTEURS D'ACTIVITÉ\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n#### [](javascript:void\\(0\\))\n## LISTE DES ENTREPRISES PAR RÉGION – TUNISIA\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n* [](javascript:void\\(0\\))\n![](https://b2b.tn/upload/image/devis-express.png%20)DEVIS EXPRESS\n####  «B2B TUNISIA©»\nB2B.TN© is a platform that connects suppliers with their future customers via a system for putting products and services online, which implies GREAT VISIBILITY and ADVANTAGEOUS TRAFFIC.\nB2B.TN© PROMOTES BETTER COMPETITION, healthier, more « fair play», between companies, each in its region and in its sector of activity.\n####  Our Business Solutions:\n* [ Guide des Entreprises ](https://b2b.tn/fr/entreprises)\n* [Products and Services Guide](https://b2b.tn/fr/produits-et-services)\n* [ Offres d'emploi ](https://b2b.tn/fr/les-offres-demploi)\n* [ Freelance offers ](https://b2b.tn/fr/les-offres-missions)\n* [ List of Qualified Experts ](https://b2b.tn/fr/experts)\n* [ Abonnement et Publicité ](https://b2b.tn/fr/abonnement-b2b)\n* [ Nous Contacter ](https://b2b.tn/fr/contactez-nous)\n####  OUR INTERNATIONAL PLATFORMS:\n* [ B2B France](https://b2b-france.net/)\n* [ B2B Algeria](https://www.b2b-algeria.net/)\n* [ B2B Africa](https://b2b-africa.net/)\n* [ B2B Canada](https://b2b-canada.net/)\n* [ B2B Morocco](https://www.b2b-morocco.net/)\n* [ B2B Congo](https://b2b-congo.net/)\n####  CONTACT US:\n* **Adresse:** 25 Avenue Louis Braille, 1002 Cité les Jardins, Tunis\n* **Service Clients :**\n+216 71 903 156\n+216 26 779 904\n* **Suivez-nous sur :**\n* [ ](https://www.facebook.com/b2b.tunisia)\n* [ ](https://www.linkedin.com/company/b2b-tunisia/)\n* [ ](https://www.youtube.com/channel/UC7Obhyz3VwYg3guwRjHGNVg)\n©2021 - 2023 SMART MARKETPLACE, All rights reserved | Developped by[ CHNITI SOFT PRO ](https://www.chnitisoftpro.net/)",
+    "website_metadata": {
+        "url": "https://b2b.tn/en",
+        "content_length": 7056
+    },
+    "linkedin": "https://linkedin.com/company/b2b-tunisia",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\b2b_tunisia.json",
+    "normalized_name": "b2b tunisia",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "b2b.tn",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 4
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/b2b-tunisia",
+                    "normalized": "https://linkedin.com/company/b2b-tunisia",
+                    "username": "b2b-tunisia",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/b2b.tunisia",
+                    "normalized": "https://facebook.com/b2b.tunisia",
+                    "username": "b2b.tunisia",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UC7Obhyz3VwYg3guwRjHGNVg",
+                    "normalized": "https://youtube.com/channel/UC7Obhyz3VwYg3guwRjHGNVg",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 3,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "entity_type": "startup",
+    "name": "STE NEOPOLIS DEVELOPPEMENT",
+    "description": "STE NEOPOLIS DEVELOPPEMENT (2018)\nSecteur d’activité / Sector : Fintech\nneopolis-dev.com\nFondateur / Founder\nE-mail\nAdresse / Address\nJACQUES YVES FOUCOU\ninfo@neopolis-dev.com\nRésidence Baya, Cité El Wafa, 8000 Nabeul\nActivité \nNeopolis \nDevelopment \nest \nune \nFINTECH opérant dans les systèmes d'information, \nparticulièrement \nles \nERP \nde \nbanques/assurances. \nAvec une filiale en France, l'entreprise possède dans \nson actif une solution Front/Back pour les assurances \n(mutuelles et distributeurs) et compte déjà plusieurs \nclients dans son actif.\nAspect Technologique Des solutions Low Code.\nOriginalité Solutions adaptées aux Neo-assurances Neo-\nbanques.\nActivity \nNeopolis \nDevelopment \nis \na \nFINTECH \noperating \nin \ninformation \nsystems, \nparticularly \nERP \nfor \nbanks/insurance \ncompanies. \nWith a subsidiary in France, the company has a Front/\nBack solution for insurance companies (mutuals and \ndistributors) and already has several clients in its portfolio.\nTechnological Aspect Low code solutions.\nOriginality Solutions adapted to Neo-insurance Neo-banks.\nFR\nEN",
+    "tagline": null,
+    "industry": "Fintech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://neopolis-dev.com",
+    "linkedin_url": "https://fr.linkedin.com/company/neopolis-development",
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "info@neopolis-dev.com"
+        ],
+        "phones": [],
+        "address": "France Toulon: 5 rue Picot, 83000",
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://neopolis-dev.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:56:41.214623",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "neopolis-dev.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[ ![Neopolis Development](https://www.neopolis-dev.com/) ](https://www.neopolis-dev.com/ \"Neopolis Development\")\n[ ![Neopolis Development](https://www.neopolis-dev.com/) ](https://www.neopolis-dev.com/ \"Neopolis Development\") [ ![Neopolis Development](https://b3000391.smushcdn.com/3000391/wp-content/uploads/2023/01/logos-neopolis-dev-site-refont-1.png?lossy=2&strip=1&webp=1) ](https://www.neopolis-dev.com/ \"Neopolis Development\")\n* [Accueil](https://www.neopolis-dev.com/?taxonomy=nav_menu&term=acceuil)\n* [Startup Act](https://www.neopolis-dev.com/startup-act/)\n* [Produits & Services](https://www.neopolis-dev.com/audit-conseils/)\n* [CRM-BPM Geoprod](https://www.neopolis-dev.com/crm-bpm-geoprod/)\n* [Softwares sur mesure](https://www.neopolis-dev.com/softwares-sur-mesure/)\n* [Consultants IT](https://www.neopolis-dev.com/consultants-it/)\n* [Data Warehouse & Analytics](https://www.neopolis-dev.com/data-warehouse-analytics/)\n* [AI & Deep Learning](https://www.neopolis-dev.com/ai-deeplearning/)\n* [Robotics Process Automation](https://www.neopolis-dev.com/robotics-process-automation/)\n* [Références](https://www.neopolis-dev.com/references/)\n* [Nos Offres d’Emploi](https://www.neopolis-dev.com/nos-offres-demploi/)\n* [Contact](https://www.neopolis-dev.com/contact/)\n* [English Portal](https://neopolis-dev.com/en)\n* [Accueil](https://www.neopolis-dev.com/)\n* [Startup Act](https://www.neopolis-dev.com/startup-act/)\n* [Audit&Conseils](https://www.neopolis-dev.com/audit-conseils/)\n* [CRM-BPM Geoprod](https://www.neopolis-dev.com/crm-bpm-geoprod/)\n* [Softwares sur mesure](https://www.neopolis-dev.com/softwares-sur-mesure/)\n* [Consultants IT](https://www.neopolis-dev.com/consultants-it/)\n* [Data Warehouse & Analytics](https://www.neopolis-dev.com/data-warehouse-analytics/)\n* [AI & Deep Learning](https://www.neopolis-dev.com/ai-deeplearning/)\n* [Robotics Process Automation](https://www.neopolis-dev.com/robotics-process-automation/)\n* [Références](https://www.neopolis-dev.com/references/)\n* [Nos Offres d’Emploi](https://www.neopolis-dev.com/nos-offres-demploi/)\n* [Contact](https://www.neopolis-dev.com/contact/)\n* [English Portal](https://www.neopolis-dev.com/en)\n[ X ](https://www.neopolis-dev.com/)\n[ ![Neopolis Development](https://www.neopolis-dev.com/) ](https://www.neopolis-dev.com/ \"Neopolis Development\") [ ![Neopolis Development](https://www.neopolis-dev.com/) ](https://www.neopolis-dev.com/ \"Neopolis Development\")\n## À propos de nous\nNeopolis Development conçoit et déploie des solutions innovantes et des dispositifs simplifiés pour les processus métier les plus complexes .\n## Contact Info\n* France Toulon: 5 rue Picot, 83000\n* +33 (0)9 80 09 17 69\n* info@neopolis-dev.com\n* [](https://fr-fr.facebook.com/neopolisdev/ \"Facebook\")\n* [](https://fr.linkedin.com/company/neopolis-development \"Linkedin\")\nFintech & Editeur d'Intelligence Plus de 15 ans d'experience à l'international Innovation à portée de main !\nNeopolis Development transforme les processus métier les plus complexes en solutions simples et ingénieuses.\nDécouvrez comment nous pouvons révolutionner votre entreprise.\nContactez-nous pour plus d'informations ! [![PHOTO-SLID-accueil](https://www.neopolis-dev.com/) ](https://www.neopolis-dev.com/)![Nominated Global FINTECH Awards 2023](https://www.neopolis-dev.com/) ![Labellisé STARTUP ACT](https://www.neopolis-dev.com/)\n##### We are STATE-OF-THE-ART\n### Qui sommes\n## Nous\nNeopolis Development : FINTECH & AssurTech, pionniers dans les domaines financier et d'assurance. Nous sommes plus qu'une simple ESN, avec des réalisations époustouflantes dans les secteurs financier et d'assurance à travers le monde. Avec une équipe d'ingénieurs et de spécialistes en constante évolution, nous avons mené des dizaines de projets à travers le monde avec succès. Nous offrons des solutions sur mesure pour les métiers B2B, B2C et B2B2C, avec une expertise en développement de logiciels CRM/BPM. Rejoignez l'innovation avec Neopolis Development !\n![Équipe expérimentée en réunion pour des projets de transformation numérique - Neopolis Development](https://www.neopolis-dev.com/)\n### De la stratégie à la\n##  création\nNeopolis Development propose aux professionnels des services de développeurs expérimentés et d'experts métiers pour mener à bien et piloter conjointement les projets de transformation numérique.\n* [ CRM-BPM Interface ](https://www.neopolis-dev.com/index.php/crm-bpm-geoprod/)\n* [ Software sur mesure ](https://www.neopolis-dev.com/index.php/softwares-sur-mesure/)\n* [ AI et Deep learning ](https://www.neopolis-dev.com/index.php/ai-deeplearning/)\n* [ Consultants IT ](https://www.neopolis-dev.com/index.php/consultants-it/)\n* [ Data Warehouse et Analytics ](https://www.neopolis-dev.com/index.php/data-warehouse-analytics/)\n* [ Robotic Process Automation ](https://www.neopolis-dev.com/index.php/robotics-process-automation/)\n![](https://www.neopolis-dev.com/)\nNeopolis Development\n0 ans +\n###### Services Pro\n0\n###### Datacenter (2 en Europe et 1 au US)\n0 +\n###### Ingenieurs\n0 +\n###### Projets réussis\n##### FIDUCIARY DUTY\n###  Conformité, sécurité et confidentialité\n## Assurée\nPartenaire stratégique au près de plusieurs institutions dans l'union européenne, la sécurité et la confidentialité fait partie de notre ADN Nous nous conformons aux normes européennes les plus rigoureuses en matière de traitement et protection des données pour garantir la sécurité de vos informations personnelles.\n![Conforme RGPD Protection des données](https://www.neopolis-dev.com/)\n## Protection des données\nConforme RGPD\n![PCI DSS Respect des standards monétique](https://www.neopolis-dev.com/)\n## Respect des standards monétiques\nPCI DSS\n![HIPAA Respect des standards l'hébergement des données santé](https://www.neopolis-dev.com/)\n## Respect des standards l'hébergement des données santé\n![Hiscox Garantie Cyber et RC Pro](https://www.neopolis-dev.com/)\n## Garantie Cyber et RC Pro\nServices garanties à hauteur de 5M Euro\n![Veille et monitoring par Intruder](https://www.neopolis-dev.com/)\n## Infrastructures protégés\ncontre les intrusions\nVeille et monitoring par Intruder\n##### AGIL PROCESSING\n### Servir en toute\n## Agilité\nDes solutions personnalisées, développées selon les besoins de votre entreprise, qui garantissent conseil, analyse, soutien et maintenance.\n### ENTREPRISE DIGITALE\n* Analyse et gestion de l'information\n* Ingénierie numérique\n* Transformation numérique\n* Perspicacité, Stratégie, Design\n* Solution et produit adéquats\n### FINTECH\n* BPaaS et BPO Plateformes\n* Solutions industrielles\n* Automatisations des processus\n* Analyse opérationnelles\n* Redéfinition des processus\n### SERVICES\n* Applications Service\n* Infrastructure numérique\n* Service de securité web\n* Application d'entreprises\n* Ingénierie de la qualité\n![](https://www.neopolis-dev.com/)\n### Opportunités professionnelles\n## à l'international\nUn environnement stimulant où le talent et le mérite sont récompensés.\n[Montez à bord ! ](https://www.neopolis-dev.com/index.php/nos-offres-demploi/)\n![thumb](https://www.neopolis-dev.com/)\n## Geoprod\n[en savoir plus ](https://www.neopolis-dev.com/index.php/em_portfolios/geoprod-solution-crm-bpm/)\n![thumb](https://www.neopolis-dev.com/)\n## PDF Studio API\n[en savoir plus ](https://www.neopolis-dev.com/index.php/em_portfolios/psa-pdf-studio-api/)\n![](https://www.neopolis-dev.com/)\n### La Transformation Digitale\n##  n'a jamais été aussi simple pour  nos clients\nExplorez notre portfolio de références pour voir comment nous aidons nos clients à adopter les dernières innovations et à se positionner pour réussir dans le monde du Web 4.0.\n[Filtrez nos références ](https://www.neopolis-dev.com/index.php/references/)\n![](https://www.neopolis-dev.com/)\n![](https://www.neopolis-dev.com/)\n### Neopolis Development c'est aussi :\nManagement\n20%\nExperts Metiers\n20%\nTechnique\n60%\n![Équipe souriante avec le manager tenant des documents - Rejoignez notre communauté pour en apprendre davantage sur notre entreprise](https://www.neopolis-dev.com/)\n![Espace Collaboratif](https://www.neopolis-dev.com/)\n###  Espace collaboratif\nL’espace « Active-Collab » appuie les groupes de collaborateurs lorsqu'il s'agit de partager des informations ou de travailler ensemble de façon dynamique. Cet outil peut aider à coordonner des projets, des activités et des agendas ou encore, échanger des idées et réviser des documents de travail.\nAvantages\nAccès Client\nAvantages\nRenforcez l’efficacité organisationnelle, avec un accès orienté projet pour toutes les formes de collaboration\nValoriser l’information : Être capable de la trouver, l’enrichir, la commenter\nAccès Client\nSi vous souhaitez pouvoir bénéficier des avantages du travail collaboratif en ligne, vous êtes invités à adresser une demande courriel .\n![](https://www.neopolis-dev.com/)\n[Voir Notre Prestation ](https://www.neopolis-dev.com/index.php/audit-conseils/)\n### Une vision à 360° de\n## votre projet\nPour mieux définir vos objectifs et atteindre vos résultats, il faut savoir, qui vous êtes, d’où vous partez, quels sont les moyens dont vous disposez et dans quel contexte vous évoluez.\n##### News\n## Ressources et dernières nouvelles\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/au-dela-du-bitcoin-exploration-des-elements-constitutifs-de-la-technologie-de-la-chaine-de-blocs-blockchain/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Au-delà du bitcoin : exploration des éléments constitutifs de la technologie de la chaîne de blocs (blockchain)](https://www.neopolis-dev.com/au-dela-du-bitcoin-exploration-des-elements-constitutifs-de-la-technologie-de-la-chaine-de-blocs-blockchain/)\nLa blockchain, la technologie révolutionnaire qui sous-tend les cryptomonnaies comme Bitcoin et\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/les-titans-du-bitcoin-et-les-gladiateurs-de-laltcoin-naviguer-dans-larene-des-crypto-monnaies/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Les Titans du Bitcoin et les Gladiateurs de l’Altcoin : Naviguer dans l’arène des crypto-monnaies](https://www.neopolis-dev.com/les-titans-du-bitcoin-et-les-gladiateurs-de-laltcoin-naviguer-dans-larene-des-crypto-monnaies/)\nDans le domaine de la finance numérique, l'émergence des cryptomonnaies a\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/naviguer-dans-le-labyrinthe-reglementaire-le-cadre-mondial-des-lois-sur-les-crypto-monnaies/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Naviguer dans le labyrinthe réglementaire : le cadre mondial des lois sur les crypto-monnaies](https://www.neopolis-dev.com/naviguer-dans-le-labyrinthe-reglementaire-le-cadre-mondial-des-lois-sur-les-crypto-monnaies/)\nLes cryptomonnaies ont émergé comme une force perturbatrice dans la finance\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/demeler-le-puzzle-des-crypto-monnaies-guide-du-debutant-pour-comprendre-les-monnaies-numeriques/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Démêler le puzzle des crypto-monnaies : Guide du débutant pour comprendre les monnaies numériques](https://www.neopolis-dev.com/demeler-le-puzzle-des-crypto-monnaies-guide-du-debutant-pour-comprendre-les-monnaies-numeriques/)\nDans le paysage financier en constante évolution, les cryptomonnaies se dressent comme\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/maximiser-les-rendements-un-guide-complet-des-strategies-dinvestissement-dans-les-crypto-monnaies/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Maximiser les rendements : Un guide complet des stratégies d’investissement dans les crypto-monnaies](https://www.neopolis-dev.com/maximiser-les-rendements-un-guide-complet-des-strategies-dinvestissement-dans-les-crypto-monnaies/)\nL'investissement dans les cryptomonnaies est apparu comme une opportunité lucrative pour les\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/les-gardiens-de-la-chambre-forte-numerique-proteger-vos-avoirs-en-crypto-monnaies/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) avril 1, 2024\n## [Les gardiens de la chambre forte numérique : Protéger vos avoirs en crypto-monnaies](https://www.neopolis-dev.com/les-gardiens-de-la-chambre-forte-numerique-proteger-vos-avoirs-en-crypto-monnaies/)\nLes cryptomonnaies ont révolutionné le paysage financier, offrant des opportunités sans précédent\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/assurer-la-protection-des-donnees-dans-la-fintech-equilibrer-linnovation-et-la-securite/)\n* [assurance](https://www.neopolis-dev.com/category/assurance/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) mars 21, 2024\n## [Assurer la Protection des Données dans la Fintech : Équilibrer l’Innovation et la Sécurité](https://www.neopolis-dev.com/assurer-la-protection-des-donnees-dans-la-fintech-equilibrer-linnovation-et-la-securite/)\nIntroduction L'industrie de la fintech a révolutionné la manière dont nous gérons\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/lavenir-des-paiements-vers-une-revolution-numerique/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) mars 21, 2024\n## [L’avenir des paiements : Vers une Révolution Numérique](https://www.neopolis-dev.com/lavenir-des-paiements-vers-une-revolution-numerique/)\nLes paiements ont parcouru un long chemin depuis l'échange de biens contre\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/robo-conseillers-lavenir-de-la-gestion-de-patrimoine/)\n* [business](https://www.neopolis-dev.com/category/business/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswpadmin/) mars 21, 2024\n## [Robo-conseillers : L’Avenir de la Gestion de Patrimoine](https://www.neopolis-dev.com/robo-conseillers-lavenir-de-la-gestion-de-patrimoine/)\nLa gestion de patrimoine, traditionnellement réservée à une clientèle aisée, est en\n[![](https://www.neopolis-dev.com/)](https://www.neopolis-dev.com/les-partenariats-fintech-avec-les-banques-traditionnelles-une-synergie-pour-linnovation-financiere/)\n* [business](https://www.neopolis-dev.com/category/business/)\n* [technologie](https://www.neopolis-dev.com/category/technologie/)\n[Web Master](https://www.neopolis-dev.com/author/neopoliswp",
+    "website_metadata": {
+        "url": "https://neopolis-dev.com",
+        "content_length": 15000
+    },
+    "external_profiles": {},
+    "linkedin": "https://fr.linkedin.com/company/neopolis-development",
+    "emails": [
+        "info@neopolis-dev.com"
+    ],
+    "phones": [
+        "+33 (0)9 80 09 17 69"
+    ],
+    "tavily": {
+        "query": "STE NEOPOLIS DEVELOPPEMENT",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\ste_neopolis_developpement.json",
+    "normalized_name": "ste neopolis developpement",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "neopolis-dev.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "neopolis-dev.com"
+                ]
+            },
+            "official": [
+                "info@neopolis-dev.com"
+            ],
+            "details": [
+                {
+                    "original": "info@neopolis-dev.com",
+                    "normalized": "info@neopolis-dev.com",
+                    "domain": "neopolis-dev.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@neopolis-dev.com",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+330980091769"
+            ]
+        }
+    }
+}

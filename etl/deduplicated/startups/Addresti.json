@@ -1,0 +1,318 @@
+{
+    "entity_type": "startup",
+    "name": "Addresti",
+    "description": "Un système d'adressage sur application mobile pour améliorer le service de livraison à domicile et l'accès à l'adresse exacte.",
+    "tagline": "",
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html",
+    "linkedin_url": "https://tn.linkedin.com/in/khalilgdoura",
+    "social_media": {
+        "facebook": "https://facebook.com/groups/surfntaste",
+        "github": "https://github.com/hossbob02/addresti",
+        "linkedin": "https://linkedin.com/company/addresti"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21620211027",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/addresti"
+    },
+    "founders": [
+        {
+            "name": "Ahmed Yassine Allegue",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Nour El Houda Benzarti",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Ali Torjmen",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Salem Bchir",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T14:55:21.191610",
+        "website_enriched": true,
+        "tavily_results": 12,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": true,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Sep-20"
+    },
+    "external_profiles": {
+        "website": "https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html",
+        "linkedin": "https://linkedin.com/company/addresti",
+        "github": "https://github.com/hossbob02/addresti"
+    },
+    "tavily": {
+        "query": "Addresti",
+        "answer": "",
+        "results_count": 12,
+        "urls": [
+            "https://linkedin.com/company/addresti",
+            "https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html",
+            "https://github.com/hossbob02/addresti",
+            "https://www.linkedin.com/company/addresti",
+            "https://linkedin.com/in/mohamed-ali-torjmen",
+            "https://linkedin.com/in/ahmed-yassine-allegue-62347a1bb/",
+            "https://linkedin.com/in/mohamed-salem-bchir-81a108175",
+            "https://linkedin.com/in/nour-elhouda-benzarti-3731111b2",
+            "https://prospeo.io/c/addresti-email-format",
+            "https://topalter.com/android/com.maddress/alternatives",
+            "https://linkedin.com/in/ahmed-yassine-allegue-62347a1bb",
+            "https://linkedin.com/in/malekkselmi"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "* [Story](http://www.surfntaste.com/p/a-propos.html)\n* [Legal Mentions](http://www.surfntaste.com/p/legal.html)\n* [Editorial Guidelines](http://www.surfntaste.com/p/charte-editoriale.html)\n* [Authors](http://www.surfntaste.com/p/auteurs.html)\n* [Community](https://www.facebook.com/groups/surfntaste/)\n* [Contact](http://www.surfntaste.com/p/contact.html)\n- Menu - STORY LEGAL MENTIONS EDITORIAL GUIDELINES AUTHORS COMMUNITY CONTACT\n* [](https://www.facebook.com/surfntaste \"facebook\")\n* [](https://twitter.com/surfntaste \"twitter\")\n* [](https://tn.linkedin.com/in/khalilgdoura \"linkedin\")\n[ ![Surf 'n' Taste](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl9MG7Nr50psQTDQIxSQIxrugO1rpG6MaqoP82obnzXPUPphYUBgtUpjCszJJG47nL9j26iwm3cW_G5A2b9uYWjx16hwoCsE6veXMiS7oXazchdfbe37GA6EDnIPAAGCosWci7ftxERO21/s1600/logo-surfntaste.jpg) ](https://www.surfntaste.com/)\n## Top Ad unit 728 × 90\n[![tounsia](https://i.imgur.com/WSp6loD.png)](https://www.7orra.com/)\n[](https://www.surfntaste.com/)\n* [Moods Up & Down](http://)\n* [Just for Fun](http://www.surfntaste.com/search/label/Just4Fun)\n* [Critical](http://www.surfntaste.com/search/label/Critics)\n* [Nostalgic](http://www.surfntaste.com/search/label/Nostalgic)\n* [Resourced Passions](http://)\n* [Book Lover](http://www.surfntaste.com/search/label/Book%20Lover)\n* [Cultural Scenery](http://www.surfntaste.com/search/label/KultScene)\n* [Tasty](http://www.surfntaste.com/search/label/Tasty)\n* [Healthy](http://www.surfntaste.com/search/label/Healthy)\n* [Addictions](http://www.surfntaste.com/search/label/Addictions)\n* [Trotter](http://www.surfntaste.com/search/label/Trotter)\n* [Socializing](http://www.surfntaste.com/search/label/Socializing)\n* [Creative Madness](http://www.surfntaste.com/search/label/Artwork)\n* [Photo Arts](http://www.surfntaste.com/search/label/PhotoArts)\n* [Seller Entrepreneur](http://www.surfntaste.com/search/label/Entrepreneur)\n* [Craft](http://www.surfntaste.com/search/label/Craft)\n* [Selling Models](http://www.surfntaste.com/search/label/Selling%20Models)\n* [Personal Branding](http://www.surfntaste.com/search/label/Personal%20Branding)\n* [Learner Curious](http://)\n* [Science Enthusiast](http://www.surfntaste.com/search/label/Science%20Enthusiast)\n* [Productive Hacks](http://www.surfntaste.com/search/label/Productive)\n* [Tech for All](http://www.surfntaste.com/search/label/Tech4all)\n* [Student](http://www.surfntaste.com/search/label/Student)\n* [Dealer Consumer](http://)\n* [Co-Consumer](http://www.surfntaste.com/search/label/CoConsumption)\n* [e-Commerce](http://www.surfntaste.com/search/label/e-commerce)\n* [Social Shopping](http://www.surfntaste.com/search/label/Social%20Shopping)\n* [Classified Ads](http://www.surfntaste.com/search/label/Classifieds%20Ads)\n* [Citizen Responsible](http://)\n* [Citizen Journalist](http://www.surfntaste.com/search/label/CitizenJournalist)\n* [Participatory Demos](http://www.surfntaste.com/search/label/Participatory)\n* [Opendata](http://www.surfntaste.com/search/label/Opendata)\n* [Women Cause](http://www.surfntaste.com/search/label/Women%20Cause)\n* [Sovereignty](http://www.surfntaste.com/search/label/Sovereign)\n* [Dialogue](http://www.surfntaste.com/search/label/Dialogue)\n* [Ecofriendly](http://www.surfntaste.com/search/label/Ecofriendly)\n* [Patrimony](http://www.surfntaste.com/search/label/Patrimony)\n* [History](http://www.surfntaste.com/search/label/History)\n* [Architecture](http://www.surfntaste.com/search/label/Archi)\n* [Tounsi Language](http://www.surfntaste.com/search/label/Tounsi%20Language)\n* [Tourism Revamp](http://www.surfntaste.com/search/label/TourismRev)\n* [Better Cities](http://www.surfntaste.com/search/label/Better%20Cities)\n* [Digital Rights](http://www.surfntaste.com/search/label/Digital%20Rights)\n* [Volunteer](http://www.surfntaste.com/search/label/Volunteer)\n* [Mic Voices](http://)\n* [Interviews](http://www.surfntaste.com/search/label/interview)\n* [Ads](http://www.surfntaste.com/search/label/Ad)\n* [Advocacy](http://www.surfntaste.com/search/label/Advocacy)\n* [Calls](http://www.surfntaste.com/search/label/Call)\n* [Press Releases](http://www.surfntaste.com/search/label/Press%20Release)\n* [Covid-19](http://www.surfntaste.com/search/label/Covid-19)\n* [TN Election 2019](http://www.surfntaste.com/search/label/TN%20Election%202019)\n- Menu - Moods [Up & Down] → Just for Fun → Critical → Nostalgic Resourced [Passions] → Book Lover → Cultural Scenery → Tasty → Healthy → Addictions → Trotter → Socializing Creative [Madness] → Photo Arts Seller [Entrepreneur] → Craft → Selling Models → Personal Branding Learner [Curious] → Science Enthusiast → Productive Hacks → Tech for All → Student Dealer [Consumer] → Co-Consumer → e-Commerce → Social Shopping → Classified Ads Citizen [Responsible] → Citizen Journalist → Participatory Demos → Opendata → Women Cause → Sovereignty → Dialogue → Ecofriendly → Patrimony → History → Architecture → Tounsi Language → Tourism Revamp → Better Cities → Digital Rights → Volunteer Mic [Voices] → Interviews → Ads → Advocacy → Calls → Press Releases → Covid-19 → TN Election 2019\n[](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html)\n## Startups\nStartup\n[Home](https://www.surfntaste.com/) [Commerce](https://www.surfntaste.com/search/label/Commerce) [elMarchi](https://www.surfntaste.com/search/label/elMarchi) [Entrepreneur](https://www.surfntaste.com/search/label/Entrepreneur) [FB Page](https://www.surfntaste.com/search/label/FB%20Page) [Social Shopping](https://www.surfntaste.com/search/label/Social%20Shopping) Cap Sur Addresti, Nouvelle Caverne De.. Bons Plans\n#  Cap Sur Addresti, Nouvelle Caverne De.. Bons Plans\n[ Khalil Gdoura ](https://www.blogger.com/profile/11605033276858830623 \"author profile\") [5 years ago](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html \"permanent link\") [Commerce](https://www.surfntaste.com/search/label/Commerce), [elMarchi](https://www.surfntaste.com/search/label/elMarchi), [Entrepreneur](https://www.surfntaste.com/search/label/Entrepreneur), [FB Page](https://www.surfntaste.com/search/label/FB%20Page), [Social Shopping](https://www.surfntaste.com/search/label/Social%20Shopping)\n[![](https://i.ibb.co/FhH0WZB/2021-10-27-Addresti-Bons-Plans.jpg)](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html)\nA la poursuite de nos errances hebdomadaires dans les galeries du net, nous découvrons cette semaine un coin marchand qui vient d'éclore, qui intrigue et qui interpelle du haut de sa vitrine.. qu'on adore!\nQuoi de si particulier? Malgré ses débuts freinés, [Addresti](https://www.facebook.com/Addresti-Bons-Plans-106484455094210/) a fait preuve d'une rare créativité qui lui a valu la confiance de quelques centaines d'abonnés, au regard des publications.. partagées!\nQuelques semaine avant la rentrée, la [page Facebook](https://www.facebook.com/Addresti-Bons-Plans-106484455094210/) a procédé à un admirable défilé, concoctant et proposant des collections et de bouquets, comportant des fournitures scolaires des plus variées, au prix raisonnables et appréciés. Ces trouvailles soigneusement dénichées, sont de surcroît livrées partout dans cette contrée!\nHélas, l'aventure semble avoir pris une trêve jusqu'à l'heure d'écriture de ces lignes, vraisemblablement en vue de préparer un grand retour acharné! Au passage, nous souhaitons qu'[Addresti](https://www.facebook.com/Addresti-Bons-Plans-106484455094210/) ose s'inviter dans d'autre coins aussi socllicités: Instagram et Pinterest (dont voici notre mode d'emploi) sont des espaces qui ont de quoi inspirer.. Autant en profiter!\nCela va sans rappeler l'importance de se doter d'une boutique en ligne amoureusement aménagée et référencée, porteuse de multiples opportunités!\nA nos entrepreneurs aventuriers, nous souhaitons la plus belle des percées!\nCap Sur Addresti, Nouvelle Caverne De.. Bons Plans ![](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html) Reviewed by Khalil Gdoura on  mercredi, octobre 27, 2021  Rating: 5\nTags :\n[Commerce](https://www.surfntaste.com/search/label/Commerce) [elMarchi](https://www.surfntaste.com/search/label/elMarchi) [Entrepreneur](https://www.surfntaste.com/search/label/Entrepreneur) [FB Page](https://www.surfntaste.com/search/label/FB%20Page) [Social Shopping](https://www.surfntaste.com/search/label/Social%20Shopping)\n* [Tweet](http://twitter.com/home?status=Cap%20Sur%20Addresti,%20Nouvelle%20Caverne%20De..%20Bons%20Plans-https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html \"Twitter Tweet\")\n* [Share](http://www.facebook.com/share.php?v=4&u=https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html&t=Cap%20Sur%20Addresti,%20Nouvelle%20Caverne%20De..%20Bons%20Plans \"Facebook Share\")\n* [Share](https://plus.google.com/share?url=https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html \"Google Plus Share\")\n* [Share](http://www.linkedin.com/shareArticle?mini=true&url=https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html&title=Cap%20Sur%20Addresti,%20Nouvelle%20Caverne%20De..%20Bons%20Plans&summary=)\n* [Share](http://pinterest.com/pin/create/button/?url=https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html&media=&description=%20+%20data:post.title)\n_Khalil Gdoura_\n![](https://i.ibb.co/Vm1tHLV/avatar.jpg)\n## About SurfnTaste\nPublication Editor : _Khalil Gdoura_\nDaily Focus on inspirational artworks, businesses, platforms and resources for Digital Creatives and Entrepreneurs in Tunisia and worldwide.\n[](http://www.twitter.com/surfntaste \"Sweetheme\") [](http://www.facebook.com/surfntaste \"Sweetheme\") [](https://tn.linkedin.com/in/khalilgdoura \"Sweetheme\")\nSocial Shopping\n* [](https://www.surfntaste.com/2021/10/dictionnaire-synonymes-anglais-thesaurus.html)\n* [](https://www.surfntaste.com/2021/10/artificial-intelligence-news-tunisia.html)\n#### Aucun commentaire:\n[](https://www.blogger.com/comment/frame/1974024151957958035?po=5344790770638732604&hl=fr&saa=85391&origin=https%3A%2F%2Fwww.surfntaste.com&blogspotRpcToken=1893455)\nInscription à : [Publier les commentaires (Atom)](https://www.surfntaste.com/feeds/5344790770638732604/comments/default)\n* [Themes](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html#tabside1)\n* [Trending](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html#tabside2)\n* [Archives](https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html#tabside3)\n[Action](https://www.surfntaste.com/search/label/Action) [Ad](https://www.surfntaste.com/search/label/Ad) [Addictions](https://www.surfntaste.com/search/label/Addictions) [Advocacy](https://www.surfntaste.com/search/label/Advocacy) [Africa](https://www.surfntaste.com/search/label/Africa) [Agri](https://www.surfntaste.com/search/label/Agri) [Ain Draham](https://www.surfntaste.com/search/label/Ain%20Draham) [Algeria](https://www.surfntaste.com/search/label/Algeria) [Amazigh](https://www.surfntaste.com/search/label/Amazigh) [Arabic Language](https://www.surfntaste.com/search/label/Arabic%20Language) [Archi](https://www.surfntaste.com/search/label/Archi) [Archive](https://www.surfntaste.com/search/label/Archive) [Argentina](https://www.surfntaste.com/search/label/Argentina) [Ariana](https://www.surfntaste.com/search/label/Ariana) [Article](https://www.surfntaste.com/search/label/Article) [Artist](https://www.surfntaste.com/search/label/Artist) [Artwork](https://www.surfntaste.com/search/label/Artwork) [Audiovisual](https://www.surfntaste.com/search/label/Audiovisual) [Australia](https://www.surfntaste.com/search/label/Australia) [Beja](https://www.surfntaste.com/search/label/Beja) [Belarus](https://www.surfntaste.com/search/label/Belarus) [Belgium](https://www.surfntaste.com/search/label/Belgium) [Ben Arous](https://www.surfntaste.com/search/label/Ben%20Arous) [Better Cities](https://www.surfntaste.com/search/label/Better%20Cities) [BizClim](https://www.surfntaste.com/search/label/BizClim) [Bizerte](https://www.surfntaste.com/search/label/Bizerte) [Blog](https://www.surfntaste.com/search/label/Blog) [Book Lover](https://www.surfntaste.com/search/label/Book%20Lover) [Brazil](https://www.surfntaste.com/search/label/Brazil) [Bulgaria](https://www.surfntaste.com/search/label/Bulgaria) [Business](https://www.surfntaste.com/search/label/Business) [Buzz](https://www.surfntaste.com/search/label/Buzz) [Call](https://www.surfntaste.com/search/label/Call) [Canada](https://www.surfntaste.com/search/label/Canada) [Causes](https://www.surfntaste.com/search/label/Causes) [Centrafrique](https://www.surfntaste.com/search/label/Centrafrique) [Chatbot](https://www.surfntaste.com/search/label/Chatbot) [Chebba](https://www.surfntaste.com/search/label/Chebba) [Child](https://www.surfntaste.com/search/label/Child) [Childhood](https://www.surfntaste.com/search/label/Childhood) [Chile](https://www.surfntaste.com/search/label/Chile) [China](https://www.surfntaste.com/search/label/China) [Cinema](https://www.surfntaste.com/search/label/Cinema) [CitizenJournalist](https://www.surfntaste.com/search/label/CitizenJournalist) [Classified Ads](https://www.surfntaste.com/search/label/Classified%20Ads) [CoConsumption](https://www.surfntaste.com/search/label/CoConsumption) [Columbia](https://www.surfntaste.com/search/label/Columbia) [Com](https://www.surfntaste.com/search/label/Com) [Commerce](https://www.surfntaste.com/search/label/Commerce) [Community](https://www.surfntaste.com/search/label/Community) [Competition](https://www.surfntaste.com/search/label/Competition) [Concept Store](https://www.surfntaste.com/search/label/Concept%20Store) [Construction Sector](https://www.surfntaste.com/search/label/Construction%20Sector) [ContentCrea](https://www.surfntaste.com/search/label/ContentCrea) [ContentCura](https://www.surfntaste.com/search/label/ContentCura) [Corporate](https://www.surfntaste.com/search/label/Corporate) [Cote d'Ivoire](https://www.surfntaste.com/search/label/Cote%20d%27Ivoire) [Court](https://www.surfntaste.com/search/label/Court) [Covid-19](https://www.surfntaste.com/search/label/Covid-19) [Coworking Space](https://www.surfntaste.com/search/label/Coworking%20Space) [Craft](https://www.surfntaste.com/search/label/Craft) [CreaFun](https://www.surfntaste.com/search/label/CreaFun) [Creatives](https://www.surfntaste.com/search/label/Creatives) [Critics](https://www.surfntaste.com/search/label/Critics) [Cross-media Project](https://www.surfntaste.com/search/label/Cross-media%20Project) [crowdfunding](https://www.surfntaste.com/search/label/crowdfunding) [crowdsourcing](https://www.surfntaste.com/search/label/crowdsourcing) [Culture](https://www.surfntaste.com/search/label/Culture) [Culture Pub](https://www.surfntaste.com/search/label/Culture%20Pub) [Cyprus](https://www.surfntaste.com/search/label/Cyprus) [Czechia](https://www.surfntaste.com/search/label/Czechia) [Dahmani](https://www.surfntaste.com/search/label/Da",
+    "website_metadata": {
+        "url": "https://www.surfntaste.com/2021/10/addresti-livraison-bons-plans-tunisie.html",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/company/addresti",
+    "phones": [
+        "202019) -",
+        "11605033276858830623",
+        "2021-10-27-",
+        "106484455094210",
+        "1974024151957958035",
+        "5344790770638732604",
+        "1893455)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\addresti.json",
+    "normalized_name": "addresti",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "surfntaste.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "github",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/groups/surfntaste",
+                    "normalized": "https://facebook.com/groups/surfntaste",
+                    "username": "groups",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/hossbob02/addresti",
+                    "normalized": "https://github.com/hossbob02/addresti",
+                    "username": "hossbob02",
+                    "valid": true,
+                    "official": true
+                },
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/addresti",
+                    "normalized": "https://linkedin.com/company/addresti",
+                    "username": "addresti",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 7,
+            "valid": 1,
+            "removed": 6,
+            "duplicates": 0,
+            "invalid": [
+                "+216202019",
+                "+21611605033276858830623",
+                "+216106484455094210",
+                "+2161974024151957958035",
+                "+2165344790770638732604",
+                "+2161893455"
+            ]
+        }
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "entity_type": "startup",
+    "name": "IRBE7A",
+    "description": "IRBE7A (2022)\nSecteur d’activité / Sector : EdTech\nirbe7.com\nFondateur / Founder\nE-mail\nAdresse / Address\nANIS HABIBI / MANNANA DBIBI / AYMEN BOUHLEL\nanis.habibi@irbe7.com\n10 Rue AV HB Immeuble Zephyr B1-3 Ariana 2080\nActivité Nous construisons une plateforme all in \none qui permet à la nouvelle génération d'investisseurs \nparticuliers d'avoir accès à du contenu et une information \nde qualité, aux meilleurs coachs / formateurs, à une \ncommunauté de pratique et aux outils techniques d'aides \nà la décision.\nAspect Technologique Pour une meilleure scalabilité, on a \nchoisi des microservices côté Backend spring boot et \nmongodb, Angular coté front. \nOriginalité Nous créons tout un écosystème pour une \nmeilleure inclusion financière des individus.\nActivity We are building an all in one platform that \nallows the new generation of investors to have access \nto quality content and information, the best coachs, a \ncommunity of practice and technical decision-making \ntools.\nTechnological Aspect For better scalability, we chose \nmicroservices on the backend, spring boot and mongodb, \nAngular on the frontend.\nOriginality We are creating a whole ecosystem for better \nfinancial inclusion of individuals.\nFR\nEN",
+    "tagline": "L'actualité de la Bourse de Tunis en temps réel",
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://irbe7.com",
+    "linkedin_url": "https://www.linkedin.com/company/irbe7",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+        "facebook": "https://facebook.com/irbe7bourse)[![linkedin_transparent.png](/assets/images/logo/linkedin_transparent.png)](https://www.linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+        "youtube": "https://youtube.com/@irbe7Business"
+    },
+    "contact": {
+        "emails": [
+            "anis.habibi@irbe7.com"
+        ],
+        "phones": [
+            {
+                "number": "+21619270410",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21626107801",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21688231555",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://irbe7.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 49,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:48:18.407732",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "irbe7.com"
+            ]
+        },
+        "phones": {
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
+        }
+    },
+    "website_content": "[![navbar image](/assets/irbe7/navbar-image.webp)](https://cutt.ly/BtKFFhB6)\n#  Irbe7 – L'actualité de la Bourse de Tunis en temps réel\n[ TUNINDEX19 807,27 1,30%  ](/actifs/TUNINDEX/TN0009050014)[ TUNINDEX208 800,08 1,44%  ](/actifs/TUNINDEX20/TN0009050287)[ AMV10,46 5,98%  ](/actifs/ASSU%20MAGHREBIA%20VIE/TNDKJ8O68X14)[ MGR15,10 5,89%  ](/actifs/SOTUMAG/TN0006580013)[ MAG13,37 4,50%  ](/actifs/MAGASIN%20GENERAL/TN0006440010)[ STIP10,27 4,47%  ](/actifs/STIP/TN0005030010)\nTUNINDEX19 807,27\n1,30%\nTUNINDEX208 800,08\n1,44%\nFermé  Séance du 26 juin. 2026 14:50\n[![bougie.png](/assets/images/logo/bougie.png)](/graphique/TUNINDEX)\nPropulsé par [Tradingview](https://www.tradingview.com)\nPlus gros volumes\n| Valeur  |  Volume (DT)   | %Variation  |\n| --- | --- | --- |\n| [ TLNET ](/actifs/TELNET%20HOLDING/TN0007440019)  |  3 198 238   | 0,94  |\n| [ BNA ](/actifs/BNA/TN0003100609)  |  2 098 724   | 4,04  |\n| [ AB ](/actifs/AMEN%20BANK/TN0003400058)  |  1 454 397   | 5,56  |\n|  Volume marché (DT)   |  19 270 410   |\nVolume\nTop Hausses  Top Baisses\n| Valeur  | Cours  | %Variation  |\n| --- | --- | --- |\n| [ AMV ](/actifs/ASSU%20MAGHREBIA%20VIE/TNDKJ8O68X14)  |  10,46   | 5,98  |\n| [ MGR ](/actifs/SOTUMAG/TN0006580013)  |  15,10   | 5,89  |\n| [ AB ](/actifs/AMEN%20BANK/TN0003400058)  |  83,50   | 5,56  |\nHausses\n## [ Actualités financières ](/actualites/articles)\n[ ![Actualité Financière 1](https://d3b156xx8s447.cloudfront.net/Article/2d66254a-32c7-46cd-adf7-e8c8e88eacf5.webp) Le Tunindex frôle le seuil historique des 20 000 points malgré un incident technique Analyse Boursiére (BVMT) Découvrez le bilan d'une séance historique à la Bourse de Tunis ce 29 juin 2026. Malgré un incident technique à l'ouverture, le Tunindex atteint un record de 19 999,59 points.  lun. 29 juin 2026, 8:09  Par anis habibi  ](/actualites/articles/le-tunindex-frole-le-seuil-historique-des-20-000-points-malgre-un-incident-technique/6a42d0fb7801be7627f16923)\n[![publicité](/assets/irbe7/pub1.webp)](https://irbe7.com/actualites/articles/facture-electronique-en-tunisie-defis-et-perspectives-a-lhorizon-2025/6751b4b54db6f011a2e48827)\n[![publicité](/assets/irbe7/pub2.webp)](https://irbe7.com/actualites/articles/la-bourse-de-tunis-une-serie-haussiere-de-1\\[%E2%80%A6\\]mpue-mais-un-bilan-hebdomadaire-positif/67c2f52c1f59c852060b2a17)\n[![Actualité Financière2](https://d3b156xx8s447.cloudfront.net/Article/156514ef-d260-44eb-a5fb-b1b8ea4018be.webp)Bourse de Tunis : Le calendrier des AGO de fin juin 2026 et les dividendes proposés Découvrez le calendrier mis à jour des assemblées générales ordinaires (AGO) à la Bourse de Tunis pour la fin juin 2026 et le détail des dividendes proposés par action.  mer. 24 juin 2026, 6:46  Par mannana dbibi ](/actualites/articles/bourse-de-tunis-le-calendrier-des-ago-de-fin-juin-2026-et-les-dividendes-proposes/6a3c26107801be7627f16920)[![Actualité Financière3](https://d3b156xx8s447.cloudfront.net/Article/2accfe13-6cd8-4f9e-b41a-a07006f53333.webp)Carthage Cement publie son premier rapport ESG Rapport de durabilité 2025 : Carthage Cement affiche 382,8 MDT de chiffre d'affaires et détaille ses indicateurs ESG, de l'exposition au MACF européen à la gestion de ses déchets.  mar. 09 juin 2026, 8:47  Par anis habibi ](/actualites/articles/carthage-cement-publie-son-premier-rapport-esg/6a27d33d7801be7627f16918)[![Actualité Financière4](https://d3b156xx8s447.cloudfront.net/Article/3bcb0c0d-1f69-422e-8184-08d88231555b.webp)Le Tunindex franchit le cap historique des 18 000 points dans un marché particulièrement actif Découvrez le résumé de marché de la Bourse de Tunis. Semaine de records pour le Tunindex (18 435 pts) soutenu par un volume de transactions de 94,5 millions de dinars.  sam. 06 juin 2026, 10:15  Par anis habibi ](/actualites/articles/le-tunindex-franchit-le-cap-historique-des-18-000-points-dans-un-marche-particulierement-actif/6a23f3457801be7627f16915)\n[![publicité](/assets/irbe7/pub3.webp)](https://irbe7.com/graphique/TUNINDEX)\n[Voir Plus](/actualites/articles)\n## [ Fil d'info ](/actualites/news)\n[jeu. 21 mai 2026La STA lance deux filiales dédiées au montage et aux pièces de rechange](/actualites/news/la-sta-lance-deux-filiales-dediees-au-montage-et-aux-pieces-de-rechange/6a0f2cee7801be7627f168f3)\n[mar. 19 mai 2026BTS Bank : Mise en paiement des dividendes de l’exercice 2025 à partir du 30 juillet](/actualites/news/bts-bank-mise-en-paiement-des-dividendes-de-lexercice-2025-a-partir-du-30-juillet/6a0c069c7801be7627f168e7)\n[lun. 18 mai 2026Tunis Re : Renouvellement du contrat de liquidité pour une durée d'un an](/actualites/news/tunis-re-renouvellement-du-contrat-de-liquidite-pour-une-duree-dun-an/6a0aea117801be7627f168e1)\n[mar. 07 avr. 2026SPDIT-SICAF : Le dividende maintenu à 1 dinar par action pour l'exercice 2025](/actualites/news/spdit-sicaf-le-dividende-maintenu-a-1-dinar-par-action-pour-lexercice-2025/69d4e6647801be7627f16876)\n[lun. 06 avr. 2026BH Assurance : Dividende en hausse à 1,6 dinar par action](/actualites/news/bh-assurance-dividende-en-hausse-a-1-6-dinar-par-action/69d3788b7801be7627f16870)\n[sam. 04 avr. 2026La BNA Bank recherche son futur président du comité des risques](/actualites/news/la-bna-bank-recherche-son-futur-president-du-comite-des-risques/69d0e97f7801be7627f1686c)\n[sam. 04 avr. 2026Le CMF rappelle aux acteurs de marché leur obligation de conformité anti-blanchiment](/actualites/news/le-cmf-rappelle-aux-acteurs-de-marche-leur-obligation-de-conformite-anti-blanchiment/69d0e1e17801be7627f1686b)\n[ven. 03 avr. 2026SOTIPAPIER recrute 3 administrateurs pour son Conseil d'Administration](/actualites/news/sotipapier-recrute-3-administrateurs-pour-son-conseil-dadministration/69cfb3d47801be7627f16868)\n[Voir Plus](/actualites/news)\n## [ Infographique ](/actualites/articles)\n## [ Dashboard de marché ](/actifs)\nLes plus actifs - Volume  Top HAUSSES  Top BAISSES\n| Valeur  | Cours  | Titres  | %Variation  | Volume (DT)  |\n| --- | --- | --- | --- | --- |\n| [TELNET HOLDING](/actifs/TELNET%20HOLDING/TN0007440019)  |  12,60   |  243 064   | 0,94  |  3 198 238   |\n| [BNA](/actifs/BNA/TN0003100609)  |  20,60   |  101 940   | 4,04  |  2 098 724   |\n| [AMEN BANK](/actifs/AMEN%20BANK/TN0003400058)  |  83,50   |  17 458   | 5,56  |  1 454 397   |\n| [SAH](/actifs/SAH/TN0007610017)  |  14,00   |  91 442   | 2,19  |  1 286 479   |\n| [SFBT](/actifs/SFBT/TN0001100254)  |  14,75   |  61 037   | 1,72  |  895 201   |\n[Voir Plus](/actifs)\n## [ Podcast ](/emission/podcast)\n[![publicité](/assets/irbe7/pub5.webp)](https://formation.irbe7.com/formations/)\n## [ Articles éducatifs ](/actualites/articles)\n[ ![Article Éducatif 1](https://d3b156xx8s447.cloudfront.net/Article/c5c8d29b-f8ba-4f5d-a3b2-6db06ba17fe5.webp) Le digital, moteur de croissance pour les femmes entrepreneures en Tunisie Article éducatif débutant  De la visibilité à la performance : comment le digital offre des opportunités uniques aux femmes entrepreneures en Tunisie pour surmonter les défis et croître.  mar. 14 oct. 2025, 2:30  Par bahia nar  ](/actualites/articles/le-digital-moteur-de-croissance-pour-les-femmes-entrepreneures-en-tunisie/68ee5e75b41beb7e40bbb1b3)\n[![Article Éducatif2](https://d3b156xx8s447.cloudfront.net/Article/0d549767-bf31-4cad-a115-f73ee8dd81e8.webp)Star Assurances, Délice Holding, MPBS : Décryptage du phénomène des splits d'actions en Tunisie Comprendre les splits d'actions sur la Bourse de Tunis (Star, Délice, MPBS). Explication simple, impact sur votre portefeuille et conseils avisés.  lun. 05 mai 2025, 8:23  Par anis habibi ](/actualites/articles/star-assurances-delice-holding-mpbs-decryptage-du-phenomene-des-splits-dactions-en-tunisie/68191e2403cffa19f5fb1cd7)[![Article Éducatif3](https://d3b156xx8s447.cloudfront.net/Article/abb52089-8e49-41cb-a7d3-26a20b85c000.webp)Les 5 erreurs fatales du débutant en bourse - et comment les éviter Les 5 erreurs fatales du débutant en bourse - et comment les éviter  mer. 17 juil. 2024, 5:49  Par anis habibi ](/actualites/articles/les-5-erreurs-fatales-du-debutant-en-bourse-et-comment-les-eviter/6698043b26c2ff0bbffee93d)[![Article Éducatif4](https://d3b156xx8s447.cloudfront.net/Article/7f3bc9c1-78df-4f55-9b4f-ad3493ba6466.webp)Investir en Bourse : Le choix crucial entre diversification et concentration Investir en Bourse : Le choix crucial entre diversification et concentration  mer. 10 juil. 2024, 11:57  Par anis habibi ](/actualites/articles/investir-en-bourse-le-choix-crucial-entre-diversification-et-concentration/668e774326c2ff0bbffee912)\n[Voir Plus](/actualites/articles)\n[![publicité](/assets/irbe7/pub6.webp)](https://irbe7.com/actualites/articles/pourquoi-les-obligations-americaines-ne-protegent-plus-les-portefeuilles/68aeba22b41beb7e40bbb1a1)\n## [ Les nouvelles des dirigeants ](/actualites/articles)\n[![Article Dirigeant1](https://d3b156xx8s447.cloudfront.net/Article/e4dcfed9-21b3-4117-9934-4a09aa1ed4c2.webp) Omar Bouzouada nommé nouveau PDG de la CPG et du GCT Omar Bouzouada a été officiellement installé comme nouveau PDG de la CPG et du GCT lors d'une cérémonie présidée par le ministre Salah Zouari.  mer. 03 juin 2026, 7:54 ](/actualites/articles/omar-bouzouada-nomme-nouveau-pdg-de-la-cpg-et-du-gct/6a1fddc07801be7627f16906)[![Article Dirigeant2](https://d3b156xx8s447.cloudfront.net/Article/8219a5dd-3ca8-45a0-93dc-b2973758267e.webp) UIB : Pierre Le Run nommé Directeur Général à compter du 1er avril 2026 Le Conseil d'Administration de l'UIB a nommé Pierre Le Run Directeur Général de la banque le 6 février 2026. Il prendra ses fonctions le 1er avril, en remplacement de Philippe Dubois.  lun. 30 mars 2026, 5:22 ](/actualites/articles/uib-pierre-le-run-nomme-directeur-general-a-compter-du-1er-avril-2026/69cab1737801be7627f16849)[![Article Dirigeant3](https://d3b156xx8s447.cloudfront.net/Article/a820245f-f599-4621-830e-b12df72f4a7.webp) Walid Sakka nommé Directeur Général de BNA Capitaux BNA Capitaux : Walid Sakka remplace Slim Memmi à la Direction Générale. L'ancien Directeur du Pôle Ressources et Support de la banque prend les commandes de la filiale.  lun. 02 mars 2026, 7:03 ](/actualites/articles/walid-sakka-nomme-directeur-general-de-bna-capitaux/69a5df08d1414010647efd0f)[![Article Dirigeant4](https://d3b156xx8s447.cloudfront.net/Article/4a8ac320-a5df-490e-b0d0-58b1cc463b7a.webp) Ines Messaoudi nommée Directrice Générale de l'hôtel Sheraton Djibouti Découvrez le parcours d'Ines Messaoudi, première femme nommée au poste de Directrice Générale du Sheraton Djibouti, forte de 25 ans d'expérience.  lun. 02 mars 2026, 11:03 ](/actualites/articles/ines-messaoudi-nommee-directrice-generale-de-lhotel-sheraton-djibouti/69a56e94d1414010647efd0d)[Voir Plus](/actualites/articles)\nPLUS GROS VOLUMES\nTLNET 3 198 238,00 0,94% BNA 2 098 724,00 4,04% AB 1 454 396,80 5,56% SAH 1 286 478,90 2,19% SFBT 895 201,44 1,72%\nTop HAUSSES\nAMV 10,46 5,98% MGR 15,10 5,89% AB 83,50 5,56% STPAP 2,82 4,44% AL 208,60 4,30%\nTop BAISSES\nMAG 13,37 4,50% STIP 10,27 4,47% SMD 0,45 4,26% TINV 50,00 3,85% STPIL 36,60 3,68%\nA propos[Publicité](/help-center/publicite)[Qui sommes nous?](/help-center/qui_sommes_nous)[Politique de confidentialité](/help-center/politique_confidentialite)[Politique de Cookies](/help-center/cookies)[Conditions d'utilisation](/help-center/conditions_generales)\nPour nous suivre\n[![facebook_transparent.png](/assets/images/logo/facebook_transparent.png)](https://www.facebook.com/irbe7bourse)[![linkedin_transparent.png](/assets/images/logo/linkedin_transparent.png)](https://www.linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business)\nCopyright © 2024 Irbe7. Tous droits réservés.",
+    "website_metadata": {
+        "url": "https://irbe7.com",
+        "content_length": 11663
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "IRBE7A",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\irbe7a.json",
+    "normalized_name": "irbe7a",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "irbe7.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+                    "normalized": "https://linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+                    "username": "irbe7)[![youtube_transparent.png](",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/irbe7bourse)[![linkedin_transparent.png](/assets/images/logo/linkedin_transparent.png)](https://www.linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+                    "normalized": "https://facebook.com/irbe7bourse)[![linkedin_transparent.png](/assets/images/logo/linkedin_transparent.png)](https://www.linkedin.com/company/irbe7)[![youtube_transparent.png](/assets/images/logo/youtube_transparent.png)](https://www.youtube.com/@irbe7Business",
+                    "username": "irbe7bourse)[![linkedin_transparent.png](",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@irbe7Business",
+                    "normalized": "https://youtube.com/@irbe7Business",
+                    "username": "@irbe7Business",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "irbe7.com"
+                ]
+            },
+            "official": [
+                "anis.habibi@irbe7.com"
+            ],
+            "details": [
+                {
+                    "original": "anis.habibi@irbe7.com",
+                    "normalized": "anis.habibi@irbe7.com",
+                    "domain": "irbe7.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "anis.habibi@irbe7.com",
+    "quality": {
+        "phones": {
+            "total": 29,
+            "valid": 3,
+            "removed": 26,
+            "duplicates": 0,
+            "invalid": [
+                "+2160009050014",
+                "+2160009050287",
+                "+2160006580013",
+                "+2160006440010",
+                "+2160005030010",
+                "+2160007440019",
+                "+2163198238",
+                "+2160003100609",
+                "+2162098724",
+                "+2160003400058",
+                "+2161454397",
+                "+216243064",
+                "+216101940",
+                "+21617458",
+                "+2160007610017",
+                "+21691442",
+                "+2161286479",
+                "+2160001100254",
+                "+21661037",
+                "+216895201",
+                "+2163411799344",
+                "+2162973758267",
+                "+2165994621830",
+                "+2161414010647",
+                "+2161454396",
+                "+2161286478"
+            ]
+        }
+    }
+}

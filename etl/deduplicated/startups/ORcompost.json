@@ -1,0 +1,221 @@
+{
+    "entity_type": "startup",
+    "name": "ORcompost",
+    "description": "Plateforme de collecte des déchets organiques pour les valoriser en délai réduit en compost et avec qualité supérieure pour restaurer la fertilité des sols.",
+    "tagline": "",
+    "industry": "Agritech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "",
+    "linkedin_url": "",
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "ahmed.boufahja.cisco@gmail.com"
+        ],
+        "phones": [
+            {
+                "number": "+21655149754",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [
+        {
+            "name": "Ahmed Boufahja",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Emna Boufahja",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": false,
+        "has_linkedin": false,
+        "founders_count": 2,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 0,
+            "generic_count": 1,
+            "official_count": 0,
+            "domains": [
+                "gmail.com"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Dec-23"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\orcompost.json",
+    "normalized_name": "orcompost",
+    "industries": [],
+    "external_profiles": {},
+    "etl": {
+        "website_validation": {
+            "website_valid": false,
+            "website_domain": "",
+            "website_type": "unknown",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 0,
+                "generic": 1,
+                "official": 0,
+                "domains": [
+                    "gmail.com"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "ahmed.boufahja.cisco@gmail.com",
+                    "normalized": "ahmed.boufahja.cisco@gmail.com",
+                    "domain": "gmail.com",
+                    "valid": true,
+                    "generic": true,
+                    "business": false,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "phone",
+            "confidence": 0.95,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "ahmed.boufahja.cisco@gmail.com",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

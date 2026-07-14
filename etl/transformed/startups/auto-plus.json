@@ -1,0 +1,285 @@
+{
+    "entity_type": "startup",
+    "name": "auto-plus",
+    "description": "Autoplus est une plateforme qui assiste ses utilisateurs dans l'entretien, l'achat et la vente de leurs véhicules, en leurs conseillant sur les produits qui sont adaptés à leurs besoins et leurs mettant en relation avec les professionnels de l'automobile.",
+    "tagline": "Prix voiture neuve, actualité et annonces automobiles en Tunisie",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://auto-plus.tn",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/auto-plus-auto-parts",
+        "github": "https://github.com/UltigendLemate/wellfound-autoapply"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/auto-plus-auto-parts"
+    },
+    "founders": [
+        {
+            "name": "Amine Mliki",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [
+        "Comparateur",
+        "Recherche par marque",
+        "Recherche par concessionnaire",
+        "Déposer une annonce",
+        "Guide pratique",
+        "Centres de montage"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:18:31.013351",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": true,
+        "has_github": true,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 6,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Apr-20"
+    },
+    "external_profiles": {
+        "website": "https://auto-plus.tn",
+        "linkedin": "https://www.linkedin.com/company/auto-plus-auto-parts",
+        "wellfound": "https://reach.wellfound.com/autopilot",
+        "github": "https://github.com/UltigendLemate/wellfound-autoapply"
+    },
+    "tavily": {
+        "query": "auto-plus",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://autoplusinc.com/",
+            "https://www.auto-plus.com.pl/index.php?lang=en&section=index",
+            "https://auto-plus.tn/",
+            "https://autoplus.com.au/",
+            "https://autoplusautomotive.com/",
+            "https://www.linkedin.com/company/auto-plus-auto-parts",
+            "https://www.linkedin.com/company/auto-plus",
+            "https://www.linkedin.com/company/auto-plus-1",
+            "https://www.linkedin.com/company/auto-plus-iowa",
+            "https://www.linkedin.com/company/uni-select-usa",
+            "https://www.cbinsights.com/company/auto-plus",
+            "https://autoplusap.com/",
+            "https://linkedin.com/company/auto-plus-1",
+            "https://tracxn.com/d/companies/autoplus/__OY-IvWLk_B5StLQ8A6bPI3n-7hb9CL2crXTZ2vXQmBI",
+            "https://tracxn.com/d/companies/autoplus/__l9CL_S7P7EQ0YmL_40tkZLCdrtzlc_kHxHcXSiUiTAM",
+            "https://reach.wellfound.com/autopilot",
+            "https://autoplusap.com/about-auto-plus/",
+            "https://github.com/UltigendLemate/wellfound-autoapply",
+            "https://help.wellfound.com/article/1094-how-do-i-use-autopilot",
+            "https://nexusplatform.ai/company/auto-plus.ru/the-auto-plus-group-of-companies",
+            "https://rocketreach.co/auto-plus-auto-parts-profile_b5d12267f42e42f9"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "Connexion\n[ 0 0 Mes favoris ](javascript:void\\(0\\); \"Voire mes favories\")\nVoitures récemment ajoutées\n[ Mes favoris ](javascript:void\\(0\\); \"Check out\")\n[ Comparer0 ](https://www.auto-plus.tn/les-voitures-neuves-en-tunisie/comparateur/0,0,0,0.html)\n[![logo www.auto-plus.tn](https://www.auto-plus.tn/static/assets/front/img/logo_auto-plus.tn.png)](https://www.auto-plus.tn)\n[![logo www.auto-plus.tn](https://www.auto-plus.tn/static/assets/front/img/logo_auto-plus.tn.png)](https://www.auto-plus.tn/)\n# Prix voiture neuve, actualité et annonces automobiles en Tunisie\n[Accueil](https://www.auto-plus.tn/)\n[Actualités](https://www.auto-plus.tn/actualite-automobile.html)\n* [Actu Plus](https://www.auto-plus.tn/actualite-automobile.html)\n* [Actu Tunisie](https://www.auto-plus.tn/actualite-automobile/actu-tunisie)\n* [Actu Internationale](https://www.auto-plus.tn/actualite-automobile/actu-internationale)\n* [Événements](https://www.auto-plus.tn/actualite-automobile/evenements)\n* [Test Drive](https://www.auto-plus.tn/actualite-automobile/test-drive)\n* [Concepts](https://www.auto-plus.tn/actualite-automobile/concepts)\n[Voitures neuves](https://www.auto-plus.tn/les-voitures-neuves.html)\n* [Recherche par marque](https://www.auto-plus.tn/les-voitures-neuves.html)\n* [Recherche par concessionnaire](https://www.auto-plus.tn/les-concessionnaires.html)\n* [Comparateur](https://www.auto-plus.tn/les-voitures-neuves-en-tunisie/comparateur/0,0,0,0.html)\n[Voitures d'occasion](https://www.auto-plus.tn/voitures-d-occasion.html)\n* [Voir les annonces](https://www.auto-plus.tn/voitures-d-occasion.html)\n* [Déposer une annonce](https://www.auto-plus.tn/voitures-d-occasion/Deposez-votre-annonce)\n[camions](javascript:void\\(0\\))\n* [Camions poids-léger](https://www.auto-plus.tn/les-camions/poids-leger)\n* [Camions poids-lourd](https://www.auto-plus.tn/les-camions/poids-lourd)\n[ Pneus ](https://www.auto-plus.tn/pneumatiques-toutes-les-marques.html)\n* [Recherche par marque](https://www.auto-plus.tn/pneumatiques-toutes-les-marques.html)\n* [Recherche par dimension](https://www.auto-plus.tn/pneumatiques-rechercher-pneus.html)\n* [Recherche par voiture](https://www.auto-plus.tn/dimensions-pneus-par-voitures.html)\n* [Centres de montage](https://www.auto-plus.tn/les-centres-de-montage.html)\n* [Guide pratique](https://www.auto-plus.tn/pneumatiques-guide-pratique.html)\n## Comparateur\n* Choisir une voiture\n:: MARQUE :: Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZUKI TATA Toyota Volkswagen Volkswagen Utilitaires Volvo Xpeng\n:: MODELE ::\n:: FINITION ::\n* Choisir une voiture\n:: MARQUE :: Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZUKI TATA Toyota Volkswagen Volkswagen Utilitaires Volvo Xpeng\n:: MODELE ::\n:: FINITION ::\n* Choisir une voiture\n:: MARQUE :: Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZUKI TATA Toyota Volkswagen Volkswagen Utilitaires Volvo Xpeng\n:: MODELE ::\n:: FINITION ::\n* Choisir une voiture\n:: MARQUE :: Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZUKI TATA Toyota Volkswagen Volkswagen Utilitaires Volvo Xpeng\n:: MODELE ::\n:: FINITION ::\n* Choisir une voiture\n:: MARQUE :: Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZUKI TATA Toyota Volkswagen Volkswagen Utilitaires Volvo Xpeng\n:: MODELE ::\n:: FINITION ::\n* [Comparer maintenant](https://www.auto-plus.tn/les-voitures-neuves-en-tunisie/comparateur/0,0,0,0.html)\n[](https://www.auto-plus.tn/)\n* [ ![Hyundai Tunisie lance une offre service inédite : l’huile moteur offerte pour le troisième entretien successif](https://www.auto-plus.tn/assets/photos_slide/slide143.jpg) Alpha Hyundai Motor, distributeur officiel de la firme automobile sud-coréenne Hyundai en Tunisie, poursuit son engagement en faveur d’un service de proximité et de qualité ](https://www.auto-plus.tn/actualite-automobile/actu-tunisie/hyundai-tunisie-lance-une-offre-service-inedite-lhuile-moteur-offerte-pour-le-troisieme-entretien-successif-04022025-1144)\nHyundai Tunisie lance une offre service inédite : l’huile moteur offerte pour le troisième entretien successif\n* [ ![Volants d’Or, 8? édition en partenariat avec TotalEnergies Marketing Tunisie](https://www.auto-plus.tn/assets/photos_slide/slide144.jpg) ](https://www.auto-plus.tn/actualite-automobile/evenements/volants-dor-8-edition-en-partenariat-avec-totalenergies-marketing-tunisie-huit-ans-au-service-de-lexcellence-automobile-et-dune-performance-plus-responsable-10022026-1604)\nVolants d’Or, 8? édition en partenariat avec TotalEnergies Marketing Tunisie[Huit ans au service de l’excellence automobile et d’une performance plus responsable](https://www.auto-plus.tn/actualite-automobile/evenements/volants-dor-8-edition-en-partenariat-avec-totalenergies-marketing-tunisie-huit-ans-au-service-de-lexcellence-automobile-et-dune-performance-plus-responsable-10022026-1604)\n* [ ![Porsche Centre Tunis : Une Nouvelle ère avec l'Ouverture du Showroom Rénové à La Goulette le 31 Janvier 2025](https://www.auto-plus.tn/assets/photos_slide/slide142.jpg) Tunis, le 31 janvier 2025 – Porsche Centre Tunis, acteur clé du marché automobile haut de gamme en Tunisie, annonce l’ouverture officielle de son showroom entièrement rénové, prévu pour le… ](https://www.auto-plus.tn/actualite-automobile/evenements/porsche-centre-tunis-une-nouvelle-ere-avec-louverture-du-showroom-renove-a-la-goulette-le-31-janvier-2025-04022025-1203)\nPorsche Centre Tunis : Une Nouvelle ère avec l'Ouverture du Showroom Rénové à La Goulette le 31 Janvier 2025\n* [ ![Hyundai Tunisie lance une offre service inédite : l’huile moteur offerte pour le troisième entretien successif](https://www.auto-plus.tn/assets/photos_slide/slide143.jpg) Alpha Hyundai Motor, distributeur officiel de la firme automobile sud-coréenne Hyundai en Tunisie, poursuit son engagement en faveur d’un service de proximité et de qualité ](https://www.auto-plus.tn/actualite-automobile/actu-tunisie/hyundai-tunisie-lance-une-offre-service-inedite-lhuile-moteur-offerte-pour-le-troisieme-entretien-successif-04022025-1144)\nHyundai Tunisie lance une offre service inédite : l’huile moteur offerte pour le troisième entretien successif\n* [ ![Volants d’Or, 8? édition en partenariat avec TotalEnergies Marketing Tunisie](https://www.auto-plus.tn/assets/photos_slide/slide144.jpg) Huit ans au service de l’excellence automobile et d’une performance plus responsable ](https://www.auto-plus.tn/actualite-automobile/evenements/volants-dor-8-edition-en-partenariat-avec-totalenergies-marketing-tunisie-huit-ans-au-service-de-lexcellence-automobile-et-dune-performance-plus-responsable-10022026-1604)\nVolants d’Or, 8? édition en partenariat avec TotalEnergies Marketing Tunisie[Huit ans au service de l’excellence automobile et d’une performance plus responsable](https://www.auto-plus.tn/actualite-automobile/evenements/volants-dor-8-edition-en-partenariat-avec-totalenergies-marketing-tunisie-huit-ans-au-service-de-lexcellence-automobile-et-dune-performance-plus-responsable-10022026-1604)\n[1](https://www.auto-plus.tn/)\n[2](https://www.auto-plus.tn/)\n[3](https://www.auto-plus.tn/)\n[](https://www.auto-plus.tn/)[](https://www.auto-plus.tn/)\n##  **»** Marques à la Une\n* [ ![Audi](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/audi)\n* [ ![Avantier](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/avantier)\n* [ ![BAKO](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/bako)\n* [ ![BMW](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/bmw)\n* [ ![BYD](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/byd)\n* [ ![Cenntro](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/cenntro)\n* [ ![changan](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/changan)\n* [ ![Chery](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/chery)\n* [ ![Chevrolet](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/chevrolet)\n* [ ![Citroën](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/citroen)\n* [ ![Cupra](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/cupra)\n* [ ![Dacia](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/dacia)\n* [ ![Deepal](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/deepal)\n* [ ![DFSK](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/dfsk)\n* [ ![DongFeng](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/dongfeng)\n* [ ![FAW](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/faw)\n* [ ![Fiat](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/fiat)\n* [ ![foday](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/foday)\n* [ ![Ford](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/ford)\n* [ ![Foton](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/foton)\n* [ ![GAC](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/gac)\n* [ ![Geely](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/geely)\n* [ ![GWM](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/great-wall)\n* [ ![Honda](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/honda)\n* [ ![Hyundai](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/hyundai)\n* [ ![IM Motors](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/im-motors)\n* [ ![ISUZU](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/isuzu)\n* [ ![JAC](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jac)\n* [ ![Jaguar](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jaguar)\n* [ ![Jeep](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jeep)\n* [ ![Jetour](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jetour)\n* [ ![JMC](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jmc)\n* [ ![JMEV](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/jmev)\n* [ ![KIA](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/kia)\n* [ ![Land Rover](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/land_rover)\n* [ ![Lynk & Co](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/lynk-co)\n* [ ![M-Hero](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/m-hero)\n* [ ![Mahindra](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/mahindra)\n* [ ![Mercedes-Benz](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/mercedes-benz)\n* [ ![MG Motors](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/mg-motors)\n* [ ![MINI](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/mini)\n* [ ![Mitsubishi](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/mitsubishi2)\n* [ ![Nissan](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/nissan)\n* [ ![Omoda & Jaecoo](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/omoda-jaecoo)\n* [ ![Opel](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/opel)\n* [ ![Peugeot](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/peugeot)\n* [ ![Porsche](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/porsche)\n* [ ![Renault](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/renault)\n* [ ![Seat](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/seat)\n* [ ![Škoda](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/skoda)\n* [ ![soueast](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/soueast)\n* [ ![SsangYong](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/ssangyong)\n* [ ![SUZUKI](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/suzuki)\n* [ ![TATA](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/tata)\n* [ ![Toyota](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/toyota)\n* [ ![Volkswagen](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/volkswagen)\n* [ ![Volkswagen Utilitaires](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/volkswagen-utilitaires)\n* [ ![Volvo](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/volvo)\n* [ ![Xpeng](https://www.auto-plus.tn/) ](https://www.auto-plus.tn/les-voitures-neuves/xpeng)\n[](https://www.auto-plus.tn/)[](https://www.auto-plus.tn/)\n##  **»** Recherchez votre véhicule\n* [Neuf](https://www.auto-plus.tn/#search1)\n* [Occasion](https://www.auto-plus.tn/#search2)\nMarque : Sélectionnez une marque Indifférent Audi Avantier BAKO BMW BYD Cenntro changan Chery Chevrolet Citroën Cupra Dacia Deepal DFSK DongFeng FAW Fiat foday Ford Foton GAC Geely GWM Honda Hyundai IM Motors ISUZU JAC Jaguar Jeep Jetour JMC JMEV KIA Land Rover Lynk & Co M-Hero Mahindra Mercedes-Benz MG Motors MINI Mitsubishi Nissan Omoda & Jaecoo Opel Peugeot Porsche Renault Seat Škoda soueast SsangYong SUZU",
+    "website_metadata": {
+        "url": "https://auto-plus.tn/",
+        "content_length": 15000
+    },
+    "linkedin": "https://www.linkedin.com/company/auto-plus-auto-parts",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\auto_plus.json",
+    "normalized_name": "auto plus",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "auto-plus.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 4
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "github",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/auto-plus-auto-parts",
+                    "normalized": "https://linkedin.com/company/auto-plus-auto-parts",
+                    "username": "auto-plus-auto-parts",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/UltigendLemate/wellfound-autoapply",
+                    "normalized": "https://github.com/UltigendLemate/wellfound-autoapply",
+                    "username": "UltigendLemate",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+216040220251144",
+                "+216100220261604",
+                "+2162025040220251203"
+            ]
+        }
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "entity_type": "startup",
+    "name": "3S : Software and Security Solutions",
+    "description": "3S développe des solutions innovantes de transformation digitale  en utilisant les technologies de l'internet des objets (IoT), Cloud computing et l'intelligence artificielle(IA) pour les secteurs de l'agriculture de précision, l'industrie connecté 4.0, et les villes intelligentes.",
+    "tagline": "Smart City Smart Industry 4.0 Digital Platform Smart Security Smart Education Smart Agriculture Smart Health",
+    "industry": "Advanced Manufacturing & Robotics",
+    "keywords": [
+        "IoT",
+        "Smart Solutions",
+        "Smart City",
+        "Industry 4.0",
+        "Digital Platform",
+        "Smart Security",
+        "Smart Education",
+        "Smart Agriculture",
+        "Smart Health",
+        "Transformation digitale"
+    ],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2017",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://sss.com.tn",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/3ssoftware"
+    },
+    "contact": {
+        "emails": [
+            "contact@sss.com.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21658000908",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21652910006",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/3ssoftware"
+    },
+    "founders": [
+        {
+            "name": "Abdelbari Ben Yagouta",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Wrida Ben Yagouta",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "3S Smart City Platform",
+            "description": "Plateforme intelligente pour la gestion des services urbains, portails citoyens et supervision temps réel.",
+            "category": "Smart City"
+        }
+    ],
+    "services": [
+        "Développement Web & Mobile",
+        "BPM",
+        "Digitalisation",
+        "Solutions métiers",
+        "Plateformes cloud",
+        "Ingénierie de solutions intelligentes"
+    ],
+    "technologies": [
+        "IoT",
+        "IA",
+        "Cloud",
+        "Microservices"
+    ],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 83,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T21:06:46.079301",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 6,
+        "technologies_count": 4,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "sss.com.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Apr-20"
+    },
+    "external_profiles": {
+        "website": "https://sss.com.tn",
+        "linkedin": "https://linkedin.com/company/3ssoftware",
+        "crunchbase": "https://www.crunchbase.com/organization/3s-intersoft"
+    },
+    "tavily": {
+        "query": "3S : Software and Security Solutions",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://sss.com.tn/",
+            "https://sss.com.tn/about.html",
+            "https://sss.com.tn/security.html",
+            "https://www.goafricaonline.com/tn/695681-3s-software-and-security-solutions",
+            "https://startup.gov.tn/sites/default/files/2021-11/Compte-rendu-mars-Label-2020.pdf",
+            "https://www.emploitunisie.com/recrutement-tunisie-cv/114918",
+            "https://linkedin.com/company/3ssoftware",
+            "https://www.linkedin.com/pulse/system-security-solutions-company-3s-proud-announce-gold-partner",
+            "https://www.crunchbase.com/organization/3s-intersoft",
+            "https://straitsdata.com/companies/sg/3s-software-solutions-pte-ltd/202039516C",
+            "https://linkedin.com/company/3s-solutions-tech-llc",
+            "https://3s.sa/",
+            "https://3s-solutions.com/",
+            "https://3ssecuritysolutions.com/",
+            "https://www.tradearabia.com/News/464526/Saudi-firm-3S-wins-ICT-contract-for-Qiddiya-Resort-Core-Infrastructure-project/IT"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "![Logo 3S](https://sss.com.tn/static/images/logo.png) 3S\n* [Accueil](https://sss.com.tn/index.html)\n* [Solutions](https://sss.com.tn/solutions.html)\n* [Sécurité](https://sss.com.tn/security.html)\n* [Technologie](https://sss.com.tn/technology.html)\n* [À propos](https://sss.com.tn/about.html)\n* [Projets](https://sss.com.tn/projects.html)\n* [Contact](https://sss.com.tn/contact.html)\n[FR](https://sss.com.tn/security.html)/[EN](https://sss.com.tn/en/security.html)\n[Demander démo](https://sss.com.tn/07-contact.html)\n# Ingénierie de Solutions Intelligentes, Connectées et Sécurisées\n3S conçoit et déploie des plateformes intelligentes basées sur l'IoT, l'IA et l'ingénierie logicielle pour accélérer la transformation digitale des villes, de l'industrie et des organisations.\n[Découvrir nos solutions](https://sss.com.tn/solutions.html) [Discuter votre projet](https://sss.com.tn/contact.html)\nSmart City Smart Industry 4.0 Digital Platform Smart Security Smart Education Smart Agriculture Smart Health\n## Domaines d'Expertise\nSolutions technologiques innovantes pour votre transformation digitale\n![](https://sss.com.tn/static/icones/modelisation-3d.png)\n### IoT & Smart Solutions\nSmart City, Smart Agriculture, Smart Industry 4.0, Smart Education, Smart Health\n[Découvrir →](https://sss.com.tn/solutions.html)\n![](https://sss.com.tn/static/icones/moniteur-a-ecran-plat.png)\n### Digital Engineering\nDéveloppement Web & Mobile, BPM, Digitalisation, Solutions métiers, Plateformes cloud\n[Découvrir →](https://sss.com.tn/solutions.html#digital)\n![](https://sss.com.tn/static/icones/fermer-a-cle.png)\n### Smart Security Systems\nContrôle d'accès intelligent, vidéosurveillance, tracking temps réel, systèmes de sécurité intégrés\n[Découvrir →](https://sss.com.tn/security.html)\n## Nos Solutions Clés\nPlateformes intelligentes adaptées à vos besoins sectoriels\n![](https://sss.com.tn/static/icones/ville-intelligente.png)\n### 3S Smart City Platform\nPlateforme intelligente pour la gestion des services urbains, portails citoyens et supervision temps réel.\n* ✓ Gestion services urbains\n* ✓ Portails citoyens\n* ✓ Supervision temps réel\n* ✓ Data décisionnelle\n[En savoir plus →](https://sss.com.tn/solutions.html#smart-city)\n![](https://sss.com.tn/static/icones/smart-farm.png)\n### 3S Smart Agriculture\nIoT agricole, monitoring environnemental, irrigation intelligente, analytics & prédiction.\n* ✓ Monitoring sol & climat\n* ✓ Irrigation intelligente\n* ✓ Analytics prédictif\n* ✓ Optimisation rendement\n[En savoir plus →](https://sss.com.tn/solutions.html#smart-agriculture)\n![](https://sss.com.tn/static/icones/industrie-40.png)\n### 3S Smart Industry 4.0\nMonitoring machines, maintenance prédictive, data industriel, optimisation production.\n* ✓ Monitoring machines\n* ✓ Maintenance prédictive\n* ✓ Digitalisation industrielle\n* ✓ Optimisation production\n[En savoir plus →](https://sss.com.tn/solutions.html#smart-industry)\n![](https://sss.com.tn/static/icones/apprentissage-en-ligne.png)\n### 3S Smart Education\nCampus connecté, sécurité intelligente, gestion académique digitale.\n* ✓ Campus connecté\n* ✓ Sécurité intelligente\n* ✓ Gestion académique\n* ✓ Contrôle présence\n[En savoir plus →](https://sss.com.tn/solutions.html#smart-education)\n![](https://sss.com.tn/static/icones/sante-publique.png)\n### 3S Smart Health\nMonitoring médical connecté, alertes temps réel, plateforme e-health.\n* ✓ Monitoring patient\n* ✓ Alertes temps réel\n* ✓ Plateforme e-health\n* ✓ Dossier médical digital\n[En savoir plus →](https://sss.com.tn/solutions.html#smart-health)\n## Technologie & Innovation\n3S combine recherche scientifique et ingénierie avancée pour concevoir des solutions intelligentes sécurisées à forte valeur technologique.\n![](https://sss.com.tn/static/icones/satellite.png)\n#### Internet of Things (IoT)\n![](https://sss.com.tn/static/icones/ai.png)\n#### Intelligence Artificielle & Data\n![](https://sss.com.tn/static/icones/cloud-computing.png)\n#### Cloud & Microservices\n![](https://sss.com.tn/static/icones/cybersecurite.png)\n#### Cybersécurité & systèmes critiques\n![](https://sss.com.tn/static/icones/boulon.png)\n#### Edge Computing & Industrial IoT\n[Découvrir notre stack technique](https://sss.com.tn/technology.html)\n## Pourquoi Choisir 3S\nUne expertise reconnue au service de votre transformation digitale\n![Deep Tech](https://sss.com.tn/static/icones/trophee.png)\n#### Société Deep-Tech spécialisée\nExpertise IoT & Smart Systems avec R&D appliquée\n![Startup](https://sss.com.tn/static/icones/medaille-dhonneur.png)\n#### Label Startup ACT (2020)\nCertification officielle d'innovation technologique\n![International](https://sss.com.tn/static/icones/monde.png)\n#### Présence internationale\nProjets en Afrique, Europe et Canada\n![Solutions](https://sss.com.tn/static/icones/parametres-web.png)\n#### Solutions sur mesure & scalables\nAdaptation complète à vos besoins spécifiques\n![R&D](https://sss.com.tn/static/icones/microscope.png)\n#### Expertise R&D & ingénierie\nÉquipe de docteurs chercheurs et ingénieurs experts\n![Security](https://sss.com.tn/static/icones/bouclier.png)\n#### Sécurité intégrée dès la conception\nSecurity by design dans tous nos projets\n## Projets & Références\nSolutions déployées avec succès dans différents secteurs\nSmart City Industry 4.0 Agriculture intelligente Plateformes digitales Solutions de sécurité Projets internationaux\n[Voir tous les projets](https://sss.com.tn/projects.html)\n## Partenaires & Recherche\nCollaboration scientifique et innovation appliquée au service des solutions intelligentes\n‹\n![Startup Act](https://sss.com.tn/static/images/partenaires/startup.png)\n#### Startup Act\nLabel national & accompagnement startups innovantes\n![ANPR Mobidoc](https://sss.com.tn/static/images/partenaires/anpr.png)\n#### ANPR – Mobidoc\nFinancement R&D et bourses de recherche appliquée\n![CRRA Sidi Bouzid](https://sss.com.tn/static/images/partenaires/crra.png)\n#### CRRA – Sidi Bouzid\nCollaboration R&D Smart Agriculture\n![ENIG Industrie 4.0](https://sss.com.tn/static/images/partenaires/enig.png)\n#### ENIG – Industrie 4.0\nRecherche industrielle & systèmes automatisés\n![ENIGA IoT & IA](https://sss.com.tn/static/images/partenaires/eniga.png)\n#### ENIGA – IoT & IA\nRecherche systèmes intelligents & IoT\n![Co-Start Sfax](https://sss.com.tn/static/images/partenaires/Incubateur%20Co-Start%20Sfax.png)\n#### Incubateur Co-Start Sfax\nSupport entrepreneurial & innovation\n›\n## Vous avez un projet Smart, IoT ou Digital ?\nNotre équipe vous accompagne de la conception à la mise en production.\n[Demander une démo](https://sss.com.tn/contact.html#demo) [Contactez-nous](https://sss.com.tn/contact.html)\n![Logo 3S](https://sss.com.tn/static/images/logo.png) 3S\n#### Smart & Secure Digital Transformation\nIngénierie de solutions intelligentes basées sur l'IoT, l'IA et les plateformes digitales.\n🏆 Startup ACT 2020\n#### Liens rapides\n* [À propos](https://sss.com.tn/02-about.html)\n* [Solutions](https://sss.com.tn/03-solutions.html)\n* [Sécurité](https://sss.com.tn/04-security.html)\n* [Technologie](https://sss.com.tn/05-technology.html)\n* [Projets](https://sss.com.tn/06-projects.html)\n* [Contact](https://sss.com.tn/07-contact.html)\n#### Domaines\n* Smart City\n* Smart Agriculture\n* Industry 4.0\n* Digital Platforms\n* Smart Security\n* Smart Education\n* Smart Health\n#### Contact\n📍 Immeuble Touil, Gafsa 2100\n📞 [+216 52 910 006](tel:+21652910006)\n✉️ [[email protected]](https://sss.com.tn/cdn-cgi/l/email-protection#43202c2d37222037033030306d202c2e6d372d)\n🌐 www.sss.com.tn\nPrésence : Afrique - Europe - Canada\n© 2026 3S – Software & Security Solutions. Tous droits réservés.",
+    "website_metadata": {
+        "url": "https://sss.com.tn/",
+        "content_length": 7586
+    },
+    "linkedin": "https://linkedin.com/company/3ssoftware",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\3s_software_and_security_solutions.json",
+    "normalized_name": "3s software and security solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "com.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/3ssoftware",
+                    "normalized": "https://linkedin.com/company/3ssoftware",
+                    "username": "3ssoftware",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "sss.com.tn"
+                ]
+            },
+            "official": [
+                "contact@sss.com.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@sss.com.tn",
+                    "normalized": "contact@sss.com.tn",
+                    "domain": "sss.com.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@sss.com.tn",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 1,
+            "invalid": [
+                "+21637222037033030306"
+            ]
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "entity_type": "startup",
+    "name": "Allô Réparateur",
+    "description": "Allo Réparateur est spécialisé dans la réparation de tous types d’appareils électroniques domestiques et industriels avec un réseau de laboratoires sur toute la Tunisie.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://allo-reparateur.tn",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/allo-reparateur"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21670130303",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/allo-reparateur"
+    },
+    "founders": [
+        {
+            "name": "Aymen Bouchoucha",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Saïd El Behi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:05:18.574277",
+        "website_enriched": true,
+        "tavily_results": 8,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jul-20"
+    },
+    "external_profiles": {
+        "website": "https://allo-reparateur.tn",
+        "linkedin": "https://linkedin.com/company/allo-reparateur"
+    },
+    "tavily": {
+        "query": "Allô Réparateur",
+        "answer": "",
+        "results_count": 8,
+        "urls": [
+            "https://allo-reparateur.tn/",
+            "https://linkedin.com/company/allo-reparateur",
+            "https://allo-reparateur.tn/services-aux-entreprises/",
+            "https://www.trustpilot.com/review/www.allo-reparateur.tn",
+            "https://ch.linkedin.com/company/allo-reparateur",
+            "https://wefranchiz.com/listing/allo-reparateur/",
+            "https://allo-reparateur.tn/reparation-a-distance/",
+            "https://ca.trustpilot.com/review/www.allo-reparateur.tn"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "website_content": "[ ![Allo Réparateur](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20296%20100'%3E%3C/svg%3E)](https://allo-reparateur.tn/ \"Allo Réparateur\")\nMon compte\nBonjour, Connectez-vous\nInscrivez-vous maintenant !\n[Se connecter](https://allo-reparateur.tn/my-account-2/)\nNouveau client ? [S'inscrire ](https://allo-reparateur.tn/my-account-2/#register)\n[ ](https://allo-reparateur.tn/ma-liste-de-souhaits/)\n[ Wishlist - ](https://allo-reparateur.tn/ma-liste-de-souhaits/)\n[ 0 0 élément د.ت 0,000 ](https://allo-reparateur.tn/cart-2/)\nAucun produit dans le panier\n* [Accueil](https://allo-reparateur.tn/)\n* [Réparation](https://allo-reparateur.tn/categorie/reparation/)\n* [Appareils Mobiles](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/)\n* [Smartphone](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/)\n* [Samsung](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-samsung/)\n* [iPhone](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-iphone/)\n* [Huawei](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-huawei/)\n* [OPPO](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-oppo/)\n* [Xiaomi](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-xiaomi/)\n* [INFINIX](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-infinix/)\n* [Lenovo](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-lenovo/)\n* [Nokia](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-nokia/)\n* [SONY](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-sony/)\n* [ASUS](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-asus/)\n* [HTC](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-htc/)\n* [LG](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-lg/)\n* [OnePlus](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-oneplus/)\n* [Google](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-google/)\n* [Realme](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-realme/)\n* [TECNO](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-techno/)\n* [VIVO](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-vivo/)\n* [ZTE](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-smartphone/reparation-zte/)\n* [Tablette](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/)\n* [iPad](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-tablette-ipad/)\n* [Samsung](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-tablette-samsung/)\n* [Lenovo](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-tablette-lenovo/)\n* [Huawei](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-tablette-huawei/)\n* [Google](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-google-pixel/)\n* [Microsoft](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/reparation-tablette/reparation-microsoft/)\n* [Console & Jouet](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/)\n* [Playstation](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/reparation-plastation/)\n* [Xbox](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/reparation-xbox/)\n* [Hoverboard](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/reparation-hoverboard/)\n* [Nintendo](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/reparation-nintendo/)\n* [Mac](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/mac/)\n* [MacBook Pro](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/mac/reparation-macbook-pro/)\n* [MacBook Air](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/mac/reparation-macbook-air/)\n* [MacBook](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/mac/reparation-macbook/)\n* [iMac](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/mac/reparation-imac/)\n* [Électroménager](https://allo-reparateur.tn/categorie/reparation/electromenager/)\n* [Lave-Linge](https://allo-reparateur.tn/categorie/reparation/electromenager/lave_linge/)\n* [Réfrigérateur](https://allo-reparateur.tn/categorie/reparation/electromenager/refrigerateur/)\n* [Téléviseur TV](https://allo-reparateur.tn/categorie/reparation/electromenager/tv_televiseur/)\n* [Lave-Vaisselle](https://allo-reparateur.tn/categorie/reparation/electromenager/lave_vaisselle/)\n* [Climatiseur](https://allo-reparateur.tn/categorie/reparation/electromenager/climatiseur/)\n* [Four](https://allo-reparateur.tn/categorie/reparation/electromenager/four/)\n* [Micro-Ondes](https://allo-reparateur.tn/categorie/reparation/electromenager/micro-ondes/)\n* [Hotte Aspirante](https://allo-reparateur.tn/categorie/reparation/electromenager/hotte_aspirante/)\n* [Aspirateur](https://allo-reparateur.tn/categorie/reparation/electromenager/aspirateur/)\n* [Robot de Cuisine](https://allo-reparateur.tn/categorie/reparation/electromenager/robot_de_cuisine/)\n* [Séchoir Cheveux](https://allo-reparateur.tn/categorie/reparation/electromenager/sechoir_cheveux/)\n* [Installation](https://allo-reparateur.tn/installation/)\n* [La Boutique](https://allo-reparateur.tn/categorie/la-boutique/)\n* [Services aux Entreprises](https://allo-reparateur.tn/services-aux-entreprises/)\n* [Formulaire](https://allo-reparateur.tn/formulaire/)\n* [Pièce sur Commande](https://allo-reparateur.tn/piece-sur-commande/)\n* [Réparation à Distance](https://allo-reparateur.tn/reparation-a-distance/)\n* [Services aux Entreprises](https://allo-reparateur.tn/services-aux-entreprises-formulaire/)\n* [Mes Devis](https://allo-reparateur.tn/)\n* [Mes Commandes](https://allo-reparateur.tn/cart-2/)\n* [Vérification](https://allo-reparateur.tn/checkout-2/)\n* [Mon Compte](https://allo-reparateur.tn/my-account-2/)\n* [Ma Liste de Souhaits](https://allo-reparateur.tn/ma-liste-de-souhaits/)\n* [Contact](https://allo-reparateur.tn/contact/)\n[ Help Center](https://klbtheme.com/partdo/contact)\n[ ![Allo Réparateur](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20100'%3E%3C/svg%3E)](https://allo-reparateur.tn/ \"Allo Réparateur\")\n[ 0](https://allo-reparateur.tn/cart-2/)\nAucun produit dans le panier\nRéparation rapide sous rendez-vous\n## Réparation de vos smartphones, tablettes, MacBook Pro et console de jeux\n90 jours de garantie\nObtenez un devis\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20688'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/)\nRéparation à domicile\n## Réparation Électroménager\n90 jours de garantie\nObtenez un devis\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20688'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/reparation/electromenager/)\n## Besoin d'aide ? appelez le 70 13 03 03\nAppelez-nous\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%20561'%3E%3C/svg%3E)\n[ ](https://fusionsrv.3cx.ma:5001/alloreparateur)\nRéparation carte mère\nObtenez un devis\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20767%20344'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/)\n## Réparation de vos consoles de jeux\nObtenez un devis\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%20541'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/reparation/appareil_mobile/console-de-jeux/)\n[Appelez-nous sur le  70 13 03 03 Nous serons ravis de vous servir](https://allo-reparateur.tn/)\nPièce sur commande\n## Besoin d'une pièce introuvable en Tunisie ?\nObtenez un devis\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%20748'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/piece-sur-commande/)\nAchetez vos cartes cadeaux\n## Carte Cadeau\nApple Gift Card, PlayStationn, X-Box...\nCommandez ici\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20767%20334'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/la-boutique/carte-cadeau/)\nService d'installation\n## Installation\nBientôt\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20767%20334'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/installation/)\n### Découvrez notre Boutique\nUne large gammes d'accessoires et de carte cadeau\n[ Voir la suite ](https://allo-reparateur.tn/categorie/la-boutique/accessoires/)\n[![Apple EarPods Original Lightning Connector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/apple-earpods-original-lightning-connector/)\n###  [Apple EarPods Original Lightning Connector](https://allo-reparateur.tn/produit/apple-earpods-original-lightning-connector/)\nد.ت 99,000 TND\nProfitez d'un son de haute qualité avec les **Apple EarPods Original** équipés d'un connecteur Lightning. Conçus pour offrir un confort\n[![Bracelet sport Romix 4.7 pouces – Brassard de sport ajustable](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/bracelet-sport-romix-4-7-pouces/)\n###  [Bracelet sport Romix 4.7 pouces – Brassard de sport ajustable](https://allo-reparateur.tn/produit/bracelet-sport-romix-4-7-pouces/)\n~~د.ت 19,000~~ Le prix initial était : د.ت 19,000.د.ت 5,900Le prix actuel est : د.ت 5,900. TND\nLe bracelet sport Romix 4.7 pouces est confortable, ajustable et résistant à la sueur. Idéal pour garder votre téléphone en\n[![EarPods avec mini-jack 3,5 mm](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/earpods-avec-mini-jack-35-mm/)\n###  [EarPods avec mini-jack 3,5 mm](https://allo-reparateur.tn/produit/earpods-avec-mini-jack-35-mm/)\nد.ت 79,000 TND\nDécouvrez les **EarPods avec mini-jack 3,5 mm** pour une qualité audio exceptionnelle et un confort optimal. Compatibles avec une large\n[![Chargeur Hoco double port avec câble Micro USB – Victoria Series](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/chargeur-hoco-double-port-avec-cable-micro-usb-victoria-series/)\n###  [Chargeur Hoco double port avec câble Micro USB – Victoria Series](https://allo-reparateur.tn/produit/chargeur-hoco-double-port-avec-cable-micro-usb-victoria-series/)\n~~د.ت 45,000~~ Le prix initial était : د.ت 45,000.د.ت 15,000Le prix actuel est : د.ت 15,000. TND\nLe chargeur Hoco Victoria offre deux ports USB pour recharger simultanément vos appareils. Inclus : câble Micro USB. Puissant, fiable\nJusqu'à 70% sur tout nos accessoires\n## LA BOUTIQUE\nVisitez notre boutique\n![slider image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%201122'%3E%3C/svg%3E)\n[ ](https://allo-reparateur.tn/categorie/la-boutique/)\n[![Apple MagSafe 1 – Chargeur de Qualité Supérieure](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/apple_magsafe-_-chargeur_de_qualite_superieure_45w_60w_85w/)\n###  [Apple MagSafe 1 – Chargeur de Qualité Supérieure](https://allo-reparateur.tn/produit/apple_magsafe-_-chargeur_de_qualite_superieure_45w_60w_85w/)\n~~د.ت 179,000~~ Le prix initial était : د.ت 179,000.د.ت 59,000Le prix actuel est : د.ت 59,000. TND\nDécouvrez notre chargeur Apple MagSafe 1 haut de gamme, disponible en 45W, 60W et 85W. Assurez une recharge rapide et\n[![Xbox – Carte Cadeau](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/carte-cadeau-xbox/)\n###  [Xbox – Carte Cadeau](https://allo-reparateur.tn/produit/carte-cadeau-xbox/)\nد.ت 70,000 –  د.ت 350,000Plage de prix : د.ت 70,000 à د.ت 350,000 TND\nOffrez une Carte Cadeau Xbox à montant variable pour accéder à des jeux, films, et abonnements Xbox. Livraison par email\n[![Câble Audio UPA19 AUX 2M Jack/Jack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/cable-audio-upa19-aux-2m-jack-jack/)\n###  [Câble Audio UPA19 AUX 2M Jack/Jack](https://allo-reparateur.tn/produit/cable-audio-upa19-aux-2m-jack-jack/)\n~~د.ت 49,000~~ Le prix initial était : د.ت 49,000.د.ت 19,000Le prix actuel est : د.ت 19,000. TND\nLe **Câble Audio UPA19 AUX** de 2 mètres avec connecteurs Jack/Jack assure une transmission audio claire et fiable. Idéal pour\n[![Coque pour MacBook Pro 15.4 A1707 / A1990 – 2016 / 2019](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E)](https://allo-reparateur.tn/produit/coque-macbook-pro-a1707-a1990/)\n###  [Coque pour MacBook Pro 15.4 A1707 / A1990 – 2016 / 2019](https://allo-reparateur.tn/produit/coque-macbook-pro-a1707-a1990/)\n~~د.ت 79,000~~ Le prix initial était : د.ت 79,000.د.ت 7,900Le prix actuel est : د.ت 7,900. TND\nCoque rouge rigide pour MacBook Pro A1707 / A1990 – protection élégante et durable sans compromettre le design.\n### Découvrez en images notre engagement pour des réparations rapides et de qualité chez Allo Réparateur !\n### Plus de 1000 références de pièce détachées en stock\nPour assurer des réparations rapides, nous disposons d'un stock central bien approvisionné, garantissant ainsi les délais les plus courts pour vos réparations.\n![Testimonial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20958%20960'%3E%3C/svg%3E)\nSalma Toumi\nCliente\nMerci pour le professionnalisme, la rapidité et l’accueil chaleureux ! je l'ai déjà dit et je le redis : ALLO réparateur c'est mon adresse préférée ! ne changez surtout pas !! bonne continuation !\n![Testimonial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20814%20660'%3E%3C/svg%3E)\nLawadeh",
+    "website_metadata": {
+        "url": "https://allo-reparateur.tn/",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/company/allo-reparateur",
+    "phones": [
+        "70 13 03 03"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\allô_réparateur.json",
+    "normalized_name": "allo reparateur",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "allo-reparateur.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/allo-reparateur",
+                    "normalized": "https://linkedin.com/company/allo-reparateur",
+                    "username": "allo-reparateur",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

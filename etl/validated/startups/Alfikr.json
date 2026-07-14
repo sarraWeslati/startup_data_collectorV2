@@ -1,0 +1,274 @@
+{
+    "entity_type": "startup",
+    "name": "Alfikr",
+    "description": "JustPublish est une société spécialisée dans l’édition numérique ayant pour but de promouvoir la production scientifique",
+    "tagline": "",
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Morocco",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.karmatalfikr.com",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/alfikri-alfikri"
+    },
+    "contact": {
+        "emails": [
+            "sales@karmatalfikr.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/alfikri-alfikri"
+    },
+    "founders": [
+        {
+            "name": "Brahim Jrah",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:02:56.635322",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "karmatalfikr.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-21"
+    },
+    "external_profiles": {
+        "website": "https://www.karmatalfikr.com",
+        "linkedin": "https://linkedin.com/in/alfikri-alfikri"
+    },
+    "tavily": {
+        "query": "Alfikr",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://al-fikr.com/",
+            "https://fikr.com/",
+            "https://al-fikr.org/",
+            "https://fikr.com/pages/about-us",
+            "https://daralfikrinstitute.com/",
+            "https://linkedin.com/in/alfikri-alfikri",
+            "https://www.linkedin.com/company/daralfikr",
+            "https://linkedin.com/in/bani-alfikr-baybayan-027578378",
+            "https://ae.linkedin.com/company/alfikralasri",
+            "https://id.linkedin.com/company/alfikrfoundation",
+            "https://dar-alfikr.com/",
+            "https://alfikr.org.w3snoop.com/",
+            "https://prospeo.io/c/alfikr-alasri-technical-services",
+            "https://www.karmatalfikr.com/",
+            "http://websites.milonic.com/fikr.com"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "![](https://www.karmatalfikr.com/assets/images/resources/logo.png)\nWelcome to Karmat Alfikr Trading Est.\n* Sales@karmatalfikr.com\n* [+966541441244](tel:966541441244)\n[ ![Awesome Image](https://www.karmatalfikr.com/assets/images/resources/logo.png) ![Awesome Image](https://www.karmatalfikr.com/assets/images/resources/logo.png) ](https://www.karmatalfikr.com)\n[ ](https://www.karmatalfikr.com/)\n* [Home](https://www.karmatalfikr.com)\n* [Products](https://www.karmatalfikr.com/Products)\n* [Particle Characterization](https://www.karmatalfikr.com/Products/Particle%20Characterization)\n* [Critical Point Dryers](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [Environmental Tester ](https://www.karmatalfikr.com/Products/Environmental%20Tester)\n* [Elemental Analyzers Machine](https://www.karmatalfikr.com/Products/Elemental%20Analyzers%20Machines)\n* [Pharmaceuticals and Petroleum Products](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [SEM AND TEM Items](https://www.karmatalfikr.com/Products/sen%20and%20tem)\n* [Heat Treatment ](https://www.karmatalfikr.com/Products/Heat%20Treatment)\n* [Materialography Testing ](https://www.karmatalfikr.com/Products/Materialography%20&%20Hardness%20Testing)\n* [Our Partners](https://www.karmatalfikr.com/Partners)\n* [About Us](https://www.karmatalfikr.com/About)\n* [Contact](https://www.karmatalfikr.com/Contact)\n[ ![Awesome Image](https://www.karmatalfikr.com/assets/images/resources/logo.png) ![Awesome Image](https://www.karmatalfikr.com/assets/images/resources/logo.png) ](https://www.karmatalfikr.com)\n[ ](https://www.karmatalfikr.com/)\n* [Home](https://www.karmatalfikr.com)\n* [Products](https://www.karmatalfikr.com/Products)\n* [Particle Characterization](https://www.karmatalfikr.com/Products/Particle%20Characterization)\n* [Critical Point Dryers](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [Environmental Tester ](https://www.karmatalfikr.com/Products/Environmental%20Tester)\n* [Elemental Analyzers Machine](https://www.karmatalfikr.com/Products/Elemental%20Analyzers%20Machines)\n* [Pharmaceuticals and Petroleum Products](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [SEM AND TEM Items](https://www.karmatalfikr.com/Products/sen%20and%20tem)\n* [Heat Treatment ](https://www.karmatalfikr.com/Products/Heat%20Treatment)\n* [Materialography Testing ](https://www.karmatalfikr.com/Products/Materialography%20&%20Hardness%20Testing)\n* [Our Partners](https://www.karmatalfikr.com/Partners)\n* [About Us](https://www.karmatalfikr.com/About)\n* [Contact](https://www.karmatalfikr.com/Contact)\n## Karmat Alfikr Trading\nSolution provider to Analytical, Nanotechnology, Environmental\nPharmaceuticals & Petroleum testing industries\n[get to know us](https://www.karmatalfikr.com/About)\n## Karmat Alfikr Trading\nSales and after Service Support of\nSurface area and pore size distribution , Critical Point Dryers and Many More\n[Our Products](https://www.karmatalfikr.com/Products)\n### A High Quality Laboratory Products\n[Discover more](https://www.karmatalfikr.com/Products)\n#### What we’re offering\n## Feature Products\n![](https://www.karmatalfikr.com/assets/images/products/q1.jpg)\n### [DENSITY ANALYZER BELPYCNO & BELPYCNO L](https://www.karmatalfikr.com/Products/Belpycno)\n[ ](https://www.karmatalfikr.com/Products/Belpycno)\n![](https://www.karmatalfikr.com/assets/images/Distributor/pic_belcat-ll.png)\n### [CATALYST ANALYZER\nBELCAT II](https://www.karmatalfikr.com/Products/Belcat%20II)\n[ ](https://www.karmatalfikr.com/Products/Belcat%20II)\n![](https://www.karmatalfikr.com/assets/images/Distributor/pic_belpore-hp.png)\n### [MERCURY INTRUSION-POROSIMETERS BELPORE](https://www.karmatalfikr.com/Products/Belpore)\n[ ](https://www.karmatalfikr.com/Products/Belpore)\n![](https://www.karmatalfikr.com/assets/images/Distributor/pic_belprep-vac-II.png)\n### [VACUUM DEGASSER BELPREP VAC](https://www.karmatalfikr.com/Products/Belprep)\n[ ](https://www.karmatalfikr.com/Products/Belprep)\n![](https://www.karmatalfikr.com/assets/images/Distributor/pic_belsorp-max-II.png)\n### [MICROTRAC BELSORP MAX II](https://www.karmatalfikr.com/Products/Belsorp_max_II)\n[ ](https://www.karmatalfikr.com/Products/Belsorp_max_II)\n![](https://www.karmatalfikr.com/assets/images/Distributor/pic_belsorp-mini-x.png)\n### [MICROTRAC BELSORP MINI X](https://www.karmatalfikr.com/Products/Belsorp_min_x)\n[ ](https://www.karmatalfikr.com/Products/Belsorp_min_x)\n![](https://www.karmatalfikr.com/assets/images/service/cpd.png)\n### [Autosamdri®-931 1.25\" Chamber](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n[ ](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* ### We’re Professional\n* ### Delivery on Time\n* ### Provide Quality Materials\n#### Why Choose Us\n## We Provide Best Products with long time Gurantee\nWe are partnered with the world’s best organizations like Ted Pella inc, Mastech Group, Microtrac Retsch GmbH, and many more. They provide us with the original, authentic, and fresh items for Sell. We can also provide after Service Support of all the Products.\n### Our Partners\n[Discover more](https://www.karmatalfikr.com/Partners)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-1.png)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-2.png)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-3.jpg)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-4.jpg)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-5.png)\n![](https://www.karmatalfikr.com/assets/images/brand/brand-1-6.png)\n![](https://www.karmatalfikr.com/assets/images/brand/logo8.png)\n![](https://www.karmatalfikr.com/assets/images/brand/logo9.png)\n![](https://www.karmatalfikr.com/assets/images/brand/logo10.png)\n![](https://www.karmatalfikr.com/assets/images/brand/logo11.png)\n[![](https://www.karmatalfikr.com/assets/images/resources/logo.png)](https://www.karmatalfikr.com)\nSolution provider to Analytical, Nanotechnology, Environmental,Pharmaceuticals & Petroleum testing industries\n## Explore\n* [Home](https://www.karmatalfikr.com)\n* [About Us](https://www.karmatalfikr.com/About)\n* [Our Partners](https://www.karmatalfikr.com/Partners)\n* [Contact Us](https://www.karmatalfikr.com/Contact)\n## Contact Us\nsend Us Enquiry\n* Sales@karmatalfikr.com\n* [+966541441244](tel:966541441244)\n© Copyright 2022 by [Karmat Alfikr Trading](https://www.karmatalfikr.com)\n[](https://www.karmatalfikr.com/)\n[![](https://www.karmatalfikr.com/assets/images/resources/logo.png)](https://www.karmatalfikr.com)\n* [Home](https://www.karmatalfikr.com)\n* [Products](https://www.karmatalfikr.com/Products)\n* [Particle Characterization](https://www.karmatalfikr.com/Products/Particle%20Characterization)\n* [Critical Point Dryers](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [Environmental Tester ](https://www.karmatalfikr.com/Products/Environmental%20Tester)\n* [Elemental Analyzers Machine](https://www.karmatalfikr.com/Products/Elemental%20Analyzers%20Machines)\n* [Pharmaceuticals and Petroleum Products](https://www.karmatalfikr.com/Products/critical%20point%20dryers)\n* [SEM AND TEM Items](https://www.karmatalfikr.com/Products/sen%20and%20tem)\n* [Heat Treatment ](https://www.karmatalfikr.com/Products/Heat%20Treatment)\n* [Materialography Testing ](https://www.karmatalfikr.com/Products/Materialography%20&%20Hardness%20Testing)\n* [Our Partners](https://www.karmatalfikr.com/Partners)\n* [About Us](https://www.karmatalfikr.com/About)\n* [Contact](https://www.karmatalfikr.com/Contact)\n* Sales@karmatalfikr.com\n* [+966541441244](tel:966541441244)",
+    "website_metadata": {
+        "url": "https://www.karmatalfikr.com/",
+        "content_length": 7604
+    },
+    "linkedin": "https://linkedin.com/in/alfikri-alfikri",
+    "emails": [
+        "sales@karmatalfikr.com"
+    ],
+    "phones": [
+        "+966541441244",
+        "966541441244)"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\alfikr.json",
+    "normalized_name": "alfikr",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "karmatalfikr.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/alfikri-alfikri",
+                    "normalized": "https://linkedin.com/in/alfikri-alfikri",
+                    "username": "alfikri-alfikri",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "karmatalfikr.com"
+                ]
+            },
+            "official": [
+                "sales@karmatalfikr.com"
+            ],
+            "details": [
+                {
+                    "original": "sales@karmatalfikr.com",
+                    "normalized": "sales@karmatalfikr.com",
+                    "domain": "karmatalfikr.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "sales@karmatalfikr.com",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 0,
+            "removed": 2,
+            "duplicates": 0,
+            "invalid": [
+                "+966541441244",
+                "966541441244"
+            ]
+        }
+    }
+}

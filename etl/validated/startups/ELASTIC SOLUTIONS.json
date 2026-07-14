@@ -1,0 +1,337 @@
+{
+    "entity_type": "startup",
+    "name": "ELASTIC SOLUTIONS",
+    "description": "ELASTIC SOLUTIONS (2021)\nSecteur d’activité / Sector : Agritech\nelastic-solutions.com\nFondateur / Founder\nE-mail\nAdresse / Address\nKOUKA ABDELMONAM / AKROUT AYED \nabk@elastic-solutions.com\nPépinière Technopole Elghazela 2088 Ariana\nActivité Nous proposons une suite de plateformes \n(Web, mobile, IoT, AI, BigData) pour l'agriculture 3.0 et \nl'industrie 4.0.\nAspect Technologique Nous travaillant sur le monitoring et \nl'analyse comportementale en utilisant l'IA.\nOriginalité l'analyse comportementale en utilisant l'IA.\nActivity We propose a suite of platforms (Web, mobile, \nIoT, AI, BigData) for Agriculture 3.0 and Industry 4.0.\nTechnological Aspect We are working on monitoring and \nbehavioral analysis using AI.\nOriginality behavioral analyzes using AI.\nFR\nEN",
+    "tagline": "We Make Digital Agriculture & IoT technologies",
+    "industry": "Agritech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://elastic-solutions.com",
+    "linkedin_url": "https://www.linkedin.com/company/elasticsolutionstn",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/elastic-solutions",
+        "facebook": "https://facebook.com/ElasticSolutionsTN"
+    },
+    "contact": {
+        "emails": [
+            "abk@elastic-solutions.com"
+        ],
+        "phones": [
+            {
+                "number": "+21636365558",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/elastic-solutions"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Elastic-Watch",
+            "description": "An IoT platform allowing the monitoring and control of environment variables, fire detection, and vandalism acts using sensors, cameras and AI.",
+            "category": ""
+        },
+        {
+            "name": "Elastic-Agri",
+            "description": "A customized ERP for farmers containing modules for human resources, finance and stock management, accounting, animal husbandry, planting, and machines management.",
+            "category": ""
+        },
+        {
+            "name": "Elastic-Analytica",
+            "description": "Analytics and data visualization platform to store and process Big Data mainly coming from the IoT platform Elastic-Watch.",
+            "category": ""
+        },
+        {
+            "name": "Elastic-Automata",
+            "description": "AI platform that automates IoT devices based on information from Elastic-Analytica after ML processing.",
+            "category": ""
+        },
+        {
+            "name": "Elastic-Reality",
+            "description": "AR/VR platform allowing the expansion of industry and agriculture to another dimension, mainly in terms of remote management.",
+            "category": ""
+        },
+        {
+            "name": "IoT platform",
+            "description": "Allows monitoring and control of IoT devices",
+            "category": "IoT"
+        },
+        {
+            "name": "Customized ERP for farmers",
+            "description": "ERP system with multiple modules tailored for farmers",
+            "category": "ERP"
+        },
+        {
+            "name": "Analytics platform",
+            "description": "Stores and processes Big Data from IoT platform",
+            "category": "Analytics"
+        },
+        {
+            "name": "AI platform",
+            "description": "Automates IoT devices using machine learning processing",
+            "category": "AI"
+        },
+        {
+            "name": "AR/VR platform",
+            "description": "Enables remote management in agriculture and industry via AR/VR",
+            "category": "AR/VR"
+        }
+    ],
+    "services": [
+        "software",
+        "hardware",
+        "process",
+        "ideas"
+    ],
+    "technologies": [
+        "IoT",
+        "Big Data",
+        "AI",
+        "VR",
+        "AR",
+        "Design Thinking"
+    ],
+    "customer_segments": [
+        "Agriculture"
+    ],
+    "target_market": "Agriculture 3.0",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 91,
+        "level": "High"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:18:00.291272",
+        "website_enriched": true,
+        "tavily_results": 2,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 10,
+        "services_count": 4,
+        "technologies_count": 6,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "elastic-solutions.com"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[ ![person graphic](https://elastic-solutions.com/assets/images/logo-elastic-solutions.png) ](https://elastic-solutions.com/)\n* [Home](https://elastic-solutions.com/#top)\n* [About Us](https://elastic-solutions.com/#about)\n* [Services](https://elastic-solutions.com/#services)\n* [Next platforms](https://elastic-solutions.com/#portfolio)\n* [Message Us](https://elastic-solutions.com/#contact)\n* [Contact Now](https://elastic-solutions.com/#contact)\nMenu\n* [Facebook](https://www.facebook.com/ElasticSolutionsTN/)\n* [Linkedin](https://www.linkedin.com/company/elasticsolutionstn)\n###### Welcome to Elastic-Solutions\n## We Make _Digital Agriculture_ & IoT technologies\nA Rapid-application development (RAD) startup, providing Smart platforms serving mainly Agriculture 3.0, based on IoT technologies. .\n![](https://elastic-solutions.com/assets/images/agri.jpg)\n![](https://elastic-solutions.com/assets/images/agri2.jpg)\n![](https://elastic-solutions.com/assets/images/agri3.png)\n![](https://elastic-solutions.com/assets/images/agri4.jpg)\n![person graphic](https://elastic-solutions.com/assets/images/about-left-image.png)\n![reporting](https://elastic-solutions.com/assets/images/service-icon-01.png)\n#### Solution oriented\nWe are providing solutions, it could be software, hardware, process as well as ideas!\n![](https://elastic-solutions.com/assets/images/service-icon-02.png)\n#### Business oriented\nOur solutions will be developed based on real business need, based on Design Thinking methodology\n![](https://elastic-solutions.com/assets/images/service-icon-03.png)\n#### Innovation oriented\nWe provide Smart platforms based on the most innovative trends (Iot, Big Data, AI, VR, AR…)\n##  [_Elastic_ -Watch](https://ew.tn) A PoC is ready and deployed for some early tester customers\n[Demo PoC](https://demo.ew.tn)\nThis is our second platform, an IoT platform allowing the monitoring and control of:\n- environment variables (such as temperature, moisture, soil salinity, water salinity...)\n- fire detection via sensors, cameras and AI\n- vandalism acts (theft, harmful animals, physical harm by human...) using cameras and advanced AI algorithms\n##  _Elastic_ -Agri A PoC is ready and deployed as demo\n[Demo PoC](https://elastic-agri.elastic-solutions.com/public/)\nThis is our first platform, a customized ERP for farmers, it contains multiple modules:\n- Human resources\n- Finance and stock management\n- Accounting\n- Animal Husbandry management\n- Planting management\n- Machines management ...\n## Next platforms\n#### Elastic-Analytica\nwill be our analytics and data visualization platform to store and process Big Data mainly coming from the IoT platform Elastic-Watch\n![](https://elastic-solutions.com/assets/images/portfolio-image.png)\n#### Elastic-Automata\nwill be our AI platform, that will automate IoT devices based on information coming from Elastic-Analytica after ML processing\n![](https://elastic-solutions.com/assets/images/portfolio-image.png)\n#### Elastic-Reality\nwill be our AR/VR platform allowing the expansion of Industry and Agriculture to another dimension, mainly in terms of remote management\n![](https://elastic-solutions.com/assets/images/portfolio-image.png)\n## Feel Free To Send Us\n#### For any enquiry, Call Us:  [+216 36 365 558](https://elastic-solutions.com/)\nSend Message\n![](https://elastic-solutions.com/assets/images/contact-decoration.png)\n© Copyright 2021 Elastic-Solutions Co. All Rights Reserved.\nPowered By: [Elastic-Solutions](https://elastic-solutions.com/)",
+    "website_metadata": {
+        "url": "https://elastic-solutions.com",
+        "content_length": 3491
+    },
+    "linkedin": "https://www.linkedin.com/company/elastic-solutions",
+    "external_profiles": {
+        "website": "https://elastic-solutions.com",
+        "linkedin": "https://www.linkedin.com/company/elastic-solutions"
+    },
+    "emails": [
+        "abk@elastic-solutions.com"
+    ],
+    "phones": [
+        "+216 36 365 558"
+    ],
+    "tavily": {
+        "query": "ELASTIC SOLUTIONS",
+        "answer": "Elastic Solutions is a software development company founded in 2013, headquartered in Houston, Texas, focusing on B2B marketing and lead generation. Wellfound is a startup based in New York City, focusing on startup discovery. Elastic, another company, is known for its data analytics platform.",
+        "results_count": 2,
+        "urls": [
+            "https://www.linkedin.com/company/elastic-solutions",
+            "https://elastic-solutions.com"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\elastic_solutions.json",
+    "normalized_name": "elastic solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "elastic-solutions.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/elastic-solutions",
+                    "normalized": "https://linkedin.com/company/elastic-solutions",
+                    "username": "elastic-solutions",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/ElasticSolutionsTN",
+                    "normalized": "https://facebook.com/ElasticSolutionsTN",
+                    "username": "ElasticSolutionsTN",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "elastic-solutions.com"
+                ]
+            },
+            "official": [
+                "abk@elastic-solutions.com"
+            ],
+            "details": [
+                {
+                    "original": "abk@elastic-solutions.com",
+                    "normalized": "abk@elastic-solutions.com",
+                    "domain": "elastic-solutions.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "abk@elastic-solutions.com",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 1,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "name": "African Trade Insurance Agency",
+    "description": "A multilateral investment guarantee institution owned by African countries and institutional shareholders, providing investment/political risk insurance and capable of insuring equity and debt transactions.",
+    "organization_type": "Multilateral Investment Guarantee Institution",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "website": "https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde",
+    "linkedin": "https://linkedin.com/company/african-trade-insurance-agency",
+    "investment_focus": [
+        "Investment risk insurance",
+        "Political risk insurance"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.africa-newsroom.com/press/african-trade-and-investment-development-insurance-atidi-marks-25-years-of-impact-at-its-2026-annual-general-meeting?lang=en",
+        "linkedin": "https://ke.linkedin.com/company/african-trade-insurance-agency"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle",
+        "facebook": "https://facebook.com/sharer/sharer.php",
+        "twitter": "https://twitter.com/intent/tweet"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T15:06:23.653340+00:00",
+        "website_enriched": true,
+        "tavily_results": 17,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "African Trade Insurance Agency",
+        "answer": "",
+        "results_count": 17,
+        "urls": [
+            "https://linkedin.com/company/african-trade-insurance-agency",
+            "https://www.atidi.africa/about-us/who-we-are/",
+            "https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf",
+            "https://en.wikipedia.org/wiki/African_Trade_and_Investment_Development_Insurance",
+            "https://www.iisd.org/credit-enhancement-instruments/institution/african-trade-insurance-agency/",
+            "https://ke.linkedin.com/company/african-trade-insurance-agency",
+            "https://uia.org/s/or/en/1100045872",
+            "https://www.linkedin.com/in/linda-bwakira-701958a1",
+            "https://www.linkedin.com/in/linet-nyachionjeka-ca-z-b7b03232",
+            "https://www.linkedin.com/in/philip-mulaki-88864023a",
+            "https://tracxn.com/d/companies/africantradeinsuranceagency/__uoRlQBd8Td8IswWkKgi2wi48UYANfRotdX6E-eltN14",
+            "https://en.wikipedia.org/wiki/African_Trade_Insurance_Agency",
+            "https://www.atidi.africa/wp-content/uploads/2023/07/ATI-SP-Report-FY2022.pdf",
+            "https://theorg.com/org/african-trade-insurance-agency",
+            "https://atidi.africa/",
+            "https://www.atidi.africa/wp-content/uploads/2023/12/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf",
+            "https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde",
+            "https://www.devex.com/organizations/african-trade-insurance-agency-ati-38653",
+            "https://www.africa-newsroom.com/press/african-trade-and-investment-development-insurance-atidi-marks-25-years-of-impact-at-its-2026-annual-general-meeting?lang=en"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 2,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 3,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": true,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "Products\nDatasets\n[Indian Legal Entity](https://www.thecompanycheck.com/products/databases/indian-legal-entities) [People Database](https://www.thecompanycheck.com/products/databases/people) [Charges](https://www.thecompanycheck.com/products/databases/charges) [Regulatory Alerts](https://www.thecompanycheck.com/products/databases/regulatory-alerts) [Litigations](https://www.thecompanycheck.com/products/databases/litigations) [Detailed Financials](https://www.thecompanycheck.com/products/databases/detailed-financials) [Credit Ratings](https://www.thecompanycheck.com/products/databases/credit-ratings) [Global Brands](https://www.thecompanycheck.com/products/databases/global-brands) [Funding Rounds](https://www.thecompanycheck.com/products/databases/funding-rounds) [Acquisitions](https://www.thecompanycheck.com/products/databases/acquisitions) [Investors Database](https://www.thecompanycheck.com/products/databases/investors) [IPO & Listings](https://www.thecompanycheck.com/products/databases/ipo-listings) [News](https://www.thecompanycheck.com/products/databases/news) [Company Report](https://www.thecompanycheck.com/product/company-report)\nSolutions\n[Due Diligence](https://www.thecompanycheck.com/products/solutions/due-diligence) [KYC & Screening](https://www.thecompanycheck.com/products/solutions/kyc-screening) [Market Research](https://www.thecompanycheck.com/products/solutions/market-research) [Monitoring](https://www.thecompanycheck.com/products/solutions/monitoring) [Investment & Deal Intelligence](https://www.thecompanycheck.com/products/solutions/investment-deal-intelligence)\n[More database products](https://www.thecompanycheck.com/products/databases) [View all solutions](https://www.thecompanycheck.com/products/solutions)\nInsights\n[Financial Insights](https://www.thecompanycheck.com/insights/financials) [Ownership & Control](https://www.thecompanycheck.com/insights/ownership-control) [Charges & Borrowings](https://www.thecompanycheck.com/insights/charges-borrowings) [Compliance & Risk](https://www.thecompanycheck.com/insights/compliance-risk) [Litigation](https://www.thecompanycheck.com/insights/litigation) [Peers & Competitors](https://www.thecompanycheck.com/insights/peers-competitors) [Deals & Listings](https://www.thecompanycheck.com/insights/deals-listings) [Business Overview](https://www.thecompanycheck.com/insights/business-overview)\n[View all insights](https://www.thecompanycheck.com/insights)\nCompany\n[About us](https://www.thecompanycheck.com/about-us) [Careers](https://www.thecompanycheck.com/company/careers) [Contact us](https://www.thecompanycheck.com/contact-us)\n[Pricing](https://www.thecompanycheck.com/pricing) [Sign In](https://platform.thecompanycheck.com/account) [Start for Free](https://platform.thecompanycheck.com/signup)\n[ The Company Check ](https://www.thecompanycheck.com/)\n[ Products ](https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde)\nDatasets\n[ Indian Legal Entity Verified MCA & regulatory profiles ](https://www.thecompanycheck.com/products/databases/indian-legal-entities) [ People Database Directors, KMP & signatories ](https://www.thecompanycheck.com/products/databases/people) [ Charges Borrowings & secured filings ](https://www.thecompanycheck.com/products/databases/charges) [ Regulatory Alerts MCA, RBI & compliance updates ](https://www.thecompanycheck.com/products/databases/regulatory-alerts) [ Litigations Court cases & legal exposure ](https://www.thecompanycheck.com/products/databases/litigations) [ Detailed Financials Balance sheet, P&L & ratios ](https://www.thecompanycheck.com/products/databases/detailed-financials) [ Credit Ratings Agency ratings & outlook ](https://www.thecompanycheck.com/products/databases/credit-ratings) [ Global Brands Brands across markets ](https://www.thecompanycheck.com/products/databases/global-brands) [ Funding Rounds VC, PE & growth capital ](https://www.thecompanycheck.com/products/databases/funding-rounds) [ Acquisitions M&A & transaction history ](https://www.thecompanycheck.com/products/databases/acquisitions) [ Investors Database Funds, angels & portfolios ](https://www.thecompanycheck.com/products/databases/investors) [ IPO & Listings Public markets & tickers ](https://www.thecompanycheck.com/products/databases/ipo-listings) [ News Signals, events & coverage ](https://www.thecompanycheck.com/products/databases/news) [ Company Report Comprehensive business & compliance overview ](https://www.thecompanycheck.com/product/company-report)\nSolutions\n[ Due Diligence Company risk, compliance & transaction readiness ](https://www.thecompanycheck.com/products/solutions/due-diligence) [ KYC & Screening AML, regulatory checks & entity verification ](https://www.thecompanycheck.com/products/solutions/kyc-screening) [ Market Research Sector analysis, competitors & insights ](https://www.thecompanycheck.com/products/solutions/market-research) [ Monitoring Real-time alerts & change tracking ](https://www.thecompanycheck.com/products/solutions/monitoring) [ Investment & Deal Intelligence Funding, acquisitions, IPOs & investors ](https://www.thecompanycheck.com/products/solutions/investment-deal-intelligence)\n[More database products](https://www.thecompanycheck.com/products/databases) [View all solutions](https://www.thecompanycheck.com/products/solutions)\n[ Insights ](https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde)\nInsights\n[ Financial Insights Revenue trends, profitability & ratios ](https://www.thecompanycheck.com/insights/financials) [ Ownership & Control Shareholding patterns & governance ](https://www.thecompanycheck.com/insights/ownership-control) [ Charges & Borrowings Debt analysis & leverage ratios ](https://www.thecompanycheck.com/insights/charges-borrowings) [ Compliance & Risk Regulatory status & risk assessment ](https://www.thecompanycheck.com/insights/compliance-risk) [ Litigation Legal case analysis & trends ](https://www.thecompanycheck.com/insights/litigation) [ Peers & Competitors Competitive analysis & benchmarking ](https://www.thecompanycheck.com/insights/peers-competitors) [ Deals & Listings M&A insights & IPO tracking ](https://www.thecompanycheck.com/insights/deals-listings) [ Business Overview Company profile & operations ](https://www.thecompanycheck.com/insights/business-overview)\n[View all insights](https://www.thecompanycheck.com/insights)\n[ Company ](https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde)\n[ About us ](https://www.thecompanycheck.com/about-us) [ Careers ](https://www.thecompanycheck.com/company/careers) [ Contact us ](https://www.thecompanycheck.com/contact-us)\n[Pricing](https://www.thecompanycheck.com/pricing)\nCompanies People 🔒 Brands 🔒 Websites 🔒\n* All\n* Legal Entities\n* People\nLegal Entities (Indian)\nPeople\nLegal Entities (Indian)\nPeople\n🔒\nPeople & brand search is a premium feature\nSearch 6.4M+ directors & people, 3.2M+ global brands and company websites, with a free account.\n[Create a free account →](https://platform.thecompanycheck.com/signup)\n[Sign In](https://platform.thecompanycheck.com/account) [Start for Free](https://platform.thecompanycheck.com/signup)\n1. [Home](https://www.thecompanycheck.com/ \"Go to Home page\")\n2. [Companies](https://www.thecompanycheck.com/sectors \"Browse Companies\")\n3. African Trade Insurance Agency\n![African Trade Insurance Agency logo](https://img.thecompanycheck.com/b/ati_aca_logo.webp)\n#  African Trade Insurance Agency [ ](https://ati-aca.org \"Visit African Trade Insurance Agency website\")\nNairobi, Kenya Founded: 2001 • Age: 25 yrs\n[ WhatsApp ](https://api.whatsapp.com/send?text=African%20Trade%20Insurance%20Agency%20%E2%80%94%20Company%20Profile%20|%20The%20Company%20Check%20%20%20https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde) Email  [ Facebook ](https://www.facebook.com/sharer/sharer.php?u=https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde) [ Twitter ](https://twitter.com/intent/tweet?url=https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde&text=African%20Trade%20Insurance%20Agency%20\\(Nairobi,%20Kenya\\)%20-%20Secured%20$24.8M%20total%20funding.%20Access%20investors,%20funding%20history,%20acquisitions,%20financial%20statements%20&...) [ LinkedIn ](https://www.linkedin.com/shareArticle?mini=true&url=https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde&title=African%20Trade%20Insurance%20Agency%20%E2%80%94%20Company%20Profile%20|%20The%20Company%20Check&summary=African%20Trade%20Insurance%20Agency%20\\(Nairobi,%20Kenya\\)%20-%20Secured%20$24.8M%20total%20funding.%20Access%20investors,%20funding%20history,%20acquisitions,%20financial%20statements%20&...&source=TheCompanyCheck) Copy URL\nProvider of investment and credit risk insurance solutions\n[ Request Access ](https://platform.thecompanycheck.com/account)\nReport Incorrect Data\nAnnual revenue **-** Latest available\nTotal funding **$24.8M** 2 rounds\nEmployees **-** Tracked headcount\nInvestors **2** Known backers\nProducts **3** Services tracked\nCompetitors **-** Brand Intelligence\nReport Incorrect Data\nYour name *\nPlease enter your name.\nEmail *\nPlease enter a valid email address.\nWork Phone *\nYour Country is**India**\n* ![Afghanistan](https://www.thecompanycheck.com/Images/Countryflag/Afganistan.png)Afghanistan**+93**\n* ![Albania](https://www.thecompanycheck.com/Images/Countryflag/Albania.png)Albania**+355**\n* ![Algeria](https://www.thecompanycheck.com/Images/Countryflag/Algeria.png)Algeria**+213**\n* ![American Samoa](https://www.thecompanycheck.com/Images/Countryflag/American%20Samoa.png)American Samoa**+1-684**\n* ![Andorra](https://www.thecompanycheck.com/Images/Countryflag/Andorra.png)Andorra**+376**\n* ![Angola](https://www.thecompanycheck.com/Images/Countryflag/Angola.png)Angola**+244**\n* ![Anguilla](https://www.thecompanycheck.com/Images/Countryflag/Anguilla.png)Anguilla**+1-264**\n* ![Antarctica](https://www.thecompanycheck.com/Images/Countryflag/Antarctica.png)Antarctica**+672**\n* ![Antigua and Barbuda](https://www.thecompanycheck.com/Images/Countryflag/Antigua%20and%20Barbuda.png)Antigua and Barbuda**+1-268**\n* ![Argentina](https://www.thecompanycheck.com/Images/Countryflag/Argentina.png)Argentina**+54**\n* ![Armenia](https://www.thecompanycheck.com/Images/Countryflag/Armenia.png)Armenia**+374**\n* ![Aruba](https://www.thecompanycheck.com/Images/Countryflag/Aruba.png)Aruba**+297**\n* ![Australia](https://www.thecompanycheck.com/Images/Countryflag/Australia.png)Australia**+61**\n* ![Austria](https://www.thecompanycheck.com/Images/Countryflag/Austria.png)Austria**+43**\n* ![Azerbaijan](https://www.thecompanycheck.com/Images/Countryflag/Azerbaijan.png)Azerbaijan**+994**\n* ![Bahamas](https://www.thecompanycheck.com/Images/Countryflag/Bahamas.png)Bahamas**+1-242**\n* ![Bahrain](https://www.thecompanycheck.com/Images/Countryflag/Bahrain.png)Bahrain**+973**\n* ![Bangladesh](https://www.thecompanycheck.com/Images/Countryflag/Bangladesh.png)Bangladesh**+880**\n* ![Barbados](https://www.thecompanycheck.com/Images/Countryflag/Barbados.png)Barbados**+1-246**\n* ![Belarus](https://www.thecompanycheck.com/Images/Countryflag/Belarus.png)Belarus**+375**\n* ![Belgium](https://www.thecompanycheck.com/Images/Countryflag/Belgium.png)Belgium**+32**\n* ![Belize](https://www.thecompanycheck.com/Images/Countryflag/Belize.png)Belize**+501**\n* ![Benin](https://www.thecompanycheck.com/Images/Countryflag/Benin.png)Benin**+229**\n* ![Bermuda](https://www.thecompanycheck.com/Images/Countryflag/Bermuda.png)Bermuda**+1-441**\n* ![Bhutan](https://www.thecompanycheck.com/Images/Countryflag/Bhutan.png)Bhutan**+975**\n* ![Bolivia](https://www.thecompanycheck.com/Images/Countryflag/Bolivia.png)Bolivia**+591**\n* ![Bosnia and Herzegovina](https://www.thecompanycheck.com/Images/Countryflag/Bosnia%20and%20Herzegovina.png)Bosnia and Herzegovina**+387**\n* ![Botswana](https://www.thecompanycheck.com/Images/Countryflag/Botswana.png)Botswana**+267**\n* ![Brazil](https://www.thecompanycheck.com/Images/Countryflag/Brazil.png)Brazil**+55**\n* ![British Indian Ocean Territory](https://www.thecompanycheck.com/Images/Countryflag/British%20Indian%20Ocean%20Territory.png)British Indian Ocean Territory**+246**\n* ![British Virgin Islands](https://www.thecompanycheck.com/Images/Countryflag/British%20Virgin%20Islands.png)British Virgin Islands**+1-284**\n* ![Brunei](https://www.thecompanycheck.com/Images/Countryflag/Brunei.png)Brunei**+673**\n* ![Bulgaria](https://www.thecompanycheck.com/Images/Countryflag/Bulgaria.png)Bulgaria**+359**\n* ![Burkina Faso](https://www.thecompanycheck.com/Images/Countryflag/Burkina%20Faso.png)Burkina Faso**+226**\n* ![Burundi](https://www.thecompanycheck.com/Images/Countryflag/Burundi.png)Burundi**+257**\n* ![Cambodia](https://www.thecompanycheck.com/Images/Countryflag/Cambodia.png)Cambodia**+855**\n* ![Cameroon](https://www.thecompanycheck.com/Images/Countryflag/Cameroon.png)Cameroon**+237**\n* ![Canada](https://www.thecompanycheck.com/Images/Countryflag/Canada.png)Canada**+1**\n* ![Cape Verde](https://www.thecompanycheck.com/Images/Countryflag/Cape%20Verde.png)Cape Verde**+238**\n* ![Cayman Islands](https://www.thecompanycheck.com/Images/Countryflag/Cayman%20Islands.png)Cayman Islands**+1-345**\n* ![Central African Republic](https://www.thecompanycheck.com/Images/Countryflag/Central%20African%20Republic.png)Central African Republic**+236**\n* ![Chad](https://www.thecompanycheck.com/Images/Countryflag/Chad.png)Chad**+235**\n* ![Chile](https://www.thecompanycheck.com/Images/Countryflag/Chile.png)Chile**+56**\n* ![China](https://www.thecompanycheck.com/Images/Countryflag/China.png)China**+86**\n* ![Christmas Island](https://www.thecompanycheck.com/Images/Countryflag/Christmas%20Island.png)Christmas Island**+61**\n* ![Cocos Islands](https://www.thecompanycheck.com/Images/Countryflag/Cocos%20Islands.png)Cocos Islands**+61**\n* ![Colombia](https://www.thecompanycheck.com/Images/Countryflag/Colombia.png)Colombia**+57**\n* ![Comoros](https://www.thecompanycheck.com/Images/Countryflag/Comoros.png)Comoros**+269**\n* ![Cook Islands](https://www.thecompanycheck.com/Images/Countryflag/Cook%20Islands.png)Cook Islands**+682**\n* ![Costa Rica](https://www.thecompanycheck.com/Images/Countryflag/Costa%20Rica.png)Costa Rica**+506**\n* ![Croatia](https://www.thecompanycheck.com/Images/Countryflag/Croatia.png)Croatia**+385**\n* ![Cuba](https://www.thecompanycheck.com/Images/Countryflag/Cuba.png)Cuba**+53**\n* ![Curacao](https://www.thecompanycheck.com/Images/Countryflag/Curacao.png)Curacao**+599**\n* ![Cyprus](https://www.thecompanycheck.com/Images/Countryflag/Cyprus.png)Cyprus**+357**\n* ![Czech Republic](https://www.thecompanycheck.com/Images/Countryflag/Czech%20Republic.png)Czech Republic**+420**\n* ![Democratic Republic of the Congo](https://www.thecompanycheck.com/Images/Countryflag/Democratic%20Republic%20of%20the%20Con",
+    "website_metadata": {
+        "url": "https://www.thecompanycheck.com/company/b/african-trade-insurance-agency/valoqendniitk7qde",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "Provider of investment and credit risk insurance solutions",
+    "industry": "Insurance",
+    "headquarters": "Nairobi, Kenya",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde&title=African+Trade+Insurance+Agency+%E2%80%94+Company+Profile+%7C+The+Company+Check&summary=African+Trade+Insurance+Agency+%28Nairobi%2C+Kenya%29+-+Secured+%2424.8M+total+funding.+Access+investors%2C+funding+history%2C+acquisitions%2C+financial+statements+&...=&source=TheCompanyCheck",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "geographic_focus": [
+        "Africa"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 68,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\african_trade_insurance_agency.json",
+    "normalized_name": "african trade insurance agency",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "thecompanycheck.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "twitter"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde&title=African+Trade+Insurance+Agency+%E2%80%94+Company+Profile+%7C+The+Company+Check&summary=African+Trade+Insurance+Agency+%5C%28Nairobi%2C+Kenya%5C%29+-+Secured+%2424.8M+total+funding.+Access+investors%2C+funding+history%2C+acquisitions%2C+financial+statements+&...=&source=TheCompanyCheck",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde",
+                    "normalized": "https://facebook.com/sharer/sharer.php",
+                    "username": "sharer",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde&text=African+Trade+Insurance+Agency+%28Nairobi%2C+Kenya%29+-+Secured+%2424.8M+total+funding.+Access+investors%2C+funding+history%2C+acquisitions%2C+financial+statements+",
+                    "normalized": "https://twitter.com/intent/tweet",
+                    "username": "intent",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Kenya",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Kenya",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Kenya",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Algeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

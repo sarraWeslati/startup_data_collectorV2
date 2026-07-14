@@ -1,0 +1,234 @@
+{
+    "entity": {
+        "name": "Efarms",
+        "description": "An agricultural focused fintech company that leverages technology and relationships to source investments for smallholder farmers.",
+        "organization_type": "",
+        "country": "Nigeria",
+        "city": "",
+        "website": "https://www.efarms.com.ng",
+        "linkedin": "https://ng.linkedin.com/company/e-farms01",
+        "investment_focus": [
+            "agriculture",
+            "fintech",
+            "smallholder farmer financing"
+        ],
+        "investment_stages": [],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "external_profiles": {
+            "website": "https://www.f6s.com/company/efarms",
+            "linkedin": "https://ng.linkedin.com/company/e-farms01"
+        },
+        "social_media": {},
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T17:16:41.921859+00:00",
+            "website_enriched": true,
+            "tavily_results": 18,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "tavily": {
+            "query": "Efarms",
+            "answer": "",
+            "results_count": 18,
+            "urls": [
+                "https://efarms.com.tr/",
+                "https://efarmsng.com/",
+                "https://efarms.com.tr/welcome/",
+                "https://www.efarms.in/",
+                "https://efarms.com.tr/hakkimizda/",
+                "https://ng.linkedin.com/company/e-farms01",
+                "https://linkedin.com/in/jill-madden-18b35016",
+                "https://linkedin.com/in/iwelu-ernie-97a65628",
+                "https://www.f6s.com/company/efarms",
+                "https://linkedin.com/company/e-farms01",
+                "https://tracxn.com/d/companies/efarms/__Sr8ROLb1nRo0U4_OKQDYEn4oG99pz0E0b4Y9CQBUz-A",
+                "https://linkedin.com/company/efarmsng",
+                "https://efarms.com.ng.siteindices.com/",
+                "https://efarms.com.tr/autonomiser-les-communautes-locales-comment-les-serres-efarms-stimulent-leducation-et-lemploi-agricoles/",
+                "https://efarmsng.com/about_us",
+                "https://myefarms.com/",
+                "https://www.do4africa.org/en/projets/e-farms-2/",
+                "https://www.aihitdata.com/company/032534AA/efarms/overview"
+            ]
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 0,
+            "investment_focus_count": 3,
+            "investment_stages_count": 0,
+            "geographic_focus_count": 1,
+            "partners_count": 0,
+            "team_members_count": 0,
+            "social_profiles": 1,
+            "founders_count": 0,
+            "leadership_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 0,
+                "linkedin": false,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "website_content": "![Icône pour eleme.adeex.com.ng](https://eleme.adeex.com.ng/favicon.ico)\n# eleme.adeex.com.ng\n## Vérification de sécurité en cours\nCe site utilise un service de sécurité pour se protéger contre les bots malveillants. Cette page s’affiche pendant que le site vérifie que vous n’êtes pas un bot.\n## Vérification réussie. En attente de la réponse de eleme.adeex.com.ng.\nRay ID: `a16f02985a24a55f`\nPerformances et sécurité par [Cloudflare](https://www.cloudflare.com?utm_source=challenge&utm_campaign=m)[Confidentialité](https://www.cloudflare.com/fr-fr/privacypolicy/)",
+        "website_metadata": {
+            "url": "https://www.efarms.com.ng",
+            "content_length": 565
+        },
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": ""
+        },
+        "founders": [],
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "industry": "Agriculture, Fintech",
+        "headquarters": "",
+        "linkedin_url": "https://ng.linkedin.com/company/e-farms01",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "sources": [],
+        "geographic_focus": [
+            "Nigeria"
+        ],
+        "validation": {
+            "is_african": true,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 63,
+            "level": "Medium"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\efarms.json",
+        "normalized_name": "efarms",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "com.ng",
+                "website_type": "official",
+                "social_profiles": 1,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 0,
+                    "valid": 0,
+                    "official": 0,
+                    "platforms": []
+                },
+                "details": {}
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "Nigeria",
+                "selected_source": "country",
+                "confidence": 1.0,
+                "report": {
+                    "count": 2,
+                    "candidates": [
+                        {
+                            "country": "Nigeria",
+                            "source": "country",
+                            "confidence": 1.0
+                        },
+                        {
+                            "country": "Nigeria",
+                            "source": "domain",
+                            "confidence": 0.8
+                        }
+                    ]
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

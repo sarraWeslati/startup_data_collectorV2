@@ -1,0 +1,260 @@
+{
+    "name": "Ernst & Young Cameroon",
+    "description": "A worldwide firm with proven tax capacities.",
+    "organization_type": "",
+    "country": "Cameroon",
+    "city": "",
+    "website": "https://www.ecaconseils.com/about",
+    "linkedin": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.ecaconseils.com/about",
+        "linkedin": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896",
+        "crunchbase": "https://www.crunchbase.com/organization/ernst-young",
+        "wellfound": "https://wellfound.com/location/cameroon",
+        "dealroom": "https://dealroom.co/countries/cameroon"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:18:26.539578+00:00",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Ernst & Young Cameroon",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://www.ecaconseils.com/about",
+            "https://www.ey.com/en_us/locations/cameroon",
+            "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-uk/legal-and-privacy/documents/ey-member-firms-and-affiliates-as-on-07-feb.pdf",
+            "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-ie/generic/documents/ey-member-firms-and-affiliates-at-08-september-2025.pdf",
+            "https://www.ey.com/es_es/locations/cameroon",
+            "https://linkedin.com/in/guy-bertrand-enyegue-489b3896",
+            "https://linkedin.com/in/sylvie-youtemba-537b02172",
+            "https://linkedin.com/in/ebong-caven-b0238468",
+            "https://linkedin.com/in/ndam-junior-acca-ba9349185",
+            "https://linkedin.com/in/moise-youngi-4915b06b",
+            "https://www.crunchbase.com/organization/ernst-young",
+            "https://www.businesslist.co.cm/company/132426/ernstyoung",
+            "https://www.ey.com/en_lv/locations/cameroon",
+            "https://www.africaintelligence.com/central-africa/2024/04/02/no-end-in-sight-to-internal-ey-wars-in-cameroon,110199229-art",
+            "https://www.ey.com/en_sy/locations/cameroon",
+            "https://www.ey.com/en_si/locations/cameroon",
+            "https://wellfound.com/location/cameroon",
+            "https://www.developmentaid.org/organizations/view/77194/eca-ernest-young",
+            "https://linkedin.com/in/esong-nnoko-339a6220",
+            "https://linkedin.com/in/medjo-theophile-parfait-629a9680",
+            "https://dealroom.co/countries/cameroon/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": true,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 6,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[![Logo ECA conseils](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb618f5/668d21ce2b6901b1bc376e4d_Logo-40px.png)](https://www.ecaconseils.com/)\n* [Free Consultation](https://www.ecaconseils.com/contact)\n* [Home](https://www.ecaconseils.com/)\n* [About](https://www.ecaconseils.com/about)\n* [Team](https://www.ecaconseils.com/team)\n* [Practice Areas](https://www.ecaconseils.com/practice-areas)\n* [Case Results](https://www.ecaconseils.com/case-results)\n* [News](https://www.ecaconseils.com/blog)\n* [Job offers](https://www.ecaconseils.com/job-offers)\n[Book Consultation](https://www.ecaconseils.com/contact)\n# About Our Firm\nECA TAX AND LEGAL and ECA S.A., formerly Ernst & Young Cameroon and ECA-Ernst & Young Cameroon, are leading firms in tax, legal, and audit services, offering expertise in M&A, international tax, and accounting solutions across Africa. With over 40 years of combined experience, our dedicated team of professionals provides global solutions to meet the diverse needs of our clients, recognized by multinational companies across the continent.\n[Book Consultation](https://www.ecaconseils.com/contact)[Learn More](https://www.ecaconseils.com/about#Achievements)\n![À propos de nous](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb618f5/677d9d3ab2921624928f6c01_Plan%20de%20travail%203-50.jpg)\n4\nPartners\n40+\nYears in business\n500+\nM&A cases handled\n20\nCountries covered\n## The Story Behind our Company\nECA TAX & LEGAL was founded in 2011 following Ernst & Young's return to Cameroon and a merger with a local firm, while ECA S.A. has been operating since 1984. Both entities joined the Ernst & Young network in 2011, adopting the names \"Ernst & Young Cameroon SARL\" and \"ECA-Ernst & Young Cameroon S.A.\" respectively, before rebranding to ECA TAX & LEGAL and ECA S.A. in October 2023, without any change in the continuity of their activities and in the provision of services to their clients.\n![Staff ECA](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb618f5/677e45d8fb4286d0a1370b0c_Plan%20de%20travail%202-50.jpg)\n![Tour ECA](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb618f5/677d9befc668b86639121ad4_Plan%20de%20travail%202-50.jpg)\n## Our Team\nMeet the minds behind ECA Conseils – a dedicated team of specialists whose combined expertise drives results and fosters long-term success for our clients.\n[![Pagop Joseph](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb61949/6787e4e4706e80b85ef78175_ECA-4.jpg) Pagop Joseph Partner ](https://www.ecaconseils.com/team/pagop-joseph)\n[![Hamadou Samira](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb61949/6787e5483c77f3cc76665de1_ECA-29.jpg) Hamadou Samira Partner ](https://www.ecaconseils.com/team/hamadou-samira-620eo)\n[![Ebong Caven](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb61949/6787eacb547128950d6deb69_ECA-2.jpg) Ebong Caven Director ](https://www.ecaconseils.com/team/ebong-caven)\n[See Entire Team](https://www.ecaconseils.com/team)\n## Request a Case Review Today!\nTake the next step towards success. Book a meeting with our specialists and start solving your challenges now.\n[Book Consultation](https://www.ecaconseils.com/contact)\n## Menu\n* [Home](https://www.ecaconseils.com/)\n* [About](https://www.ecaconseils.com/about)\n* [Team](https://www.ecaconseils.com/team)\n* [Practice Areas](https://www.ecaconseils.com/practice-areas)\n* [Case Results](https://www.ecaconseils.com/case-results)\n* [News](https://www.ecaconseils.com/blog)\n* [Job offers](https://www.ecaconseils.com/job-offers)\n* [Contact](https://www.ecaconseils.com/contact)\n## Subscribe to Our Newsletter\nStay informed and ahead of the curve ! Subscribe to our newsletter for the latest insights, updates, and expert advice on tax, legal, and audit matters.\nThanks for joining our newsletter.\nOops! Something went wrong.\n## Follow Us\n[](https://www.linkedin.com/company/ecaconseils)\n[![Logo ECA conseils](https://cdn.prod.website-files.com/668d0b2a5119f2d66fb618f5/668d21ce2b6901b1bc376e4d_Logo-40px.png)](https://www.ecaconseils.com/)\nCopyright © 2024 ECA Conseils | Designed and developed by [Finkeo Studio](https://www.finkeo.studio)\n[![](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com?utm_campaign=brandjs)",
+    "website_metadata": {
+        "url": "https://www.ecaconseils.com/about",
+        "content_length": 4361
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [
+        "Tax services",
+        "Legal services",
+        "Audit services",
+        "M&A",
+        "International tax",
+        "Accounting solutions"
+    ],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Tax, Legal and Audit Services",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/company/ecaconseils",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "Multinational companies across Africa",
+    "sources": [],
+    "phones": [
+        "2921624928",
+        "86639121",
+        "547128950"
+    ],
+    "geographic_focus": [
+        "Africa"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\ernst_young_cameroon.json",
+    "normalized_name": "ernst young cameroon",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "ecaconseils.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 5
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896",
+                    "normalized": "https://linkedin.com/in/guy-bertrand-enyegue-489b3896",
+                    "username": "guy-bertrand-enyegue-489b3896",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Cameroon",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Cameroon",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Cameroon",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "2921624928",
+                "86639121",
+                "547128950"
+            ]
+        }
+    }
+}

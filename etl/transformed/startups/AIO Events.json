@@ -1,0 +1,302 @@
+{
+    "entity_type": "startup",
+    "name": "AIO Events",
+    "description": "All-In-One Event Solutions - Speed up on-site operations with instant badge printing and smooth, contactless check-in.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2024",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://aio-events.com/home",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/aioeventsolutions"
+    },
+    "contact": {
+        "emails": [
+            "info@aio-events.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/aioeventsolutions"
+    },
+    "founders": [
+        {
+            "name": "Iyed Ben Massoud",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Oussama Errifi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Derouich Aymen",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Ali Baroudi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "Live streaming platform",
+            "description": "Live streaming platform",
+            "category": ""
+        },
+        {
+            "name": "Educational platform & eAcademy",
+            "description": "Educational platform & eAcademy",
+            "category": ""
+        },
+        {
+            "name": "All-In-One Event Solutions",
+            "description": "Speed up on-site operations with instant badge printing and smooth, contactless check-in.",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:01:21.676534",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "aio-events.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Nov-24"
+    },
+    "external_profiles": {
+        "website": "https://aio-events.com/home",
+        "linkedin": "https://linkedin.com/company/aioeventsolutions"
+    },
+    "tavily": {
+        "query": "AIO Events",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://aio-events.com/home",
+            "https://aio.events/",
+            "https://play.google.com/store/apps/details?hl=en_US&id=com.aio.aioevents",
+            "https://linkedin.com/company/aioeventsolutions",
+            "https://aio-events.com/about-us",
+            "https://sg.linkedin.com/company/aioeventsolutions",
+            "https://linkedin.com/in/iyed-ben-massoud-811786189",
+            "https://linkedin.com/in/hammie-dolly-367725173",
+            "https://linkedin.com/in/oussema-rifi-6389251a8",
+            "https://www.linkedin.com/products/aioeventsolutions-aio-virtual-hybrid-event-platform/",
+            "https://find-and-update.company-information.service.gov.uk/company/15177806",
+            "https://openregistry.sophymarine.com/insights/gb/15177806-aio-events-cic",
+            "https://aioeventgroup.com/",
+            "https://play.google.com/store/apps/details?id=com.aio.aioevents&hl=en_US",
+            "https://aio-events.com/engagement-features",
+            "https://apps.apple.com/us/app/aio-event/id1361497893"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[Skip to Content](https://aio-events.com/home#wrap)\n[ ![AIO-events.com](https://aio-events.com/web/image/website/2/logo/AIO-events.com?unique=9c1f87e) ](https://aio-events.com/)\n* [ Home ](https://aio-events.com/home)\n* [ Our solutions ](https://aio-events.com/home)\n* [ Customized event website ](https://aio-events.com/customized-event-website)\n* [ Event registration ](https://aio-events.com/registration-form)\n* [ Live streaming platform ](https://aio-events.com/live-streaming-platform)\n* [ Abstract management ](https://aio-events.com/abstract-management)\n* [ Event mobile app ](https://aio-events.com/event-mobile-app)\n* [ Check-in & badge printing ](https://aio-events.com/check-in-badge-printing)\n* [ Networking & engagement features ](https://aio-events.com/engagement-features)\n* [ Educational platform & eAcademy ](https://aio-events.com/educational-platform-eacademy)\n* [ Our work ](https://aio-events.com/our-work)\n* [ About us ](https://aio-events.com/about-us)\n* [ Contact us ](https://aio-events.com/contactus)\n* [ 0 ](https://aio-events.com/shop/cart)\n* [\n](tel:+1%20555-555-5556)\n* [Contact Us](https://aio-events.com/contactus)\n[ ![AIO-events.com](https://aio-events.com/web/image/website/2/logo/AIO-events.com?unique=9c1f87e) ](https://aio-events.com/)\n* [ 0 ](https://aio-events.com/shop/cart)\n* [ Home ](https://aio-events.com/home)\n* [ Our solutions ](https://aio-events.com/home)\n* [ Customized event website ](https://aio-events.com/customized-event-website)\n* [ Event registration ](https://aio-events.com/registration-form)\n* [ Live streaming platform ](https://aio-events.com/live-streaming-platform)\n* [ Abstract management ](https://aio-events.com/abstract-management)\n* [ Event mobile app ](https://aio-events.com/event-mobile-app)\n* [ Check-in & badge printing ](https://aio-events.com/check-in-badge-printing)\n* [ Networking & engagement features ](https://aio-events.com/engagement-features)\n* [ Educational platform & eAcademy ](https://aio-events.com/educational-platform-eacademy)\n* [ Our work ](https://aio-events.com/our-work)\n* [ About us ](https://aio-events.com/about-us)\n* [ Contact us ](https://aio-events.com/contactus)\n* [\n](tel:+1%20555-555-5556)\n* [Contact Us](https://aio-events.com/contactus)\n# Powering\n# Successful Events\nFully integrated event management solution\n[**Request a demo**](https://aio-events.com/contactus)\n### Customized event\n### website\n[Find out more](https://aio-events.com/customized-event-website)\n### Event\n### registration\n[Find out more](https://aio-events.com/registration-form)\n### Live streaming\n###  platform\n[Find out more](https://aio-events.com/live-streaming-platform)\n### Abstract\n###  management\n[Find out more](https://aio-events.com/abstract-management)\n### Event mobile\n### application\n[Find out more](https://aio-events.com/event-mobile-app)\n### Check-in &\n### badge printing\n[Find out more](https://aio-events.com/check-in-badge-printing)\n### Networking & engagement\n###  features\n[Find out more](https://aio-events.com/engagement-features)\n### Educational platform &\n###  eAcademy\n[Find out more](https://aio-events.com/educational-platform-eacademy)\nPrevious Next\n## All-In-One Event Solutions\nWe deliver exceptional **virtual, hybrid, and on-site event experiences** tailored to all stakeholders. Attendees enjoy engaging and interactive moments, sponsors and exhibitors benefit from **measurable ROI** and **insightful analytics** , and event managers gain peace of mind knowing everything is seamlessly handled.\nOur fully integrated solution is **secure** , 100% customizable, and designed to **scale effortlessly** to meet your event's unique needs.\n### Most popular features\nDiscover our latest developments catered to enhance your event experience.\n##### Registration tool\nSimplify attendee registration with our intuitive and highly customizable registration system.\n[Find out more](https://aio-events.com/registration-form)\n##### Abstract management\nEffortlessly collect, review, and manage submissions with our powerful abstract management module.\n[Find out more](https://aio-events.com/abstract-management)\n##### Event mobile app\nKeep participants connected and informed with a fully branded, interactive mobile event app.\n[Find out more](https://aio-events.com/event-mobile-app)\n##### Badge printing and check-in\nSpeed up on-site operations with instant badge printing and smooth, contactless check-in.\n[Find out more](https://aio-events.com/check-in-badge-printing)\n![](https://aio-events.com/web/image/16440-cb5f17da/AIO%20homepage%20%281%29.png)\n## Your project lifecycle with us\nOur dedicated team is ready to make your event a success.\n### Conceptualization\nLet's define your **target audience** and goals as we create your **customized** event platform.\n### Promotion\nLaunch your **registration** as our **dedicated team** supports you and your participants (speakers, delegates, exhibitors, etc.) all along the way.\n### During event\nSend push notifications through our **event app** to engage with your audience, boost networking between all stakeholders and follow **real-time data** on crowd movement.\n### Post-event\nGet your insights and data, gather participants' **feedback** and analyze your **generated leads**.\n## Your data, protected at every step\nWe take security seriously. As an **ISO 27001 accredited agency** and fully **GDPR compliant** , we guarantee that your event data is processed with the highest standards of confidentiality and integrity.\nFrom registration details to payment information, every interaction is safeguarded to ensure trust and peace of mind.\n![](https://aio-events.com/web/image/24406-0a4f5e2d/Website%20mockup.webp)\n> \" Thank you for making congress happen to such a high standard. We’ve had so much fantastic feedback from participants and partners! You have a wonderful team. \"\n> **International Council of Nurses**\n>  CEO of MyCompany\n> \" They completed all assignments on time and to a high standard. They have a strong design, technical, production and event management skills which brought our event to a new level of participants experience and engagement. \"\n> **Women Deliver**\n>  CCO of MyCompany\n> \" The collaboration was a resounding success, thanks to the dedicated efforts of their respective team members. The event surpassed expectations, and received positive feedback for its seamless execution, high-quality production, and engaging atmosphere. \"\n> **The World Bank**\n>  CCO of MyCompany\n> \" As a team, we are grateful for how you went over and beyond to help create a memorable experience for all our guests, speakers, and stakeholders. \"\n> **Norrsken Africa**\n>  Manager of MyCompany\n> \" We would like to extend our gratitude for the excellent job you and your colleagues did running IUMI 2025 so smoothly. Your organization and support created a wonderful experience for our delegates from around the world. \"\n> **International Union of Marine Insurance**\n>  Manager of MyCompany\nPrevious Next\n### Elevate your event journey today\nReady to embark on your event adventure? Get to know All-In-One Event Solutions today and let the show begin.\nContact us\n* * *\n##### **Useful Links**\n* [Home](https://aio-events.com/)\n* [About us](https://aio-events.com/home)\n* [Our Solutions](https://aio-events.com/our-solutions)\n* [Our Work](https://aio-events.com/our-work)\n* [Contact us](https://aio-events.com/contactus)\n* [Privacy Notice](https://aio-events.com/privacy-notice)\n##### **About us**\nWe deliver exceptional virtual, hybrid, and on-site event experiences tailored to everyone involved. Attendees enjoy engaging and interactive moments, sponsors and exhibitors benefit from measurable ROI and insightful analytics, and event managers gain peace of mind knowing everything is seamlessly handled.\nOur fully integrated solution is secure,100% customizable, and designed to scale effortlessly to meet your event's unique needs.\n##### **Connect with us**\n* info@aio-events.com\n* AIO Events **Europe** : [+41 21 320 12 90](tel:+41213201290)\n* AIO Events **Africa** : [+250 786 930 03](tel:+25078693003)\n* AIO Events **Asia** : [+65 3138 9779](tel:+6531389779)\n##### Follow us\n[ ](https://aio-events.com/website/social/linkedin) [ ](https://aio-events.com/website/social/instagram)\n**ISO/IEC 27001 certified in Information Security Management**\nCopyright © AIO Event Solutions\nWe use cookies to provide you a better user experience on this website. ﻿[﻿Cookie Policy﻿](https://aio-events.com/cookie-policy)﻿\n﻿[﻿Only essentials﻿](https://aio-events.com/home)﻿ ﻿[﻿I agree﻿](https://aio-events.com/home)﻿",
+    "website_metadata": {
+        "url": "https://aio-events.com/home",
+        "content_length": 8563
+    },
+    "linkedin": "https://linkedin.com/company/aioeventsolutions",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\aio_events.json",
+    "normalized_name": "aio events",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "aio-events.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/aioeventsolutions",
+                    "normalized": "https://linkedin.com/company/aioeventsolutions",
+                    "username": "aioeventsolutions",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "aio-events.com"
+                ]
+            },
+            "official": [
+                "info@aio-events.com"
+            ],
+            "details": [
+                {
+                    "original": "info@aio-events.com",
+                    "normalized": "info@aio-events.com",
+                    "domain": "aio-events.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "info@aio-events.com",
+    "quality": {
+        "phones": {
+            "total": 7,
+            "valid": 0,
+            "removed": 7,
+            "duplicates": 0,
+            "invalid": [
+                "205555555556",
+                "+41213201290",
+                "+41213201290",
+                "+25078693003",
+                "+25078693003",
+                "+6531389779",
+                "+6531389779"
+            ]
+        }
+    }
+}

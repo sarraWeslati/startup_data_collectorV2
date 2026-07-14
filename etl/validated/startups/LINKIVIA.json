@@ -1,0 +1,289 @@
+{
+    "entity_type": "startup",
+    "name": "LINKIVIA",
+    "description": "21\nAPII / CIDT – SEPTEMBER 2022\nLINKIVIA (2020)\nSecteur d’activité / Sector : Linkivia\nlinkivia.com\nFondateur / Founder\nE-mail\nAdresse / Address\nKHADIJA ATTIA BEN ANAYA / NAOUFEL NABLI\nkhadijaattia@linkivia.com\nPépinière des entreprises Sousse TEC 4023 Sousse\nActivité Linkivia met en relation les laboratoires de \nbiologie médicale dans une plateforme web multi face \nafin de développer et digitaliser un réseau d’échange \nprofessionnel \nleur \npermettant \nde \nmaximiser \nleurs \nproductivité et d’optimiser leurs coûts via des outils \ntechnologiques. \nAspect Technologique Une plateforme web de mise en \nrelation en mode SAAS; Utilisation des capteurs IOT pour \nla traçabilité en temps réel.\nOriginalité créer un réseau d'échange inter-labo avec des \nprocessus automatisés et des outils digitaux.\nActivity Linkivia connects medical laboratories in \na multi-faceted web platform in order to develop and \ndigitize a professional exchange network allowing them \nto maximize their productivity and optimize their costs \nvia technological tools. \nTechnological Aspect SAAS PLATFORM; IOT for real-time \ntraceability of the temperature.\nOriginality develop an inter-lab exchange network with \nautomated processes and digital tools.\nFR\nEN",
+    "tagline": null,
+    "industry": "Linkivia",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Sousse",
+    "headquarters": "Pépinière d'entreprises de Sousse, SOUSSE TEC, Sousse Erriadh 4023 Tunisie",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://linkivia.com",
+    "linkedin_url": "https://www.linkedin.com/company/linkivia",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/linkivia",
+        "facebook": "https://facebook.com/Linkivia-112279738125915"
+    },
+    "contact": {
+        "emails": [
+            "khadijaattia@linkivia.com",
+            "contact@linkivia.com"
+        ],
+        "phones": [
+            {
+                "number": "+21629511005",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "Pépinière d'entreprises de Sousse, SOUSSE TEC, Sousse Erriadh 4023 Tunisie",
+        "primary_social": "https://linkedin.com/company/linkivia"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://linkivia.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 80,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:07:07.041179",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "linkivia.com"
+            ]
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "website_content": "[ ![Logo](https://linkivia.com/img/LOGO.png) ](https://linkivia.com)\n* [Nos services](https://linkivia.com/#application-links)\n* [Nos Formules](https://linkivia.com/nos-formules-abonnements)\n* [À propos](https://linkivia.com/a-propos)\n* [Catalogue des examens](https://linkivia.com/catalogue-examens)\n* [Contact](https://linkivia.com/nous-contacter)\n* [Connexion](https://linkivia.com/login)\n![](https://linkivia.com/img/slider/slider2.jpg)\n##### Linkivia connecte les laboratoires de biologie médicale via sa solution digitale adaptée aux besoins spécifiques des analyses afin de garantir la fiabilité des résultats :\nIntégrité de l’échantillon\nConfidentialité\nPrestataire assurant la conformité selon la norme ISO 15189\nSécurité des personnes\nRespect des Délais\nTempérature maîtrisée\nTraçabilité et suivi en temps réel\n# LINK-learning\nArticles et actualités scientifiques\n[EN SAVOIR +](https://linkivia.com/)\n# ComparaLINK\nUne vision professionnelle garantissant la fiabilité et la précision de nos résultats\n[SE CONNECTER](https://cpl.linkivia.com)\n# Accéder à la marketplace\nPlace de marché pour vos produits médicaux\n[SE CONNECTER](https://linkivia.com/shop)\n# Demande de sous-traitance\nGérer vos demandes de sous-traitance instantanément\n[SE CONNECTER](https://pl.linkivia.com)\n#####  LINK-learning\n###### **Articles et Actualités Scientifiques**\nAccédez aux dernières recommandations et actualités scientifiques internationales pour rester informé des évolutions majeures dans le domaine.\n###### **Vidéos Pédagogiques**\nDécouvrez des vidéos pédagogiques dédiées aux bonnes pratiques en laboratoire d'analyses médicales, pour améliorer vos compétences professionnelles et la qualité des résultats.\n**En cours de développement** - Cette fonctionnalité est actuellement en cours de développement.\nFermer\n![](https://linkivia.com/img/home/IMG-pourquoi-linkivia.png)\n# Pourquoi faire appel\nà Linkivia ?\nSi vous sous-traitez déjà certaines de vos analyses chez vos confrères, alors vous avez certainement connu des situations de stress, de doute, de manque à gagner suite à certaines contraintes : absence de moyens sécurisants et fiables, absence de visibilité sur le respect de la température des échantillons transportés ...\nLibérez-vous de toutes ces contraintes :\n* # 1\n* Chercher de bouche à oreille le laboratoire qui traite l'analyse et le contacter.\n* # 2\n* Mobiliser l'un de vos collaborateurs pour acheminer le prélèvement.\nA défaut, avoir recours à d'autres moyens peu sécurisants et peu fiables.\n* # 3\n* Subir le retard d'acheminement et courir le risque d'avoir des échantillons non exploitables.\n* # 4\n* N'avoir de visibilité ni sur le respect des normes de transport ni sur le suivi de la température des prélèvements acheminés.\n#  Faites appel à LINKIVIA\nNous vous offrons une solution clé en main qui répondra à tous vos besoins.\n[ Abonnez-vous](https://linkivia.com/nos-formules-abonnements)\n![](https://linkivia.com/img/home/img-facilite.svg)\n#### Facilité\nNous venons chercher vos échantillons pour les acheminer aux laboratoires traitants.\n![](https://linkivia.com/img/home/img-optimisatio.svg)\n#### Optimisation\nPlateforme centralisée qui vous évite les allers-retours inutiles.\n![](https://linkivia.com/img/home/img-quality.svg)\n#### Qualité\nNous collaborons avec des laboratoires traitants ,certifiés et efficients dans le traitement des analyses.\n![](https://linkivia.com/img/home/img-security-off.svg)\n#### Sécurité\nNous assurons un transport sécurisé sous température dirigée et conforme aux normes du secteur.\n![](https://linkivia.com/img/home/img-catalogue.png)\n####  Catalogue de + 1000 examens\nPlus de 1000 analyses traitables localement et à l'étranger dans des labos certifiés sont répertoriées dans notre site.\n![](https://linkivia.com/img/home/img-trace-off.svg)\n#### Traçabilité\nNous assurons, en temps réel, le suivi de la température de vos échantillons : de la collecte jusqu'à l'acheminement au laboratoire traitant.\n[ Comment ça marche ](https://linkivia.com/comment-ca-marche)\n![](https://linkivia.com/img/home/img_qui_somme_nous.png)\n#  Une place de marché pour une mise en relation simple et directe\nNous mettons à la disposition de nos laboratoires membres une place de marché pour mettre en relation laboratoires vendeurs et acheteurs. Ainsi, vous réaliserez, en toute simplicité et transparence, des transactions commerciales de produits en lien avec vos activités. Notre place de marché vous permet :\n* D'optimiser la gestion de votre stock de consommables.\n* D'économiser de l'argent.\n* D'élargir votre réseau.\n* De faire une action en faveur de l'environnement.\n[ En savoir plus ](https://linkivia.com/comment-ca-marche)\n# Pour vendre, c'est simple!\n![](https://linkivia.com/img/home/icon-offre.png)\n#### Proposez votre offre\nDécrivez le produit et fixez votre prix. (prise de photo optionnelle) Cliquez sur “Ajouter” et c'est en ligne !\n![](https://linkivia.com/img/home/icon-vendez.png)\n#### Vendez facilement\nVendu ! Emballez votre article et confirmez l'envoi. A la demande, nous viendrons à votre local, récupérer le produit vendu pour l'acheminer à l'acheteur.\n![](https://linkivia.com/img/home/icon-argent.png)\n#### Récupérez votre argent\nLa transaction de paiement ne se fera pas à travers la plateforme. Elle est gérée directement entre vous et l'acheteur.\n[ Commencer à vendre ](https://linkivia.com/shop)\n#  Achat adapté\n![](https://linkivia.com/img/home/icon-trouver.png)\n#### Trouvez-le\nTrouvez votre besoin et la quantité souhaitée parmi une multitude d'articles.\n![](https://linkivia.com/img/home/icon-achetez.png)\n#### Achetez-le\nEchangez avec le vendeur et achetez en un seul clic! Vous gérez le paiement de la transaction en dehors de la plateforme.\n![](https://linkivia.com/img/home/icon-recevez.png)\n#### Recevez-le\nChoisissez le transport via Linkivia et nous assurons la livraison de vos achats dans les 48h qui suivent la commande.\n[ Commencer à acheter ](https://linkivia.com/shop)\n######  [ ![](https://linkivia.com/img/home/LOGO.png) ](https://linkivia.com)\nPépinière d'entreprises de Sousse, SOUSSE TEC, Sousse Erriadh 4023 Tunisie\ncontact@linkivia.com\n+216 29 511 005\n###### A PROPOS\n[Qui Sommes Nous](https://linkivia.com/a-propos)\n[CGU/CGV](https://linkivia.com/conditions-utilisation)\n[Politique de confidentialité](https://linkivia.com/politique-de-confidentialite)\n[FAQ](https://linkivia.com/FAQ)\n###### Nos Services\n[Type d'Abonnement](https://linkivia.com/nos-formules-abonnements)\n[Produits](https://linkivia.com/products)\n[Contactez-nous](https://linkivia.com/nous-contacter)\n[Comment ça marche](https://linkivia.com/comment-ca-marche)\n###### Mon compte\n[connexion](https://linkivia.com/login)\n[Inscription](https://linkivia.com/register)\n###### Suivez-nous\n[ ](https://www.facebook.com/Linkivia-112279738125915) [ ](https://www.linkedin.com/company/linkivia/)\nCopyright 2026 ® Linkivia © Tous les droits sont réservés",
+    "website_metadata": {
+        "url": "https://linkivia.com",
+        "content_length": 6907
+    },
+    "external_profiles": {},
+    "linkedin": "https://www.linkedin.com/company/linkivia/",
+    "emails": [
+        "khadijaattia@linkivia.com",
+        "contact@linkivia.com"
+    ],
+    "phones": [
+        "+216 29 511 005"
+    ],
+    "tavily": {
+        "query": "LINKIVIA",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\linkivia.json",
+    "normalized_name": "linkivia",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "linkivia.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/linkivia",
+                    "normalized": "https://linkedin.com/company/linkivia",
+                    "username": "linkivia",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/Linkivia-112279738125915",
+                    "normalized": "https://facebook.com/Linkivia-112279738125915",
+                    "username": "Linkivia-112279738125915",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "linkivia.com"
+                ]
+            },
+            "official": [
+                "khadijaattia@linkivia.com",
+                "contact@linkivia.com"
+            ],
+            "details": [
+                {
+                    "original": "khadijaattia@linkivia.com",
+                    "normalized": "khadijaattia@linkivia.com",
+                    "domain": "linkivia.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@linkivia.com",
+                    "normalized": "contact@linkivia.com",
+                    "domain": "linkivia.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "khadijaattia@linkivia.com",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 1,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+216112279738125915"
+            ]
+        }
+    }
+}

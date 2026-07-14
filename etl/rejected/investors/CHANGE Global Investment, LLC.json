@@ -1,0 +1,288 @@
+{
+    "entity": {
+        "name": "CHANGE Global Investment, LLC",
+        "description": "Asset management firm focused on emerging and frontier markets, managing public equity strategies for institutional clients.",
+        "organization_type": "Asset Management",
+        "country": "Morocco",
+        "city": "New York",
+        "website": "https://www.changegi.com",
+        "linkedin": "https://linkedin.com/company/change-global-investment",
+        "investment_focus": [
+            "Emerging markets",
+            "Frontier markets",
+            "Public equity"
+        ],
+        "investment_stages": [
+            "Early-stage"
+        ],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "external_profiles": {
+            "website": "https://www.changegi.com",
+            "linkedin": "https://linkedin.com/company/change-global-investment"
+        },
+        "social_media": {
+            "linkedin": "https://linkedin.com/company/change-global-investment",
+            "youtube": "https://youtube.com/watch"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T17:10:10.701782+00:00",
+            "website_enriched": true,
+            "tavily_results": 15,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "tavily": {
+            "query": "CHANGE Global Investment, LLC",
+            "answer": "",
+            "results_count": 15,
+            "urls": [
+                "https://www.changegi.com/",
+                "https://www.changegi.com/about",
+                "https://adviserinfo.sec.gov/firm/summary/167844",
+                "https://www.changegi.com/how-we-invest",
+                "https://linkedin.com/company/change-global-investment",
+                "https://www.linkedin.com/company/change-global-investment",
+                "https://www.linkedin.com/in/nicole-kelleher-896a223",
+                "https://www.linkedin.com/in/kris-travis-1275928",
+                "https://www.linkedin.com/in/brian-mugabe-7274728",
+                "https://www.preqin.com/data/profile/fund-manager/change-global-investment/117401",
+                "https://newyork-company.com/co/change-global-investment-llc",
+                "https://opengovwa.com/corporation/603297090",
+                "https://www.9at.com/Adviser/801-110769",
+                "https://www.sec.gov/Archives/edgar/data/1723876/000194104026000380/0001941040-26-000380.txt",
+                "https://www.sec.gov/Archives/edgar/data/1581365/000194104026000378/0001941040-26-000378.txt"
+            ]
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 0,
+            "investment_focus_count": 3,
+            "investment_stages_count": 1,
+            "geographic_focus_count": 1,
+            "partners_count": 0,
+            "team_members_count": 0,
+            "social_profiles": 2,
+            "founders_count": 0,
+            "leadership_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 2,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": true,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 1,
+                "domains": [
+                    "changegi.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "website_content": "[ 0 ](https://www.changegi.com/cart)\n[ Skip to Content ](https://www.changegi.com/#page)\n[ ![Change](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/0bdd0e77-42e4-4a12-b631-9c7f6e6d78f9/ChangeLogo.webp?format=1500w) ](https://www.changegi.com/)\n[ Home ](https://www.changegi.com/)\n[ How We Invest ](https://www.changegi.com/how-we-invest)\n[ Who We Are ](https://www.changegi.com/about)\n[ Contact ](https://www.changegi.com/contact)\nOpen Menu Close Menu\n[ ![Change](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/0bdd0e77-42e4-4a12-b631-9c7f6e6d78f9/ChangeLogo.webp?format=1500w) ](https://www.changegi.com/)\n[ Home ](https://www.changegi.com/)\n[ How We Invest ](https://www.changegi.com/how-we-invest)\n[ Who We Are ](https://www.changegi.com/about)\n[ Contact ](https://www.changegi.com/contact)\nOpen Menu Close Menu\n[ Home  ](https://www.changegi.com/)\n[ How We Invest  ](https://www.changegi.com/how-we-invest)\n[ Who We Are  ](https://www.changegi.com/about)\n[ Contact  ](https://www.changegi.com/contact)\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/65a01492-6402-4b5f-930f-9e519ad3f605/Frame+5.png)\n# **The Catalyst for Transformation.**\nCHANGE denotes the positive evolution of emerging and frontier markets. We invest in the human spirit's power to aspire, create, and build.\n[ What we do ](https://www.changegi.com/how-we-invest)\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/70c0e7fe-85e1-47e2-b5ce-a079229f1433/Frame+3.png)\n## Global Expertise, Local Roots\nCHANGE Global Investment is an asset management firm focused on uncovering pricing inefficiencies in the developing world.\nWe manage public equity strategies for pension funds, foundations, and family offices worldwide.\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/3ef441d2-f9f7-4450-9737-9dd3bdb9c3dd/Firefly_GeminiFlash_Cinematic+editorial+photo+of+wind+turbines+near+a+small+growing+city+in+a+developing++17205.png)\n## Beyond the Index\nOur team was born and raised in the markets we invest in. This firsthand experience provides a cultural fluency that index-based vehicles simply cannot match.\nWe don't just analyze markets; we understand the people behind the growth.\n##  **Active Management.****Proven Vision.**\nCapitalizing on the advancement of emerging and frontier countries.\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/97e27d4b-f889-4859-927f-34e8f7e03833/Firefly_GeminiFlash_High-altitude+aerial+photograph+of+a+massive+container+port+with+hundreds+of+colorful+94436.png)\n**Early-Stage Focus.**\nIdentifying strong ideas before they reach the mainstream.\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/8d046faf-cb39-429b-b48f-f9e8d8b0637e/Firefly_GeminiFlash_Cinematic+editorial+drone+photograph+of+a+large+infrastructure+project+under+construc+94436.png)\n**Strategic Positioning.**\nDiversified strategies designed to perform differently than the competition.\n![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/1773867167970-3KHSQIEVKU4EV4OI6SS5/unsplash-image-lFv0V3_2H6s.jpg)\n**Risk Mitigation.**\n# Recent Media & Insights\n[ ![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/fa34ea25-b8c4-4ce3-a3a8-86ecaa797660/Screenshot+2026-04-08+145958.png) ](https://www.cnbc.com/video/2026/03/17/china-outperforms-despite-reliance-on-mideast-oil-portfolio-manager.html)\n#### **China an outperformer despite reliance on Middle East oil**\nThea Jamison, Managing Director at CHANGE Global Investment, shares her preferred China stocks and sectors that have held up despite volatility from the Middle East conflict. She also remains bullish on other Asian emerging markets.\n[ ![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/faea1a84-433e-4a01-ae38-8d7331dc13fc/Bloomberg+TV+New+York+w+Romaine+December+2025.png) ](https://www.bloomberg.com/news/videos/2025-12-19/emerging-markets-starting-bull-cycle-jamison-video)\n#### **Emerging Markets Starting Bull Cycle: Jamison**\nThea Jamison, founder and managing director of CHANGE Global, says the firm believes emerging markets are still in the early stages of a cycle, citing improving fundamentals, signs of shifting capital flows, and compelling valuations.\n[ ![](https://images.squarespace-cdn.com/content/v1/69a5f55b8659f024d9e96d3d/f8fc2e96-2bca-4e68-b2b7-95d089d7c327/LOU30633+%282%29.jpg) ](https://www.youtube.com/watch?v=2mNefHtKnrw)\n#### **Sohn Conference NY 2026 - Emerging Markets Reimagined**\nAt Sohn New York CHANGE Global’s Founder, Thea Jamison, made the case for emerging markets, thematic opportunities, and three stock picks. Watch the full pitch here: [**https://lnkd.in/eThmZiZe**](https://lnkd.in/eThmZiZe)\nCHANGE Global Investment\n1345 Avenue of the Americas, Fl 2\nNew York, NY 10150, USA\ninfo@changegi.com\n212 878 3678\nAn investment in any strategy involves a high degree of risk and there is always the possibility of loss, including the loss of principal. Nothing in this site may be considered as an offer or solicitation to purchase or sell securities or other services. CHANGE Global Investment, LLC is a registered investment adviser with the U.S. Securities and Exchange Commission (SEC). CHANGE Global Investment, LLC may only transact business in states in which it is appropriately registered or in states in which it qualifies for an exemption or exclusion from the registration process. Individualized responses to persons that involve either the effecting of transactions in securities or the rendering of personalized investment advice for compensation will not be made without registration or exemption.\n@2026 CHANGE Global. For institutional and professional investors only.\n­\n­",
+        "website_metadata": {
+            "url": "https://www.changegi.com/",
+            "content_length": 5798
+        },
+        "contact": {
+            "emails": [
+                "info@changegi.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/company/change-global-investment"
+        },
+        "founders": [],
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [
+            "investment",
+            "adviser",
+            "SEC"
+        ],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "industry": "Investment Management",
+        "headquarters": "",
+        "linkedin_url": "",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "sources": [],
+        "emails": [
+            "info@changegi.com"
+        ],
+        "phones": [
+            "212 878 3678"
+        ],
+        "geographic_focus": [
+            "Global emerging markets"
+        ],
+        "validation": {
+            "is_african": false,
+            "website_matches": false
+        },
+        "confidence": {
+            "score": 84,
+            "level": "Medium"
+        },
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\change_global_investment_llc.json",
+        "normalized_name": "change global investment llc",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "changegi.com",
+                "website_type": "official",
+                "social_profiles": 2,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 2,
+                    "valid": 2,
+                    "official": 2,
+                    "platforms": [
+                        "linkedin",
+                        "youtube"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://linkedin.com/company/change-global-investment",
+                        "normalized": "https://linkedin.com/company/change-global-investment",
+                        "username": "change-global-investment",
+                        "valid": true,
+                        "official": true
+                    },
+                    "youtube": {
+                        "platform": "youtube",
+                        "original": "https://www.youtube.com/watch?v=2mNefHtKnrw",
+                        "normalized": "https://youtube.com/watch",
+                        "username": "watch",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 1,
+                    "domains": [
+                        "changegi.com"
+                    ]
+                },
+                "official": [
+                    "info@changegi.com"
+                ],
+                "details": [
+                    {
+                        "original": "info@changegi.com",
+                        "normalized": "info@changegi.com",
+                        "domain": "changegi.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": true,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "Morocco",
+                "selected_source": "website_content",
+                "confidence": 0.6,
+                "report": {
+                    "count": 1,
+                    "candidates": [
+                        {
+                            "country": "Morocco",
+                            "source": "website_content",
+                            "confidence": 0.6
+                        }
+                    ]
+                }
+            }
+        },
+        "primary_email": "info@changegi.com",
+        "quality": {
+            "phones": {
+                "total": 7,
+                "valid": 0,
+                "removed": 7,
+                "duplicates": 0,
+                "invalid": [
+                    "0149264024",
+                    "7445097379",
+                    "8894859927",
+                    "17738671679703",
+                    "+20260408",
+                    "20251219",
+                    "2128783678"
+                ]
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

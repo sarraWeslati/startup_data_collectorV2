@@ -1,0 +1,367 @@
+{
+    "entity_type": "startup",
+    "name": "HYO-TEC",
+    "description": "HYO-TEC (2022)\nSecteur d’activité / Sector : Advanced Manufacturing & Robotics\nhyo-tec.com\nFondateur / Founder\nE-mail\nAdresse / Address\nBILEL GASSARA\ncontact@hyo-tec.com\nRoute de Tunis Km 10 Technopole de Sfax 3021\nActivité \nConception, \nfabrication \net \nvente \ndes \nélectrolyseurs; Conception, fabrication et vente des \nmachines \ngénératrices \nd’oxygène \net \nd’hydrogène; \nConception, fabrication et vente des piles à combustibles; \nConception, fabrication et vente des solutions de \nstockage d’énergie renouvelable; Service d’installation, \nassistance, formation, et conception personnalisée des \nsystèmes de production et conversion d’hydrogène et \noxygène.\nAspect Technologique Il s’agit de concevoir, fabriquer et \nvendre toute les composants des systèmes de conversion \nd’énergie (et énergies renouvelables) par l’intermédiaire \nde la production et l’exploitation de l’hydrogène (et \nl’hydrogène vert) et de l’oxygène.\nOriginalité Production et stockage de l'hydrogène vert \npour usage industriel et médical.\nActivity Design, manufacture and sale of electrolyzers; \nDesign, manufacture and sale of oxygen and hydrogen \ngenerating machines; Design, manufacture and sale of \nfuel cells; Design, manufacture and sale of renewable \nenergy storage solutions; Installation service, assistance, \ntraining, and custom design of hydrogen and oxygen \nproduction and conversion systems.\nTechnological Aspect It consists in designing, manufacturing \nand selling all the components of energy conversion \nsystems (and renewable energies) through the production \nand exploitation of hydrogen (and green hydrogen) and \noxygen.\nOriginality Production and storage of green hydrogen for \nindustrial and medical use.\nFR\nEN",
+    "tagline": "Hydrogenize Your Business in a Safe, Innovative and Sustainable Way",
+    "industry": "Advanced Manufacturing & Robotics",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Sfax",
+    "headquarters": "Technopark of Sfax, CoStart, El Ons City, Road of Tunis, km 10, 3021- Sfax",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://hyo-tec.com",
+    "linkedin_url": "https://www.linkedin.com/company/hyo-tec",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/hyo-tec",
+        "facebook": "https://facebook.com/Hydrogen.Technologies",
+        "instagram": "https://instagram.com/hyotec1",
+        "youtube": "https://youtube.com/@Hyo-Tec"
+    },
+    "contact": {
+        "emails": [
+            "contact@hyo-tec.com"
+        ],
+        "phones": [
+            {
+                "number": "+21620240213",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21621273360",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21697359733",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "Technopark of Sfax, CoStart, El Ons City, Road of Tunis, km 10, 3021- Sfax",
+        "primary_social": "https://linkedin.com/company/hyo-tec"
+    },
+    "founders": [
+        {
+            "name": "Bilel Gassara",
+            "role": "Co-Founder and CEO",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Hyo-Gen4000",
+            "description": "Generate and stabilize a mixture of Hydrogen and Oxygen gases. Equipped with an automatic system for controlling pressure and temperature.",
+            "category": ""
+        },
+        {
+            "name": "Hyo-Gen 4000S",
+            "description": "Generate and stabilize separated Hydrogen and Oxygen gases. Equipped with an automatic system for controlling pressure and temperature.",
+            "category": ""
+        },
+        {
+            "name": "Hyo-Gnr 4000",
+            "description": "Powered by photovoltaic panels. Generates and stabilizes a mixture of Hydrogen and Oxygen gases with automatic pressure and temperature control.",
+            "category": ""
+        }
+    ],
+    "services": [
+        "Design, manufacturing, and sale of Oxygen and hydrogen generating machines",
+        "Electrolysers and rack modules for high-capacity, high-flow installations",
+        "Renewable energy storage solutions",
+        "Installation of hydrogen and oxygen production systems",
+        "Technical assistance for equipment and systems",
+        "Training sessions to ensure optimal use of the proposed Hydrogen Technologies",
+        "Customized design of solutions based on the specific needs of clients"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [
+        "ISO 9001 (in process)"
+    ],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://hyo-tec.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 74,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:38:12.911063",
+        "website_enriched": true,
+        "tavily_results": 1,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 7,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "hyo-tec.com"
+            ]
+        },
+        "phones": {
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
+        }
+    },
+    "website_content": "[hacklink](https://hacklink.market/ \"hacklink al\") [hack forum](https://spyhackerz.org/forum/ \"hack forum\") [hacklink](https://hacklink.app/ \"hacklink\") [film izle](https://hdfilmcenneti.cx/ \"film izle\") [hacklink](https://internationalliteraryquest.com/ \"hacklink\") [deneme bonusu veren siteler](https://www.rjleahy.com/ \"deneme bonusu veren siteler\")[nakitbahis](https://ribrid.tumblr.com/ \"nakitbahis\")[betgaranti](https://dresden-d0ll.tumblr.com/ \"betgaranti\")[best casinos canada](https://moreniche.com/ \"best casinos canada\")[casino site](https://www.newforestcentre.org.uk/ \"casino site\")[non gamstop casino](https://www.london-irish.com/ \"non gamstop casino\")[online casinos](https://knightsof.media/ \"online casinos\")[casino not on gamstop](https://www.summerhall.co.uk/ \"casino not on gamstop\")\n![](https://hyo-tec.com/wp-content/uploads/2024/07/cropped-Logo2.webp)\n* [Home](https://hyo-tec.com/)\n* [About us](https://hyo-tec.com/aboutus)\n* [Products](https://hyo-tec.com/products/)\n* [Machines](https://hyo-tec.com/product-category/our-machines/)\n* [Electrolysers](https://hyo-tec.com/product-category/electrolysers/)\n* [Quality Policy](https://hyo-tec.com/quality-policy/)\n* [News](https://hyo-tec.com/news/)\n* [Contact](https://hyo-tec.com/contact/)\n[ ](https://hyo-tec.com/basket/)\n* [Home](https://hyo-tec.com/)\n* [About us](https://hyo-tec.com/aboutus)\n* [Products](https://hyo-tec.com/products/)\n* [Machines](https://hyo-tec.com/product-category/our-machines/)\n* [Electrolysers](https://hyo-tec.com/product-category/electrolysers/)\n* [Quality Policy](https://hyo-tec.com/quality-policy/)\n* [News](https://hyo-tec.com/news/)\n* [Contact](https://hyo-tec.com/contact/)\nVideo Player\n00:00\n00:00\n00:14\n[Use Up/Down Arrow keys to increase or decrease volume.](javascript:void\\(0\\);)\nHyo-Tec Hydrogen Technologies\n_Hydrogenize Your Business_ _in a Safe, Innovative_\n_and_ _Sustainable Way_\nOn site Green Hydrogen production, on demand, at a reduced costs, with high performances.\n[Order Now](https://hyo-tec.com/order-now/)[Get In Touch](https://hyo-tec.com/contact/)\nOur Story\nHyo-Tec is an industrial company. It is a Tunisian start-up based in Sfax Technopark. it was lunched as part of a research project elaborated by the Digital Research Center of Sfax and incubated by the TECHNORIAT program.\n[Get to know us](https://hyo-tec.com/index.php/aboutus/)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/1704464615019-_1_.webp)\n* [Follow](https://www.facebook.com/Hydrogen.Technologies/ \"Follow on Facebook\")\n* [Follow](https://www.linkedin.com/company/hyo-tec/ \"Follow on LinkedIn\")\n* [Follow](https://www.instagram.com/hyotec1/ \"Follow on Instagram\")\n* [Follow](https://www.youtube.com/@Hyo-Tec \"Follow on Youtube\")\n![](https://hyo-tec.com/wp-content/uploads/2024/06/IMG_20240213_195227-_1_.webp)\nServices We Provide\n\n### Design, manufacturing, and sale of :\n* Oxygen and hydrogen generating machines\n* ​Electrolysers and rack modules for high-capacity, high-flow installations\n* Renewable energy storage solutions\n\n### Installation of hydrogen and oxygen production systems\n\n### Technical assistance for equipment and systems\n\n### Training sessions to ensure optimal use of the proposed Hydrogen Technologies\n\n### Customized design of solutions based on the specific needs of clients\n[Get in Touch](https://hyo-tec.com/contact/)\nIndustrial Gases : Challenges…\nIndustries in various sectors such as metallurgy, chemistry, and manufacturing are increasingly facing challenges related to the use of traditional gases like acetylene, propane, or mixtures of air and natural gas. These challenges encompass several critical aspects:\n\n#### High cost of traditional gases\nGases like acetylene, widely used in welding and cutting, are expensive →\n\n#### Environmental impact and regulations\nThe use of fossil gases significantly →\n\n#### Supply security and Dependence on Suppliers\nInterruptions in the supply chain of →\n\n#### Challenges of storage and waste management\nTraditional gases require specific →\n\n#### Energy efficiency and process quality\nTraditional gases may not offer the →\n\n#### Increased safety risks\nTraditional gases like acetylene and propane are highly flammable and →\n#### Autonomy and Supply Security\nOn-site production of your hydrogen and oxygen needs eliminates risks associated with supply chain interruptions, ensuring the continuity of your operations\n#### Increased Precision and Efficiency in Processes\nOur gases enhance energy efficiency in welding, cutting, and combustion processes, while also improving production quality and speed\n#### Reduction of Emissions and Environmental Compliance\nHydrogen, as a clean fuel, and purified oxygen for combustion help minimize harmful emissions, ensuring compliance with environmental regulations\n#### Why Choose Our Hydrogen and Oxygen Gas Solutions?\nIn a constantly evolving industrial environment, the challenges companies face require innovative and effective solutions. Our hydrogen and oxygen gas solutions emerge to directly address these various issues, offering safer, more economical, and environmentally friendly alternatives.\n#### Reduction of Energy Costs\nIn the face of volatile fossil fuel prices, our solutions provide a more stable and economical energy production, thereby reducing operational costs\n#### Optimization of Storage\nOur gases can mitigate storage challenges by being produced on-site, thus reducing the need for large, hazardous tanks\n#### Enhanced Security\nGreen hydrogen offers a safer alternative. Less flammable and less sensitive to shocks, it significantly reduces the risks of explosions, leaks, and industrial accidents\nHyo Products\nHyo-Tec is a pioneer in hydrogen technologies, offering advanced solutions for green hydrogen production, energy conversion, and storage.Our products cater to industries seeking sustainable alternatives, including metal processing and energy storage.With a focus on innovation and sustainability, we are driving the global transition to clean energy solutions.\n[![Hydrogen Technologies](https://hyo-tec.com/wp-content/uploads/2024/06/33-_2_-_1_.webp)](https://hyo-tec.com/wp-content/uploads/2024/06/33-_2_-_1_.webp \"Hydrogen Technologies\")\nHyo-Gen4000\nGenerate and stabilize a mixture of Hydrogen and Oxygen gases. It is equipped with an automatic system for controlling pressure and temperature. **[Additional informations →](https://hyo-tec.com/product/hyo-gen-4000/)**\n[![Hydrogen Technologies](https://hyo-tec.com/wp-content/uploads/2024/06/hyogen4000S-1-_1_-scaled.webp)](https://hyo-tec.com/wp-content/uploads/2024/06/hyogen4000S-1-_1_-scaled.webp \"Hydrogen Technologies\")\nHyo-Gen 4000S\nGenerate and stabilize separated Hydrogen and Oxygen gases. It is equipped with an automatic system for controlling pressure and temperature.**[Additional informations →](https://hyo-tec.com/product/hyo-gen-4000s)**\n[![Hydrogen Technologies](https://hyo-tec.com/wp-content/uploads/2024/06/image-2-removebg-preview-_2_.webp)](https://hyo-tec.com/wp-content/uploads/2024/06/image-2-removebg-preview-_2_.webp \"Hydrogen Technologies\")\nHyo-Gnr 4000\nPowered by photovoltaic panels. HYO-GNR 4000 generate and stabilize a mixture of Hydrogen and Oxygen gases. It is equipped with an automatic system for controlling pressure and temperature. **[Additional informations →](https://hyo-tec.com/product/hyo-grn-4000/)**\n[Find More Products +](https://hyo-tec.com/products/)\n[![Hydrogen Technologies](https://hyo-tec.com/wp-content/uploads/2024/09/b8c97eb8-ceb3-4b2b-9159-d1e946b01175-1-1.jpeg)](https://hyo-tec.com/wp-content/uploads/2024/09/b8c97eb8-ceb3-4b2b-9159-d1e946b01175-1-1.jpeg)\n[DownLoad Brochure](https://hyo-tec.com/wp-content/uploads/2024/09/BROCHURE_Br.pdf)\nAt **HyO-Tec** , we are committed to providing our customers with the highest quality products and services. As part of our continuous improvement approach, we have initiated the process of **ISO 9001** certification.\nWe are proud to share this key milestone in our journey towards excellence with you. We remain determined to achieve this certification, which will further enhance our ability to meet the needs and expectations of our clients.\nFollow us for updates on our progress towards obtaining this certification.\n#### Towards Excellence\nOur Ongoing **ISO 9001** Certification Process\n[Quality Policy](https://hyo-tec.com/quality-policy/)\nGrow your business while reducing your carbon footprint. Our advanced technologies provide a powerful and cost-effective energy solution.Enhance operational efficiency, lower gas costs, and strengthen your commitment to sustainability in a secure way by adopting our solutions .\nVisit Our Shop and Get a Quote\n[Shop Now](https://hyo-tec.com/products)\nMarkets We Serve\n\n### Renewable Energies Systems Installers\n\n### Cement Factories\n\n### Welders, Metal and Wrought Iron Construction Units\n\n### Jewelers and Finishing Shops\n\n### Metal Industry and Factories\n\n### Scrap Dealers\n\n### Mechanics and Vehicles Use and Maintenance\n\n### Scientific and Academic Labs\nLatest Blog\nStay informed about Hyo-Tec’s latest updates by regularly checking our News page. [Click here](https://hyo-tec.com/news/) for additional posts\n## [Remarkable_reflexes_needed_for_chicken_road_game_canada_and_endless_replay_value](https://hyo-tec.com/remarkable-reflexes-needed-for-chicken-road-game-4/)\n[Read more](https://hyo-tec.com/remarkable-reflexes-needed-for-chicken-road-game-4/)\n## [Remarkable_reflexes_are_key_to_surviving_the_challenge_of_chicken_road_gambling](https://hyo-tec.com/remarkable-reflexes-are-key-to-surviving-the-6/)\n[Read more](https://hyo-tec.com/remarkable-reflexes-are-key-to-surviving-the-6/)\n## [Uitdagingen_overspoelen_het_pad_tijdens_chickenroad_terwijl_je_de_kip_veilig_pro](https://hyo-tec.com/uitdagingen-overspoelen-het-pad-tijdens/)\n[Read more](https://hyo-tec.com/uitdagingen-overspoelen-het-pad-tijdens/)\n[Previous](https://hyo-tec.com/)[Next](https://hyo-tec.com/)\n[1](https://hyo-tec.com/)[2](https://hyo-tec.com/)[3](https://hyo-tec.com/)\nHyo Gallery\nPrev\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438086349_962200722573413_2524186631750726548_n-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438094909_1362412931116180_4185836299436132299_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/439139816_955216166613554_1281183326865366008_n-1-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/448857144_998023655666138_2511766107984349741_n.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_321946940298398.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_878586487602550.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/360136850_10224627457333668_6111449600578006635_n-_1_-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_941076000747635.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/1698405419079-_1_-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_213142288546514.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/421246956_1426435581561729_4123426775259745917_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/442475937_971513118317192_7303971963046838493_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438086349_962200722573413_2524186631750726548_n-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438094909_1362412931116180_4185836299436132299_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/439139816_955216166613554_1281183326865366008_n-1-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/448857144_998023655666138_2511766107984349741_n.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_321946940298398.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_878586487602550.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/360136850_10224627457333668_6111449600578006635_n-_1_-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_941076000747635.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/1698405419079-_1_-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/received_213142288546514.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/421246956_1426435581561729_4123426775259745917_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/442475937_971513118317192_7303971963046838493_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438086349_962200722573413_2524186631750726548_n-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/438094909_1362412931116180_4185836299436132299_n-_1_.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/439139816_955216166613554_1281183326865366008_n-1-1.webp)\n![](https://hyo-tec.com/wp-content/uploads/2024/06/448857144_998023655666138_2511766107984349741_n.webp)\nNext\nOver the years, your goals are no longer just about buying a car or meeting your family’s needs.Goals will shift from simply securing a home for your children to providing a more sustainable homeland for all inhabitants of the world and future generations.\nBilel Gassara\nCo-Founder and CEO , Hyo-Tec\n[казино](https://bioplast-russia.ru/)\n[https://fdfd.com/](https://fdfd.com)\n[вавада](https://loloclo.ru/)\n[7ка казино официальный сайт](https://admnsp.ru/)\n[казино без депозита](https://arbat-nevskiy.ru/)\n[up x](https://nadymedu.ru/)\n[7k casino зеркало](https://bowling-moskvy.ru/ru-ru/)\n[казино 1вин](https://1win-bukmeker7.top/)\n[кэт казино](https://catcasino55.org/)\n[casino online non aams](https://www.framuraturismo.it/)\n[cat casino](https://cat-kazino-game2.top/)\n[casinomania](https://www.citicabnj.com/)\n[casino online non aams](https://www.donciropizzanapoletana.it/)\n[Bizzo casino](https://www.gelateriadegliangeli.it/)\n[sweet bonanza](https://www.osterialavetta.it/)\n[casino Vodka](https://vodkaplay.online/)\n[7k casino](https://svarka-argonom.ru/7kk/)\n[bonus senza deposito](https://fiordifruttanapoli.com/)\n[пинап](https://liceum165nn.ru/)\n[онлайн казино](https://fumo-spo.ru/)\n[7k casino](https://oasis-dom.ru/7k/)\n[1win casino](https://1wintop1.ru/)\n[покердом](https://avtovokzal51.ru/)\n[казино риобет](https://imfromsiberia.ru/)\n[7к](https://skyforge.ru/)\n[7к](https://hotelnapra.ru/)\n[siti non aams](https://www.traghettosantalberto.it/)\n[bonus senza deposito](https://marketyourprivatepractice.com/)\n[Вавада](https://zaruchiem.ru/)\n[7 казино](https://7k-klub.com/)\n[вулкан казино зеркало](https://club720.ru/)\n### Hyo-Tec\nIs a Tunisian Start up manufacturing Hydrogen Generators and Energy Storage Systems based on Green H2 and O2 generation\n### Quick Links\nHome\nAbout Hyo-Tec\nOur Products\nNews & Blogs\nContact\n[Privacy Policy](https://hyo-tec.com/privacy-policy/)\n### Adress\nTechnopark of Sfax, CoStart,\nEl Ons City, Road of Tunis,\nkm 10, 3021- Sfax\n### Phone\n(+216) 21-273-360\n(+216) 97-359-733\n### Follow Us\nFollow all the news from Hyo-Tec\nSearch for:\n* [Follow](https://www.facebook.com/Hydrogen.Technologies/ \"Follow on Facebook\")\n* [Follow](https://www.linkedin.",
+    "website_metadata": {
+        "url": "https://hyo-tec.com",
+        "content_length": 15000
+    },
+    "external_profiles": {
+        "website": "https://www.euroquity.com/en/company/hyo-tec"
+    },
+    "tavily": {
+        "query": "HYO-TEC",
+        "answer": "HyO-Tec is a Tunisian startup focused on hydrogen technologies, headquartered in Sfax. It aims to revolutionize industrial processes with sustainable hydrogen solutions. The company seeks to establish a subsidiary in Germany to expand its market reach.",
+        "results_count": 1,
+        "urls": [
+            "https://www.euroquity.com/en/company/hyo-tec"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\hyo_tec.json",
+    "normalized_name": "hyo tec",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "hyo-tec.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 1
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/hyo-tec",
+                    "normalized": "https://linkedin.com/company/hyo-tec",
+                    "username": "hyo-tec",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/Hydrogen.Technologies",
+                    "normalized": "https://facebook.com/Hydrogen.Technologies",
+                    "username": "Hydrogen.Technologies",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/hyotec1",
+                    "normalized": "https://instagram.com/hyotec1",
+                    "username": "hyotec1",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/@Hyo-Tec",
+                    "normalized": "https://youtube.com/@Hyo-Tec",
+                    "username": "@Hyo-Tec",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "hyo-tec.com"
+                ]
+            },
+            "official": [
+                "contact@hyo-tec.com"
+            ],
+            "details": [
+                {
+                    "original": "contact@hyo-tec.com",
+                    "normalized": "contact@hyo-tec.com",
+                    "domain": "hyo-tec.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "contact@hyo-tec.com",
+    "quality": {
+        "phones": {
+            "total": 33,
+            "valid": 3,
+            "removed": 28,
+            "duplicates": 2,
+            "invalid": [
+                "+2161704464615019",
+                "+2160117511",
+                "+216438086349",
+                "+216962200722573413",
+                "+2162524186631750726548",
+                "+216438094909",
+                "+2161362412931116180",
+                "+2164185836299436132299",
+                "+216439139816",
+                "+216955216166613554",
+                "+2161281183326865366008",
+                "+216448857144",
+                "+216998023655666138",
+                "+2162511766107984349741",
+                "+216321946940298398",
+                "+216878586487602550",
+                "+216360136850",
+                "+21610224627457333668",
+                "+2166111449600578006635",
+                "+216941076000747635",
+                "+2161698405419079",
+                "+216213142288546514",
+                "+216421246956",
+                "+2161426435581561729",
+                "+2164123426775259745917",
+                "+216442475937",
+                "+216971513118317192",
+                "+2167303971963046838493"
+            ]
+        }
+    }
+}

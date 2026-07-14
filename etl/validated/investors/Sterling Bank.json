@@ -1,0 +1,160 @@
+{
+    "name": "Sterling Bank",
+    "description": "Sterling Bank Plc is a full service national commercial bank licensed by the Central Bank of Nigeria. Its shares trade under the Banking sector of the Nigerian Stock Exchange with the symbol STERLNBANK. The bank provides services to individuals, small businesses (SMEs) and large corporations. As of December 2018, the bank’s branch network numbered 179, distributed throughout Nigeria with total assets valued in excess of NGN1 trillion and shareholders’ equity estimated at about NGN97.8 billion). Sterling Bank Plc originally incorporated in 1960 as Nigeria Acceptances Limited (NAL). The bank was licensed as Nigeria?s first merchant bank in 1969. Consequent to the indigenization decree of 1972, the Bank became fully government owned and was managed in partnership with Grindlays Bank Limited, Continental International Finance Company Illinois and American Express Bank Limited between 1974 and 1992. In 1992, the Bank was partly privatized and listed as a public company on the Nigeria Stock Exchange (NSE). Eight years later, in 2000, the Federal Government sold its residual interest in the bank, effectively making it a fully privatized institution. In 2013, the Bank was licensed by the Central Bank of Nigeria to provide non-interest banking (Islamic finance) services after meeting the set criteria. The alternative banking products are split into three facets: Transactional, Investment, and Financing. The Bank has set up this arm of business in line with global best practice.",
+    "organization_type": "",
+    "country": "Nigeria",
+    "city": "",
+    "website": "",
+    "linkedin": "",
+    "investment_focus": [
+        "Islamic finance",
+        "Transactional",
+        "Investment",
+        "Financing"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {},
+    "social_media": {},
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T20:48:26.175367+00:00",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "tavily": {
+        "query": "Sterling Bank",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "stats": {
+        "has_website": false,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 4,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 3,
+        "team_members_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "geographic_focus": [
+        "Nigeria"
+    ],
+    "partners": [
+        "Grindlays Bank Limited",
+        "Continental International Finance Company Illinois",
+        "American Express Bank Limited"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 33,
+        "level": "Low"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\sterling_bank.json",
+    "normalized_name": "sterling bank",
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "primary_social": ""
+    },
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": false,
+            "website_domain": "",
+            "website_type": "unknown",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Nigeria",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

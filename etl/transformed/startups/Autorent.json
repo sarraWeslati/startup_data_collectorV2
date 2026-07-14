@@ -1,0 +1,320 @@
+{
+    "entity_type": "startup",
+    "name": "Autorent",
+    "description": "Autorent is a car rental agency management solution and a marketplace for booking and comparing prices rental cars",
+    "tagline": "Logistics Solutions Own fleet, door-to-door delivery",
+    "industry": "Business Software and services",
+    "keywords": [
+        "brand-new",
+        "zero-kilometre",
+        "B2B",
+        "distributor",
+        "vehicles",
+        "global markets",
+        "sourcing",
+        "dealers",
+        "fleet operators",
+        "rent-a-car",
+        "technology-driven",
+        "pricing",
+        "AI-powered"
+    ],
+    "country": "Algeria",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.autorentgroup.com",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/autorentllc"
+    },
+    "contact": {
+        "emails": [
+            "office@autorentgroup.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/autorentllc"
+    },
+    "founders": [
+        {
+            "name": "Moslem Ben Dhaou",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "Zero-kilometre vehicles",
+            "description": "Brand-new, zero-kilometre vehicles sourced from manufacturers and authorized importers",
+            "category": "Automotive"
+        }
+    ],
+    "services": [
+        "Logistics Solutions",
+        "Multi-brand sourcing",
+        "Fleet solutions",
+        "Export solutions",
+        "Technology-driven pricing",
+        "Flexible payment terms"
+    ],
+    "technologies": [
+        "AI",
+        "pricing intelligence platform"
+    ],
+    "customer_segments": [
+        "dealers",
+        "fleet operators",
+        "rent-a-car companies",
+        "international traders",
+        "exporters",
+        "importers",
+        "manufacturers",
+        "partners"
+    ],
+    "target_market": "global",
+    "operating_countries": [
+        "Germany",
+        "France",
+        "Italy"
+    ],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 75,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:17:27.110410",
+        "website_enriched": true,
+        "tavily_results": 21,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 6,
+        "technologies_count": 2,
+        "partners_count": 2,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "autorentgroup.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Mar-21"
+    },
+    "external_profiles": {
+        "website": "https://www.autorentgroup.com",
+        "linkedin": "https://www.linkedin.com/company/autorentllc"
+    },
+    "tavily": {
+        "query": "Autorent",
+        "answer": "",
+        "results_count": 21,
+        "urls": [
+            "https://autorentsaudi.com/",
+            "https://autorentsaudi.com/home",
+            "https://autorent-me.com/sa",
+            "https://autorent-me.com/bh",
+            "https://autorent-me.com/sa/about",
+            "https://www.linkedin.com/company/autorentllc",
+            "https://www.linkedin.com/company/autorentsaudi-carrental",
+            "https://www.linkedin.com/company/autorent",
+            "https://www.linkedin.com/company/autorent-motorcycle-rental",
+            "https://linkedin.com/in/david-repie-48ba8b141",
+            "https://autorent-me.com/",
+            "https://linkedin.com/company/autorent-car-rental-uae",
+            "https://auto-rent.biz/",
+            "https://autorentgroup.com/",
+            "https://linkedin.com/company/autorent-motorcycle-rental",
+            "https://autorent-me.com/sa/careers",
+            "https://play.google.com/store/apps/details?id=com.autorentcab.app&hl=en",
+            "https://www.autorentgroup.com/",
+            "https://bouncewatch.com/explore/startup/autorent-car-rental-llc-a-suhail-bahwan-group",
+            "https://leadiq.com/c/autorent-car-rental-llc-uae/5a1d81d824000024005c47f2",
+            "https://contactout.com/company/autorent-car-rental-llc-a-suhail-bahwan-group-6560"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![Autorent Europe](https://www.autorentgroup.com/logo_header_white.webp) ![Autorent Europe](https://www.autorentgroup.com/logo_header.png) B2B Vehicle Wholesale ](https://www.autorentgroup.com/)\n[![Autorent Europe](https://www.autorentgroup.com/logo_header_white.webp)](https://www.autorentgroup.com/) [About](https://www.autorentgroup.com/#about) [Services](https://www.autorentgroup.com/#services) [How It Works](https://www.autorentgroup.com/#process) [Markets](https://www.autorentgroup.com/#markets) [Why Us](https://www.autorentgroup.com/#whyus) [For Suppliers](https://www.autorentgroup.com/for-suppliers.html) [Careers](https://www.autorentgroup.com/careers.html) [Blog](https://www.autorentgroup.com/blog.html) [Get Stock List](https://www.autorentgroup.com/#contact)\nLanguage\n[ EN](https://www.autorentgroup.com/) [ DE](https://www.autorentgroup.com/index-de.html) [ FR](https://www.autorentgroup.com/index-fr.html) [ RO](https://www.autorentgroup.com/index-ro.html) [ BG](https://www.autorentgroup.com/index-bg.html) [ع AR](https://www.autorentgroup.com/index-ar.html)\n[ +359 2 437 3590](tel:+35924373590) office@autorentgroup.com\nEN\n[ English](https://www.autorentgroup.com/) [ Deutsch](https://www.autorentgroup.com/index-de.html) [ Français](https://www.autorentgroup.com/index-fr.html) [ Română](https://www.autorentgroup.com/index-ro.html) [ Български](https://www.autorentgroup.com/index-bg.html) [ع العربية](https://www.autorentgroup.com/index-ar.html)\nB2B Vehicle Wholesale & Distribution\n# New vehicles. Wholesale prices.\n_Delivered._\nZero-km vehicles, own fleet logistics, full documentation — one supplier for everything.\n[Get Stock List ](https://www.autorentgroup.com/#contact) [Learn more](https://www.autorentgroup.com/#about)\n**3,000+** Vehicles / year\n**30+** Markets\n**12 days** Avg. delivery\n[ How We Work](https://www.autorentgroup.com/#process) [ Verify Our Company](https://www.autorentgroup.com/transaction-verification.html) [ View Credentials](https://www.autorentgroup.com/credentials.html)\n[+359 2 437 3590](tel:+35924373590) office@autorentgroup.com Mon–Fri 9:00–17:00 Sat 9:00–13:00\nB2B Vehicle SupplyMulti-brand, zero-km stock\nLogistics SolutionsOwn fleet, door-to-door delivery\nFull DocumentationCOC, invoices, CMR, customs\nMarket IntelligenceReal-time pricing & sourcing\nToyotaVolkswagenBMWAudiRenaultDaciaKiaHyundaiPeugeotŠkodaFordNissanOpelCitroën ToyotaVolkswagenBMWAudiRenaultDaciaKiaHyundaiPeugeotŠkodaFordNissanOpelCitroën\nWho We Are\n## Europe’s wholesale\nvehicle partner\n![Autorent Europe transporter](https://www.autorentgroup.com/who_we_are_truck.webp)\n### Structured B2B vehicle supply across Europe. Fast, reliable, compliant.\nAutorent Europe is a specialized B2B distributor of brand-new, zero-kilometre vehicles. We operate across 30+ global markets, sourcing from manufacturers and authorized importers, delivering to dealers, fleet operators, and rent-a-car companies. Our team brings 20+ years of combined experience in international vehicle distribution.\nOur technology-driven approach identifies pricing opportunities across markets in real-time, helping our partners access competitive stock through multiple sourcing channels.\n* All vehicles brand-new, zero-km, full manufacturer warranty\n* Certificate of Conformity (CoC) with every delivery\n* Full truckload logistics — 7-9 vehicles per transport\n* Flexible payment terms for established partners\n* Multi-brand sourcing from a single supplier\n[Get Stock List ›](https://www.autorentgroup.com/#contact)\nWhy Autorent Europe\n## Partners, not just\nsuppliers.\n### We Respect Our Sources\nCollaborative relationships with importers and manufacturers. We don’t undercut or bypass supply partners.\n### Flexible Partner Terms\nTransparent terms from day one. Flexible payment structures available for qualified partners, including deferred payment and credit-backed allocation.\n### Technology-Driven Pricing\nProprietary systems monitor pricing across markets in real-time. Data-driven sourcing across multiple markets.\n### Legally & Fiscally Verified\nEvery vehicle verified legally and fiscally. VIES compliance, clean documentation, minimal risk for your business.\n![Autorent Europe transport fleet](https://www.autorentgroup.com/truck_fleet.webp)\nOur Fleet & Logistics\n## Own fleet. Fully\ninsured transport.\nWe operate our own branded transport fleet — Mercedes-Benz and Scania car carriers — ensuring complete control over quality and delivery timelines. Every shipment is fully insured.\n**3** Branded carriers\n**€2M** Cargo insurance\n**7-9** Vehicles per load\n**12 days** Avg. delivery\nWhat We Do\n## Built for volume.\nOptimized for speed.\nFrom sourcing to delivery, we handle the entire supply chain so you can focus on selling.\n### Cross-Market Sourcing\nWe monitor pricing across markets in real-time, helping our partners access competitive pricing through structured multi-market sourcing.\n### Door-to-Door Logistics\nOwn fleet transport, 7-9 vehicles per carrier. Average delivery: 12 days from order to your lot. Fully insured.\n### Complete Documentation\nCoC, Brief, invoice, CMR — everything ready and correct. Documentation prepared to accelerate registration and resale in your market.\n### Fleet & Rent-a-Car\nVolume supply for fleet operators and rent-a-car companies. Consistent pricing, dedicated account management.\n### Export Solutions\nEU and non-EU export: Gulf, Africa, Asia, South America. Container shipping, customs, port delivery — we coordinate end-to-end.\n### Multi-Brand Access\nOne supplier, all major brands. VW, BMW, Toyota, Hyundai, Kia, Skoda, Dacia, Renault, Peugeot and more.\nB2B Transaction Process\n## Transparent. Compliant.\nBuilt for dealers.\n### Intra-Community (Netto) Sales\nFull EU VAT compliance:\n* VIES-verified VAT numbers\n* Net invoicing for EU businesses\n* EU VAT Directive 2006/112/EC\n* Pro-forma before every shipment\n### B2B Logistics\nPurpose-built for wholesale:\n* Own fleet — 7 to 9 vehicles/transport\n* Door-to-door across all EU\n* Container shipping for non-EU\n* Real-time tracking\n### Fast Documentation\nDealer’s biggest pain — solved:\n* CoC with every vehicle\n* Brief / Fahrzeugbrief ready\n* Invoice pack within 24h\n* All vehicles legally verified\nHow It Works\n## From enquiry to\ndelivery in 4 steps\nSimple, transparent, fast. No hidden fees, no surprises.\n1\n### You Tell Us What You Need\nBrand, model, spec, quantity. We check across all sources in real-time.\n2\n### We Send You Options\nCompetitive pricing, full specs. Multiple options. No obligation.\n3\n### You Confirm & We Source\nPro-forma, payment, we handle sourcing, docs, quality check.\n4\n### Delivered to Your Door\nOwn fleet transport, all documents ready. ~12 days to delivery.\nBrands We Distribute\n[![Audi](https://www.autorentgroup.com/images/brands-new/audi.webp)Audi](https://www.autorentgroup.com/blog.html?brand=audi) [![BMW](https://www.autorentgroup.com/images/brands-new/bmw.webp)BMW](https://www.autorentgroup.com/blog.html?brand=bmw) [![Citroën](https://www.autorentgroup.com/images/brands-new/citroen-v2.webp)Citroën](https://www.autorentgroup.com/blog.html?brand=citroen) [![Dacia](https://www.autorentgroup.com/images/brands-new/dacia-v2.webp)Dacia](https://www.autorentgroup.com/blog.html?brand=dacia) [![Fiat](https://www.autorentgroup.com/images/brands-new/fiat.webp)Fiat](https://www.autorentgroup.com/blog.html?brand=fiat) [![Ford](https://www.autorentgroup.com/images/brands-new/ford.webp)Ford](https://www.autorentgroup.com/blog.html?brand=ford) [![Hyundai](https://www.autorentgroup.com/images/brands-new/hyundai-v2.webp)Hyundai](https://www.autorentgroup.com/blog.html?brand=hyundai) [![Kia](https://www.autorentgroup.com/images/brands-new/kia.webp)Kia](https://www.autorentgroup.com/blog.html?brand=kia) [![Lexus](https://www.autorentgroup.com/images/brands-new/lexus-v2.webp)Lexus](https://www.autorentgroup.com/blog.html?brand=lexus) [![MG](https://www.autorentgroup.com/images/brands-new/mg.webp)MG](https://www.autorentgroup.com/blog.html?brand=mg) [![Nissan](https://www.autorentgroup.com/images/brands-new/nissan.webp)Nissan](https://www.autorentgroup.com/blog.html?brand=nissan) [![Opel](https://www.autorentgroup.com/images/brands-new/opel-v2.webp)Opel](https://www.autorentgroup.com/blog.html?brand=opel) [![Peugeot](https://www.autorentgroup.com/images/brands-new/peugeot.webp)Peugeot](https://www.autorentgroup.com/blog.html?brand=peugeot) [![Renault](https://www.autorentgroup.com/images/brands-new/renault.webp)Renault](https://www.autorentgroup.com/blog.html?brand=renault) [![Škoda](https://www.autorentgroup.com/images/brands-new/skoda-v2.webp)Škoda](https://www.autorentgroup.com/blog.html?brand=skoda) [![Suzuki](https://www.autorentgroup.com/images/brands-new/suzuki-v2.webp)Suzuki](https://www.autorentgroup.com/blog.html) [![Toyota](https://www.autorentgroup.com/images/brands-new/toyota-v2.webp)Toyota](https://www.autorentgroup.com/blog.html?brand=toyota) [![Volkswagen](https://www.autorentgroup.com/images/brands-new/volkswagen.webp)Volkswagen](https://www.autorentgroup.com/blog.html?brand=vw)\nWhere We Operate\n## 30+ markets.\nOne supplier.\nFrom the heart of Europe to the Gulf, Africa, and Asia — we source and deliver wherever your business needs us.\n**All European Union** 27 member states + UK, Switzerland, Norway\n**North Africa** Morocco, Algeria, Tunisia, Libya, Egypt\n**Middle East** UAE, Saudi Arabia, Kuwait, Oman, Qatar\n**China** Import & export channels\n**South Korea** Hyundai & Kia sourcing\n**South America** Brazil, Argentina, Chile\n**LHD Vehicles** Left-hand drive\n**RHD Vehicles** Right-hand drive\nCredentials & Memberships\n[ISO 9001](https://www.autorentgroup.com/credentials.html) [ISO 14001](https://www.autorentgroup.com/credentials.html) [EAIVT](https://www.autorentgroup.com/credentials.html) [RCCI](https://www.autorentgroup.com/credentials.html) [Creditreform](https://www.autorentgroup.com/credentials.html) [Est. 2016](https://www.autorentgroup.com/credentials.html)\n[Verify Our Credentials ](https://www.autorentgroup.com/credentials.html)\n[**€200,000** Paid-Up Capital](https://www.autorentgroup.com/credentials.html) [**VIES Verified** Intra-EU VAT](https://ec.europa.eu/taxation_customs/vies/)\nPresence\n[**Eurobank BG** Banking Partner](https://www.autorentgroup.com/credentials.html)\nOur Management\n## B2B is built between\npeople, not logos.\nWhen you call, email, or WhatsApp us — these are the people on the other end.\n[![Cristian Damian](https://www.autorentgroup.com/team_cristian.jpg?v=2)](https://www.autorentgroup.com/#lb-cristian)[![Cristian Damian](https://www.autorentgroup.com/team_cristian.jpg?v=2)](https://www.autorentgroup.com/#team)\n### Cristian Damian\nManaging Director — Operations & Sourcing\nENG ROع AR\n**Sourcing**\n**Logistics**\nShow contact Show contact\n[![Andrei Panait](https://www.autorentgroup.com/team_andrei.jpg?v=2)](https://www.autorentgroup.com/#lb-andrei)[![Andrei Panait](https://www.autorentgroup.com/team_andrei.jpg?v=2)](https://www.autorentgroup.com/#team)\n### Andrei Panait\nManaging Director — Sales & Client Relations\nENG DE RO\n**Documentation**\n**Client Relations**\nShow contact Show contact\nOur Journey\n## A decade of\nstructured growth.\nFrom a two-person operation to one of Europe’s fastest-growing vehicle distributors.\n2016\n### EU Expansion Begins\nFirst deliveries to Germany, France, and Italy. Partnerships with authorized importers across the EU.\n2018\n### Expansion & Partnerships\nGrowing dealer network across Western Europe. New supplier agreements with authorized importers. Consistent volume growth.\n2020\n### Own Fleet Transport\nInvested in branded Mercedes-Benz and Scania car carriers. Full control over logistics and delivery quality.\n2022\n### ISO Certified · 2,000+ Vehicles\nAchieved ISO 9001 & 14001 certifications. Crossed 2,000 vehicles per year. EAIVT membership confirmed.\n2023\n### €11M Turnover · 15+ Markets\nOperations spanning 15+ European markets. Romania showroom operational.\n2024\n### €25M Turnover · 3,000+ Vehicles\nRecord year. 3,000+ vehicles distributed. Proprietary sourcing intelligence system deployed.\n2025\n### €27M Turnover · Slovakia Entity\nAutorent Europe s.r.o. registered in Bratislava. Direct access to Central European dealer networks. Enhanced sourcing intelligence.\n2026\n### €50M Target · Autorent Capital AI\nScaling to 30+ markets. Building an AI-powered pricing and sourcing intelligence platform.\nFind Your Solution\n## What type of buyer are you?\n[ ![Dealerships and resellers](https://www.autorentgroup.com/icon_dealer.webp) Dealerships & Resellers Multi-brand sourcing, competitive wholesale pricing, complete documentation packages. From 1 unit. Request Wholesale Inventory  ](https://www.autorentgroup.com/for-dealers.html) [ ![Fleet operators and rental companies](https://www.autorentgroup.com/icon_fleet.webp) Fleet Operators & Rental Companies Dedicated volume allocation, predictable delivery schedules, uniform fleet configurations. View Fleet Solutions  ](https://www.autorentgroup.com/for-fleet.html) [ ![International traders and exporters](https://www.autorentgroup.com/icon_export.webp) International Traders & Exporters EU compliance, customs & export documentation, integrated door-to-door logistics. Consult Export Specialists  ](https://www.autorentgroup.com/for-export.html)\nFor supply partners\n## Have stock to place across multiple markets?\nConfidential handling 30+ markets 24h review\n[Submit Stock List ](https://www.autorentgroup.com/for-suppliers.html)\nSee It In Action\n## How we source, document, and deliver\nFrom sourcing across 30+ markets to door-to-door delivery with our own fleet — here is what working with Autorent Europe looks like.\nAutorent Europe — Wholesale Vehicle Distribution\nGet In Touch\n## Ready to source\nyour next shipment?\nYour Name\nCompany\nEmail\nPhone / WhatsApp\nMessage\nI agree to the [Privacy Policy](https://www.autorentgroup.com/privacy-policy.html).\nSend Enquiry →\nAll new partners undergo standard business verification in accordance with our [Terms](https://www.autorentgroup.com/terms.html) and [KYC policy](https://www.autorentgroup.com/transaction-verification.html).\nGet In Touch\n## Ready to source\nyour next shipment?\n### Let’s talk vehicles.\nWhether you’re sourcing 3 cars or 300, we can help. Tell us what you need and we’ll send you availability and pricing within 24 hours.\n[**Request Current Stock** Tell us brands, models & quantities](https://www.autorentgroup.com/#contact-form) [**Request Presentation** Company profile & capability deck](https://wa.me/40724745117?text=Hello%2C%20I%20would%20like%20to%20request%20the%20Autorent%20Europe%20company%20presentation.) [**Verify Our Company** VAT, bank details & credentials](https://www.autorentgroup.com/transaction-verification.html)\n### Headquarters — Bulgaria\nAutorent Europe Ltd\n12 Hristo Botev Blvd, Floor 3\n7001 Ruse, Bulgaria\n[+359 2 437 3590](tel:+35924373590)\n### Showroom — Romania\nAutorent Europe Ltd\nSnagov PO, No 129, Bucharest–Ploiesti Road\n[+40 371 781 224](tel:+40371781224)\n### EU Ope",
+    "website_metadata": {
+        "url": "https://www.autorentgroup.com/",
+        "content_length": 15000
+    },
+    "linkedin": "https://www.linkedin.com/company/autorentllc",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\autorent.json",
+    "normalized_name": "autorent",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "autorentgroup.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/autorentllc",
+                    "normalized": "https://linkedin.com/company/autorentllc",
+                    "username": "autorentllc",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "autorentgroup.com"
+                ]
+            },
+            "official": [
+                "office@autorentgroup.com"
+            ],
+            "details": [
+                {
+                    "original": "office@autorentgroup.com",
+                    "normalized": "office@autorentgroup.com",
+                    "domain": "autorentgroup.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Algeria",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Algeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "office@autorentgroup.com",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 0,
+            "removed": 5,
+            "duplicates": 0,
+            "invalid": [
+                "+35924373590",
+                "+35924373590",
+                "40724745117",
+                "+40371781224",
+                "+40371781224"
+            ]
+        }
+    }
+}

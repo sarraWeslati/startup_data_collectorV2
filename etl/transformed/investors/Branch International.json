@@ -1,0 +1,282 @@
+{
+    "name": "Branch International",
+    "description": "A machine-learning provider of mobile financial services to emerging markets",
+    "organization_type": "",
+    "country": "Kenya",
+    "city": "Mumbai",
+    "website": "https://www.cbinsights.com/company/branch-international",
+    "linkedin": "https://linkedin.com/company/branch-co",
+    "investment_focus": [
+        "mobile financial services",
+        "AI lending",
+        "digital banking"
+    ],
+    "investment_stages": [
+        "Debt - V"
+    ],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/company/branch-international",
+        "linkedin": "https://linkedin.com/company/branch-co",
+        "dealroom": "https://app.dealroom.co/companies/branch_international"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T16:31:35.687993+00:00",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Branch International",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://branch.co/about-us",
+            "https://www.branch.co/how-it-works",
+            "https://linkedin.com/company/branch-co",
+            "https://branch.co/faq",
+            "https://www.branch.co/careers",
+            "https://www.linkedin.com/company/branch-co",
+            "https://www.linkedin.com/jobs/branch-international-jobs-worldwide",
+            "https://linkedin.com/in/matthew-flannery-4b6895111",
+            "https://www.linkedin.com/posts/branch-co_branchat10-financialtechnology-innovation-activity-7288502393019715584-dqrg",
+            "https://www.branch.co/",
+            "https://www.cbinsights.com/company/branch-international",
+            "https://techcrunch.com/2016/03/30/branch-co-raises-9-2-million-to-bring-financial-services-where-banks-dont-go/",
+            "https://branchinternational.applytojob.com/apply/jg0ZkN48Xp/Credit-Analytics-Lead",
+            "https://app.dealroom.co/companies/branch_international",
+            "https://www.privco.com/company/branch-international_private_stock_annual_report_financials",
+            "https://techcrunch.com/2019/04/08/partnering-with-visa-emerging-market-lender-branch-international-raises-170-million/"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 3,
+        "investment_stages_count": 1,
+        "geographic_focus_count": 6,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 5,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n![Branch International company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/02757e85-7663-4a75-bae4-011f9b68e55a.png?w=3840)\n# Branch International\nAnalyst Briefing Submitted\n[branch.co](https://branch.co)\n[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.cbinsights.com/company/branch-international)[](https://twitter.com/intent/tweet?text=https://www.cbinsights.com/company/branch-international)[](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Check%20out%20Branch%20International's%20Profile%20on%20CB%20Insights&body=I%20thought%20you%E2%80%99d%20find%20Branch%20International's%20page%20interesting:%20https://www.cbinsights.com/company/branch-international)\n* [Overview & Products](https://www.cbinsights.com/company/branch-international/)\n* [Financials](https://www.cbinsights.com/company/branch-international/financials)\n* [People](https://www.cbinsights.com/company/branch-international/people)\n* [Alternatives & Competitors](https://www.cbinsights.com/company/branch-international/alternatives-competitors)\n## Founded Year\n2015\n## Stage\nDebt - V | Alive\n## Total Raised\n$282.76M\n## Valuation\n$0000View\n## Last Raised\n$100M | 7 yrs ago\n## Mosaic Score\nThe Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.\n+154 points in the past 30 days\n## About Branch International\nBranch International is a fintech company that provides digital banking services in the finance sector. The company offers financial products including loans, money transfers, bill payments, and investment and savings accounts, all accessible via a smartphone app. Branch serves individuals in emerging markets looking for banking solutions. It was founded in 2015 and is based in Mumbai, India.\n## Headquarters Location\nOff Eastern Express Highway, Sewri-Chembur Road 01, AWFIS, Space Solutions, 4th Floor, VIOS Towers\nMumbai, 400037,\nIndia\n+91 8655937429\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n## Branch International's Products & Differentiators\nAI Lending\nWe make 50,000 loans daily across India -- with the country's lowest CAC.\n[![Start free trial](https://no-cache.hubspot.com/cta/default/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f)\n## Expert Collections containing Branch International\nExpert Collections are analyst-curated lists that highlight the companies you need to know in the most important technology spaces.\nBranch International is included in **3 Expert Collections,** including **Fintech 100**.\nF\n# Fintech 100\n498 items\n250 of the most promising private companies applying a mix of software and technology to transform the financial services industry.\nD\n# Digital Lending\n2 638 items\nThis collection contains companies that provide alternative means for obtaining a loan for personal or business use and companies that provide software to lenders for the application, underwriting, funding or loan collection process.\nF\n# Fintech\n10 100 items\nCompanies and startups in this collection provide technology to streamline, improve, and transform financial services, products, and operations for individuals and businesses.\nLearn more by requesting a demo\n## Latest Branch International News\n[The inclusion illusion: how Kenya's digital finance revolution can finish what it started](https://disruptafrica.com/2026/06/02/the-inclusion-illusion-how-kenyas-digital-finance-revolution-can-finish-what-it-started/)\nJun 2, 2026\nKenya's celebrated digital finance revolution faces two challenges that have to be solved together: a tax interpretation that misreads the economics of lending, and a consumer-protection framework that has not yet caught up with the pace of innovation. Neither will be fixed by industry or by regulators acting alone. Walk through Nairobi's markets or the rural stretches of Makueni, and the same sight greets you: a mobile money agent's sign, a smartphone screen, a transaction completed in seconds. Kenya has built something genuinely remarkable. Digital financial services have become the economy's central nervous system, extending credit to boda boda riders, mama mbogas and first-generation entrepreneurs who have no collateral, no credit history, and no realistic prospect of walking into a bank branch. Over eight million Kenyans borrow KES500 million (US$3.9 million) every single day from digital lenders. By the standard measure of financial inclusion, access, the revolution has succeeded. But success, examined closely, reveals its unfinished work. The first challenge comes from the state: a tax authority that has spent years misapplying the law against the very companies serving those eight million borrowers. The second is a consumer experience that the entire ecosystem — providers, regulators and infrastructure alike — has not yet made resilient enough. These are not reasons to slow the revolution. They are the work of maturing it. In a judgment delivered on February 28, 2025, the Tax Appeals Tribunal ruled against the Commissioner of Domestic Taxes in a case brought by Branch International Limited, a mobile lending platform. The Tribunal set aside two of the Commissioner's most significant disallowances: KES32 million (US$250,000) in legal and marketing expenses, and a staggering KES796 million (US$6.1 million) in bad debt deductions. Both, it found, had been wrongly disallowed. The Large Taxpayer Office, under Commissioner Weldon, had taxed Branch on income the company never received, because the loans underlying that income were never repaid. Bad debts are a structural feature of unsecured micro-lending, not an aberration. Digital lenders extend credit with no collateral, no guarantor, and by design, minimal friction. A portion of borrowers will default. The Income Tax Act acknowledges this reality: properly documented bad debts are deductible expenses, a position affirmed by both the Commissioner's own guidelines and prior case law. When a borrower cannot repay, the loss is real. Taxing the lender on that phantom income is not revenue collection; it is confiscation. What makes the Branch case particularly damning is not just the substantive error but the procedural conduct surrounding it. The company was given seven days to respond to a pre-assessment notice covering six years of complex tax affairs. When it requested 30 additional days, a reasonable ask by any standard, the Commissioner declined and issued a formal assessment two days later. A second assessment followed, outside the five-year statutory limitation period. Article 47 of Kenya's Constitution guarantees every person the right to administrative action that is lawful, reasonable and procedurally fair. On each count, the Tribunal found the LTO wanting. The Commissioner's response to this rebuke has been to appeal. Branch International is not alone in facing such pressure. The Digital Financial Services Association of Kenya, whose members include Tala, M-Kopa, 4G Capital and Zenka, has identified bad debt tax treatment as a critical, sector-wide concern. The compliance cost is enormous. The chilling effect on investment is real. Kenya's Finance Bill presents an opportunity to settle the matter legislatively, by codifying clearly that properly documented bad debts from unsecured digital lending are fully deductible in the year they are written off. This would not be a concession to the industry. It would be the law, written plainly enough that no future Commissioner could misread it. Yet to focus only on the tax dispute would be to miss the harder, more important work the industry itself must own: making the consumer experience demonstrably safer. The lenders represented by DFSAK do not dispute the findings below — we take them seriously, and we intend to lead in fixing them. A 2025 survey by Innovations for Poverty Action, covering a thousand active users across urban and rural Kenya, documents a consumer experience that should focus every serious participant in this market. Eighty per cent of payment-service users have sent money to an incorrect number, and 68 per cent of them could not reclaim it. This is not the failing of any single company; it is a gap in the ecosystem's shared rules — Kenya still has no common, enforceable standard for transaction reversals. Until providers and the regulator agree one, the burden of technical precision falls on the consumer, who is least positioned to bear it. An industry-wide reversal standard, co-designed with the regulator, would fix this for everyone at once. Among mobile loan users, 55 per cent failed to repay on time in the last year. Thirty-five per cent expressed regret about taking the loan at all. Most strikingly, 48 per cent of loan users reduced their food expenditure to meet repayment obligations. When nearly half of all borrowers are choosing between a digital lender and dinner, the word “convenience” begins to ring hollow. The credit-scoring models driving these products have proven adept at originating loans at speed and scale. They have proven considerably less adept at distinguishing productive credit from debt that corrodes the very households it purports to serve. Seventy per cent of respondents experienced a fraud attempt in the past twelve months. Only 14 per cen",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/company/branch-international",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "Off Eastern Express Highway, Sewri-Chembur Road 01, AWFIS, Space Solutions, 4th Floor, VIOS Towers",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [
+        {
+            "name": "Loans",
+            "description": "Loans",
+            "category": "Finance"
+        },
+        {
+            "name": "Money Transfers",
+            "description": "Money Transfers",
+            "category": "Finance"
+        },
+        {
+            "name": "Bill Payments",
+            "description": "Bill Payments",
+            "category": "Finance"
+        },
+        {
+            "name": "Investment Accounts",
+            "description": "Investment Accounts",
+            "category": "Finance"
+        },
+        {
+            "name": "Savings Accounts",
+            "description": "Savings Accounts",
+            "category": "Finance"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [
+        "Individuals in emerging markets"
+    ],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "phones": [
+        "9-0584-4",
+        "85-7663-4",
+        "+91 8655937429",
+        "100 498"
+    ],
+    "geographic_focus": [
+        "India",
+        "Nigeria",
+        "Kenya",
+        "Tanzania",
+        "Canada",
+        "United Kingdom"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 80,
+        "level": "Medium"
+    },
+    "tagline": "",
+    "industry": "Finance",
+    "headquarters": "Off Eastern Express Highway, Sewri-Chembur Road 01, AWFIS, Space Solutions, 4th Floor, VIOS Towers",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fbranch-international%29%5B%5D%28https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3Dhttps%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fbranch-international%29%5B%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm&fs=1&tf=1&to=&su=Check+out+Branch+International",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "Emerging markets",
+    "sources": [],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\branch_international.json",
+    "normalized_name": "branch international",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fbranch-international%29%5B%5D%28https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3Dhttps%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fbranch-international%29%5B%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm&fs=1&tf=1&to=&su=Check+out+Branch+International",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Kenya",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Kenya",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 4,
+            "valid": 0,
+            "removed": 4,
+            "duplicates": 0,
+            "invalid": [
+                "905844",
+                "8576634",
+                "+918655937429",
+                "100498"
+            ]
+        }
+    }
+}

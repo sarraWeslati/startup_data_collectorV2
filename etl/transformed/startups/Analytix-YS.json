@@ -1,0 +1,310 @@
+{
+    "entity_type": "startup",
+    "name": "Analytix-YS",
+    "description": "Analytix est une plateforme de veille stratégique offrant des possibilités d'exploration sur des données d'entreprise traitées et enrichies présentées en format de Dashboard via l’utilisation de la Business Intelligence et la Data Science.",
+    "tagline": "",
+    "industry": "Fintech",
+    "keywords": [],
+    "country": "Morocco",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://analytix.ma/accueil",
+    "linkedin_url": "https://www.linkedin.com/company/inforisk-maghreb",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/inforisk-maghreb",
+        "facebook": "https://facebook.com/inforisk.maghreb",
+        "youtube": "https://youtube.com/user/aminediouri10000"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/inforisk-maghreb"
+    },
+    "founders": [
+        {
+            "name": "mariam ouanes",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Ahmed Becha",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Ines El Ayeb",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Amine Gara",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "Moroccan businesses and international partners",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:08:04.599624",
+        "website_enriched": true,
+        "tavily_results": 19,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 4,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 1,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Oct-21"
+    },
+    "external_profiles": {
+        "website": "https://analytix.ma/accueil",
+        "linkedin": "https://uk.linkedin.com/company/analytix-global",
+        "crunchbase": "https://www.crunchbase.com/organization/analytixinsight",
+        "dealroom": "https://app.dealroom.co/news/feed/atombit-acquires-amplify-analytix-for-cx-ex-transformation"
+    },
+    "tavily": {
+        "query": "Analytix-YS",
+        "answer": "",
+        "results_count": 19,
+        "urls": [
+            "https://analytix.ma/accueil",
+            "https://mycorporateinfo.com/business/analytix-systems-private-limited",
+            "https://analytix.org/",
+            "https://uk.linkedin.com/company/analytix-global",
+            "https://www.linkedin.com/company/analytix_450044",
+            "https://in.linkedin.com/company/analytix-solutions-india",
+            "https://www.linkedin.com/company/analytixsolutions",
+            "https://www.linkedin.com/company/analytix-corporate-solutions",
+            "https://www.crunchbase.com/organization/analytixinsight",
+            "https://www.crunchbase.com/organization/apex-analytix",
+            "https://analytixinsight.com/",
+            "https://www.crunchbase.com/organization/glx-analytix/company_financials",
+            "https://tracxn.com/d/companies/analytixinsight/__AzIhgHvqAU7AWVIgk6Qb7CEaKfW1AhlTWFbVt0dp6Ac",
+            "https://www.biganalytixs.com/",
+            "https://www.analytixinsight.com/",
+            "https://www.analytix.com/services",
+            "https://app.dealroom.co/news/feed/atombit-acquires-amplify-analytix-for-cx-ex-transformation",
+            "https://tracxn.com/d/companies/analytix/__FxpIox2fT8izy39SDbP8DF3BYtMBdqR4EbyQl6kLIxo",
+            "https://leadiq.com/c/analytix/5a1da64623000053009964b3"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "## Grille des tarifs (national)\n×\nPour pouvoir accéder à la plateforme, commencez par souscrire à un abonnement annuel pour un montant de 5 000 dirhams HT. Chaque fois que vous rechercherez une entreprise ou consulterez une rubrique, votre compte sera débité du prix de la rubrique consultée. En cas de consommation de votre solde, vous pourrez renouveler votre abonnement à tout moment.\n| Détails des rubriques  | Tarifs en dirhams  |\n| --- | --- |\n| Recherche simple  | 5.00  |\n| Recherche avancée  | 5.00  |\n| Recherche PP  | 5.00  |\n| Recherche tiers  | 5.00  |\n| Fiche d'Identité  | 45.00  |\n| Fiche d'Identité PP  | 45.00  |\n| Historique (liste) des annonces légales  | 5.00  |\n| Détail d'une annonce  | 25.00  |\n| Associés  | 25.00  |\n| Dirigeants  | 25.00  |\n| Dirigeants / Associés (Source Greffe)  | 25.00  |\n| Bilan Numérique  | 65.00  |\n| Bilan Retraité  | 65.00  |\n| Ratios Entreprise  | 30.00  |\n| Ratios Bancaires  | 30.00  |\n| Comportement de paiement  | 25.00  |\n| Diagnostic financier  | 45.00  |\n| Infoscore (Score de défaillance)  | 50.00  |\n| Scorating (Score de solvabilité)  | 100.00  |\n| Rapport profil d'entreprise (3 derniers bilans financiers disponibles)  | 300.00  |\n| Rapport performance financière  | 350.00  |\n| Rapport diagnostic financier  | 400.00  |\n| Rapport analyse 360   | 500.00  |\n[![](https://analytix.ma/accueil/static/images/logo-analytix.png)](https://analytix.ma/accueil/)\n* [Fonctionnalités](https://analytix.ma/accueil/#fonctionnalites)\n* [Chiffres clés](https://analytix.ma/accueil/#chiffres-cles)\n* [Nos avantages](https://analytix.ma/accueil/#no-avantages)\n* [Nos offres](https://analytix.ma/accueil/#abonnement)\n* [Contact](https://analytix.ma/accueil/#contact)\n[S'abonner ](javascript:consulterLienInscription\\(\\)) [ Se connecter ](javascript:consulterLienAuth\\(\\))\n* [Fonctionnalités](https://analytix.ma/accueil/#fonctionnalites)\n* [Chiffres clés](https://analytix.ma/accueil/#chiffres-cles)\n* [Nos avantages](https://analytix.ma/accueil/#no-avantages)\n* [Nos offres](https://analytix.ma/accueil/#abonnement)\n* [Contact](https://analytix.ma/accueil/#contact)\n[ S'abonner ](javascript:consulterLienInscription\\(\\)) [ Se connecter ](javascript:consulterLienAuth\\(\\))\n#### Avec Analytix, maîtrisez vos risques de contreparties et renforcez une croissance saine de votre business\nAnalytix est LA plateforme de gestion des risques Clients et Fournisseurs au Maroc. Elle est alimentée par la plus grande base de données B2B sur les sociétés marocaines et internationales,via notre joint-venture, Inforisk Altares Africa, en partenariat avec Altares D&B.\n[ S'abonner ](javascript:consulterLienInscription\\(\\)) [ Se connecter ](javascript:consulterLienAuth\\(\\))\n####  Fonctionnalités\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-01.png)\nProfil de l'entreprise\nPrenez connaissance des informations légales et commerciales sur plus de 880 000 sociétés marocaines et 550 Millions de sociétés internationales (via notre joint-venture, Inforisk Altares Africa, en partenariat avec Altares D&B).\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-02.png)\nInformations signalétiques\nIdentifiez correctement votre futur client ou fournisseur grâce aux informations suivantes: dénomination exacte, ICE, RC tribunal, adresse à jour, activité, capital social et structure juridique...\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-03.png)\nScores & limite de crédit\nÉvaluez la probabilité d'impayés ou de défaillances de votre partenaire commercial (client ou fournisseur), ainsi que notre encours préconisé.\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-04.png)\nDélais de paiement\nAccédez à des informations uniques sur les délais de paiement de vos clients et fournisseurs, sur un historique d'années.\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-06.png)\nDirigeants et associés\nAccédez à la plus grande base de données des représentants légaux au Maroc et à l'international.\n![](https://analytix.ma/accueil/static/images/fonctionalite-landing-analytix-img-05.png)\nInformations juridiques\nGardez un œil sur vos clients et fournisseurs en consultant différents évènements, qu’il s’agisse d’un redressement judiciaire, d’une vente, ou de tout autre événement.\n####  La plus grande base de données B2B au Maroc et à l'international.\n#### Maroc\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-04.png)\nPlus de **880 000 sociétés**\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-03.png)\nPlus de **2 millions de Dirigeants et d'Associés**\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-02.png)\nPlus de **150 000 événements juridiques** /an\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-01.png)\nPlus de **2 000 000 Bilans** depuis 2005\n#### International  (en partenariat avec Inforisk Altares Africa)\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-04.png)\n**550 millions d'entreprises couvertes**\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-05.png)\n**30 000 sources d'informations différentes**\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-06.png)\n**220 pays**\n![](https://analytix.ma/accueil/static/images/chiffre-cle-landing-analytix-img-07.png)\n**5 millions de mises à jour quotidienne**\n####  Nos avantages\nUne base de données exhaustive des entreprises Marocaines et Internationales\nConnectée aux plus grandes bases de données d’entreprises Marocaines et Internationales, via notre joint-venture, Inforisk Altares Africa, en partenariat avec Altares D&B. Analytix vous donne accès à une mine d'informations complètes, fiables et quotidiennement mise à jour.\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-01.png)\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-02.png)\nUne Maîtrise des risques financiers\nL'accès à la donnée est un facteur clé pour une gestion efficace des risques. Cela permet de minimiser les pertes financières, de réduire les incertitudes liées à l'activité commerciale et de maximiser les performances de l'entreprise.\nAccessibilité permanente\nErgonomique et simple d'utilisation, Analytix est une solution WEB, accessible à tout moment depuis n'importe quel support, via une simple connexion internet.\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-03.png)\n####  Nos avantages\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-01.png)\nUne base de données exhaustive des entreprises Marocaines et Internationales\nConnectée aux plus grandes bases de données d'entreprises Marocaines et Internationales. Analytix vous donne accès à une mine d'informations complètes, fiables et quotidiennement mise à jour\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-02.png)\nUne Maîtrise des risques financiers\nL'accès à la donnée est un facteur clé pour une gestion efficace des risques. Cela permet de minimiser les pertes financières, de réduire les incertitudes liées à l'activité commerciale et de maximiser les performances de l'entreprise.\n![](https://analytix.ma/accueil/static/images/avantages-landing-analytix-img-03.png)\nAccessibilité permanente\nErgonomique et simple d'utilisation, Analytix est une solution WEB, accessible à tout moment depuis n'importe quel support, via une simple connexion internet.\n####  Nos offres\n![](https://analytix.ma/accueil/static/images/star-orange-icon.svg)\n####  Formule Business Pro\n+10 000 Dhs - HT / An\n* Accès en ligne complet à la plateforme de gestion des risques\n* Tarificatoin réduite selon le niveau de recharge choisi\n![](https://analytix.ma/accueil/static/images/Globe.svg)\n####  Formule Internationale  (en partenariat avec Inforisk Altares Africa)\n+5 000 Dhs - HT / An\n* Accès en ligne à des rapports d'entreprise à l'international\n* Tarificatoin réduite selon le niveau de recharge choisi\nVeuillez remplir le formulaire ci-dessous, et l'un de nos commerciaux vous contactera.\n##### Informations de contact :\n##### Offres :\nFormule Business Pro Formule Internationale\nEnvoyer la demande\nVotre message a été envoyé\n![](https://analytix.ma/accueil/static/images/star-bleu-icon.svg)\n####  Formule Full Digital  (Offre découverte dédiée exclusivement aux TPME)\n5 000 Dhs - HT / An [plus de détails](javascript:void\\(\\))\n* Accès en ligne à la plateforme de gestion des risques (national)\n* Solde initial de 5 000 DH pour vos recherches\n* Inscription et paiement en ligne sécurisé\n* Ne comprend pas l'accès aux rapports sectoriels et au module conformité\n##### Comment ça marche ?\n![](https://analytix.ma/accueil/static/images/souscrivez-icon.svg)\nSouscrivez en ligne\n![](https://analytix.ma/accueil/static/images/paiement-icon.svg)\nPaiement en ligne\n![](https://analytix.ma/accueil/static/images/consultez-icon.svg)\nConsultez la plate-forme\n[ S'abonner ](javascript:consulterLienInscription\\(\\))\n![](https://analytix.ma/accueil/static/images/secure_paiement.svg)\n####  Questions fréquemment posées\nQu'est-ce qu'Analytix ?\nAnalytix est une plateforme en ligne de gestion des risques clients et fournisseurs destinée à aider les entreprises à évaluer, surveiller et gérer les risques associés à leurs clients et fournisseurs. Elle offre des analyses approfondies, des rapports personnalisés et des alertes en temps réel pour une gestion proactive des risques.\nA qui est destinée la plateforme Analytix ?\nLa plateforme Analytix s’adresse principalement aux Personnes Morales et Physiques qui souhaitent améliorer leurs capacités à anticiper, gérer et minimiser les risques associés à leurs clients et partenaires commerciaux.\nComment puis-je m'abonner à la plateforme ?\nVous pouvez vous abonner à notre plateforme en Choisissant la formule qui vous convient le mieux. Nous proposons 3 types d’offres d’abonnement :\n- Formule Full Digital : Une offre avec un paiement exclusivement en ligne pour un montant maximal de 5 000 dh HT/an.\n- Formule Business Pro : Une offre à partir de 10 000 dh HT / an avec une tarification de consultation dégressive selon le montant de la recharge.\n- Formule Internationale : Une offre à partir de 5 000 DH HT/an, donnant accès à des rapports d'entreprises à l’international, avec une tarification de consultation dégressive en fonction du montant de la recharge.\nSur nos différentes offres, à chaque fois que vous rechercherez une entreprise ou consulterez une rubrique, votre compte sera débité du prix de la rubrique consultée. En cas de consommation de votre solde, vous pourrez renouveler votre abonnement à tout moment.\nQuels sont les modes de paiement acceptés ?\nNous acceptons les paiements en ligne via carte de débit exclusivement sur la formule Full Digital. Tous les paiements sont sécurisés et traités par notre partenaire de paiement certifié.\nExiste-t-il un service support que je peux contacter ?\nPour toutes vos questions ou demandes, une équipe de support est à votre disposition pour vous accompagner.\n####  Contact\n![](https://analytix.ma/accueil/static/images/contact-form-illustration.png)\nVous êtes  Une entreprise Un particulier\nNom et prénom\nSociété\nTéléphone\nEmail\nMessage\nEnvoyer\nVotre message a été envoyé\n![](https://analytix.ma/accueil/static/images/logo-analytix.png) by ![](https://analytix.ma/accueil/static/images/logo_inforisk_blanc2.png)\nLa plateforme Analytix est éditée par la société Inforisk,\nspécialisée dans l'information légale, juridique et financière.\nCopyright © 2024 analytix.ma. Tous droits réservés.\n##### **Liens**\n* [Conditions générales de vente](https://analytix.ma/accueil/#popup-cgv)\n* [Politique de confidentialité](https://analytix.ma/accueil/privacy_policy.html)\n* [Conditions d'utilisation](https://analytix.ma/accueil/terms_of_service.html)\n* [](https://www.facebook.com/inforisk.maghreb/)\n* [](https://twitter.com/InforiskMaghreb)\n* [ ](https://www.linkedin.com/company/inforisk-maghreb/)\n* [](https://www.youtube.com/user/aminediouri10000)\n* ![](https://analytix.ma/accueil/static/images/logo_iaa.png) ![](https://analytix.ma/accueil/static/images/logo-cmi-visa-mastercard-maroc-lcdmaroc.png)\n## CONDITIONS GENERALES DE VENTE ET SERVICES\n[×](https://analytix.ma/accueil/#copyright-info)\n**ARTICLE 1 - OBJET DES PRESENTES CONDITIONS GENERALES DE VENTE ET SERVICES**\n1.1 Les présentes Conditions Générales de Vente et de Services (ci-après, le « CGVS ») ont pour objet de définir les conditions de mise à disposition par Inforisk (ci-après, « INFORISK ») au Client (ci-après, le « Client ») des services de fourniture d’informations légales et commerciales (ci-après, les « Services »). Les services sont identifiés dans la commande (ci-après, « La Commande ») acceptés par le Client. L’acceptation de chaque Commande emporte adhésion aux CGVS.\n1.2 Cette mise à disposition s'effectue par l'intermédiaire d'un ordinateur connecté via internet aux serveurs d’INFORISK.\n1.3 Le Client reconnait avoir reçu toutes les informations nécessaires pour comprendre le fonctionnement des Services.\n**ARTICLE 2 – PRESENTATION DU SERVICE ET GRILLE TARIFAIRE DES RUBRIQUES**\n**Présentation du Service :** Le service de Consultation donne accès à la plateforme « Analytix », réservée aux Clients d’INFORISK exclusivement. Analytix est une plateforme éditée par Inforisk, de gestion du risque sur les entreprises marocaines. Elle donne accès aux données sur les sociétés à l’international, à travers notre joint venture, Inforisk Altares Africa. Le service de Consultation permet au Client de :\n- Travailler en toute sécurité avec ses contreparties\n- Prendre une décision de crédit\n- Segmenter et organiser son portefeuille de Clients et Fournisseurs\n- Surveiller les évènements juridiques et judiciaires affectant son portefeuille Clients ou Fournisseurs : changement de dirigeants, d’actionnaires, d’adresses; redressement ou liquidations judiciaires.\n- Surveiller les évènements affectant son secteur : créations ou défaillances d’entreprises…\n**Le service de Consultation aidera le Client à prendre ses décisions efficacement grâce:**\n- Aux informations identitaires et de localisation\n- Aux Business Reports Inforisk\n- Aux Scores Inforisk : Scoring de Défaillance, Scoring de Solvabilité et limite de crédit\n- Aux évènements juridiques et judiciaires\n- Aux bilans, Comptes de Produits et de Charges, soldes de gestion au format numérique exportables sur Excel\n- Aux ratios financiers de l’entreprise mais aussi de son secteur d’activité\n**Grille tarifaire des rubriques**\nLe service de Consultation fonctionne sur le principe d’un forfait rechargeable sur lequel vient en déduction le cout de chaque rubrique consultée, jusqu’à épuisement du montant forfaitaire initial.\nLa tarification des rubriques est la suivante :\n| Détails des rubriques  | Tarifs en dirhams  |\n| --- | --- |\n| R",
+    "website_metadata": {
+        "url": "https://analytix.ma/accueil",
+        "content_length": 15000
+    },
+    "linkedin": "https://uk.linkedin.com/company/analytix-global",
+    "phones": [
+        "880 000",
+        "150 000",
+        "2 000 000"
+    ],
+    "business_model": "Subscription-based pricing model",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\analytix_ys.json",
+    "normalized_name": "analytix ys",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "analytix.ma",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 4
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/inforisk-maghreb",
+                    "normalized": "https://linkedin.com/company/inforisk-maghreb",
+                    "username": "inforisk-maghreb",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/inforisk.maghreb",
+                    "normalized": "https://facebook.com/inforisk.maghreb",
+                    "username": "inforisk.maghreb",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/user/aminediouri10000",
+                    "normalized": "https://youtube.com/user/aminediouri10000",
+                    "username": "user",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Algeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+212880000",
+                "+212150000",
+                "+2122000000"
+            ]
+        }
+    }
+}

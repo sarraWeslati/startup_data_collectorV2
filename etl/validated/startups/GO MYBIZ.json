@@ -1,0 +1,278 @@
+{
+    "entity_type": "startup",
+    "name": "GO MYBIZ",
+    "description": "GO MYBIZ (2020)\nSecteur d’activité / Sector : Business Software and services\ngomybiz.co\nFondateur / Founder\nE-mail\nAdresse / Address\nACHRAF GABSI\nachraf.gabsi@gomybiz.co\nTunis Business Center Immeuble Sarra Boulevard principal \nles berges du lac 1053 Tunis\nActivité Notre projet consiste à offrir aux PME/TPE \nune suite de logiciels modulaires et simple d’utilisation qui \nva leur permettre de gérer au mieux leurs relations clients. \nToute la suite logiciel que nous proposons est en full Cloud \net se présente sous forme de modules indépendants.\nAspect Technologique La suite que nous proposons est \ndéveloppée avec des technologies web de dernière \ngénération et elles sont 100.% en Cloud. Vous pouvez y \naccéder depuis votre interface web ou bien depuis votre \nsmartphone.\nOriginalité Il s’agit d’une suite modulaire découpée d’une \nmanière bien structurée pour assurer des fonctions \ndifférentes mais complémentaires. Tous les modules \nsont interconnectés d’une manière native pour assurer la \ntransversalité de l’information client quel que soit le point \nde contact avec la possibilité d’évoluer par module selon \nson rythme de croissance et de maturité. Vous ne ratez \nplus aucune interaction avec vos clients et prospect.\nActivity Our project consists in offering to small \nand medium-sized companies a modular and easy-to-\nuse software suite that will allow them to manage their \ncustomer relationships in the best way. All the software \nsuite we propose is in full Cloud and is presented in the \nform of independent modules.\nTechnological Aspect The suite we offer is developed with \nthe latest web technologies and is 100.% cloud-based. \nYou can access it from your web interface or from your \nsmartphone.\nOriginality It is a well-structured modular suite designed \nto ensure different but complementary functions. All \nmodules are natively interconnected to ensure the cross-\ncutting nature of customer information regardless of \nthe point of contact, with the possibility of evolving by \nmodule according to its rate of growth and maturity. You \nno longer miss any interaction with your customers and \nprospects.\nFR\nEN",
+    "tagline": "Customer relations in the digital era",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://gomybiz.co",
+    "linkedin_url": "https://www.linkedin.com",
+    "social_media": {
+        "linkedin": "https://linkedin.com",
+        "facebook": "https://facebook.com",
+        "youtube": "https://youtube.com"
+    },
+    "contact": {
+        "emails": [
+            "achraf.gabsi@gomybiz.co"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": "https://linkedin.com"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Go Voice",
+            "description": "State-of-the-art business telephony solution offering interactive voice server (IVR), personalized opening hours message, queue, statistics, CTI.",
+            "category": ""
+        },
+        {
+            "name": "Go Contact",
+            "description": "Solution for sales and marketing departments covering customer service, prospecting campaigns, appointments, satisfaction surveys, collection, etc.",
+            "category": "Sales and marketing"
+        },
+        {
+            "name": "Go Sales",
+            "description": "Tool for managing sales force by monitoring opportunities, quotes, and tasks throughout a configurable sales cycle.",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:33:47.173790",
+        "website_enriched": true,
+        "tavily_results": 3,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 4,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "gomybiz.co"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[Go MyBiz](https://gomybiz.co/)\nOpen menu\n[Overview](https://gomybiz.co/)\nSolutions\n[Company](https://gomybiz.co/company)[Contact us](https://gomybiz.co/contacts)\n[Get a demo ](https://gomybiz.co/contacts)\nAn innovation\n# Customer relations in the digital era\nA suite of customer relationship management software that allows you to digitalize your customer path from end to end, all in omnichannel\nRequest a live demo\nEmailGet a demo\n![](https://gomybiz.co/static/images/draw_gomybiz.svg)\n## Your business tresor is your customer\nAnd you must take the unmost care of him in every details.\nTake him in charge as soon as he needs\nAnticipate its requests by an excellent knowledge of its habits\nListen to him\nGive him great satisfaction so he can feel as if he belongs to your brand\nSolutions\n## A suite of latest generation solutions\nthat allow your company to manage all new customers relation digital challenges\n![Logo GoVoice](https://gomybiz.co/static/images/logo_govoice.svg)Go Voice\n### Your telephony on the cloud free up your business\nGo voice is a state-of-the-art business telephony solution that o ers all the functionalities a business will need: interactive voice server (IVR), personalized opening hours message, queue, statistics, CTI\n[Learn more](https://gomybiz.co/govoice)\n![Inbox user interface](https://gomybiz.co/static/images/draw_voice.svg)\n![Logo GoContact](https://gomybiz.co/static/images/logo_gocontact.svg)Go Contact\n### Take a real care of your customer\nFor your sales and marketing department, Go Contact is your reference ally for many actions as important as each other: customer service, prospecting campaign and making appointments, satisfaction survey, collection and so on..\n[Learn more](https://gomybiz.co/gocontact)\n![Customer profile user interface](https://gomybiz.co/static/images/draw_contact.svg)\n![Logo GoSales](https://gomybiz.co/static/images/logo_gosales.svg)Go Sales\n### Sales Force : be the master on board\nAnd to top it all o , nothing beats a tool for managing your sales force by monitoring in detail all your opportunities, quotes and all the tasks assigned to them throughout a salescycle that you configure by yourself according to your internal process.\n[Learn more](https://gomybiz.co/gosales)\n![Inbox user interface](https://gomybiz.co/static/images/draw_sales.svg)\n##  Start using ours solutions today.Boost your productivity\nAll our solutions are in SaaS mode and all you need is a simple Internet connection, a browser and everything is up and running. We take care of everything else to ensure the security of your data, high availability to access your services and the necessary backups.\nYou just have to take care of your business!\n[Get a demo](https://gomybiz.co/gocontact)\n[Overview](https://gomybiz.co/)\n[Company](https://gomybiz.co/company)\n[Contact us](https://gomybiz.co/contacts)\n[Go Voice](https://gomybiz.co/govoice)\n[Go Sales](https://gomybiz.co/gosales)\n[Go Contact](https://gomybiz.co/gocontact)\nmail[facebook](https://facebook.com)[linkedin](https://www.linkedin.com)[youtube](https://youtube.com)\n©2026\n[Gomybiz :: An innovation Driven Company](https://gomybiz.co/)",
+    "website_metadata": {
+        "url": "https://gomybiz.co",
+        "content_length": 3142
+    },
+    "linkedin": "https://www.linkedin.com/company/gomybiz",
+    "external_profiles": {
+        "website": "https://gomybiz.co/company",
+        "linkedin": "https://www.linkedin.com/company/gomybiz"
+    },
+    "tavily": {
+        "query": "GO MYBIZ",
+        "answer": "Go Mybiz is a high-tech startup focused on CRM solutions, headquartered in Tunis, Tunisia. Wellfound is an online job portal connecting startups with job seekers, based in New York City. Wellfound has received funding and is part of the tech industry.",
+        "results_count": 3,
+        "urls": [
+            "https://www.linkedin.com/company/gomybiz",
+            "https://gomybiz.co/company",
+            "https://gomybiz.co"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\go_mybiz.json",
+    "normalized_name": "go mybiz",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "gomybiz.co",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com",
+                    "normalized": "https://linkedin.com",
+                    "username": "",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://facebook.com",
+                    "normalized": "https://facebook.com",
+                    "username": "",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://youtube.com",
+                    "normalized": "https://youtube.com",
+                    "username": "",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "gomybiz.co"
+                ]
+            },
+            "official": [
+                "achraf.gabsi@gomybiz.co"
+            ],
+            "details": [
+                {
+                    "original": "achraf.gabsi@gomybiz.co",
+                    "normalized": "achraf.gabsi@gomybiz.co",
+                    "domain": "gomybiz.co",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "achraf.gabsi@gomybiz.co",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

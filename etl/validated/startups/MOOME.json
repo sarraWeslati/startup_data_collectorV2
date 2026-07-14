@@ -1,0 +1,283 @@
+{
+    "entity_type": "startup",
+    "name": "MOOME",
+    "description": "MOOME (2018)\nSecteur d’activité / Sector : Agritech\nmoome.io/en/home/\nFondateur / Founder\nE-mail\nAdresse / Address\nAHMED BEN ACHBALLAH / MOHAMED KALLEL\nimen@moome.io\n13, Rue Hassan w Hussein, Menzah4,a1004\nActivité MooMe est une startup opérant dans le \ndomaine de l'AgriTech qui envisage de combler les \nbesoins en données entre les acteurs de l'écosystème \nlaitier via ses deux solutions MooMe Farmers et MooMe \nBusiness. \nAspect Technologique MooMe est une plateforme Cloud \nrassemblant les intervenants de l'écosystème laitier \n(Production/Collecte/Transformation).\nOriginalité MooMe permet l'agrégation d'un dataset unique \nafin de réaliser des prédicitions pour les acteurs de \nl'écosystème laitier.\nActivity MooMe is an AgriTech startup that plans \nto bridge data gaps in the dairy ecosystem via its two \nsolutions MooMe Farmers and MooMe Business. \nTechnological Aspect MooMe is a Cloud platform bringing \ntogether various stakeholders in the dairy ecosystem \nProduction/Collection/Processing.\nOriginality MooMe allows the combination of a unique \ndataset to make predictions for the actors of the dairy \necosystem.\nFR\nEN",
+    "tagline": null,
+    "industry": "Agritech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://moome.io",
+    "linkedin_url": null,
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/moome"
+    },
+    "contact": {
+        "emails": [
+            "imen@moome.io",
+            "hello@moome.io"
+        ],
+        "phones": [
+            {
+                "number": "+21620232024",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620242025",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620252026",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/moome"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:16:20.552366",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "moome.io"
+            ]
+        },
+        "phones": {
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
+        }
+    },
+    "website_content": "![MooMe Logo](https://moome.io/assets/moome_new_logo-B2Ng4pk4.png)\nHomeAboutFeaturesProjectsMedia CenterLogin\n# Transforming Cattle Farming withClimate Intelligence\nThe all-in-one climate-integrated cattle (dairy & beef) platform empowering service providers to digitize farmers at scale while tracking carbon impact across Africa and Asia.\nDiscover the PlatformLearn More\n10k+\nFarmers in Network\n2\nContinents\n99%\nSmallholder Focus Through B2B Strategic Partnerships\n## About MooMe\nMooMe is the pioneering climate-integrated cattle platform addressing the urgent challenge of fragmented ecosystems in African and Asian cattle farming. We bridge the gap between service providers struggling to scale and data-blind farmers lacking digital management tools.\nOur mission is to transform 99% of smallholder farmers across untapped markets by providing the first agri-cattle network with comprehensive climate tracking and carbon footprint monitoring. Unlike local solutions confined to single countries or global solutions targeting only large commercial farms, MooMe delivers innovative technology with plug-and-play integration.\nWe're building the future where service providers grow through data-enabled insights while farmers unlock revenue from both improved productivity and carbon credit monetization.\n### Unique Climate Dataset\nClimate-integrated cattle farm management combining technical, financial, and carbon tracking in one comprehensive platform.\n### Technology Flexibility\nAPIs for seamless integration, plug-and-play solutions for agri-businesses, and customizations that adapt to local market needs.\n### Untapped Markets Focus\nFirst agri-cattle network targeting 99% of smallholders in Africa and Asia, where others focus on large commercial farms in developed markets.\n## Discover the MooMe Platform\nA comprehensive climate-integrated cattle platform designed for service providers, farmers, and sustainability partners across emerging markets.\nCore Platform\n### Farm Management Module\nCore application for farmers and advisors covering herd, reproduction, milk production, financials, and production efficiency.\nClimate Intelligence\n### Impact Monitoring\nReal-time sustainability and carbon footprint tracking for ESG-focused NGOs and climate funds with comprehensive dashboards.\nIntegration\n### Partner Integration\nSeamless API access and plug-and-play integration for service providers with existing applications or ERP systems.\nTechnology\n### Mobile-First Design\nOptimized for low-connectivity environments with offline capabilities and SMS integration for rural farmer access.\nSecurity\n### Data Security & Privacy\nEnterprise-grade security with farmer data ownership rights and compliance with international privacy standards.\nRevenue GenerationComing soon\n### Carbon Credit Monetization\nAutomated methane and CO2 emissions tracking with carbon project development and verified credits marketplace access.\n### See the Platform in Action\nExplore interactive demos, case studies, and detailed impact reports showcasing real-world results from our climate-integrated solutions.\nSee How It Works\n## MooMe Projects Timeline — Driving Climate-Smart Dairy Transformation\nFrom Tunisia's first validation pilot to Kenya's flagship climate project — real impact across Africa and Asia with measurable results.\n### Active & Completed Projects\nActiveB2B\n### Livestock Services Alliance (LiSA)\nKenya\nQ2 2025 Launch\nAfrica's first scalable, farmer-centric carbon project targeting 10% methane reduction and 20% productivity increase\n$350k secured, 5,000 farmers + 115,000 cattle\n$1.1M Total Budget\nPilotB2B\n### PT Frisian Flag Indonesia\nIndonesia\n2024 Completed\nEnterprise-scale API integration with real-time data flow for feed optimization and herd health alerts\n93% engagement rate achieved across farmer networks\nPilotB2B\n### FrieslandCampina Engro Pakistan\nPakistan\nCompleted 2023-2024\nScaling digital dairy platform across Pakistan's largest farmer network with feed optimization and milk quality tracking\nValidated advanced management features such as feed efficiency and quality-based milk revenue calculation\nSuccessFarmer\n### Commercial Farms Algeria\nAlgeria\nCompleted 2023\nDigital transformation of commercial dairy operations with data-driven management systems, improving productivity and operational efficiency through comprehensive farm digitization\n40% improvement in farm management efficiency through digitization\nSuccessFarmer\n### Smallholder Dairy Farmers Morocco\nMorocco\nCompleted 2023\nEmpowering smallholder farmers with digital tools and data analytics to optimize dairy operations, demonstrating the critical importance of data in modern farming practices\nData-driven insights increased milk quality by 25%\nSuccessFarmer\n### Commercial Farms Tunisia\nTunisia\nCompleted 2023\nAdvanced digitization program for commercial dairy operations, demonstrating how comprehensive data management enables farm scalability and sustainable growth in competitive markets\nScalability achieved through data integration - 200% growth capacity\nSuccessB2B\n### GIG Algeria (Insurance)\nAlgeria\nCompleted 2023\nStrategic insurance sector collaboration proving how farm-level data enables service providers to develop innovative financial products, personalized risk assessment, and tailored insurance solutions for dairy operations\nData-driven insights enabled innovative financial service development for dairy farmers\nSuccessFarmer\n### Smallholder Dairy Farmers Rwanda\nRwanda\nCompleted 2022\nBreakthrough localization project delivering MooMe app in Kinyarwanda dialect, proving our commitment to local adaptation. Data-driven approach increased farmer engagement by 85%\nFirst localized app in Kinyarwanda - 'Inka n'amata' (Cow & Milk)\nSuccessB2B\n### Délice Group Tunisia\nTunisia\n2022-On-going\nFirst validation pilot: $40→$200 income per cow, up to 5x improvement for lowest producers\n15% production increase, costs reduced $260→$70/farmer/year\nSuccessB2B\n### Techna Tunisie (Feed Industry)\nTunisia\nCompleted 2021\nPartnership with feed industry leader demonstrating how farm-level data empowers service providers with targeted marketing capabilities, proactive interventions, and enhanced competitiveness in dairy supply chain optimization\nFarm-level data enabled targeted marketing strategies and proactive service delivery\n### Your Institution Here\nJoin MooMe's growing network of partners across Africa & Asia. Transform dairy farming in your region with climate-smart solutions.\nSchedule Partnership Call\n### In Development & Partnership Ready\nReadyB2B\n### Leader in Genetics Products and Services\nKenya\n2024-2025 Active\nGenetic provider partnership delivering AI breeding programs and genomic selection tools to enhance dairy productivity\nImproved genetic selection increasing milk yield by 25%\nReadyB2B\n### Leader Dairy Processor\nEthiopia\nQ1 2026 Pilot\nMarket entry with Ethiopia's largest processor to localize platform for Ethiopian breeds\n1,000+ farms, first verified carbon credits\nReadyFarmer\n### Leader Advisory services in Multiple Agri- Value Chains\nPakistan\n2025-2026\nMega-network activation via plug-and-play platform deployment across existing farmer networks\n15M farmers primed for activation\n### Your Institution Here\nJoin MooMe's growing network of partners across Africa & Asia. Transform dairy farming in your region with climate-smart solutions.\nSchedule Partnership Call\n> \"Africa's first scalable, farmer-centric carbon project in dairy — turning climate risk into revenue.\"\nMooMe Livestock Services Alliance (LiSA) Project\nView Detailed Impact Reports\n## Media Center & Research Hub\nAccess verified impact data, independent validation reports, and detailed case studies from our real-world deployments across Africa and Asia.\n9/10\nFarmers increased production\n15%\nAverage milk production increase\n73%\nGains via improved herd productivity\n93%\nEngagement rate (Indonesia)\n[![60 Decibels Independent Impact Survey report \\(Tunisia use case\\)](https://moome.io/assets/tunisia-report-DkkN2UWp.jpg)](https://moome.io/media-center/60-decibels-tunisia-impact-survey)\nImpact Validation\n2023\n### [60 Decibels Independent Impact Survey report (Tunisia use case)](https://moome.io/media-center/60-decibels-tunisia-impact-survey)\nIndependent survey across Tunisia's dairy regions: 9/10 farmers reported measurable production increases, 73% via improved herd productivity, with 4/5 reporting better living standards.\n[Read More →](https://moome.io/media-center/60-decibels-tunisia-impact-survey)\n[![PT Frisian Flag Indonesia Use Case](https://moome.io/assets/p1-DLdTXWqT.jpeg)](https://moome.io/media-center/pt-frisian-flag-indonesia)\nService Innovation\nCompleted 2024\n### [PT Frisian Flag Indonesia Use Case](https://moome.io/media-center/pt-frisian-flag-indonesia)\nEnterprise-scale API integration with real-time data flow for feed optimization and herd health alerts. 93% farmer engagement rate achieved.\n[Read More →](https://moome.io/media-center/pt-frisian-flag-indonesia)\n[![Délice Group Tunisia: 2022 Foundation Pilot Delivers Significant ROI](https://moome.io/assets/delice-report-C_oCvhRQ.jpg)](https://moome.io/media-center/delice-tunisia-foundation-pilot)\nPilot Validation\n2022-On-going\n### [Délice Group Tunisia: 2022 Foundation Pilot Delivers Significant ROI](https://moome.io/media-center/delice-tunisia-foundation-pilot)\nPilot with Tunisia's leading dairy processor: 15% average milk production increase (up to 5x for lowest producers), advisory cost cut from $260 to $70 per farmer per year.\n[Read More →](https://moome.io/media-center/delice-tunisia-foundation-pilot)\nExplore Full Media Center\n## Let's Build Something Amazing\nReady to take your business to the next level? Get in touch with our team of experts and discover how MooMe can transform your digital presence.\n### Get in touch\nWe'd love to hear from you. Our team is ready to help you achieve your goals and answer any questions you might have about our services.\n#### Email Us\nhello@moome.io\nPartner with us to transform dairy farming across emerging markets. Let's discuss strategic opportunities.\n#### Ready to get started?\nSchedule a free consultation with our experts to discuss your project requirements.\nSchedule Consultation\nM\n### MooMe\nThe climate-integrated cattle platform transforming farming across Africa and Asia through innovative technology and sustainable solutions.\nhello@moome.io\n#### Quick Links\n* Home\n* About\n* Features\n* Projects\n* Media Center\n#### Services\n* Farm Management\n* Climate Monitoring\n* Carbon Credits\n* Impact Analytics\n* Platform Integration\n* Advisory Services\n#### Connect With Us\nFollow us on social media for the latest updates and insights.\n[](https://www.linkedin.com/company/moome)\n© 2026 MooMe. All rights reserved.\n[Privacy Policy](https://moome.io/privacy-policy)[Terms of Service](https://moome.io/)[Cookie Policy](https://moome.io/)",
+    "website_metadata": {
+        "url": "https://moome.io",
+        "content_length": 10880
+    },
+    "external_profiles": {},
+    "linkedin": "https://www.linkedin.com/company/moome",
+    "emails": [
+        "imen@moome.io",
+        "hello@moome.io"
+    ],
+    "tavily": {
+        "query": "MOOME",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\moome.json",
+    "normalized_name": "moome",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "moome.io",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/moome",
+                    "normalized": "https://linkedin.com/company/moome",
+                    "username": "moome",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "moome.io"
+                ]
+            },
+            "official": [
+                "imen@moome.io",
+                "hello@moome.io"
+            ],
+            "details": [
+                {
+                    "original": "imen@moome.io",
+                    "normalized": "imen@moome.io",
+                    "domain": "moome.io",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "hello@moome.io",
+                    "normalized": "hello@moome.io",
+                    "domain": "moome.io",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "imen@moome.io",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 3,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

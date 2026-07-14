@@ -1,0 +1,233 @@
+{
+    "entity": {
+        "entity_type": "startup",
+        "name": "ai diagnosis vision",
+        "description": "AI diagnosis vision est une plateforme basée sur l'intelligence artificielle fournit aux dentistes, aux cabinets de médecins et aux hôpitaux publics un diagnostic précis et précoce des tumeurs et des kystes, une construction en 3D à partir d'une radiographie en 2D et un plan de traitement efficace .",
+        "tagline": "",
+        "industry": "HealthTech",
+        "keywords": [],
+        "country": "",
+        "city": "",
+        "headquarters": "",
+        "founded_year": "2020",
+        "startup_stage": "",
+        "startup_label": true,
+        "website": "https://ai.nejm.org/doi/full/10.1056/AIoa2300221",
+        "linkedin_url": "",
+        "social_media": {},
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": ""
+        },
+        "founders": [
+            {
+                "name": "Saoussen Ayari",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Anouar Nechi",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Koussai Barhoumi",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            }
+        ],
+        "leadership": [],
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "customer_segments": [],
+        "target_market": "",
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "partners": [],
+        "accelerators": [],
+        "incubators": [],
+        "funding": {
+            "total_raised": null,
+            "currency": "",
+            "stage": "",
+            "rounds": []
+        },
+        "investors": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "business_metrics": {
+            "users_count": null,
+            "customers_count": null,
+            "downloads": null,
+            "monthly_transactions": null,
+            "annual_revenue": null,
+            "revenue_currency": ""
+        },
+        "recent_news": [],
+        "events": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "extra_notes": "",
+        "sources": [],
+        "confidence": {
+            "score": 59,
+            "level": "Low"
+        },
+        "enrichment": {
+            "status": "csv_import",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-03T15:02:24.378221",
+            "website_enriched": false,
+            "tavily_results": 9,
+            "llm_enriched": true,
+            "sources_used": [
+                "csv"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": true,
+            "has_github": false,
+            "founders_count": 3,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 1,
+            "leadership_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 0,
+                "linkedin": false,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "others": {
+            "logo": "undefined",
+            "label_date": "Oct-20"
+        },
+        "external_profiles": {
+            "website": "https://ai.nejm.org/doi/full/10.1056/AIoa2300221",
+            "linkedin": "https://de.linkedin.com/in/saoussen-ayari-2952a3188",
+            "wellfound": "https://wellfound.com/blog/chatgpt-beats-doctors-in-diagnosis-again-newsletter"
+        },
+        "tavily": {
+            "query": "ai diagnosis vision",
+            "answer": "",
+            "results_count": 9,
+            "urls": [
+                "https://de.linkedin.com/in/saoussen-ayari-2952a3188",
+                "https://tn.linkedin.com/in/asma-ghodhbeni-3156881a6",
+                "https://dicom.vision/",
+                "https://www.linkedin.com/company/ai-diagnosis-vision",
+                "https://www.linkedin.com/posts/ai-diagnosis-vision_peopleofaidv-activity-6795089325018140672-00ih",
+                "https://www.linkedin.com/posts/saoussen-ayari-2952a3188_we-are-happy-and-proud-to-announce-that-ai-activity-6853357199775870976-3xnu",
+                "https://linkedin.com/company/vision-ai-detect",
+                "https://wellfound.com/blog/chatgpt-beats-doctors-in-diagnosis-again-newsletter",
+                "https://ai.nejm.org/doi/full/10.1056/AIoa2300221"
+            ]
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": false
+        },
+        "linkedin": "https://de.linkedin.com/in/saoussen-ayari-2952a3188",
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\ai_diagnosis_vision.json",
+        "normalized_name": "ai diagnosis vision",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "nejm.org",
+                "website_type": "official",
+                "social_profiles": 1,
+                "external_profiles": 3
+            },
+            "social_validation": {
+                "report": {
+                    "total": 0,
+                    "valid": 0,
+                    "official": 0,
+                    "platforms": []
+                },
+                "details": {}
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

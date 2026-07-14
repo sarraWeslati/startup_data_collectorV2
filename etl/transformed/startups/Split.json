@@ -1,0 +1,181 @@
+{
+    "name": "Split",
+    "description": "Split est une application de covoiturage offrant un transport alternatif et collaboratif aux Africains, leur permettant d'économiser argent, temps et énergie.",
+    "industry": "Mobility",
+    "country": "Tunisia",
+    "city": "",
+    "website": "https://split.tn",
+    "linkedin": "",
+    "founders": [],
+    "entity_type": "startup",
+    "website_content": "[ ![](https://static.parastorage.com/services/wix-public/1.719.0/images/error-pages/logo.png) ](https://fr.wix.com/?utm_campaign=vir_error_page)\n[Modèles](https://fr.wix.com/website/templates?utm_campaign=vir_error_page) [Wix.com](https://fr.wix.com/?utm_campaign=vir_error_page)\n# Looks like this domain isn't\nconnected to a website yet\nS'agit-il de votre domaine ?\nConnectez-le à votre site Wix en quelques étapes :\n1. Go to [Wix.com](https://fr.wix.com/) > Subscriptions > Domains\n2. Cliquez sur Utilisez un domaine qui vous appartient déjà\n3. Suivez les instructions pour connecter votre domaine à votre site internet\nBesoin d'aide ?\nVeuillez contacter notre [Équipe d'Assistance](https://fr.wix.com/support/html5/)",
+    "website_metadata": {
+        "url": "https://split.tn",
+        "content_length": 719
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "social_media": {},
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:54:03.091376",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "sources": [
+        {
+            "type": "website",
+            "url": "https://split.tn",
+            "confidence": 1.0
+        }
+    ],
+    "external_profiles": {},
+    "tavily": {
+        "query": "Split",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 41,
+        "level": "Low"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\split.json",
+    "normalized_name": "split",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "split.tn",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "domain",
+            "confidence": 0.8,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

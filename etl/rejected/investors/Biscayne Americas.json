@@ -1,0 +1,248 @@
+{
+    "entity": {
+        "name": "Biscayne Americas",
+        "description": "Venture investor backing Poa Internet.",
+        "organization_type": "",
+        "country": "",
+        "city": "Miami",
+        "website": "https://fundvendors.com/firms/biscayneamericas-advisers-l-l-c",
+        "linkedin": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a",
+        "investment_focus": [
+            "Venture capital"
+        ],
+        "investment_stages": [],
+        "portfolio_startups": [],
+        "entity_type": "investor",
+        "external_profiles": {
+            "website": "https://fundvendors.com/firms/biscayneamericas-advisers-l-l-c",
+            "linkedin": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a"
+        },
+        "social_media": {
+            "linkedin": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-04T16:11:18.086584+00:00",
+            "website_enriched": true,
+            "tavily_results": 14,
+            "llm_enriched": true,
+            "sources_used": [
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "tavily": {
+            "query": "Biscayne Americas",
+            "answer": "",
+            "results_count": 14,
+            "urls": [
+                "https://fundvendors.com/firms/biscayneamericas-advisers-l-l-c",
+                "https://www.sec.gov/files/litigation/admin/2022/ia-6119.pdf",
+                "https://listings.allpages.com/fl-0046651302-miami.html",
+                "https://pitchdeck.com/portfolio/biscayne-americas/",
+                "https://biscayneequitypartners.com/",
+                "https://linkedin.com/in/hern%C3%A1n-barros-5172901a",
+                "https://www.linkedin.com/in/tania-soris-5265b544",
+                "https://linkedin.com/in/marcello-correa-115356b",
+                "https://linkedin.com/in/humberto-lopez-11363b16",
+                "https://9at.com/Adviser/801-56533",
+                "https://privatefunddata.com/fund-companies/biscayneamericas-advisers-llc/",
+                "https://biscayneco.com/about-the-company/",
+                "https://florida.investment-us.org/26927-biscayne_americas_advisors.htm",
+                "https://www.datocapital.ky/companies/Biscayneamericas-Fortaleza-Master-Fd-Lp.html",
+                "https://linkedin.com/in/tania-soris-5265b544",
+                "https://linkedin.com/in/katharinasellsmiami",
+                "https://violationtracker.goodjobsfirst.org/violation-tracker/-biscayneamericas-advisers-llc",
+                "https://aum13f.com/fund/biscayneamericas-fortaleza-master-fund-lp",
+                "https://pppreport.org/company/biscayneamericas+advisers+l+l+c"
+            ]
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "has_dealroom": false,
+            "has_pitchbook": false,
+            "portfolio_count": 1,
+            "investment_focus_count": 1,
+            "investment_stages_count": 0,
+            "geographic_focus_count": 1,
+            "partners_count": 2,
+            "team_members_count": 0,
+            "social_profiles": 1,
+            "founders_count": 0,
+            "leadership_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 1,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 0,
+                "business_count": 0,
+                "generic_count": 0,
+                "official_count": 0,
+                "domains": []
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "website_content": "[Fund Vendors](https://fundvendors.com/)\n[Home](https://fundvendors.com/)\nInvestment Firms\nService Providers\n[Leaderboards](https://fundvendors.com/leaderboards)\n[Insights](https://fundvendors.com/insights)\n[Reports](https://fundvendors.com/reports)\n[About](https://fundvendors.com/about)\nLive\n[Subscribe →](https://fundvendors.com/subscribe)\n[Investment Firms](https://fundvendors.com/firms)/BISCAYNEAMERICAS ADVISERS L.L.C.\nBA\nInvestment Adviser\n# BISCAYNEAMERICAS ADVISERS L.L.C.\nMIAMI, FL, United States·CRD-112019\nInactive — last filed 2023-07\nPrivate fund GAV\n—\nAvg fund size\n—\nFunds\n6\nLast filed\nJul 5, 2023\nService providers used15 relationships\nPrime Broker\n[Jefferies 3 funds](https://fundvendors.com/prime-brokers/jefferies)[Interactive Brokers 1 fund](https://fundvendors.com/prime-brokers/interactive-brokers)\nAdministrator\n[Winterbotham 2 funds](https://fundvendors.com/administrators/winterbotham)[Alps Alternative Investment Services 1 fund](https://fundvendors.com/administrators/alps-alternative-investment-services)[Kaufman Rossin 1 fund](https://fundvendors.com/administrators/kaufman-rossin)\nAuditor\n[PwC 3 funds](https://fundvendors.com/auditors/pwc)[Spicer Jeffries 1 fund](https://fundvendors.com/auditors/spicer-jeffries)\nCustodian\n[JPMorgan 2 funds](https://fundvendors.com/custodians/jpmorgan)[Jefferies 1 fund](https://fundvendors.com/custodians/jefferies)[Wintrust Funds Group 1 fund](https://fundvendors.com/custodians/wintrust-funds-group)[Interactive Brokers 1 fund](https://fundvendors.com/custodians/interactive-brokers)\nMarketer\n[Palladium Capital Advisors 1 fund](https://fundvendors.com/marketers/palladium-capital-advisors)[MCC Securities 1 fund](https://fundvendors.com/marketers/mcc-securities)[Race Rock Capital 1 fund](https://fundvendors.com/marketers/race-rock-capital)[Pfa Investments 1 fund](https://fundvendors.com/marketers/pfa-investments)\nPrivate funds6 funds\n#\nFund\nType\nFoF\nGAV\n[01 NGENA INVESTMENTS SPV, LP Private equity — —](https://fundvendors.com/funds/805-4436772812)[02 THE MASTER MCC EMERGING MARKETS BOND FUND, INC Hedge funds — —](https://fundvendors.com/funds/805-6107619706)[03 BA TECH MASTER, LP Private equity — —](https://fundvendors.com/funds/805-5456947452)[04 ABL SPV. LP Private equity — —](https://fundvendors.com/funds/805-6457010545)[05 BISCAYNEAMERICAS FORTALEZA MASTER FUND, LP Hedge funds — —](https://fundvendors.com/funds/805-5534934590)[06 MASTER CGM ARGENTINA FUND, INC Hedge funds — —](https://fundvendors.com/funds/805-3384815959)\nFund mix\nPrivate equity50%\n3 funds— GAV\nHedge funds50%\n3 funds— GAV\nAdviser details\nSEC #CRD-112019\nCRD #112019\nSEC status—\nActivityInactive\nRegistered—\nLast filingJul 5, 2023\nClients—\nHeadquartersMIAMI, FL, United States\nReported fund GAV\nSum of fund GAV—\nAdviser-reported total—\nThis adviser has not filed recently — GAV is shown as “—” rather than a stale figure.\nFund Vendors\nAn open directory of private-fund service providers. Independent project, not affiliated with any provider or adviser.\nService Providers\n* [Auditors](https://fundvendors.com/auditors)\n* [Prime brokers](https://fundvendors.com/prime-brokers)\n* [Custodians](https://fundvendors.com/custodians)\n* [Administrators](https://fundvendors.com/administrators)\n* [Marketers](https://fundvendors.com/marketers)\nInvestment Firms\n* [All advisers](https://fundvendors.com/firms)\n* [Hedge funds](https://fundvendors.com/fund-types/hedge-funds)\n* [Private equity](https://fundvendors.com/fund-types/private-equity)\n* [Venture capital](https://fundvendors.com/fund-types/venture-capital)\n* [Real estate](https://fundvendors.com/fund-types/real-estate)\n* [Credit](https://fundvendors.com/fund-types/credit)\nAbout\n* [Methodology](https://fundvendors.com/about)\n* [Leaderboards](https://fundvendors.com/leaderboards)\n* [Insights](https://fundvendors.com/insights)\n* [Reports](https://fundvendors.com/reports)\n* [Terms & Disclaimers](https://fundvendors.com/terms)\n* Contact\nData derived from public SEC filings. Not investment advice. Not affiliated with the SEC or any named entity. © 2026 fundvendors.com.\n© 2026 Fund Vendorsv1.0",
+        "website_metadata": {
+            "url": "https://fundvendors.com/firms/biscayneamericas-advisers-l-l-c",
+            "content_length": 4105
+        },
+        "contact": {
+            "emails": [],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a"
+        },
+        "founders": [],
+        "leadership": [],
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "partners": [],
+        "investors": [],
+        "accelerators": [],
+        "incubators": [],
+        "keywords": [],
+        "customer_segments": [],
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "tagline": "",
+        "industry": "",
+        "headquarters": "",
+        "linkedin_url": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a",
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "target_market": "",
+        "sources": [],
+        "phones": [
+            "(305) 530-1801"
+        ],
+        "aum": "$164M",
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "confidence": {
+            "score": 76,
+            "level": "Medium"
+        },
+        "ticket_size": "$27M",
+        "geographic_focus": [
+            "United States"
+        ],
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\biscayne_americas.json",
+        "normalized_name": "biscayne americas",
+        "industries": [],
+        "countries": [],
+        "cities": [],
+        "portfolio": [],
+        "team_members": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "fundvendors.com",
+                "website_type": "official",
+                "social_profiles": 1,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 1,
+                    "valid": 1,
+                    "official": 1,
+                    "platforms": [
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a",
+                        "normalized": "https://linkedin.com/in/hern%C3%A1n-barros-5172901a",
+                        "username": "hern%C3%A1n-barros-5172901a",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 0,
+                    "business": 0,
+                    "generic": 0,
+                    "official": 0,
+                    "domains": []
+                },
+                "official": [],
+                "details": []
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "",
+        "quality": {
+            "phones": {
+                "total": 7,
+                "valid": 0,
+                "removed": 7,
+                "duplicates": 0,
+                "invalid": [
+                    "202307",
+                    "8054436772812",
+                    "8056107619706",
+                    "8055456947452",
+                    "8056457010545",
+                    "8055534934590",
+                    "8053384815959"
+                ]
+            }
+        }
+    },
+    "errors": [
+        "Investor does not appear to invest in Africa."
+    ]
+}

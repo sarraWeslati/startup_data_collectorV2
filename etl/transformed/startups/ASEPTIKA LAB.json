@@ -1,0 +1,287 @@
+{
+    "entity_type": "startup",
+    "name": "ASEPTIKA LAB",
+    "description": "Il s'agit d'un laboratoire dermo-cosmétique certifié qui veut digitaliser les cosmétiques naturels par un diagnostic de peau en ligne.",
+    "tagline": "",
+    "industry": "HealthTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2016",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://comptajobs.tn/companies/aseptika-lab",
+    "linkedin_url": "https://www.linkedin.com/company/comptajobs-tn",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/comptajobs-tn",
+        "facebook": "https://facebook.com/RevisionfaccomOfficiel",
+        "instagram": "https://instagram.com/comptajobs.tn"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21626345149",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/comptajobs-tn"
+    },
+    "founders": [
+        {
+            "name": "Selima Zaouali",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Aziz Zaouali",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:14:48.377520",
+        "website_enriched": true,
+        "tavily_results": 13,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 3,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Aug-19"
+    },
+    "external_profiles": {
+        "website": "https://comptajobs.tn/companies/aseptika-lab",
+        "linkedin": "https://linkedin.com/company/aseptika-lab"
+    },
+    "tavily": {
+        "query": "ASEPTIKA LAB",
+        "answer": "",
+        "results_count": 13,
+        "urls": [
+            "https://linkedin.com/company/aseptika-lab",
+            "https://www.mantooj.net/index.php?controller=entreprise&id=7798&lang=fr&layout=printdetail&option=com_gs1&print=1&tmpl=component",
+            "https://linkedin.com/company/aseptika-lab-france",
+            "https://comptajobs.tn/companies/aseptika-lab/",
+            "https://tn.linkedin.com/company/aseptika-lab",
+            "https://linkedin.com/in/s%C3%A9lima-zaouali-a7bb17155",
+            "https://linkedin.com/in/thairi-imen-a3b880257",
+            "https://linkedin.com/in/nawel-rawefi-b091021b6",
+            "https://linkedin.com/in/thairi-imen-085884139",
+            "https://aseptika-lab.com/",
+            "https://parabo.tn/brand/75-aseptika-lab",
+            "https://phytocure.tn/brand/17-aseptika-lab",
+            "https://se.linkedin.com/company/aseptika-lab"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "📞 +216 26 345 149\n* [](https://www.facebook.com/RevisionfaccomOfficiel)\n* [](https://www.linkedin.com/company/comptajobs-tn/)\n* [](https://www.instagram.com/comptajobs.tn)\n* [ Connexion ](https://comptajobs.tn/member/?action=login)\n* [ S'enregistrer Cabinet / Entreprise ](https://comptajobs.tn/member/?action=login&mode=register)\nNavigation [![](https://comptajobs.tn/companies/aseptika-lab/) ![](https://comptajobs.tn/companies/aseptika-lab/) ![](https://comptajobs.tn/companies/aseptika-lab/) ](https://comptajobs.tn/)\n* [Offres d’emploi](https://comptajobs.tn/)\n* [Haut Cadre](https://comptajobs.tn/haut-salaire/)\n* [Cabinets / Entreprises](https://comptajobs.tn/companies/)\n* [Témoignage](https://comptajobs.tn/temoignage/)\n* [Publier une Offre](https://comptajobs.tn/post-a-job/#jform)\n[![Aseptika Lab](https://comptajobs.tn/companies/aseptika-lab/)](https://comptajobs.tn/companies/aseptika-lab/)\n#  Aseptika Lab\nSuivre\nA PROPOS DE L'ENTREPRISE\nIndustrie cosmétique propriétaire des marques Aseptika, Zynia et Apothica.\n[Tout Effacer](https://comptajobs.tn/jobs/)\n### Cette entreprise n'a pas de postes à pourvoir\n[![Aseptika Lab](https://comptajobs.tn/companies/aseptika-lab/)](https://comptajobs.tn/companies/aseptika-lab/)\n###  [ Aseptika Lab ](https://comptajobs.tn/companies/aseptika-lab/)\n**Infos sur l'Entreprise**\n* **Total d'offre(s)** 0 Offres\n* **Cabinet / Entreprise** Entreprise\n* **Ville** La Soukra / Chotrana\n* **Taille de l'entreprise** 20-50\n* **Secteur d'activité** [Cosmétique](https://comptajobs.tn/companies/?company_category=158)\n* **Année de création** 2010 - 2020\n* **Département métier** Facturation et recouvrement\n* **Logiciels** Sage 100\n###  Contactez le Recruteur\nContacter\n![](https://comptajobs.tn/companies/aseptika-lab/)\n#### Menu\n* [Accueil](https://comptajobs.tn/)\n* [Qui sommes-nous](https://comptajobs.tn/qui-sommes-nous/)\n* [Cabinets / Entreprises](https://comptajobs.tn/companies/)\n* [Haut Cadre](https://comptajobs.tn/haut-salaire/)\n* [Témoignage](https://comptajobs.tn/temoignage/)\n* [Contact](https://comptajobs.tn/contact-us/)\n#### Liens utiles\n* [Politique de confidentialité](https://comptajobs.tn/politique-de-confidentialite/)\n@2026 Comptajobs.tn\n[ ![jobdelacom](https://comptajobs.tn/companies/aseptika-lab/) ](https://jobdelacom.tn/)[ ![caferestohoteljobs](https://comptajobs.tn/companies/aseptika-lab/) ](https://caferestohoteljobs.tn/)\n[](https://comptajobs.tn/companies/aseptika-lab/)\n×\n####  Envoyer à un ami\nVotre Nom complet\nL'adresse email de votre Ami\nContenu du Message\nEnvoyer\nPopup LinkedIn – ComptaJobs\n×\n![ComptaJobs](https://comptajobs.tn/companies/aseptika-lab/)\n1\nSUIVEZ NOS OFFRES\n[ Suivre sur LinkedIn ](https://www.linkedin.com/company/comptajobs-tn/)\nNon merci\n×\n#### Connexion\nE-mail\nMot de passe\nSe souvenir de moi\nS'enregistrer Cabinet / Entreprise\n[ Mot de passe oublié ?](https://comptajobs.tn/member/forgot-password/) Vous n’avez pas de compte? [ S’INSCRIRE ](https://comptajobs.tn/member/?action=login&mode=register)\n×\n#### Inscription Cabinet / Entreprise\nNom de l'Entreprise / Cabinet\nPrénom\nNom de famille\nE-mail\nMot de passe\nRetapez le mot de passe\nJe suis d’accord avec les [C.G.U](https://comptajobs.tn/politique-de-confidentialite/)\nInscription Cabinet / Entreprise\nVous avez déjà un compte ? [SE CONNECTER ](https://comptajobs.tn/member/?action=login)",
+    "website_metadata": {
+        "url": "https://comptajobs.tn/companies/aseptika-lab/",
+        "content_length": 3344
+    },
+    "linkedin": "https://linkedin.com/company/aseptika-lab",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\aseptika_lab.json",
+    "normalized_name": "aseptika lab",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "comptajobs.tn",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/comptajobs-tn",
+                    "normalized": "https://linkedin.com/company/comptajobs-tn",
+                    "username": "comptajobs-tn",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/RevisionfaccomOfficiel",
+                    "normalized": "https://facebook.com/RevisionfaccomOfficiel",
+                    "username": "RevisionfaccomOfficiel",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/comptajobs.tn",
+                    "normalized": "https://instagram.com/comptajobs.tn",
+                    "username": "comptajobs.tn",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "phone",
+            "confidence": 0.95,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 2,
+            "valid": 1,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "20102020"
+            ]
+        }
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "name": "ARYZE",
+    "description": "ARYZE creates Digital Cash to make payments cheaper, faster and smarter. By bridging the gap between traditional financial infrastructure and distributed ledger technology, we create an efficient, flexible, transparent, and compliant ecosystem allowing innovators to build solutions for the future. As our system will reduce the cost of transferring money to near zero, we work actively to promote financial inclusion with an inclusive community-based approach for solving SDG #10. Africa is our key market and we are already now working on use cases in Kenya amongst other countries.",
+    "organization_type": "",
+    "country": "Morocco",
+    "city": "Copenhagen",
+    "website": "https://www.cbinsights.com/company/aryze/financials",
+    "linkedin": "https://dk.linkedin.com/company/aryzeofficial",
+    "investment_focus": [
+        "FinTech",
+        "Digital Payments",
+        "Financial Inclusion",
+        "Distributed Ledger Technology"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/company/aryze/financials",
+        "linkedin": "https://dk.linkedin.com/company/aryzeofficial",
+        "github": "https://github.com/ARYZEofficial",
+        "dealroom": "https://app.dealroom.co/news/feed/danish-fintech-aryze-raises-3-4m-for-stablecoin-infrastructure-integrating-issuance-and-fiat-rails"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/cbinsights",
+        "github": "https://github.com/ARYZEofficial"
+    },
+    "geographic_focus": [
+        "Africa",
+        "Kenya"
+    ],
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T15:33:00.683819+00:00",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "ARYZE",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://aryze.io/",
+            "https://www.aryze.io/about",
+            "https://linktr.ee/aryzeofficial",
+            "https://aryze.test.aryze.io/about",
+            "https://aryze.mu/",
+            "https://dk.linkedin.com/company/aryzeofficial",
+            "https://linkedin.com/in/seitzbertram",
+            "https://www.linkedin.com/posts/aryzeofficial_aryze-secures-20-million-strategic-investment-activity-7291918908054261760-DL4V",
+            "https://linkedin.com/in/mikkel-thorup-main",
+            "https://linkedin.com/in/gabriel-franciscovich",
+            "https://www.vcbacked.co/company/aryze",
+            "https://linkedin.com/company/aryzeofficial/",
+            "https://tracxn.com/d/companies/aryze/__IlmMNXiJZ-eovP9rS2kl9gaw-e3It2xfH6C-L1sy-OY",
+            "https://tracxn.com/d/companies/aryze/__y8cxCN7Hd7VqPPBm5WQRZ5lkJjUxB9sqloh8VxbfWuY",
+            "https://github.com/ARYZEofficial",
+            "https://app.dealroom.co/news/feed/danish-fintech-aryze-raises-3-4m-for-stablecoin-infrastructure-integrating-issuance-and-fiat-rails",
+            "https://cryptoslate.com/companies/aryze/",
+            "https://ca.linkedin.com/company/aryze-developments",
+            "https://www.linkedin.com/posts/aryzeofficial_next-chapter-aryze-appoints-simon-fasdal-activity-7477949115604119552-1GTv",
+            "https://www.linkedin.com/posts/seitzbertram_blockchain-crypto-web3-activity-7307616793324408832-7dfc",
+            "https://linkedin.com/company/aryzeofficial",
+            "https://www.cbinsights.com/company/aryze/financials",
+            "https://tracxn.com/d/companies/aryze/__y8cxCN7Hd7VqPPBm5WQRZ5lkJjUxB9sqloh8VxbfWuY/funding-and-investors"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": true,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 4,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 2,
+        "partners_count": 5,
+        "team_members_count": 0,
+        "social_profiles": 2,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": false,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "aryze.io",
+                "cbinsights.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n![Aryze company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/ed4ebcaa-60a3-4948-a76b-216a6900b4df.png?w=3840)\n# Aryze\nUnclaimed\n[aryze.io](https://aryze.io)\n[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.cbinsights.com/company/aryze/financials)[](https://twitter.com/intent/tweet?text=https://www.cbinsights.com/company/aryze/financials)[](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Check%20out%20Aryze's%20Profile%20on%20CB%20Insights&body=I%20thought%20you%E2%80%99d%20find%20Aryze's%20page%20interesting:%20https://www.cbinsights.com/company/aryze/financials)\n* [Overview & Products](https://www.cbinsights.com/company/aryze/)\n* [Financials](https://www.cbinsights.com/company/aryze/financials)\n* [People](https://www.cbinsights.com/company/aryze/people)\n## Total Raised\n$3.4M\n## Funding, Valuation & Revenue\n2 Fundings\nAryze has**raised $3.4M** over**2 rounds**.\nAryze's **latest funding round** was a**Seed - II for $3,4M** on**May 19, 2026**.\n| Date  | Round  | Amount  | Investors  |  ValuationValuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.  | Revenue  | Sources  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 5/19/2026  | Seed - II  | $3,4M  | Undisclosed Investors  | $XXM  |  0 FY undefined  | 2  |\n| 7/30/2021  | Seed  |   | [Subscribe to see more](https://www.cbinsights.com/)  | $XXM  |  0 FY undefined  | 0  |\n| Date  | 5/19/2026  | 7/30/2021  |\n| --- | --- | --- |\n| Round  | Seed - II  | Seed  |\n| Amount  | $3,4M  |   |\n| Investors  | Undisclosed Investors  | [Subscribe to see more](https://www.cbinsights.com/)  |\n| Valuation  | $XXM  | $XXM  |\n| Revenue  |  0 FY undefined  |  0 FY undefined  |\n| Sources  | 2  | 0  |\nLearn more by requesting a demo\n[![Start free trial](https://no-cache.hubspot.com/cta/default/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f)\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n## Who to Watch\nT\n[Teddy Mobile](https://www.cbinsights.com/company/teddy-mobile)\nTeddy Mobile is a smartphone data management service that helps users identify callers based on the phone numbers, allowing users to block unwanted phone calls from marketers and strangers. The tools do the same for mobile phone messages, making messages smart for users to extract useful information while blocking out noise.\n![BlueDot Logo](https://www.cbinsights.com/images/twitter/profile_images/799664379222495232/x5WQNMy7_normal.jpg)\n[BlueDot](https://www.cbinsights.com/company/bluedot1)\nBlueDot is a Toronto-based social benefit corporation that tracks and predicts the global spread of infectious diseases.\n![Better.com Logo](https://www.cbinsights.com/images/twitter/profile_images/1037462331893133312/hfa9fbk__normal.jpg)\n[Better.com](https://www.cbinsights.com/company/better)\nBetter.com deconstructed the home-financing ecosystem and replaced it with a digitized process. Better.com’s platform offers a digital marketplace featuring competitive quotes from an array of insurance providers for seamless purchase of a homeowner's insurance policy and instant access to real estate agents across the country.\nC\n[CarSense](https://www.cbinsights.com/company/carsense)\nCarSense is a stand-alone specialty retailer of used vehicles in the United States. The company reconditions and retails late-model used vehicles at affordable prices, operating in the Philadelphia and Pittsburgh market areas, as well as southern New Jersey.\n![Dropbox Logo](https://www.cbinsights.com/images/twitter/profile_images/1085215038657441794/PQ23AUmr_normal.jpg)\n[Dropbox](https://www.cbinsights.com/company/dropbox)\nDropbox, founded by Drew Houston and Arash Ferdowsi (MIT engineers) in 2007, is a cross-platform cloud storage solution, with support for Windows, Mac OS X, and Linux. Files in a user's Dropbox folder are continuously kept in sync between the user's computers and securely backed up online. Folders in the Dropbox can also be shared with others, causing many businesses to abandon traditional network drives and VPNs.\n![BYJU's Logo](https://www.cbinsights.com/images/twitter/profile_images/702021951066230784/EjJ_sObT_normal.jpg)\n[BYJU's](https://www.cbinsights.com/company/byjus)\nBYJU's offers a K-12 learning app with learning programs for students in classes 4-12 (K-12) and preparation for competitive exams such as JEE, NEET, CAT, IAS, GRE, and GMAT.\n## Discover the right solution for your team\nThe CB Insights tech market intelligence platform analyzes millions of data points on vendors, products, partnerships, and patents to help your team find their next technology solution.\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7)\n![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)\n498 Seventh Avenue 12th floor\nNew York, NY 10018 info@cbinsights.com\n[212 292 3148](tel:+12122923148)\nFollow Us On Social\n[![Twitter](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/twitter-icon.svg?w=64&q=75)](https://twitter.com/CBinsights)[![Linkedin](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/linkedin-icon.svg?w=64&q=75)](https://linkedin.com/company/cb-insights/)[![Facebook](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/fb-icon.svg?w=64&q=75)](https://facebook.com/cbinsights/)\n### [About](https://www.cbinsights.com/)\n* [About Us](https://www.cbinsights.com/about/)\n* [Upcoming Webinars](https://www.cbinsights.com/research/events)\n* [Contact Us](https://www.cbinsights.com/contact-us/)\n### [How We Help](https://www.cbinsights.com/)\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Create Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n### [What We Offer](https://www.cbinsights.com/)\n* [Platform](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research Overview](https://www.cbinsights.com/what-we-offer/research/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n### [Popular Research](https://www.cbinsights.com/)\n* [AI 100](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)\n* [Fintech 100](https://www.cbinsights.com/research/report/top-fintech-startups-2023/)\n* [Digital Health 50](https://www.cbinsights.com/research/report/digital-health-startups-redefining-healthcare-2023/)\n* [Tech Trends 2024](https://www.cbinsights.com/research/report/top-tech-trends-2024/)\n* [Generative AI Predictions](https://www.cbinsights.com/research/report/generative-ai-predictions-2024/)\n* [Unicorn Tracker](https://www.cbinsights.com/research-unicorn-companies/)\n* [VC Glossary](https://www.cbinsights.com/research-vc-glossary-index/)\n* [Company List Applications](https://www.cbinsights.com/research-company-list-applications)\n* [CB Insights Website Terms of Use](https://www.cbinsights.com/website-terms-of-use/)\n* [Privacy Policy](https://www.cbinsights.com/privacy-policy/)\n* [Do Not Sell My Info](https://preferences.cbinsights.com/dont_sell)\n* [Partnership](https://www.cbinsights.com/research-partnerships)\nCopyright 2026 CB Information Services, Inc. All rights reserved.\nCBI websites generally use certain cookies to enable better interactions with our sites and services. Use of these cookies, which may be stored on your device, permits us to improve and customize your experience. You can read more about your cookie choices at [our privacy policy](https://www.cbinsights.com/privacy-policy). By continuing to use this site you are consenting to these choices.\nI ACCEPT\nI DO NOT ACCEPT",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/company/aryze/financials",
+        "content_length": 14201
+    },
+    "contact": {
+        "emails": [
+            "info@aryze.io",
+            "info@cbinsights.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://github.com/ARYZEofficial"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [
+        {
+            "name": "Technology Search Engine",
+            "description": "Search engine for technology vendors",
+            "category": "Software"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Technology market intelligence",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/in/jacknikogosian",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "emails": [
+        "info@aryze.io",
+        "info@cbinsights.com"
+    ],
+    "phones": [
+        "2020-2023",
+        "2024-2025",
+        "38895052",
+        "212 292 3148",
+        "+12122923148"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 88,
+        "level": "High"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\aryze.json",
+    "normalized_name": "aryze",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 3,
+            "external_profiles": 4
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "github"
+                ]
+            },
+            "details": {
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://facebook.com/cbinsights",
+                    "normalized": "https://facebook.com/cbinsights",
+                    "username": "cbinsights",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/ARYZEofficial",
+                    "normalized": "https://github.com/ARYZEofficial",
+                    "username": "ARYZEofficial",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "aryze.io",
+                    "cbinsights.com"
+                ]
+            },
+            "official": [
+                "info@cbinsights.com"
+            ],
+            "details": [
+                {
+                    "original": "info@aryze.io",
+                    "normalized": "info@aryze.io",
+                    "domain": "aryze.io",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "info@cbinsights.com",
+                    "normalized": "info@cbinsights.com",
+                    "domain": "cbinsights.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@cbinsights.com",
+    "quality": {
+        "phones": {
+            "total": 11,
+            "valid": 0,
+            "removed": 11,
+            "duplicates": 0,
+            "invalid": [
+                "20202023",
+                "20242025",
+                "38895052",
+                "905844",
+                "799664379222495232",
+                "1037462331893133312",
+                "1085215038657441794",
+                "702021951066230784",
+                "75498",
+                "2122923148",
+                "+12122923148"
+            ]
+        }
+    }
+}

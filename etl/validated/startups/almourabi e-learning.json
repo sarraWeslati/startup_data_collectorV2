@@ -1,0 +1,266 @@
+{
+    "entity_type": "startup",
+    "name": "almourabi e-learning",
+    "description": "Almourabi est une plateforme d'enseignement à distance offrant des cours en ligne aux élèves de la 6ème année primaire jusqu'à la 4ème année secondaires.",
+    "tagline": "",
+    "industry": "EdTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils",
+    "linkedin_url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F&title=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21",
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle",
+        "facebook": "https://facebook.com/sharer.php"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "founders": [
+        {
+            "name": "Mourad Gabsi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Aya Drissi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:05:30.029544",
+        "website_enriched": true,
+        "tavily_results": 10,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jun-21"
+    },
+    "external_profiles": {
+        "website": "https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils",
+        "linkedin": "https://linkedin.com/company/almourabi-e-learning"
+    },
+    "tavily": {
+        "query": "almourabi e-learning",
+        "answer": "",
+        "results_count": 10,
+        "urls": [
+            "https://linkedin.com/company/almourabi-e-learning",
+            "https://almourabi.com/levels/bac-sciences",
+            "https://www.threads.com/@almourabi",
+            "https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/",
+            "https://tn.linkedin.com/company/almourabi-e-learning",
+            "https://linkedin.com/in/mourad-gabsi-0b23ab201",
+            "https://linkedin.com/in/rayen-troudi-99aa63223",
+            "https://almourabi.com/",
+            "https://www.entreprises-magazine.com/almourabi-e-learning-une-start-up-educative-tunisienne-defiant-tous-les-obstacles/",
+            "https://pedago.ai/en/2024/12/15/pedago-al-mourabi-e-learning-reinvented-with-ai/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "![– arriere-plan-logo-1220-220](https://www.la-femme.tn/wp-content/uploads/2018/01/arriere-plan-logo-1220-220.jpg)\nSe connecter\n* [Accueil](https://www.la-femme.tn/)\n* [Qui Sommes-Nous ?](https://www.la-femme.tn/qui-sommes-nous/ \"Qui Sommes-Nous ?  \\( La Femme \\)\")\n* [Page Article](https://www.la-femme.tn/page-article/)\nSe connecter\nBienvenue!Connectez-vous à votre compte\nvotre nom d'utilisateur\nvotre mot de passe\n[Mot de passe oublié ?](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\n[](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\nRécupération de mot de passe\nRécupérer votre mot de passe\nvotre email\nRecherche\nmercredi 8 juillet 2026 16:49:37\n* [Connecter / rejoindre](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/#login-form)\n[](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\nSe connecter\nBienvenue ! Connectez-vous à votre compte :\nvotre nom d'utilisateur\nvotre mot de passe\n[Mot de passe oublié? obtenir de l'aide](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\nRécupération de mot de passe\nRécupérer votre mot de passe\nvotre email\nUn mot de passe vous sera envoyé par email.\n[ ![La-Femme.tn](https://www.la-femme.tn/wp-content/uploads/2019/08/La-Femme-rose-660-png.png) La-femme.tn ](https://www.la-femme.tn/)\n[](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\n[ ![La-Femme.tn](https://www.la-femme.tn/wp-content/uploads/2019/08/La-Femme-rose-400-png.png) ](https://www.la-femme.tn/) [ ![La-Femme.tn](https://www.la-femme.tn/wp-content/uploads/2019/08/La-Femme-rose-660-png.png) ](https://www.la-femme.tn/)\n* [Accueil](https://www.la-femme.tn/)\n* [Qui Sommes-Nous ?](https://www.la-femme.tn/qui-sommes-nous/ \"Qui Sommes-Nous ?  \\( La Femme \\)\")\n* [Page Article](https://www.la-femme.tn/page-article/)\n[](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/) [](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\n[![](https://rads.robox.agency/www/images/ab0d0bc4ed8c89a90fba83524c021693.png)](https://rads.robox.agency/www/delivery/ck.php?oaparams=2__bannerid=3055__zoneid=179__cb=1e2e835599__oadest=https%3A%2F%2Fore.do%2Fnkalmek)\n![](https://rads.robox.agency/www/delivery/lg.php?bannerid=3055&campaignid=299&zoneid=179&loc=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F&cb=1e2e835599)\n[Accueil](https://www.la-femme.tn/) [-DERNIERES NEWS](https://www.la-femme.tn/category/dernieres-news/ \"Voir tous les articles dans -DERNIERES NEWS\") « Almourabi e-learning », une start-up éducative défiant tous les écueils !\n![](https://www.la-femme.tn/wp-content/uploads/2022/02/E-learning-logo-1068x599.png)\n# « Almourabi e-learning », une start-up éducative défiant tous les écueils !\nPar\n[Samir Belhassen](https://www.la-femme.tn/author/samir/)\n-\n12 février 2022\n[0](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/#respond)\n**La-femme (Almourabi e-learning) –** La plateforme « Almourabi e-learning » pour les élèves tunisiens de la 6ème année primaire au bac s’est vu octroyer en juin 2021 le label de « Start-up ». Cela résultat n’aurait jamais pu être possible sans la confiance totale, la persévérance, le dévouement et le potentiel des deux fondateurs de cette plateforme de e-learning : Mme Aya DRISSI et M. Mourad GABSI.\nCes deux enseignants avant-gardistes ont, en effet, très vite compris que la formation académique ne prenait pas en considération la réalité crue de la classe. Ce qui a poussé Mme DRISSI à saisir toutes les opportunités favorisant les rencontres professionnelles et les formations pédagogiques et pragmatiques.\nQuant à M. GABSI, il n’a jamais cessé de s’auto-former dans le domaine technologique et informatique.\nEn 2019 et après de rudes études et réflexions, le duo croyait dur comme fer qu’il était temps de changer, d’innover en matière d’enseignement et d’initier des méthodes adaptées aux besoins des élèves.\nEn plus, le duo d’enseignants n’avait plus envie d’être prisonniers de la prévisibilité « confortable » d’une vie de professeurs ordinaires et voulait aider les élèves à améliorer leur formation et à éviter l’échec et le décrochage scolaires qui les guettaient, faute de compétences chevronnées dans certaines régions de la Tunisie et d’outils d’aide et de soutien.\n### **Et la plateforme « Almourabi e-learning » fut née !**\nLe projet en soi est un tremplin pragmatique dans le domaine éducatif et social et se donnera pour mission principale d’offrir un enseignement de qualité à tous les apprenants tunisiens sans distinction. Déceler le potentiel de l’élève, le cultiver et l’orienter, tels sont les fondements de base de ce projet.\nComme pour toute nouvelle vision, les difficultés et les contretemps n’en manquaient pas. Toutefois et grâce à la motivation, à la solidarité et à la profonde conviction de tous les intervenants du projet (enseignants, assistantes, développeurs, infographistes, photographes, psychologues et bien d’autres partenaires), la plateforme fleurissait insensiblement par le travail, l’implication, la responsabilité et la vision d’avenir de chacun.\n**« Almourabi e-learning »** a fait ses preuves lors de la période de confinement de mars 2020 en lançant une action de solidarité, soutenue par des enseignants bienveillants au profit d’élèves de baccalauréat aux quatre coins de la Tunisie.\nL’action avait gagné du terrain et avait attiré parents et élèves fort intéressés. Outre l’enseignement, des spécialistes en psychologie encadraient les jeunes apprenants pour répondre à leurs peurs et confusions. Pour bon nombre d’élèves confinés, le salut s’appelait « Almourabi ».\nAprès le premier séminaire officiel de la plateforme, ayant eu lieu le 11 août 2021, la Start-up a bel et bien prouvé son authenticité, son potentiel et sa notoriété.\nSes fondateurs, Mme Aya DRISSI et M. Mourad GABSI, ont avancé avec toute leur équipe humble devant les hommes et le savoir, « Almourabi e-learning » n’a rien accompli au regard de ce qu’elle accomplira demain !\n### **Les principaux axes de la plateforme :**\n* – Contenu pédagogique : séances directes, vidéos de cours, devoirs…,\n* – Evaluation : exercices interactifs,\n* – Suivi pédagogique : évolution de l’élève, participation dans les séances directes,\n* – Accompagnement pédagogique : contact avec les professeurs,\n* – Accompagnement psychologique,\n* – Accompagnement des parents,\n* – Formation professionnelle au profit des enseignants.\n**Pour plus d’informations ,** visitez le site officiel de la plateforme : **<https://almourabi.com/>**\n[![](https://rads.robox.agency/www/images/ab0d0bc4ed8c89a90fba83524c021693.png)](https://rads.robox.agency/www/delivery/ck.php?oaparams=2__bannerid=3055__zoneid=179__cb=a3da0a554e__oadest=https%3A%2F%2Fore.do%2Fnkalmek)\n![](https://rads.robox.agency/www/delivery/lg.php?bannerid=3055&campaignid=299&zoneid=179&loc=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F&cb=a3da0a554e)\n[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F \"Facebook\")[Twitter](https://twitter.com/intent/tweet?text=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21&url=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F&via=%40TunisieTribune \"Twitter\")[WhatsApp](https://api.whatsapp.com/send?text=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21%20%0A%0A%20https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/ \"WhatsApp\")[Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/&title=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21 \"Linkedin\")Email\n[Imprimer](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/ \"Imprimer\")[Viber](viber://forward?text=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21%20https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/ \"Viber\")\n[ ](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/ \"More\")\n[Samir Belhassen](https://www.la-femme.tn/author/samir/)\n####  [ARTICLES CONNEXES](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)[PLUS DE L'AUTEUR](https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/)\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/1000117954-218x150.jpg)](https://www.la-femme.tn/2026/07/06/interview-dr-aman-allah-messaadi-au-technovation-2026-pour-les-fumeurs-qui-ny-arrivent-pas-la-reduction-des-risques-est-un-imperatif-de-sante-publique/ \"Interview : Dr Aman Allah Messaadi au Technovation 2026 : « Pour les fumeurs qui n’y arrivent pas, la réduction des risques est un impératif de santé publique »\")\n### [Interview : Dr Aman Allah Messaadi au Technovation 2026 : « Pour les fumeurs qui n’y arrivent pas, la réduction des risques est un...](https://www.la-femme.tn/2026/07/06/interview-dr-aman-allah-messaadi-au-technovation-2026-pour-les-fumeurs-qui-ny-arrivent-pas-la-reduction-des-risques-est-un-imperatif-de-sante-publique/ \"Interview : Dr Aman Allah Messaadi au Technovation 2026 : « Pour les fumeurs qui n’y arrivent pas, la réduction des risques est un impératif de santé publique »\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/Le-Groupe-Zouari-218x150.jpg)](https://www.la-femme.tn/2026/07/03/le-groupe-zouari-recoit-la-certification-internationale-groupe-zouari-recoit-la-certification-internationale-msi-20000-a-euronext-parisle-msi-20000-a-euronext-paris/ \"Le Groupe Zouari reçoit la certification internationaLe Groupe Zouari reçoit la certification internationale MSI 20000 à Euronext Parisle MSI 20000 à Euronext Paris\")\n### [Le Groupe Zouari reçoit la certification internationaLe Groupe Zouari reçoit la certification internationale MSI 20000 à Euronext Parisle MSI 20000 à Euronext Paris](https://www.la-femme.tn/2026/07/03/le-groupe-zouari-recoit-la-certification-internationale-groupe-zouari-recoit-la-certification-internationale-msi-20000-a-euronext-parisle-msi-20000-a-euronext-paris/ \"Le Groupe Zouari reçoit la certification internationaLe Groupe Zouari reçoit la certification internationale MSI 20000 à Euronext Parisle MSI 20000 à Euronext Paris\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/edutour-2026-une-initiative-pour-connecter-les-journalistes-a-lindustrie-electronique03-218x150.png)](https://www.la-femme.tn/2026/07/02/edutour-2026-une-initiative-pour-connecter-les-journalistes-a-lindustrie-electronique/ \"Edutour 2026 : une initiative pour connecter les journalistes à l’industrie électronique\")\n### [Edutour 2026 : une initiative pour connecter les journalistes à l’industrie électronique](https://www.la-femme.tn/2026/07/02/edutour-2026-une-initiative-pour-connecter-les-journalistes-a-lindustrie-electronique/ \"Edutour 2026 : une initiative pour connecter les journalistes à l’industrie électronique\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/Retransmissions-TV-Mondial-2026-Flash-infos-Programme-1-218x150.jpg)](https://www.la-femme.tn/2026/07/01/mondial-2026-flash-infos-programme-des-1-16e-de-finale-de-ce-mercredi-1er-juillet/ \"Mondial 2026 : Flash-infos & Programme des 1/16e de finale de ce mercredi 1er juillet\")\n### [Mondial 2026 : Flash-infos & Programme des 1/16e de finale de ce mercredi 1er juillet](https://www.la-femme.tn/2026/07/01/mondial-2026-flash-infos-programme-des-1-16e-de-finale-de-ce-mercredi-1er-juillet/ \"Mondial 2026 : Flash-infos & Programme des 1/16e de finale de ce mercredi 1er juillet\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/Mehrez-Boussayene02-218x150.png)](https://www.la-femme.tn/2026/07/01/mehrez-boussayene-les-jeux-mediterraneens-taranto-2026-entrent-dans-leur-derniere-ligne-droite/ \"Mehrez Boussayene : les Jeux Méditerranéens-Taranto 2026 entrent dans leur dernière ligne droite\")\n### [Mehrez Boussayene : les Jeux Méditerranéens-Taranto 2026 entrent dans leur dernière ligne droite](https://www.la-femme.tn/2026/07/01/mehrez-boussayene-les-jeux-mediterraneens-taranto-2026-entrent-dans-leur-derniere-ligne-droite/ \"Mehrez Boussayene : les Jeux Méditerranéens-Taranto 2026 entrent dans leur dernière ligne droite\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/PastedGraphic-2-218x150.png)](https://www.la-femme.tn/2026/07/01/interview-comment-samsung-transforme-le-futur-des-technologies-portables-grace-au-design-computationnel/ \"Interview – Comment Samsung transforme le futur des technologies portables grâce au design computationnel\")\n### [Interview – Comment Samsung transforme le futur des technologies portables grâce au design computationnel](https://www.la-femme.tn/2026/07/01/interview-comment-samsung-transforme-le-futur-des-technologies-portables-grace-au-design-computationnel/ \"Interview – Comment Samsung transforme le futur des technologies portables grâce au design computationnel\")\n[![](https://www.la-femme.tn/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png)](https://www.la-femme.tn/2026/07/01/la-tunisie-mise-a-lhonneur-sur-la-scene-internationale-deuronext/ \"La Tunisie mise à l’honneur sur la scène internationale d’EURONEXT\")\n### [La Tunisie mise à l’honneur sur la scène internationale d’EURONEXT](https://www.la-femme.tn/2026/07/01/la-tunisie-mise-a-lhonneur-sur-la-scene-internationale-deuronext/ \"La Tunisie mise à l’honneur sur la scène internationale d’EURONEXT\")\n[![](https://www.la-femme.tn/wp-content/uploads/2026/07/YellowStickerLogo_On-Light-or-Pictures-218x150.png)](https://www.la-femme.tn/2026/07/01/powerup-tunisia-2026-glovo-lance-un-appel-aux-startups-tunisiennes-pour-representer-la-tunisie-a-barcelone/ \"POWERUP TUNISIA 2026 : Glovo lance un appel aux startups tunisiennes pour représenter la Tunisie à Barcelone\")\n### [POWERUP TUNISIA 2026 : Glovo lance un appel aux startups tunisiennes pour représenter la Tunisie à Barcelone](https://www.la-femme.tn/2026/07/01/powerup-tunisia-2026-glovo-lance-un-appel-aux-star",
+    "website_metadata": {
+        "url": "https://www.la-femme.tn/2022/02/12/almourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils/",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/company/almourabi-e-learning",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\almourabi_e_learning.json",
+    "normalized_name": "almourabi e learning",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "la-femme.tn",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F&title=%C2%AB%C2%A0Almourabi+e-learning%C2%A0%C2%BB%2C+une+start-up+%C3%A9ducative+d%C3%A9fiant+tous+les+%C3%A9cueils+%21",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.la-femme.tn%2F2022%2F02%2F12%2Falmourabi-e-learning-une-start-up-educative-defiant-tous-les-ecueils%2F",
+                    "normalized": "https://facebook.com/sharer.php",
+                    "username": "sharer.php",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "domain",
+            "confidence": 0.8,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "1220220",
+                "835599",
+                "1000117954218"
+            ]
+        }
+    }
+}

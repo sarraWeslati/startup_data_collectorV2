@@ -1,0 +1,314 @@
+{
+    "entity_type": "startup",
+    "name": "Africa HR Solutions",
+    "description": "Africa HR Solutions simplifie le travail en Afrique.",
+    "tagline": "Africa HR Solutions simplifie le travail en Afrique.",
+    "industry": "Human Resources",
+    "sub_industry": "Employer of Record (EOR) and Professional Employer Organization (PEO)",
+    "keywords": [
+        "EOR",
+        "PEO",
+        "payroll outsourcing",
+        "HR services",
+        "Africa",
+        "compliance",
+        "cross-border payments",
+        "benefits",
+        "work permits",
+        "immigration",
+        "Employer of Record"
+    ],
+    "country": "Senegal",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "",
+    "startup_stage": "",
+    "startup_label": false,
+    "website": "https://www.compareor.com/providers/africa-hr-solutions",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/africa-hr-solutions-ltd"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/africa-hr-solutions-ltd"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [
+        "Employeur Officiel (EOR) Services",
+        "Externalisation de la paie",
+        "Portage Salarial (PEO) Services",
+        "Avantages Sociaux",
+        "Conformité",
+        "Permis de travail et immigration",
+        "Employer of Record (EOR)",
+        "Payroll tax outsourcing",
+        "Professional employment organization (PEO)",
+        "Benefits",
+        "Compliance",
+        "Work permit and immigration",
+        "Cross-border payment",
+        "Professional Employment Organisation (PEO)",
+        "Work permit and immigration services",
+        "Payroll outsourcing",
+        "Cross-border payments",
+        "Benefits (life and health insurance)",
+        "Compliance services",
+        "Work permit and immigration assistance",
+        "Employeur Officiel (EOR)",
+        "Portage Salarial (PEO)",
+        "Compliance advisory",
+        "Payroll and tax outsourcing",
+        "Cross‑border payments",
+        "EOR partnerships",
+        "Benefits Administration"
+    ],
+    "technologies": [],
+    "customer_segments": [
+        "Multinationales et grandes entreprises cotées",
+        "Petites et moyennes entreprises (PME)",
+        "ONG",
+        "Multinationals and large listed enterprises",
+        "Small and medium-sized enterprises (SMEs)",
+        "NGOs and non-profit organizations",
+        "Multinational corporations",
+        "Large listed enterprises",
+        "Non-governmental organizations (NGOs)",
+        "International development organizations",
+        "Multinationals and listed large enterprises",
+        "Small and medium‑sized enterprises (SMEs)",
+        "NGOs and international development organisations"
+    ],
+    "target_market": "Afrique",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [
+        {
+            "name": "ADvTECH Resourcing",
+            "website": "",
+            "linkedin": "",
+            "country": "South Africa",
+            "investment_stage": "",
+            "investment_round": "",
+            "source": "https://www.compareor.com/providers/africa-hr-solutions"
+        }
+    ],
+    "awards": [
+        "Global Payroll Awards 2024",
+        "Global Payroll Awards 2024 winner",
+        "Lauréat du prix Badge of the GPA 2024",
+        "ISO 27001 Certification"
+    ],
+    "certifications": [
+        "ISO 27001",
+        "Label du RGPD",
+        "certification ISO",
+        "GDPR label"
+    ],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T14:58:22.131953",
+        "website_enriched": true,
+        "tavily_results": 14,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 1,
+        "products_count": 0,
+        "services_count": 27,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 3,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[![](https://cdn.prod.website-files.com/698462a1efc30071119d8fd0/69ac834ecc7fc2c2dd9843e6_compareor-logo-full-light.svg)](https://www.compareor.com/)\n[About](https://www.compareor.com/about)[Providers](https://www.compareor.com/providers)[Countries](https://www.compareor.com/countries)[Compare](https://www.compareor.com/compare)[Tools](https://www.compareor.com/tools)[Start matchmaking](https://tally.so/r/eq0Aoo)\n[Start matchmaking](https://tally.so/r/eq0Aoo)\nCheck some guides of howto switch your provider!\n[Switching EOR?](https://www.compareor.com/switching-eor)\nProvider\n# Africa HR Solutions Review\nAfrica HR Solutions is the largest Africa-specialist EOR and payroll provider on the continent, founded in 2011 in Mauritius with ADvTECH Resourcing (JSE-listed) as majority shareholder. Covering 46+ African countries, it serves 400+ international clients including Mastercard, TotalEnergies, and Goodyear — earning Regional Payroll Provider of the Year from the Global Payroll Association in 2024 and ISO 27001 certification. Africa only.\n[Get a free custom quote ](https://tally.so/r/eq0Aoo)\n[Provider website](https://africa-hr.com/)\nLast updated on:\nMay 10, 2026\nBy: [Quentin Dupard](https://www.compareor.com/about)\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/699c887fbdc128569f2dc4ea_Icon.svg)\n46+\nCountries\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698dec34f79a24dbf4ee8de5_Icon.svg)\n500+\nCompanies\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698debedb9e373bf6369716c_Icon-3.svg)\nOn request\nPer Employee/Month\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698dec064add45a787f880eb_Icon-2.svg)\n3-5 days\nSetup Time\n![](https://cdn.prod.website-files.com/698462a1efc30071119d8fd0/6999c4f44a6808d2f054789b_Union.webp)\nCOMPAREOR SCORE\n3.4\n/5\nCompliance & coverage 4.0\nPlatform & features 3.3\nPricing & transparency 2.8\nBased on independent research, verified product docs, and aggregated user reviews.\n![](https://cdn.prod.website-files.com/698462a1efc30071119d8fd0/698ca14a1ef88b639ffe8e62_Background.avif)\n## Provider Highlights\n### Advantages\n* Largest Africa-specialist EOR on the continent — 46+ African countries and 15+ years of Africa-only operational depth unmatched by global generalists\n* ADvTECH Group (JSE-listed) majority shareholder — institutional governance, financial stability, and credibility no startup EOR competitor can replicate\n* Free $20,000 life insurance for all eligible EOR employees from Day 1 — no medical questionnaire, underwritten by Unisure Group; the most distinctive worker benefit of any EOR in this series\n* Single dedicated key account manager across all 46+ countries — the most operationally practical Africa support model; consistently and specifically praised in named client testimonials\n* Global Payroll Association Regional Payroll Provider of the Year 2024 — globally validated excellence; ISO/IEC 27001 certified (BSI) and GDPR compliant\n### Limitations\n* Africa only — zero EOR capability outside the continent; globally-hiring buyers cannot be served by Africa HR Solutions alone\n* No published pricing — all quotes are custom; pre-sales cost comparison requires sales engagement\n* No G2, Capterra, or Trustpilot review presence — independent procurement validation relies entirely on direct client references and industry awards\n* Coverage is hybrid: wholly-owned subsidiaries, joint ventures, and local partner firms across 46 countries — service consistency across all markets may vary\n* No confirmed mobile app, no published HRIS integration list, and no third-party platform UX review — WorkforcePRO quality cannot be independently assessed without a demo\nFEATURES\n## Platform Features & Capabilities\n### Employer of Record (EOR) — 46+ African Countries\nAfrica HR Solutions manages compliant employment across 46+ African countries through a combination of wholly-owned subsidiaries, joint ventures, and local partner firms (leading accounting and legal practices). The EOR product covers locally compliant employment contracts, multi-currency payroll (Africa's 54 countries use 42 distinct currencies), income tax and statutory deduction compliance, all mandatory statutory benefits, immigration and work visa support, and offboarding. A single dedicated key account manager provides one point of contact across all active countries. Enterprise-scale delivery is documented: Mastercard, TotalEnergies, Goodyear, and Philips are confirmed reference clients across multiple African markets. Buyers should request confirmation of owned versus partner-served coverage for their specific target countries.\n### Free Life Insurance & Pan-African Health Insurance\nThe most distinctive EOR benefit in this audit series: all eligible employees under Africa HR Solutions' EOR are enrolled in complimentary $20,000 life insurance from Day 1, underwritten by the Unisure Group, with no medical questionnaire required. This adds meaningful financial value per employee at no additional cost to the employer and directly addresses a key talent attraction and retention challenge in African markets. The optional pan-African health insurance (Unisure Group) provides guaranteed acceptance for all staff regardless of medical history, 24/7 worldwide medical support, day-one cancer coverage, and access to routine-to-critical care across the continent. These benefits are not standard EOR inclusions at any other provider in this series.\n### Africa-Specific Payroll & Tax Compliance\nAfrica HR Solutions processes payroll across 46+ countries with documented capabilities covering income tax compliance, statutory deductions, social security and pension contributions, workmen's compensation, and all mandatory statutory filings. The platform offers automated payroll processing with auditable workflows, issue-tracking, and a centralised document library. Multi-currency payroll across Africa's 42 distinct currencies is a core operational requirement handled natively. Payroll system integration is confirmed for existing client systems. The company positions itself as a \"compliance powerhouse\" in Africa — validated by the Global Payroll Association award and the complexity of markets like DRC, Nigeria, Angola, and Senegal, which are specifically referenced in client testimonials.\n### Ancillary Services — Boots on the Ground\nAfrica HR Solutions offers ancillary services that are genuinely operationally critical for deploying expat and local staff in remote African markets: car rental, office leasing, laptop procurement and leasing, relocation assistance, and third-party disbursement. These services directly address the practical operational challenges of Africa expansion that no global EOR platform provides — physical infrastructure, mobility, and on-the-ground logistics support from a single provider.\n### NGO and International Development Specialisation\nAfrica HR Solutions is the most documented Africa EOR for NGOs, INGOs, and international development organisations. Confirmed clients include FHI 360, VillageReach, and University of California — organisations with the most stringent compliance requirements, grant compliance obligations, and multi-country Africa footprints. Named testimonials from a VillageReach director (8-country programme) and multiple non-profit payroll managers specifically praise proactive compliance flagging, complex payroll management (including Senegal), and single point of contact across jurisdictions. Advisory Committee member Mike Kelly (Baldwin Group) brings senior NGO/development sector expertise to platform strategy.\nUSER REVIEWS\n## What Users say\nG2\n0.0\n★★★★★★★★★★\nTrustpilot\n0.0\n★★★★★★★★★★\nCapterra\n0.0\n★★★★★★★★★★\nBased on 0 user reviews across platforms\n### Single Key Account Manager — Most Praised Dimension\nThe single dedicated key account manager model across all 46+ countries is the most consistently praised service dimension across all available client testimonials. Mirèl Soer, Middle-East and Africa Director at Nutreco, specifically cited \"an exceptional single point of contact\" as central to the relationship. The VillageReach Director (managing 8-country Africa programme) described Africa HR Solutions as \"a great partner allowing us to quickly expand and operate in new markets while they flag and support management of compliance and risk issues.\" This model directly solves the most painful operational problem in multi-country Africa expansion: knowing who to call and being confident they understand every jurisdiction involved.\n### Compliance Proactivity\nMultiple testimonials specifically praise proactive compliance flagging — the Africa HR Solutions team actively identifies regulatory changes and alerts clients rather than waiting for issues to arise. A non-profit director testimonial states: \"We no longer have to worry about changing regulations — their team is professional, knowledgeable, and always available.\" A payroll and data manager specifically highlights complex Senegal payroll as a market where Africa HR Solutions' \"attention to detail and willingness to go the extra mile definitely stand out.\"\n### NGO and Development Sector Credibility\nAfrica HR Solutions has built the strongest documented reputation of any Africa EOR specifically in the NGO, INGO, and international development sector — a community with uniquely demanding compliance requirements including grant compliance, donor reporting, and multi-donor payroll structures across fragile states. Confirmed clients include FHI 360, VillageReach, and University of California. Advisory Committee member Mike Kelly (Baldwin Group) brings NGO/development sector strategic input to the platform. For development sector organisations entering or scaling Africa programmes, this sector-specific depth is a structural differentiator.\n### Enterprise Client Validation\nThe Payzaar-independently listed client reference list — Mastercard, TotalEnergies, Goodyear, Philips, JA Delmas — provides blue-chip corporate validation alongside the NGO/development sector credentials. TotalEnergies and Goodyear specifically validate oil and gas and industrial sector Africa EOR competence. Mastercard and Philips validate financial services and technology sector capability. The breadth of industry representation (20 documented industries) supports confidence in cross-sector compliance depth.\n### Validation Gap\nThe absence of G2, Capterra, or Trustpilot reviews means procurement teams cannot rely on aggregated peer review platforms. All available testimonials are company-published and attributed to named individuals but are not independently verified. Buyers must invest in direct reference calls with clients of comparable size, industry, and African country footprint before committing. Request specifically reachable contacts (not just company names) from Africa HR Solutions before evaluation.\n## OUR TAKE\n## Is Africa HR Solutions the Right EOR for You?\nAfrica HR Solutions occupies the most defensible Africa-specialist EOR position in the market. Its 15+ years of Africa-only operations, JSE-listed institutional shareholder, Global Payroll Association award, ISO 27001 certification, and blue-chip client list — Mastercard, TotalEnergies, Goodyear, Philips, FHI 360 — provide validated credibility that globally-focused Africa entrants cannot match. The free life insurance for all EOR employees and guaranteed pan-African health insurance are genuinely market-leading worker benefits. The single key account manager model for all 46 countries is the most practical support structure for Africa's regulatory complexity. For any company — NGO, multinational, or PE-backed — seriously expanding across Africa, Africa HR Solutions should be the first call. Start by requesting a custom quote itemised by country, schedule a platform demo, and request two reference calls from clients in your specific target African markets before committing. Use our free comparison tool to see how it stacks up against alternatives for your specific needs.\nForm\n## Get your shortlist\nTakes ~3 minutes. No account needed.\nBest\n## Best For\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698deb59e8bd428278d30979_Icon.svg)\n### Africa EOR 46 Countries\nCompanies expanding across Africa with comprehensive multi-country EOR coverage in 46+ markets.\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698deb891887bec8191c2462_Icon-1.svg)\n### NGO Development Africa\nNGOs and development organisations deploying field staff across African countries.\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698deb77b45c4025b7feb645_Icon-2.svg)\n### Oil & Gas Mining Africa\nOil, gas, and mining companies staffing operations across Africa compliantly.\n![](https://cdn.prod.website-files.com/6985f658e0c5a8b3edf58d2e/698deb77b45c4025b7feb645_Icon-2.svg)\n### Expat Deployment Africa\nCompanies deploying expatriate workers into African markets with visa and compliance support.\n![](https://cdn.prod.website-files.com/698462a1efc30071119d8fd0/698ca14a1ef88b639ffe8e62_Background.avif)\n## ALTERNATIVES\n### How it compares\n### Africa HR Solutions vs Safeguard Global\nSafeguard Global covers 187 countries including African markets via a hybrid entity and partner network, with Everest Group NEAT Leader 2025 status and 400+ in-country experts. Africa HR Solutions covers 46+ African countries only, with ADvTECH institutional backing, Global Payroll Association Regional Payroll Provider of the Year 2024, and deeper Africa-specific compliance depth including free life insurance, pan-African health insurance, and car rental and relocation logistics. For Africa as one region in a global programme, Safeguard Global provides a single vendor. For Africa-concentrated programmes where regional compliance depth and worker benefits quality are the primary drivers, Africa HR Solutions is the more purpose-built specialist.\n[Compare Africa HR Solutions vs Safeguard Global →](https://www.compareor.com/compare?first=africa-hr-solutions&second=safeguard-global)\n### Africa HR Solutions vs RemotePass\nRemotePass is a Dubai-headquartered global EOR covering 150+ countries from $349/month with deep MENA and African market coverage, 4.8/5 G2 across 542 reviews, and a worker fintech super app. Africa HR Solutions covers 46+ African countries only, with deeper Africa-specific compliance depth, free life insurance for all employees, and the single key account manager model — but no published pricing and no independent review data. For MENA-plus-Africa programmes with transparent pricing, RemotePass. For Africa-concentrated programmes where institutional depth, worker benefits, and the single key account manager model across all 46 countries are the primary requirements, Africa HR Solutions.\n[Compare Africa HR Solutions vs RemotePass →](https://www.compareor.com/compare?first=africa-hr-solutions&second=remotepass)\n### Africa HR Solutions vs Deel\nDeel covers 150+ countries at $599/month EOR with tr",
+    "website_metadata": {
+        "url": "https://www.compareor.com/providers/africa-hr-solutions",
+        "content_length": 15000
+    },
+    "external_profiles": {
+        "website": "https://www.compareor.com/providers/africa-hr-solutions",
+        "linkedin": "https://linkedin.com/company/africa-hr-solutions-ltd"
+    },
+    "tavily": {
+        "query": "Africa HR Solutions",
+        "answer": "",
+        "results_count": 14,
+        "urls": [
+            "https://africa-hr.com/who-we-are/",
+            "https://africa-hr.com/contact/",
+            "https://linkedin.com/company/africa-hr-solutions-ltd/",
+            "https://africa-hr.com/hr-consulting/",
+            "https://africa-hr.com/benefits/",
+            "https://www.linkedin.com/company/africa-hr-solutions-ltd/",
+            "https://linkedin.com/in/edan-latzelsberger-388718174",
+            "https://africa-hr.com/",
+            "https://linkedin.com/in/mark-du-preez-208506128",
+            "https://linkedin.com/in/viloshna-packiry-poulle-mba-fcca-a2364138",
+            "https://rocketreach.co/africa-hr-solutions-ltd-profile_b44e3097fd9d9852",
+            "https://grokipedia.com/page/advtech_group",
+            "https://www.compareor.com/providers/africa-hr-solutions",
+            "https://africa-hr.com/who-we-are/meet-the-team/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "category": "Employer of Record (EOR) / Payroll Services",
+    "linkedin": "https://linkedin.com/company/africa-hr-solutions-ltd/",
+    "phones": [
+        "30071119"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\africa_hr_solutions.json",
+    "normalized_name": "africa hr solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "compareor.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/africa-hr-solutions-ltd",
+                    "normalized": "https://linkedin.com/company/africa-hr-solutions-ltd",
+                    "username": "africa-hr-solutions-ltd",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Senegal",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Senegal",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "30071119"
+            ]
+        }
+    }
+}

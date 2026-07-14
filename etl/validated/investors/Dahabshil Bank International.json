@@ -1,0 +1,322 @@
+{
+    "name": "Dahabshil Bank International",
+    "description": "Dahabshil bank is a leading shariah compliant bank in the horn of africa offering comprehensive banking and financial services solutions to a wide spectrum of private and business clientele.",
+    "organization_type": "",
+    "country": "Somalia",
+    "city": "Hargeisa",
+    "website": "https://dahabshilbank.com/about-us",
+    "linkedin": "https://linkedin.com/company/dahabshil-bank-international",
+    "investment_focus": [
+        "Islamic finance"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://dahabshilbank.com/about-us",
+        "linkedin": "https://linkedin.com/company/dahabshil-bank-international"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/dahabshil-bank-international",
+        "facebook": "https://facebook.com/dahabshilbank",
+        "instagram": "https://instagram.com/dahabshilbank",
+        "twitter": "https://twitter.com/dahabshilbank"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:12:56.233083+00:00",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Dahabshil Bank International",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://dahabshilbank.com/about-us",
+            "https://dahabshilbank.com/contact",
+            "https://linkedin.com/company/dahabshil-bank-international",
+            "https://dahabshilbank.com/personal-accounts",
+            "https://dahabshilbank.com/personal-banking",
+            "https://www.linkedin.com/company/dahabshil-bank-international",
+            "https://so.linkedin.com/company/dahabshil-bank-international1",
+            "https://linkedin.com/in/shafei-ahmed-55a54b96",
+            "https://linkedin.com/in/gadhoodhle",
+            "https://dahabshilbank.com/",
+            "https://linkedin.com/company/dahabshil-bank-international1",
+            "https://en.wikipedia.org/wiki/Dahabshil_Bank_International",
+            "https://dahabshilbank.com/business-finance",
+            "https://www.somalilandbanking.org/dahabshil-bank-international/",
+            "https://www.devex.com/organizations/dahabshil-bank-international-dbi-159583"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 1,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 4,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 4,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": true,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "dahabshilbank.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Somalia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "## Main navigation\n* [ Careers](https://dahabshilbank.com/careers)\n* [ About us](https://dahabshilbank.com/about-us)\n## Support Menu\n* [Contact](https://dahabshilbank.com/contact)\n* [Branch Locator](https://dahabshilbank.com/our-branches)\n* [ Online Banking](https://dahabpay.com)\n[ ![Home](https://dahabshilbank.com/assets/img/brand/Logo3-19.png) ](https://dahabshilbank.com)\n## Main navigation\n* [Personal Banking](https://dahabshilbank.com/personal-banking)\n* [Accounts](https://dahabshilbank.com/personal-accounts)\n* [Current Account](https://dahabshilbank.com/personal-current-account)\n* [Saving Account](https://dahabshilbank.com/personal-saving-account)\n* [Finance](https://dahabshilbank.com/personal-finance)\n* [Car Finance](https://dahabshilbank.com/personal-car-finance)\n* [Home Finance](https://dahabshilbank.com/personal-home-finance)\n* [Real Estate Finance](https://dahabshilbank.com/business-real-estate-finance)\n* [Microfinance](https://dahabshilbank.com/personal-microfinance)\n* [Dahabo for Women](https://dahabshilbank.com/dahabo-for-women)\n* [Dahabo Current Account](https://dahabshilbank.com/dahabo-current-account)\n* [Dahabo Saving Account](https://dahabshilbank.com/dahabo-saving-account)\n* [Cards](https://dahabshilbank.com/personal-cards)\n* [DBI Master card Debit Card](https://dahabshilbank.com/personal-master-cards)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Personal Banking](https://dahabshilbank.com/about-us)\n[HELP ME WITH Finance ](https://dahabshilbank.com/personal-finance)\n* [Business Banking](https://dahabshilbank.com/business-banking)\n* [Business Account](https://dahabshilbank.com/business-account)\n* [Sole Proprietor Business](https://dahabshilbank.com/sole-proprietor-business)\n* [Business Finance](https://dahabshilbank.com/business-finance)\n* [Car Finance](https://dahabshilbank.com/business-car-finance)\n* [Trade Finance](https://dahabshilbank.com/business-trade-finance)\n* [Agribusiness Finance](https://dahabshilbank.com/business-agribusiness-finance)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Business Banking](https://dahabshilbank.com/about-us)\n[HELP ME WITH Business Finance ](https://dahabshilbank.com/business-finance)\n* [Way to Bank](https://dahabshilbank.com/way-to-bank)\n* [Internet Banking](https://dahabshilbank.com/internet-banking)\n* [Mobile Banking](https://dahabshilbank.com/mobile-banking)\n* [DahabPlus](https://dahabshilbank.com/dahabplus)\n* [Banking App](https://dahabshilbank.com/banking-app)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Way to Bank](https://dahabshilbank.com/about-us)\n[HELP ME WITH Mobile Banking ](https://dahabshilbank.com/mobile-banking)\n* [DBI Media Center](https://dahabshilbank.com/posts)\n[ ![Home](https://dahabshilbank.com/assets/img/brand/Logo3-19.png) ![Home](https://dahabshilbank.com/assets/img/brand/Logo3-19.png) ](https://dahabshilbank.com) [Online Banking](https://careers.dahabshiil.com/bank-demo/)\n[ ](javascript:void\\(0\\) \"Menu\")\n[ ![logo](https://dahabshilbank.com/uploads/logo/logo_63db7d97bee757-52663868-49697704.png) ](https://dahabshilbank.com)\n* [Personal Banking](https://dahabshilbank.com/personal-banking)\n* [Accounts](https://dahabshilbank.com/personal-accounts)\n* [Current Account](https://dahabshilbank.com/personal-current-account)\n* [Saving Account](https://dahabshilbank.com/personal-saving-account)\n* [Finance](https://dahabshilbank.com/personal-finance)\n* [Car Finance](https://dahabshilbank.com/personal-car-finance)\n* [Home Finance](https://dahabshilbank.com/personal-home-finance)\n* [Real Estate Finance](https://dahabshilbank.com/business-real-estate-finance)\n* [Microfinance](https://dahabshilbank.com/personal-microfinance)\n* [Dahabo for Women](https://dahabshilbank.com/dahabo-for-women)\n* [Dahabo Current Account](https://dahabshilbank.com/dahabo-current-account)\n* [Dahabo Saving Account](https://dahabshilbank.com/dahabo-saving-account)\n* [Cards](https://dahabshilbank.com/personal-cards)\n* [DBI Master card Debit Card](https://dahabshilbank.com/personal-master-cards)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Personal Banking](https://dahabshilbank.com/about-us)\n[HELP ME WITH Finance ](https://dahabshilbank.com/personal-finance)\n* [Business Banking](https://dahabshilbank.com/business-banking)\n* [Business Account](https://dahabshilbank.com/business-account)\n* [Sole Proprietor Business](https://dahabshilbank.com/sole-proprietor-business)\n* [Business Finance](https://dahabshilbank.com/business-finance)\n* [Car Finance](https://dahabshilbank.com/business-car-finance)\n* [Trade Finance](https://dahabshilbank.com/business-trade-finance)\n* [Agribusiness Finance](https://dahabshilbank.com/business-agribusiness-finance)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Business Banking](https://dahabshilbank.com/about-us)\n[HELP ME WITH Business Finance ](https://dahabshilbank.com/business-finance)\n* [Way to Bank](https://dahabshilbank.com/way-to-bank)\n* [Internet Banking](https://dahabshilbank.com/internet-banking)\n* [Mobile Banking](https://dahabshilbank.com/mobile-banking)\n* [DahabPlus](https://dahabshilbank.com/dahabplus)\n* [Banking App](https://dahabshilbank.com/banking-app)\n####  Check our Frequently Asked Questions\n[ VISIT FAQ'S SECTION ](https://dahabshilbank.com/frequently-asked-questions)\n![bg](https://dahabshilbank.com/about-us)\n![Way to Bank](https://dahabshilbank.com/about-us)\n[HELP ME WITH Mobile Banking ](https://dahabshilbank.com/mobile-banking)\n* [DBI Media Center](https://dahabshilbank.com/posts)\n* info@dahabshilbank.com\n* [+252 65 300 002](tel:+252%2065%20300%20002)\n[ ](javascript:void\\(0\\)) [ ](javascript:void\\(0\\))\n#### Join Our Newsletter\nJoin our subscribers list to get the latest news, updates and special offers directly in your inbox\nSubscribe\nNo, thanks\n## Breadcrumb\n1. [Home](https://dahabshilbank.com)\n2. About us\n## About us\nDahabshil Bank International (DBI) is fully fledged sharia bank licensed by both Central Banks of Somalia and Somaliland.\n## Who We Are\nDahabshil bank international is the first fully fledged sharia banking to be established in Somaliland. As Dahabshil Bank International is integral, trustworthy, and profitable bank that provides accessible and affordable sharia compliant financial solutions to their customers.\nDahabshil bank is widely contacted to all types of nations internationally and locally from very important well-known businesspeople to governance, international embassies, International and local NGOs, and their local customer as it provides efficient banking services with friendly welcoming trustworthy environment.\nDahabshil bank is expanding to more international standards which is benefit for the clients leading to variety of banking services and features. As the bank is connected to various sections of the market such businesses companies what is best then providing easier banking access.\nThe bank was launched in 2012 and the primary interest is in East Africa, Gulf Region, Western Europe and North America. Our bank collaborates with first-rate after-sales service, the highest ethical standards of Sharia and the latest automation so as to bring cost-effective goods and services to our customer.\nDBI is integral , trustworthy and profitable. Our dedicated team and networks are committed to provide accessible and affordable sharia compliant financial solutions to our customers. Since inception, the bank displayed magnificent growth in terms of balance sheet size and system and the ever-increasing demand for our products is a testament to our progress.\n## Our Philosophy\nDahabshil Bank was forecasted to fill a gap in the Islamic financial services market in Somaliland this is because the country has few banks. Our idea is to bring forth accessible and affordable modes of Islamic finance to merchants and potential executives to start and grow their business.\n### Our Vision\nTo be the preferred financial services provider contributing to the economic prosperity of the people of the region and beyond.\n### Our Mission\nTo offer inclusive customer-oriented financial services utilizing our extensive local market knowledge, financial expertise, appropriate technology, and relationships, thus contributing to the economic prosperity of our clients and stakeholders.\n### Apply online\nIf you do not have an existing account with Dahabshil Bank, you can apply online through our secure E-banking.\n[Apply now](https://www.dahabpay.com/Authentication/Login)\nAccess and manage your account with us easier now with our E-banking features\n[Sign in to E-banking](https://www.dahabpay.com/Authentication/Login)\n## Can’t find what you’re looking for?\n#### [ Email us at\nInfo@dahabshilbank.com ](https://dahabshilbank.com/about-us)\n## Company\n* [About us](https://dahabshilbank.com/about-us)\n* [Media center](https://dahabshilbank.com/posts)\n* [Careers](https://dahabshilbank.com/careers)\n* [FAQ](https://dahabshilbank.com/frequently-asked-questions)\n## Personal Banking\n* [Accounts](https://dahabshilbank.com/personal-accounts)\n* [Finance](https://dahabshilbank.com/personal-finance)\n* [Dahabo for Women](https://dahabshilbank.com/dahabo-for-women)\n* [Cards](https://dahabshilbank.com/personal-cards)\n## Business Banking\n* [Business Account](https://dahabshilbank.com/business-account)\n* [Business Finance](https://dahabshilbank.com/business-finance)\n## Way to Bank\n* [Internet Banking](https://dahabshilbank.com/internet-banking)\n* [Mobile Banking](https://dahabshilbank.com/mobile-banking)\n* [DahabPlus](https://dahabshilbank.com/dahabplus)\n* [Banking App](https://dahabshilbank.com/banking-app)\n[ ![logo](https://dahabshilbank.com/uploads/logo/logo_63db7d97c268f3-26003104-67998914.png) ](https://dahabshilbank.com/about-us)\nCopyright 2026 Dahabshil Bank International - All Rights Reserved.\n* ###  [+252 65 300 001](tel:2512353256)\nCustomer Care\n* ### Sat - Thu: 7:30 AM to 6:00 PM\nBanking Hours\n* [Terms & Conditions ](https://dahabshilbank.com/terms-conditions)\n* [Privacy ](https://dahabshilbank.com/privacy)\n* [Facebook](https://facebook.com/dahabshilbank)\n* [Twitter](https://twitter.com/dahabshilbank)\n* [instagram](https://instagram.com/dahabshilbank)\n* [](https://dahabshilbank.com/rss-feeds)\n[](https://dahabshilbank.com/about-us)\nThis website uses cookies to enhance your browsing experience. By continuing to use this site, you consent to the use of cookies. Please review our Privacy Policy for more information on how we handle your data.\nAccept Cookies",
+    "website_metadata": {
+        "url": "https://dahabshilbank.com/about-us",
+        "content_length": 11007
+    },
+    "contact": {
+        "emails": [
+            "info@dahabshilbank.com"
+        ],
+        "phones": [
+            {
+                "number": "+25265300002",
+                "country": "Somalia",
+                "country_code": "+252",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+25265300001",
+                "country": "Somalia",
+                "country_code": "+252",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/dahabshil-bank-international"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Banking",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "East Africa, Gulf Region, Western Europe, North America",
+    "sources": [],
+    "emails": [
+        "info@dahabshilbank.com"
+    ],
+    "phones": [
+        "+252 65 300 002",
+        "+252 65 300 001"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "geographic_focus": [
+        "East Africa",
+        "Gulf Region",
+        "Western Europe",
+        "North America"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\dahabshil_bank_international.json",
+    "normalized_name": "dahabshil bank international",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "dahabshilbank.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "twitter"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/dahabshil-bank-international",
+                    "normalized": "https://linkedin.com/company/dahabshil-bank-international",
+                    "username": "dahabshil-bank-international",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://facebook.com/dahabshilbank",
+                    "normalized": "https://facebook.com/dahabshilbank",
+                    "username": "dahabshilbank",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://instagram.com/dahabshilbank",
+                    "normalized": "https://instagram.com/dahabshilbank",
+                    "username": "dahabshilbank",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/dahabshilbank",
+                    "normalized": "https://twitter.com/dahabshilbank",
+                    "username": "dahabshilbank",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "dahabshilbank.com"
+                ]
+            },
+            "official": [
+                "info@dahabshilbank.com"
+            ],
+            "details": [
+                {
+                    "original": "info@dahabshilbank.com",
+                    "normalized": "info@dahabshilbank.com",
+                    "domain": "dahabshilbank.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Somalia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Somalia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Somalia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Mali",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "info@dahabshilbank.com",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 2,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "7575266386849697704",
+                "32600310467998914",
+                "2512353256"
+            ]
+        }
+    }
+}

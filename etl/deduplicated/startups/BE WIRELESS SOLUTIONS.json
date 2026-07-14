@@ -1,0 +1,338 @@
+{
+    "entity_type": "startup",
+    "name": "BE WIRELESS SOLUTIONS",
+    "description": "BE WIRELESS SOLUTIONS (2016)\nSecteur d’activité / Sector : Autre\nbewireless-solutions.com\nFondateur / Founder\nE-mail\nAdresse / Address\nKARIM KHARRAT\nkarim.kharrat@bewireless-solutions.com\n10 Rue Abdallah Ben Amor\nActivité BWS offre des solutions IoT intégrées pour \nl'économie des ressources (Electricité, Eau, carburant, \nGaz) à travers une plateforme unique de suivi des \nprogrammes d'économie. L'offre de BWS est une offre \nHardware + connectivité + Applicatif.\nAspect Technologique Les produits de BWS se basent \nsur l'IoT et sur l'AI à travers un module de «continuous \nlearning» permettant la prédiction.\nOriginalité Il s'agit d'une plateforme unique permettant de \nregrouper tous les programmes d'économie de ressource \nen une seule interface.\nActivity BWS offers integrated IoT solutions for \nresource savings (Electricity, Water, Fuel, Gas) through a \nunique platform for monitoring conservation programs. \nThe BWS offer is a Hardware + Connectivity + Application \noffer.\nTechnological Aspect BWS products are based on IoT \nand AI through a continuous learning module allowing \nprediction.\nOriginality The platform is a single point of contact for all \nresource saving programs within one interface.\nFR\nEN",
+    "tagline": "Where innovation meets sustainability",
+    "industry": "Autre",
+    "keywords": [
+        "Energy efficiency",
+        "Decarbonization",
+        "IoT",
+        "AI",
+        "Resource monitoring",
+        "Predictive analytics",
+        "Cost reduction",
+        "Carbon footprint",
+        "Utilities management",
+        "Fleet management",
+        "Cold chain monitoring"
+    ],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "Be Wireless Solutions, 10 Rue Abdallah Ben Amor, El Manar 3, Tunis, Tunisie",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://bewireless-solutions.com",
+    "linkedin_url": "https://www.linkedin.com/company/be-wireless-solutions/?viewAsMember=true",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/be-wireless-solutions",
+        "facebook": "https://facebook.com/BeWirelessSolutions"
+    },
+    "contact": {
+        "emails": [
+            "karim.kharrat@bewireless-solutions.com",
+            "contact@bewireless-solutions.com"
+        ],
+        "phones": [
+            {
+                "number": "+21698777077",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+22238860767",
+                "country": "Mauritania",
+                "country_code": "+222",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "Be Wireless Solutions, 10 Rue Abdallah Ben Amor, El Manar 3, Tunis, Tunisie",
+        "primary_social": "https://linkedin.com/company/be-wireless-solutions"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "BWS Platform",
+            "description": "centralise l’ensemble de vos données énergétiques et opérationnelles en temps réel et s’appuie sur OÉRIX, notre moteur intelligent d’optimisation des ressources, pour détecter les anomalies, analyser les causes racines, recommander des actions correctives et réduire durablement vos coûts, vos pertes et vos émissions carbone.",
+            "category": "Energy Management Platform"
+        },
+        {
+            "name": "OÉRIX",
+            "description": "An intelligent resource optimization engine powered by AI, used by BWS Platform to detect anomalies, analyze root causes, recommend corrective actions, and optimize resource performance.",
+            "category": "AI Engine"
+        }
+    ],
+    "services": [
+        "Gestion de la consommation d'électricité",
+        "Gestion de la consommation d'eau",
+        "Optimisation de la consommation de gaz",
+        "Gestion de la flotte et du carburant",
+        "Suivi de la contenance (eau et carburant)",
+        "Surveillance de la chaîne du froid fixe et mobile",
+        "Suivi de la contenance"
+    ],
+    "technologies": [
+        "IoT",
+        "IA"
+    ],
+    "customer_segments": [
+        "Industriels",
+        "Transporteurs",
+        "Collectivités",
+        "Acteurs du tertiaire"
+    ],
+    "target_market": "Optimization of electricity, water, gas, and fuel resources, decarbonization, and operational efficiency.",
+    "operating_countries": [
+        "Tunisie",
+        "France",
+        "Mauritanie",
+        "Bahreïn"
+    ],
+    "languages_supported": [
+        "English",
+        "Français"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 66,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:27:07.151547",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 7,
+        "technologies_count": 2,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "bewireless-solutions.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Mauritania",
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "![Chargement...](https://bewireless-solutions.com/wp-content/uploads/2025/01/anim-icon.gif)\n[Contenu en pleine largeur](https://bewireless-solutions.com/#content)\n[![Be Wireless Solutions](https://bewireless-solutions.com/wp-content/uploads/2025/06/logo-BWS-IOT-IA-bleu.png) ](https://bewireless-solutions.com/)\nBe Wireless Solutions\nWhere innovation meets sustainability\n[![Be Wireless Solutions](https://bewireless-solutions.com/wp-content/uploads/2025/06/logo-BWS-IOT-IA-bleu.png)![Be Wireless Solutions](https://bewireless-solutions.com/wp-content/uploads/2025/06/logo-BWS-IOT-IA-bleu.png)](https://bewireless-solutions.com/)\n* [Accueil](https://bewireless-solutions.com/)\n* [Nous connaître](https://bewireless-solutions.com/)\n* [A propos](https://bewireless-solutions.com/a-propos/)\n* [Engagement](https://bewireless-solutions.com/engagement/)\n* [Nos solutions](https://bewireless-solutions.com/nos-solutions/)\n* [Cas d’usages](https://bewireless-solutions.com/cas-dusages/)\n* [Actualités](https://bewireless-solutions.com/actualites/)\n* [Contact](https://bewireless-solutions.com/contact/)\n* [![](https://bewireless-solutions.com/)English](https://bewireless-solutions.com/en/home/)\n* [![](https://bewireless-solutions.com/)Français](https://bewireless-solutions.com/)\nLangue\n[](https://bewireless-solutions.com/)[](https://bewireless-solutions.com/)\n* [![](https://bewireless-solutions.com/)English](https://bewireless-solutions.com/en/home/)\n* [![](https://bewireless-solutions.com/)Français](https://bewireless-solutions.com/)\nLangue\n* [![](https://bewireless-solutions.com/)English](https://bewireless-solutions.com/en/home/)\n* [![](https://bewireless-solutions.com/)Français](https://bewireless-solutions.com/)\nLangue\n[![Be Wireless Solutions](https://bewireless-solutions.com/wp-content/uploads/2025/06/logo-BWS-IOT-IA-bleu.png)![Be Wireless Solutions](https://bewireless-solutions.com/wp-content/uploads/2025/06/logo-BWS-IOT-IA-bleu.png)](https://bewireless-solutions.com/)\n* [Accueil](https://bewireless-solutions.com/)\n* [Nous connaître](https://bewireless-solutions.com/)\n* [A propos](https://bewireless-solutions.com/a-propos/)\n* [Engagement](https://bewireless-solutions.com/engagement/)\n* [Nos solutions](https://bewireless-solutions.com/nos-solutions/)\n* [Cas d’usages](https://bewireless-solutions.com/cas-dusages/)\n* [Actualités](https://bewireless-solutions.com/actualites/)\n* [Contact](https://bewireless-solutions.com/contact/)\n# Optimisez vos consommations d’électricité, d’eau, de gaz et de carburant grâce à **OÉRIX**\nBWS Platform centralise l’ensemble de vos données énergétiques et opérationnelles en temps réel et s’appuie sur OÉRIX, notre moteur intelligent d’optimisation des ressources, pour détecter les anomalies, analyser les causes racines, recommander des actions correctives et réduire durablement vos coûts, vos pertes et vos émissions carbone.\n[Demandez une démo](https://bws1.zohobookings.com/#/Demo-BWS)\n[Découvrez OÉRIX](https://oerix.com/)\n![](https://bewireless-solutions.com/wp-content/uploads/2026/06/oerix-ring-500x496.webp)\n## BWS Platform, une couche d’intelligence énergétique\n**propulsé par OÉRIX, le moteur d’intelligence**\n**Votre partenaire pour la gestion des ressources et vos objectifs de durabilité**\nBe Wireless Solutions accompagne les industriels, les transporteurs, les collectivités et les acteurs du tertiaire dans l’optimisation des ressources en électricité, eau, gaz et carburant depuis 2016 et dans leur démarche de décarbonation et d’efficacité opérationnelle. Présents sur 4 continents, nous avons aidé nos clients à éviter**24 463 tonnes de CO₂** en 2025, avec des réductions de consommation comprises entre **10%** et **40%** selon les configurations.\n[Découvrez BWS Platform](https://bewireless-solutions.com/nos-solutions/ \"Nos solutions\")\n[Notre histoire depuis 2016](https://bewireless-solutions.com/a-propos/ \"A propos\")\n## Pourquoi les organisations qui pilotent leurs ressources en temps réel réduisent leurs consommations de 10 à 40% ?\nBWS Platform va au-delà de la collecte de données et du reporting. C’est un outil d’optimisation des ressources piloté par un moteur IA décisionnel qui centralise l’ensemble de vos consommations sur un tableau de bord unique et détecte automatiquement les anomalies par intelligence artificielle. OÉRIX le moteur d’intelligence de BWS Platform analyse ces anomalies, génère des recommandations chiffrées directement actionnables et mesure l’impact de chaque décision dans le temps. Électricité, eau, gaz, carburant : une interface unique pour toutes vos ressources, une vision consolidée pour réduire vos coûts, améliorer votre efficacité énergétique et accélérer votre décarbonation.\n8 fonctionnalités pour piloter votre performance énergétique de bout en bout\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2026/06/Donnees.png) Données Centraliser les données multi-ressources & multisites.\nUn seul espace pour agréger tous vos sites et ressources énergétiques. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![Tableau de bord carbone](https://bewireless-solutions.com/wp-content/uploads/2026/06/Tableau-de-bord-carbone.png) Supervision Superviser électricité, eau, gaz & carburant en temps réel.\nTableaux de bord live sur l’ensemble à de vos vecteurs énergétiques. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![Contrôle à distance](https://bewireless-solutions.com/wp-content/uploads/2026/06/Controle-a-distance-101.png) Automatisation Automatiser le contrôle des équipements.\nPilotage intelligent et automatisé de vos installations sans intervention manuelle. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2026/06/oerix-icon.png) Détection Détecter les dérives énergétiques invisibles.\nOÉRIX identifie les anomalies et gaspillages que l’œil humain ne voit pas. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![Analyse des données & reporting](https://bewireless-solutions.com/wp-content/uploads/2026/06/Analyse-des-donnees-reporting.png) Économies Réduire les coûts d’exploitation.\nMoins de gaspillage, moins de factures, des gains mesurables et traçables. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2024/06/Engagement-durable.png) RSE Améliorer la performance environnementale.\nSuivi de vos émissions et indicateurs de durabilité pour vos objectifs RSE. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![Simulation de facture](https://bewireless-solutions.com/wp-content/uploads/2026/06/Simulation-de-facture.png) Simulation Simuler la facture de vos consommations.\nAnticipez vos coûts avant la facture grâce aux scénarios de simulation. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n[ ![Recommandations IA personnalisées](https://bewireless-solutions.com/wp-content/uploads/2026/06/Recommandations-IA-personnalisees.png) Optimisation Optimiser les consommations & maîtriser l’impact.\nDes recommandations IA actionnables pour réduire votre empreinte et gagner en efficacité. ](https://bewireless-solutions.com/nos-solutions-2/ \"Notre plateforme\")\n![](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20270%20111'%2F%3E)\n## Moteur d’intelligence OÉRIX : de la donnée brute à la décision rentable\nVos compteurs génèrent des milliers de points de mesure chaque jour. **OÉRIX** les transforme en décisions concrètes et chiffrées, de l’alerte à la réduction des coûts, pas à pas.\n### Détecte\nLes anomalies de consommation en temps réel, avant qu’elles ne deviennent des pertes.\n### Analyse\nLes inefficacités et schémas opérationnels pour comprendre l’origine des dérives.\n### Recommande\nLes actions correctives et leviers d’optimisation les plus rentables à activer.\n### Optimise\nLa performance des ressources en continu.\n### Prouve\nL’impact concret des optimisations déployées — chiffré, traçable, reportable.\nPerformance opérationnelle et environnementale mesurée à chaque étape, **OÉRIX** vous accompagne de l’alerte initiale jusqu’à la réduction durable de vos coûts d’exploitation.\n## Une plateforme complète pour chaque ressource et chaque besoin\nBWS Platform est agnostique en termes de hardware et de connectivité, elle intègre vos capteurs existants ou vous en fournit selon vos besoins. Elle couvre l’ensemble du cycle de valeur : collecte en temps réel, alertes configurables, le moteur d’intelligence OÉRIX, contrôle à distance des équipements avec régulation automatique, simulateur de facture selon les tarifs de votre fournisseur et tableau de bord carbone pour le suivi de vos émissions et de votre empreinte carbone liée à la consommations de vos ressources par site et par période, au service de votre efficacité énergétique et de vos objectifs de décarbonation.\n![null](https://bewireless-solutions.com/wp-content/uploads/2024/06/Suivi-de-lenergie.png)\n### [Gestion de la consommation d'électricité](https://bewireless-solutions.com/project/suivi-de-la-consommation-delectricite/ \"Suivi de la consommation d’électricité\")\n![null](https://bewireless-solutions.com/wp-content/uploads/2024/06/Suivi-de-la-consommation-deau.png)\n### [Gestion de la consommation d'eau](https://bewireless-solutions.com/project/monitoring-de-la-consommation-deau/ \"Suivi de la consommation d’eau\")\n![null](https://bewireless-solutions.com/wp-content/uploads/2026/06/Optimisation-de-la-consommation-de-gaz.png)\n### [Optimisation de la consommation de gaz](https://bewireless-solutions.com/project/suivi-de-la-consommation-de-gaz/ \"Suivi de la consommation de gaz\")\n![null](https://bewireless-solutions.com/wp-content/uploads/2024/06/Carburant.png)\n### [Gestion de la flotte et du carburant](https://bewireless-solutions.com/project/gestion-de-la-flotte-du-transport-et-du-carburant/ \"Gestion de la flotte et du carburant\")\n![null](https://bewireless-solutions.com/wp-content/uploads/2026/06/Suivi-de-la-contenance.png)\n### [Suivi de la contenance](https://bewireless-solutions.com/project/gestion-de-la-contenance-eau-et-carburant/ \"Suivi de la contenance\")\n![null](https://bewireless-solutions.com/wp-content/uploads/2024/06/Surveillance-de-la-refrigeration.png)\n### [Surveillance de la chaîne du froid fixe et mobile](https://bewireless-solutions.com/project/monitoring-de-la-chaine-de-froid-fixe-et-mobile/ \"Suivi de la chaîne du froid fixe et mobile\")\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/qualite-Securite-1.png) Notre engagement qualité & sécurité ](https://bewireless-solutions.com/engagement/ \"Engagement\")\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/Nos-references-Use-Cases-1.png) Nos références & use cases ](https://bewireless-solutions.com/cas-dusages/ \"Use cases\")\n[ ![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/contact.png) Nous contacter ](https://bewireless-solutions.com/contact/ \"Contact\")\nTunis, Tunisie\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/adresse.png)\nBe Wireless Solutions, 10 Rue Abdallah Ben Amor, El Manar 3, Tunis, Tunisie\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/mail.png)\ncontact@bewireless-solutions.com\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/phone-.png)\n+21698777077\nStrasbourg, France\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/adresse.png)\nBWS International, 8, Place de l'Hôpital, 67000, Strasbourg\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/mail.png)\ncontact@bewireless-solutions.com\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/phone-.png)\n+33759594810\nNouackchott, Mauritanie\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/adresse.png)\nBWS Mauritanie, Lot 160K Ext sect II, Nouakchott, Mauritanie\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/mail.png)\ncontact@bewireless-solutions.com\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/phone-.png)\n+22238860767\nManama, Bahrain\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/adresse.png)\nBWS ME, Batelco Building 3rd Floor, 58, Government Ave, Manama, Bahreïn\n![null](https://bewireless-solutions.com/wp-content/uploads/2025/06/mail.png)\ncontact@bewireless-solutions.com\n##### Interagir\n– [Nous contacter](https://bewireless-solutions.com/contact/)\n– [Demander une démo](https://bewireless-solutions.com/contact/)\n– [Rejoindre l’équipe](https://bewireless-solutions.com/rejoindre-lequipe/)\n##### Approfondir\n– [Cas d’usages](https://bewireless-solutions.com/cas-dusages/)\n– [Actualités](https://bewireless-solutions.com/actualites/)\n– [Blog](https://bewireless-solutions.com/actualites/)\n##### S'informer\n– [SMI](https://bewireless-solutions.com/engagement/)\n[Facebook](https://www.facebook.com/BeWirelessSolutions?locale=fr_FR \"Facebook\")[LinkedIn](https://www.linkedin.com/company/be-wireless-solutions/?viewAsMember=true \"LinkedIn\")\nBe Wireless Solutions | Where innovation meets sustainability\n© Tous droits réservés - 2025\n[Go to Top](https://bewireless-solutions.com/)",
+    "website_metadata": {
+        "url": "https://bewireless-solutions.com",
+        "content_length": 13272
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "BE WIRELESS SOLUTIONS",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\be_wireless_solutions.json",
+    "normalized_name": "be wireless solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "bewireless-solutions.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/be-wireless-solutions/?viewAsMember=true",
+                    "normalized": "https://linkedin.com/company/be-wireless-solutions",
+                    "username": "be-wireless-solutions",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/BeWirelessSolutions?locale=fr_FR",
+                    "normalized": "https://facebook.com/BeWirelessSolutions",
+                    "username": "BeWirelessSolutions",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "bewireless-solutions.com"
+                ]
+            },
+            "official": [
+                "karim.kharrat@bewireless-solutions.com",
+                "contact@bewireless-solutions.com"
+            ],
+            "details": [
+                {
+                    "original": "karim.kharrat@bewireless-solutions.com",
+                    "normalized": "karim.kharrat@bewireless-solutions.com",
+                    "domain": "bewireless-solutions.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "contact@bewireless-solutions.com",
+                    "normalized": "contact@bewireless-solutions.com",
+                    "domain": "bewireless-solutions.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
+                    },
+                    {
+                        "country": "Mali",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "karim.kharrat@bewireless-solutions.com",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 2,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+33759594810"
+            ]
+        }
+    }
+}

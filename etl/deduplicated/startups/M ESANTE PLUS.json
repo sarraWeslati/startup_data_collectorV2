@@ -1,0 +1,328 @@
+{
+    "entity_type": "startup",
+    "name": "M ESANTE PLUS",
+    "description": "M ESANTE PLUS (2020)\nSecteur d’activité / Sector : HealthTech\ndoqtoor.com\nFondateur / Founder\nE-mail\nAdresse / Address\nMOHAMED BEN HMIDA\nmohamed.benhmida@doqtoor.com\nPEPINIERE DES ENTRPRISES SMART TECHNOPOLE \nGHAZALA ARIANA 208\nActivité M eSANTE PLUS est une plateforme de \ntélémédecine doqtoor.com qui a démarré le télé conseil \ngratuit en avril 2020 et a développé la téléconsultation \navec des médecins disponible instantanément sans RDV. \nle télé coaching a été mis en place avec des coachs et \nparamédicaux pour prévenir les maladies. Dans le cadre \nde la RSE des entreprises et avec la publication du décret \nd'application de la télémédecine en avril 2022, on a \ndémarré la commercialisation des packages avec notre \n1er client une assurance internationale qui dispose d'un \nmillion d'Adhérents Africains qui peuvent se soigner à \ndistance via doqtoor.\nAspect Technologique la plateforme est développé en full \nstack avec les nouvelles technologies de sécurité et de \nprotection des données des patients.\nOriginalité la plateforme dispose de médecins et coachs \ndisponibles en instantané sans RDV pour couvrir les \nzones de désert médicaux en Tunisie et en Afrique par le \ndiagnostic et le préventif.\nActivity M eSANTE PLUS is a platform of telemedicine \ndoqtoor.com which started free teleconsultation in April \n2020 and developed teleconsultation with doctors \navailable instantly without appointment. Telecoaching \nwas set up with coaches and paramedics to prevent \ndiseases. Within the framework of CSR of companies \nand with the publication of the decree of application of \ntelemedicine in April 2022, we have started the marketing \nof packages with our first client, an international insurance \ncompany which has one million African members who \ncan be treated remotely via doqtoor.\nTechnological Aspect The platform is developed in full stack \nwith new technologies for security and protection of \npatient data. \nOriginality The platform has doctors and coaches available \ninstantly without appointment to cover the areas of \nmedical desert in Tunisia and Africa by diagnosis and \nprevention.\nFR\nEN",
+    "tagline": null,
+    "industry": "HealthTech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://doqtoor.com",
+    "linkedin_url": "https://www.linkedin.com/company/doqtoorcom",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/doqtoorcom",
+        "facebook": "https://facebook.com/doqtoor",
+        "instagram": "https://instagram.com/doqtoorcom",
+        "youtube": "https://youtube.com/channel/UCaUU9TieuZ-pba_CJdGmq3Q",
+        "twitter": "https://twitter.com/Doqtoor_"
+    },
+    "contact": {
+        "emails": [
+            "mohamed.benhmida@doqtoor.com"
+        ],
+        "phones": [
+            {
+                "number": "+21694789432",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21601484650",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": null,
+        "primary_social": "https://linkedin.com/company/doqtoorcom"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [],
+    "services": [
+        "Téléconsultation vidéo avec médecins",
+        "Télécoaching avec paramédicaux et coaches",
+        "Télé‑conseil médical gratuit",
+        "Dossier médical en ligne"
+    ],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [
+        "Français",
+        "العربية",
+        "English"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://doqtoor.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 79,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:18:19.653667",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 4,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 5,
+        "social": {
+            "profiles_count": 5,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": true,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "doqtoor.com"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "[ ![Logo Doqtoor](/content/776d258c2f3ffafcf9c1e7a7398e0b81.png) ](/) [ ](javascript:void\\(0\\);)\n* [ Besoin d'aide ? ](/help)\n* [ Vous êtes professionnel de santé ? ](/account/registration-practitioner-router)\n* [ Téléconseiller gratuitement ](/forum-question)\n* [ Langue ](javascript:void\\(0\\);)\n* [Français](javascript:void\\(0\\);)\n* [العربية](javascript:void\\(0\\);)\n* [English](javascript:void\\(0\\);)\n* [ Se connecter ](/login)\n### Téléconsultez avec un de nos professionnels de santé disponibles immédiatement\n###### Médecins\nRechercher des médecins par spécialité\nRechercher\n###### Paramédicaux Coachs\nRechercher des paramédicaux et coachs par spécialité\nRechercher\n##### Téléconsultez avec un de nos professionnels de santé disponibles immédiatement\nRechercher des médecins par spécialité\nRechercher\nRechercher des paramédicaux et coachs par spécialité\nRechercher\n![Lien avec un médecin à travers Doqtoor.com](/content/8206d65df2d3ceef169da132a24f9892.png)\n#### Doqtoor.com la solution tunisienne de téléconseil médical et téléconsultation par vidéo mettant en relation des professionnels de santé et des patients tunisiens et étrangers où qu’ils soient.\n![Drapeau Tunisie](/content/544a0fba2260cfb6dedc9bab01bb34d5.svg)\n#### Doqtoor.com la solution tunisienne de téléconseil médical et téléconsultation par vidéo mettant en relation des professionnels de santé et des patients tunisiens et étrangers où qu’ils soient.\n![Lien avec un médecin à travers Doqtoor.com](/content/97f70dc2879efe702922c059aa61edac.gif)\n#### Bénéficier d’une téléconsultation immédiatement avec un de nos médecins qualifiés par vidéo conférence.\nTéléconsulter maintenant\n![Lien avec un médecin à travers Doqtoor.com](/content/8585762509e6f4af1523e2a939504dac.gif)\n#### Bénéficier du télécoaching immédiatement avec un de nos paramédicaux ou coaches (Diététicien, Orthophoniste, Coach sportive...) par vidéo conférence.\nTélécoacher maintenant\n![Lien avec un médecin à travers Doqtoor.com](/content/01e44105fa51e5dd930eba60a0f0b87f.gif)\n#### Bénéficier du télé-conseil médical pour poser vos questions gratuitement à nos médecins volontaires, dans différentes spécialités qui vous répondront rapidement..\nPoser mes question\n![Lien avec un médecin à travers Doqtoor.com](/content/19f8a5d69487a0a9d8f33b441c093a4b.gif)\n####  Dossier médical en ligne, en créant votre Dossier vous pouvez les réutiliser lors de vos consultations d’une manière sécurisée.\nCréer mon dossier\n#### Bénéficier du télécoaching immédiatement avec un de nos paramédicaux ou coaches (Diététicien, Orthophoniste, Coach sportive...) par vidéo conférence.\nTélécoacher maintenant\n![Lien avec un médecin à travers Doqtoor.com](/content/8585762509e6f4af1523e2a939504dac.gif)\n![Lien avec un médecin à travers Doqtoor.com](/content/01e44105fa51e5dd930eba60a0f0b87f.gif)\n#### Bénéficier du télé-conseil médical pour poser vos questions gratuitement à nos médecins volontaires, dans différentes spécialités qui vous répondront rapidement..\nPoser mes question\n####  Dossier médical en ligne, en créant votre Dossier vous pouvez les réutiliser lors de vos consultations d’une manière sécurisée.\nCréer mon dossier\n![Lien avec un médecin à travers Doqtoor.com](/content/19f8a5d69487a0a9d8f33b441c093a4b.gif)\n![Parents avec enfant](/content/fbc045bfa6298d95497b94789432cf1c.svg)\n#### Avantages pour les patients :\n#####  1 . Une réponse claire à votre question\n##### 2 . Ni prise de rendez-vous, ni déplacement, ni salle d'attente\n##### 3 . Pas de multitudes de réponses\n##### 4 . Pas de discussions illimitées\nM'inscrire\n#### Avantages pour les patients :\n#####  1 . Une réponse claire à votre question\n##### 2 . Ni prise de rendez-vous, ni déplacement, ni salle d'attente\n##### 3 . Pas de multitudes de réponses\n##### 4 . Pas de discussions illimitées\nM'inscrire\n![professionnels de santé](/content/2d6c1ba5ba02e77db8e5734920a4f26c.svg)\n#### Avantages pour les professionnels de santé :\n##### 1 . Le soutien et l'aide réelle aux citoyens\n##### 2 . Le soulagement de la pression téléphonique sur le 190\n##### 3 . Éviter les complications sanitaires\n##### 4 . Sauver des vies à distance\n##### 5 . Travailler dans votre cabinet ou depuis chez vous\nM'inscrire\n#### Avantages pour les professionnels de santé :\n##### 1 . Le soutien et l'aide réelle aux citoyens\n##### 2 . Le soulagement de la pression téléphonique sur le 190\n##### 3 . Éviter les complications sanitaires\n##### 4 . Sauver des vies à distance\n##### 5 . Travailler dans votre cabinet ou depuis chez vous\nM'inscrire\n[Doqtoor.com par M eSANTE Plus](https://msanteplus.com/)\n[Réservez gratuitement une démo](https://calendly.com/basma-ben-nasr/doqtoor-application?back=1&month=2021-11)\n[Conditions générales d'utilisation](/terms-of-use)\n[Qui sommes-nous?](/about-us)\nNous contacter\n[Nous rejoindre](/careers)\n[Doqtoor.com par M eSANTE Plus](https://msanteplus.com/)\n[Réservez gratuitement une démo](https://calendly.com/basma-ben-nasr/doqtoor-application?back=1&month=2021-11)\n[Conditions générales d'utilisation](/terms-of-use)\n[Qui sommes-nous?](/about-us)\nNous contacter\n[ ![Logo facebook](/content/58910d27f0ee868f359f714dbc88013f.svg) ](https://www.facebook.com/doqtoor/) [ ![Logo youtube](/content/01484650d6272f68728d4aedf12310e1.svg) ](https://www.youtube.com/channel/UCaUU9TieuZ-pba_CJdGmq3Q) [ ![Logo twitter](/content/a31b7ceea9bf91db623520a03aff52bb.svg) ](https://twitter.com/Doqtoor_) [ ![Logo linkedin](/content/96f9a5be0fb359028f39b0e1d647c72c.svg) ](https://www.linkedin.com/company/doqtoorcom/) [ ![Logo instagram](/content/c48f799219510070862fcbcbcf45eaf0.svg) ](https://www.instagram.com/doqtoorcom/)\nCopyright © 2021 M eSANTE Plus",
+    "website_metadata": {
+        "url": "https://doqtoor.com",
+        "content_length": 5645
+    },
+    "external_profiles": {},
+    "linkedin": "https://www.linkedin.com/company/doqtoorcom/",
+    "emails": [
+        "mohamed.benhmida@doqtoor.com"
+    ],
+    "phones": [
+        "8585762509",
+        "94789432",
+        "2021-11)",
+        "01484650",
+        "799219510070862"
+    ],
+    "tavily": {
+        "query": "M ESANTE PLUS",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\m_esante_plus.json",
+    "normalized_name": "m esante plus",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "doqtoor.com",
+            "website_type": "official",
+            "social_profiles": 5,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 5,
+                "valid": 5,
+                "official": 5,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "twitter",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/doqtoorcom",
+                    "normalized": "https://linkedin.com/company/doqtoorcom",
+                    "username": "doqtoorcom",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/doqtoor",
+                    "normalized": "https://facebook.com/doqtoor",
+                    "username": "doqtoor",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/doqtoorcom",
+                    "normalized": "https://instagram.com/doqtoorcom",
+                    "username": "doqtoorcom",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCaUU9TieuZ-pba_CJdGmq3Q",
+                    "normalized": "https://youtube.com/channel/UCaUU9TieuZ-pba_CJdGmq3Q",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/Doqtoor_",
+                    "normalized": "https://twitter.com/Doqtoor_",
+                    "username": "Doqtoor_",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "doqtoor.com"
+                ]
+            },
+            "official": [
+                "mohamed.benhmida@doqtoor.com"
+            ],
+            "details": [
+                {
+                    "original": "mohamed.benhmida@doqtoor.com",
+                    "normalized": "mohamed.benhmida@doqtoor.com",
+                    "domain": "doqtoor.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "mohamed.benhmida@doqtoor.com",
+    "quality": {
+        "phones": {
+            "total": 5,
+            "valid": 2,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "+2168585762509",
+                "+216202111",
+                "+216799219510070862"
+            ]
+        }
+    }
+}

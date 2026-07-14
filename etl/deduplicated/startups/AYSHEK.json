@@ -1,0 +1,284 @@
+{
+    "entity_type": "startup",
+    "name": "AYSHEK",
+    "description": "AYSHEK est un site e-commerce de vente de produits tunisiens alimentaires, artisanaux et de terroir dans le monde entier.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Nabeul",
+    "headquarters": "Tunisia",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.lusha.com/business/41d0dbd03d2a3234",
+    "linkedin_url": "https://www.linkedin.com/company/ayshek",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/ayshek"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [
+            {
+                "number": "+21667742839",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/ayshek"
+    },
+    "founders": [
+        {
+            "name": "Mohamed Amine Baatout",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:19:43.545631",
+        "website_enriched": true,
+        "tavily_results": 13,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Sep-19"
+    },
+    "external_profiles": {
+        "website": "https://www.lusha.com/business/41d0dbd03d2a3234",
+        "linkedin": "https://www.linkedin.com/company/ayshek"
+    },
+    "tavily": {
+        "query": "AYSHEK",
+        "answer": "",
+        "results_count": 13,
+        "urls": [
+            "https://ayshek.com/",
+            "https://ayshek.com/en/",
+            "https://ayshek.com/fr/",
+            "https://ayshek.com/en/notre-histoire/",
+            "https://ayshek.com/en/ayshek-le-marche-tunisien-de-letranger/",
+            "https://www.linkedin.com/company/ayshek",
+            "https://linkedin.com/in/wassef-bettaieb-7308b4205",
+            "https://linkedin.com/in/issam-mimouna-8786a9151",
+            "https://www.lusha.com/business/41d0dbd03d2a3234/",
+            "https://ayshek.com/en/product-category/our-brands/ayshek-ecopack-en/",
+            "https://ayshek.com/en/product/organic-rose-water-250ml-ayshek-%d9%85%d8%a7%d8%a1-%d9%88%d8%b1%d8%af/",
+            "https://ayshek.com/fr/product/promo-ramadan-pack-epices-ayshek/",
+            "https://ayshek.com/en/tag/aychek/"
+        ]
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "website_content": "35% off all annual plans  Lusha summer sale - limited time only\n[Claim discount ](https://www.lusha.com/pricing/)\n[ ![Lusha Logo](https://www.lusha.com/wp-content/uploads/2020/06/logo.svg) ](https://www.lusha.com/)\nCopy logo to clipboard (png) Copy logo to clipboard (svg)\n* [Product](https://www.lusha.com/business/41d0dbd03d2a3234/)\n* [ WorkspaceSearch, enrich, and manage contacts & companies ![Workspace](https://www.lusha.com/wp-content/uploads/2026/03/workspace-desktop.png)](https://www.lusha.com/gtm-workspace/)\n* [ APIRun workflows and plays with accurate data ![API](https://www.lusha.com/wp-content/uploads/2026/03/Api-desktop.png)](https://www.lusha.com/lusha-api/)\n* [ ExtensionReveal contacts on LinkedIn & sites ![Extension](https://www.lusha.com/wp-content/uploads/2026/03/extension-desktop.png)](https://www.lusha.com/lusha-extension/)\n* Features\n* [Buying signalsTrack real-world changes](https://www.lusha.com/buying-signals/)\n* [Conversation intelligenceAnalyze sales meetings](https://www.lusha.com/conversations/)\n* [AI RecommendationsDiscover ideal buyers](https://www.lusha.com/ai-recommendations/)\n* [Solutions](https://www.lusha.com/business/41d0dbd03d2a3234/)\n* [ OperationsKeep your CRM accurate and your workflows running automatically ![Operations](https://www.lusha.com/wp-content/uploads/2026/03/operations-mobile.png)](https://www.lusha.com/revenue-operations/)\n* [ SalesFind and reach the right buyers faster with verified contact data ![Sales](https://www.lusha.com/wp-content/uploads/2026/03/sales-1.png)](https://www.lusha.com/sales/)\n* [ MarketingTarget with accurate data that improves campaign performance. ![Marketing](https://www.lusha.com/wp-content/uploads/2026/03/marketing-desktop-1.png)](https://www.lusha.com/marketing/)\n* [ RecruitmentReach qualified candidates directly with verified contact information ![Recruitment](https://www.lusha.com/wp-content/uploads/2026/03/recruitment-1.png)](https://www.lusha.com/recruiters/)\n* USE CASES\n* [EnrichmentFill in missing contact details](https://www.lusha.com/crm-data-enrichment/)\n* [AutomationsRun automated GTM plays](https://www.lusha.com/automations/)\n* [OutboundAuto send email sequences](https://www.lusha.com/engage/)\n* [Our Data](https://www.lusha.com/data/)\n* [Resources](https://www.lusha.com/business/41d0dbd03d2a3234/)\n* [ CampusLearn how to use Lusha with our best resources ![Campus](https://www.lusha.com/wp-content/uploads/2026/03/campus-1.svg)](https://www.lusha.com/campus/?utm_source=main-menu)\n* [ Trust CenterLearn all about our data and privacy policies ![Trust Center](https://www.lusha.com/wp-content/uploads/2026/03/trust.svg)](https://www.lusha.com/trust-center/)\n* [ Case studiesLearn how GTM teams use Lusha in their workflows ![Case studies](https://www.lusha.com/wp-content/uploads/2026/03/case_study.png)](https://www.lusha.com/customers/)\n* LEARN\n* [The competition](https://www.lusha.com/alternatives/)\n* [Integrations](https://www.lusha.com/lusha-integrations/)\n* [Help Center](https://info.lusha.com/en/)\n* [Blog](https://www.lusha.com/blog/)\n* [Partner program](https://www.lusha.com/partners/)\n* COMPANY\n* [About](https://www.lusha.com/about/)\n* [Affiliates](https://www.lusha.com/affiliates/)\n* [Feature Requests](https://ideas.lusha.com/forums/966165-lusha-ideas-board)\n* [Pricing](https://www.lusha.com/pricing/)\n[Start for free](https://auth.lusha.com/signup?data=) Contact sales\n[Login](https://auth.lusha.com/login) Contact sales [Start for free](https://auth.lusha.com/signup?data=)\n[Start for free](https://auth.lusha.com/signup?data=)\n1. [Company Search](https://www.lusha.com/company-search/)\n2. [ Technology, Information and Internet ](https://www.lusha.com/company-search/technology-information-and-internet/9089b2f978/)\n3. [ Tunisia ](https://www.lusha.com/company-search/technology-information-and-internet/9089b2f978/tunisia/20/)\n4. Ayshek\n[ ![Ayshek Logo](https://logo.lusha.co/d/company_67742839_logo.jpg) ](https://www.ayshek.com)\n#  Ayshek\n[ www.ayshek.com ](https://www.ayshek.com)\nAYSHEK est le site e-commerce qui répond à tous vos besoins avec les meilleurs produits d'origine tunisienne. 🇹🇳 AYSHEK vous propose des produits d'artisanat 🏺 ainsi que des produits alimentaires et de terroir 🌶\n[ Read more ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n##  Reach decision makers at Ayshek\n![Lusha Magic](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/directory2/Hat_Wand.svg)\nContact sales [My account](https://dashboard.lusha.com/)\nSignup field for the lusha app - please enter your work email Find them. It’s free\nSignup field for the lusha app - please enter your work email Find them. It’s free\nFree credit every month!\n[ ![Ayshek Logo](https://logo.lusha.co/d/company_67742839_logo.jpg) Ayshek www.ayshek.com ](https://www.ayshek.com)\nAYSHEK est le site e-commerce qui répond à tous vos besoins avec les meilleurs produits d'origine tunisienne. 🇹🇳 AYSHEK vous propose des produits d'artisanat 🏺 ainsi que des produits alimentaires et de terroir 🌶\n[ Read more ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Globe.svg)\n### Country\n[Tunisia](https://www.lusha.com/company-search/technology-information-and-internet/9089b2f978/tunisia/20/)\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Location.svg)\n### City (Headquarters)\nNabeul\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Industry.svg)\n### Industry\n[Technology, Information and Internet](https://www.lusha.com/company-search/technology-information-and-internet/9089b2f978/)\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/People.svg)\n### Employees\n1-10\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Flag.svg)\n### Founded\n2019\n![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Socials.svg)\n### Social\n* [![icon](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/company/Linkedin.svg)](https://www.linkedin.com/company/ayshek)\n##  Employees statistics\n[ View all employees ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n[ 1 Executives Show All ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n##  Potential Decision Makers\n* ###  Co Founder\nEmail  ****** @****.com\nPhone  (***) ****-****\nShow details\n[ Show more ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n##  View similar companies\n* [ ScaraB Agency Show more ](https://www.lusha.com/business/ccf84ed98f9999db/)\n* [ DEV-FUTUR Show more ](https://www.lusha.com/business/e97fd613762a3f48/)\n* [ SAME TEAM Show more ](https://www.lusha.com/business/a05fe19e13523aff/)\n* [ Digital Bundle Show more ](https://www.lusha.com/business/dd678fa6b92409cd/)\n##  Reach decision makers at Ayshek\n###  Free credits every month!\n[ My account ](https://dashboard.lusha.com/)\nStart for free\n##  Ayshek FAQ\n###  How many employees does Ayshek have?\n1-10\n###  Where is Ayshek headquarters located?\nNabeul, Tunisia\n###  What is Ayshek known for?\nTechnology, Information and Internet\n[ ](https://www.lusha.com/business/41d0dbd03d2a3234/)\n![](https://www.lusha.com/wp-content/themes/lusha/assets/img/templates/directory2/icon-modal1-new.svg)\n####  Sign up now to uncover all the contact details\nContact sales [My account](https://dashboard.lusha.com/)\nSignup field for the lusha app - please enter your work email Get details\nSignup field for the lusha app - please enter your work email Get details\n[![Lusha Logo](https://www.lusha.com/wp-content/uploads/2020/06/logo.svg) ](https://www.lusha.com)\nYou know your business.\nWe know how to scale it up.\nLet us show you how our accurate B2B company and contact data can help you reach the right decision makers and close more deals.\nHere’s what to expect after filling out this form:\n* ![](https://www.lusha.com/wp-content/uploads/2022/04/boxed_checkmark-green.svg)\nWe'll help you understand if Lusha can solve your business needs.\n* ![](https://www.lusha.com/wp-content/uploads/2022/04/boxed_checkmark-green.svg)\nIf it is relevant, we'll prepare a custom demo for you.\n* ![](https://www.lusha.com/wp-content/uploads/2022/04/boxed_checkmark-green.svg)\nYou'll get the tools to start scaling.\n![](https://www.lusha.com/wp-content/uploads/2024/10/Group-1597883508.svg)\n![](https://www.lusha.com/wp-content/uploads/2024/10/Group-1597883509.svg)\n![](https://www.lusha.com/wp-content/uploads/2024/10/Group-1597883510.svg)\nYou know your business.\nWe know how to scale it up.\nLet us show you how our accurate B2B company and contact data can help you reach the right decision makers and close more deals.\nContact sales\nWork email address\nFirst name\nLast name\n* United States+1\n* United Kingdom+44\n* Australia+61\n* Canada+1\n* Germany (Deutschland)+49\n* Netherlands (Nederland)+31\n* Singapore+65\n* France+33\n* Israel (‫ישראל‬‎)+972\n* United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971\n* Ireland+353\n* Switzerland (Schweiz)+41\n* Afghanistan (‫افغانستان‬‎)+93\n* Albania (Shqipëri)+355\n* Algeria (‫الجزائر‬‎)+213\n* American Samoa+1684\n* Andorra+376\n* Angola+244\n* Anguilla+1264\n* Antigua and Barbuda+1268\n* Argentina+54\n* Armenia (Հայաստան)+374\n* Aruba+297\n* Australia+61\n* Austria (Österreich)+43\n* Azerbaijan (Azərbaycan)+994\n* Bahamas+1242\n* Bahrain (‫البحرين‬‎)+973\n* Bangladesh (বাংলাদেশ)+880\n* Barbados+1246\n* Belarus (Беларусь)+375\n* Belgium (België)+32\n* Belize+501\n* Benin (Bénin)+229\n* Bermuda+1441\n* Bhutan (འབྲུག)+975\n* Bolivia+591\n* Bosnia and Herzegovina (Босна и Херцеговина)+387\n* Botswana+267\n* Brazil (Brasil)+55\n* British Indian Ocean Territory+246\n* British Virgin Islands+1284\n* Brunei+673\n* Bulgaria (България)+359\n* Burkina Faso+226\n* Burundi (Uburundi)+257\n* Cambodia (កម្ពុជា)+855\n* Cameroon (Cameroun)+237\n* Canada+1\n* Cape Verde (Kabu Verdi)+238\n* Caribbean Netherlands+599\n* Cayman Islands+1345\n* Central African Republic (République centrafricaine)+236\n* Chad (Tchad)+235\n* Chile+56\n* China (中国)+86\n* Christmas Island+61\n* Cocos (Keeling) Islands+61\n* Colombia+57\n* Comoros (‫جزر القمر‬‎)+269\n* Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)+243\n* Congo (Republic) (Congo-Brazzaville)+242\n* Cook Islands+682\n* Costa Rica+506\n* Côte d’Ivoire+225\n* Croatia (Hrvatska)+385\n* Cuba+53\n* Curaçao+599\n* Cyprus (Κύπρος)+357\n* Czech Republic (Česká republika)+420\n* Denmark (Danmark)+45\n* Djibouti+253\n* Dominica+1767\n* Dominican Republic (República Dominicana)+1\n* Ecuador+593\n* Egypt (‫مصر‬‎)+20\n* El Salvador+503\n* Equatorial Guinea (Guinea Ecuatorial)+240\n* Eritrea+291\n* Estonia (Eesti)+372\n* Ethiopia+251\n* Falkland Islands (Islas Malvinas)+500\n* Faroe Islands (Føroyar)+298\n* Fiji+679\n* Finland (Suomi)+358\n* France+33\n* French Guiana (Guyane française)+594\n* French Polynesia (Polynésie française)+689\n* Gabon+241\n* Gambia+220\n* Georgia (საქართველო)+995\n* Germany (Deutschland)+49\n* Ghana (Gaana)+233\n* Gibraltar+350\n* Greece (Ελλάδα)+30\n* Greenland (Kalaallit Nunaat)+299\n* Grenada+1473\n* Guadeloupe+590\n* Guam+1671\n* Guatemala+502\n* Guernsey+44\n* Guinea (Guinée)+224\n* Guinea-Bissau (Guiné Bissau)+245\n* Guyana+592\n* Haiti+509\n* Honduras+504\n* Hong Kong (香港)+852\n* Hungary (Magyarország)+36\n* Iceland (Ísland)+354\n* India (भारत)+91\n* Indonesia+62\n* Iran (‫ایران‬‎)+98\n* Iraq (‫العراق‬‎)+964\n* Ireland+353\n* Isle of Man+44\n* Israel (‫ישראל‬‎)+972\n* Italy (Italia)+39\n* Jamaica+1876\n* Japan (日本)+81\n* Jersey+44\n* Jordan (‫الأردن‬‎)+962\n* Kazakhstan (Казахстан)+7\n* Kenya+254\n* Kiribati+686\n* Kosovo+383\n* Kuwait (‫الكويت‬‎)+965\n* Kyrgyzstan (Кыргызстан)+996\n* Laos (ລາວ)+856\n* Latvia (Latvija)+371\n* Lebanon (‫لبنان‬‎)+961\n* Lesotho+266\n* Liberia+231\n* Libya (‫ليبيا‬‎)+218\n* Liechtenstein+423\n* Lithuania (Lietuva)+370\n* Luxembourg+352\n* Macau (澳門)+853\n* Macedonia (FYROM) (Македонија)+389\n* Madagascar (Madagasikara)+261\n* Malawi+265\n* Malaysia+60\n* Maldives+960\n* Mali+223\n* Malta+356\n* Marshall Islands+692\n* Martinique+596\n* Mauritania (‫موريتانيا‬‎)+222\n* Mauritius (Moris)+230\n* Mayotte+262\n* Mexico (México)+52\n* Micronesia+691\n* Moldova (Republica Moldova)+373\n* Monaco+377\n* Mongolia (Монгол)+976\n* Montenegro (Crna Gora)+382\n* Montserrat+1664\n* Morocco (‫المغرب‬‎)+212\n* Mozambique (Moçambique)+258\n* Myanmar (Burma) (မြန်မာ)+95\n* Namibia (Namibië)+264\n* Nauru+674\n* Nepal (नेपाल)+977\n* Netherlands (Nederland)+31\n* New Caledonia (Nouvelle-Calédonie)+687\n* New Zealand+64\n* Nicaragua+505\n* Niger (Nijar)+227\n* Nigeria+234\n* Niue+683\n* Norfolk Island+672\n* North Korea (조선 민주주의 인민 공화국)+850\n* Northern Mariana Islands+1670\n* Norway (Norge)+47\n* Oman (‫عُمان‬‎)+968\n* Pakistan (‫پاکستان‬‎)+92\n* Palau+680\n* Palestine (‫فلسطين‬‎)+970\n* Panama (Panamá)+507\n* Papua New Guinea+675\n* Paraguay+595\n* Peru (Perú)+51\n* Philippines+63\n* Poland (Polska)+48\n* Portugal+351\n* Puerto Rico+1\n* Qatar (‫قطر‬‎)+974\n* Réunion (La Réunion)+262\n* Romania (România)+40\n* Russia (Россия)+7\n* Rwanda+250\n* Saint Barthélemy+590\n* Saint Helena+290\n* Saint Kitts and Nevis+1869\n* Saint Lucia+1758\n* Saint Martin (Saint-Martin (partie française))+590\n* Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)+508\n* Saint Vincent and the Grenadines+1784\n* Samoa+685\n* San Marino+378\n* São Tomé and Príncipe (São Tomé e Príncipe)+239\n* Saudi Arabia (‫المملكة العربية السعودية‬‎)+966\n* Senegal (Sénégal)+221\n* Serbia (Србија)+381\n* Seychelles+248\n* Sierra Leone+232\n* Singapore+65\n* Sint Maarten+1721\n* Slovakia (Slovensko)+421\n* Slovenia (Slovenija)+386\n* Solomon Islands+677\n* Somalia (Soomaaliya)+252\n* South Africa+27\n* South Korea (대한민국)+82\n* South Sudan (‫جنوب السودان‬‎)+211\n* Spain (España)+34\n* Sri Lanka (ශ්‍රී ලංකාව)+94\n* Sudan (‫السودان‬‎)+249\n* Suriname+597\n* Svalbard and Jan Mayen+47\n* Swaziland+268\n* Sweden (Sverige)+46\n* Switzerland (Schweiz)+41\n* Syria (‫سوريا‬‎)+963\n* Taiwan (台灣)+886\n* Tajikistan+992\n* Tanzania+255\n* Thailand (ไทย)+66\n* Timor-Leste+670\n* Togo+228\n* Tokelau+690\n* Tonga+676\n* Trinidad and Tobago+1868\n* Tunisia (‫تونس‬‎)+216\n* Turkey (Türkiye)+90\n* Turkmenistan+993\n* Turks and Caicos Islands+1649\n* Tuvalu+688\n* U.S. Virgin Islands+1340\n* Uganda+256\n* Ukraine (Україна)+380\n* United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971\n* United Kingdom+44\n* United States+1\n* Uruguay+598\n* Uzbekistan (Oʻzbekiston)+998\n* Vanuatu+678\n* Vatican City (Città del Vaticano)+39\n* Venezuela+58\n* Vietnam (Việt Nam)+84\n* Wallis and Futuna (Wallis-et-Futuna)+681\n* Western Sahara (‫الصحراء الغربية‬‎)+212\n* Yemen (‫اليمن‬‎)+967\n* Zambia+260\n* Zimbabwe+263\n* Åland Islands+358\nPhone number\nWhat is your current position? (Title)\n1-10 11-50 51-100 101-200 201-500 501-1,000 1,001-5,000 5,001-10,000 10,000+ What is the total number of employees in your company?\nFacebook Colleague or Friend Community (Reddit, Slack, Forums) Podcast Instagram Partner or Integration Youtube Google Other LinkedIn ChatGPT How did you hear about us?\nHow can we help?\nBy clicking ‘Submit’ or signing up, you agree to the [Terms of Use](https://www.lusha.com/terms_and_conditions) and [Privacy Pol",
+    "website_metadata": {
+        "url": "https://www.lusha.com/business/41d0dbd03d2a3234/",
+        "content_length": 15000
+    },
+    "linkedin": "https://www.linkedin.com/company/ayshek",
+    "sub_industry": "Technology, Information and Internet",
+    "phones": [
+        "67742839",
+        "1597883508",
+        "1597883509",
+        "1597883510",
+        "1-10 11-50 51-100 51-100 1",
+        "200 201-500 501-1"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\ayshek.json",
+    "normalized_name": "ayshek",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "lusha.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/ayshek",
+                    "normalized": "https://linkedin.com/company/ayshek",
+                    "username": "ayshek",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 4,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 6,
+            "valid": 1,
+            "removed": 5,
+            "duplicates": 0,
+            "invalid": [
+                "+2161597883508",
+                "+2161597883509",
+                "+2161597883510",
+                "+216110115051100101",
+                "+2162002015005011"
+            ]
+        }
+    }
+}

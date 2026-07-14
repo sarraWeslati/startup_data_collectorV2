@@ -1,0 +1,283 @@
+{
+    "name": "Colonial Consulting",
+    "description": "Investment consultancy to leading foundations and endowments. The firm has over $37 billion in assets under advisement.",
+    "organization_type": "",
+    "country": "",
+    "city": "Bad Segeberg",
+    "website": "https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners",
+    "linkedin": "https://linkedin.com/in/brianfcrawfordcfa",
+    "investment_focus": [
+        "foundations",
+        "endowments"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners",
+        "linkedin": "https://linkedin.com/in/brianfcrawfordcfa"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/financial-investment-news"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:10:55.358427+00:00",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Colonial Consulting",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/",
+            "https://www.causeiq.com/vendors/colonial-consulting,4480968890008364661/",
+            "https://www.colonial-consulting.de/dienstleistungen.html",
+            "https://linkedin.com/in/brianfcrawfordcfa",
+            "https://linkedin.com/in/david-fung-675b0535",
+            "https://linkedin.com/in/wendell-powerful-b8b77324",
+            "https://linkedin.com/in/james-avraamides-79b7b177",
+            "https://linkedin.com/in/terrell-simpson-248251119",
+            "https://www.datanyze.com/companies/colonial-consulting/19679713",
+            "https://www.northdata.com/Colonial%20Consulting%20GmbH;%20Financial%20Services,%20Bad%20Segeberg/Amtsgericht%20Kiel%20HRB%201329%20SE",
+            "https://www.company-detail.com/company-colonial-consulting-llc-3033918",
+            "https://prospeo.io/c/colonial-consulting-group-revenue",
+            "https://en.syna.se/companypublic/5594657313/wellfound-consulting-ab",
+            "http://www.colgrp.com/colonial-consulting-inc/",
+            "https://colonialconsultancy.com/",
+            "https://colonial-consulting.de/ueber-uns.html"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 2,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 3,
+            "business_count": 3,
+            "generic_count": 0,
+            "official_count": 2,
+            "domains": [
+                "3x.png",
+                "fin-news.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[Start Free Trial](https://www.fin-news.com/signup/)[Login](https://www.fin-news.com/signin/)\n* [News](javascript:void\\(0\\))\n* [Industry News](https://www.fin-news.com/category/industry-news/)\n* [People Moves](https://www.fin-news.com/category/people-moves/)\n* [Profiles](https://www.fin-news.com/category/profiles/)\n* [Trends](https://www.fin-news.com/category/trends/)\n* [Conference Coverage](https://www.fin-news.com/category/conference-coverage/)\n* [Emerging/Diverse Managers](https://www.fin-news.com/category/emerging-diverse-managers/)\n* [Searches And Hires](https://www.fin-news.com/category/searches/)\n* [Surveys/Studies](https://www.fin-news.com/category/asset-studiesreviews/)\n* [Whitepapers](https://www.fin-news.com/category/whitepapers/)\n* [5 Questions: Q&A With An Expert](https://www.fin-news.com/category/5-questions/)\n* [Searches And Hires](javascript:void\\(0\\))\n* [Alternatives](https://www.fin-news.com/category/alternatives/)\n* [Asset Study/Review](https://www.fin-news.com/category/asset-study-review/)\n* [Consultant/OCIO/Discretionary](https://www.fin-news.com/category/consultant-ocio-discretionary/)\n* [Credit/Private Debt](https://www.fin-news.com/category/creditprivate-debt/)\n* [Domestic Equity](https://www.fin-news.com/category/domestic-equity/)\n* [ESG](https://www.fin-news.com/category/esg/)\n* [Fixed-Income](https://www.fin-news.com/category/fixed-income/)\n* [Hedge Funds](https://www.fin-news.com/category/hedge-funds/)\n* [International / Global / Emerging Markets](https://www.fin-news.com/category/internationalglobal/)\n* [Multi-Asset/Investment Advisor](https://www.fin-news.com/category/multi-asset-investment-advisor/)\n* [Non-U.S. & Global Equity](https://www.fin-news.com/category/non-u-s-global-equity/)\n* [Private Equity](https://www.fin-news.com/category/private-equity/)\n* [Real Assets](https://www.fin-news.com/category/real-assets/)\n* [Real Estate](https://www.fin-news.com/category/real-estate/)\n* [Advertise](javascript:void\\(0\\))\n* [News Alert Ads](https://www.fin-news.com/advertise/)\n* [Job Listings](https://www.fin-news.com/job-listings/)\n* [Website Ads](https://www.fin-news.com/advertise/)\n* [RFPs](https://www.fin-news.com/rfps/)\n* [Reprints](https://www.fin-news.com/reprints/)\n* [About Us](javascript:void\\(0\\))\n* [Our Team](https://www.fin-news.com/about-us/)\n* [Pricing](https://checkout.fin-news.com/pricing)\n* [Daily Feed](https://www.fin-news.com/daily-feed/)\n* [Contact Us](https://www.fin-news.com/contact/)\n[ ](https://www.fin-news.com)\n* [Login](https://www.fin-news.com/signin/)\n* [Start Free Trial](https://www.fin-news.com/signup/)\n* [My Account](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n* [My Dashboard](https://www.fin-news.com/signup)\n* [Account Settings](https://www.fin-news.com/user-portal/)\n* [Contact Us](https://www.fin-news.com/contact/)\n* [Logout](http://logout)\nMenu\n[ ](https://www.fin-news.com)\n* [News](https://www.fin-news.com/news/)\n* [Industry News](https://www.fin-news.com/category/industry-news/)\n* [People Moves](https://www.fin-news.com/category/people-moves/)\n* [Profiles](https://www.fin-news.com/category/profiles/)\n* [Trends](https://www.fin-news.com/category/trends/)\n* [Conference Coverage](https://www.fin-news.com/category/conference-coverage/)\n* [Emerging/Diverse Managers](https://www.fin-news.com/category/emerging-diverse-managers/)\n* [Searches And Hires](https://www.fin-news.com/category/searches/)\n* [Surveys/Studies](https://www.fin-news.com/category/asset-studiesreviews/)\n* [Whitepapers](https://www.fin-news.com/category/whitepapers/)\n* [5 Questions: Q&A With An Expert](https://www.fin-news.com/category/5-questions/)\n* [Searches And Hires](https://www.fin-news.com/category/searches/)\n* [Alternatives](https://www.fin-news.com/category/alternatives/)\n* [Asset Study/Review](https://www.fin-news.com/category/asset-study-review/)\n* [Consultant/OCIO/Discretionary](https://www.fin-news.com/category/consultant-ocio-discretionary/)\n* [Credit/Private Debt](https://www.fin-news.com/category/creditprivate-debt/)\n* [Domestic Equity](https://www.fin-news.com/category/domestic-equity/)\n* [ESG](https://www.fin-news.com/category/esg/)\n* [Fixed-Income](https://www.fin-news.com/category/fixed-income/)\n* [Hedge Funds](https://www.fin-news.com/category/hedge-funds/)\n* [International / Global / Emerging Markets](https://www.fin-news.com/category/internationalglobal/)\n* [Multi-Asset/Investment Advisor](https://www.fin-news.com/category/multi-asset-investment-advisor/)\n* [Non-U.S. & Global Equity](https://www.fin-news.com/category/non-u-s-global-equity/)\n* [Private Equity](https://www.fin-news.com/category/private-equity/)\n* [Real Assets](https://www.fin-news.com/category/real-assets/)\n* [Real Estate](https://www.fin-news.com/category/real-estate/)\n* [Advertise](https://www.fin-news.com/advertise/)\n* [News Alert Ads](https://www.fin-news.com/advertise/)\n* [Job Listings](https://www.fin-news.com/job-listings/)\n* [Website Ads](https://www.fin-news.com/advertise/)\n* [RFPs](https://www.fin-news.com/rfps/)\n* [Reprints](https://www.fin-news.com/reprints/)\n* [About Us](https://www.fin-news.com/about-us/)\n* [Our Team](https://www.fin-news.com/about-us/)\n* [Pricing](https://checkout.fin-news.com/pricing)\n* [Daily Feed](https://www.fin-news.com/daily-feed/)\n[Search](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nPress Enter\n[ Filter ](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nPublish Date\n[Today](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [This Week](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [This Month](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [This Year](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nCustom Date Range\nPeople / Industry News\n[People Moves](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Industry News](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nType\n[Public](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Non-Profit](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nSearch\n[All](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Administrator/Record Keeper](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Alternatives](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Asset Study/Review](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Cash/Currency](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Consultant/OCIO/Discretionary](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Credit/Private Debt](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Domestic Equity](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Emerging/Diverse Managers](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [ESG](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n[Fixed-Income](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Hedge Funds](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Multi-Asset/Investment Advisor](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Non-U.S. & Global Equity](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Non-U.S. & Fixed-Income](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Private Equity](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Real Assets](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Real Estate ](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\nActive Filters:\n[Clear All](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/) [Search](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n[ ](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n[ ![](https://www.fin-news.com/wp-content/uploads/2026/06/FIN-Forum-News-Alerts-8.png) ![](https://www.fin-news.com/wp-content/uploads/2026/06/FIN-Forum-News-Alerts-8.png) ](https://www.finnewsevents.com/)\n![](https://www.fin-news.com/wp-content/themes/finnews/dist/images/fin-news-logo.svg)\n[Consultant/OCIO/Discretionary](https://www.fin-news.com/category/consultant-ocio-discretionary/)\n10.16.20\nColonial Consulting Rebrands As Crewcial Partners\nBy [Colin Rajala](https://www.fin-news.com/author/colinfin-news-com/)\nRecent News\n[ Consultant/OCIO/Discretionary ](https://www.fin-news.com/category/consultant-ocio-discretionary/) [ Northeast Pension Seeking Investment Consultant ](https://www.fin-news.com/2026/07/02/northeast-pension-seeking-investment-consultant-4/)\n[ Consultant/OCIO/Discretionary ](https://www.fin-news.com/category/consultant-ocio-discretionary/) [ Calif. Pension Launches Consultant RFP ](https://www.fin-news.com/2026/07/02/calif-pension-launches-consultant-rfp/)\n[ Consultant/OCIO/Discretionary ](https://www.fin-news.com/category/consultant-ocio-discretionary/) [ Midwest University Wraps Up Investment Consultant Search ](https://www.fin-news.com/2026/07/01/midwest-university-wraps-up-investment-consultant-search/)\nCopyright Notice: Copyright 2025 by Financial Investment News (FIN) and GRLM, LLC. All rights reserved. Photocopy permission is available solely through GRLM, LLC, Financial Investment News. Copying, photocopying or duplicating this publication in any form other than as permitted by agreement with FIN is prohibited and may constitute copyright infringement subject to liability up to $100,000 per infringement. For photocopy permission, back issues and bulk distribution needs, please contact Rob Regan at 212-627-7615 or e-mail rob@fin-news.com\n![](https://www.fin-news.com/wp-content/uploads/group-2@3x.png)\n**Extensive and timely coverage** of the institutional industry.\ncovering defined benefits plans and foundations and endowments.\n[Start Your Free Trial](https://www.fin-news.com/signup/%20)\n[Learn More](https://www.fin-news.com/about-us/%20)\nEditor Picks\n[New England Pension Approves Private Equity RFP](https://www.fin-news.com/2026/07/02/new-england-pension-approves-private-equity-rfp/) [Rocky Mountain Pension Plan Launches Deputy CIO Search](https://www.fin-news.com/2026/07/02/rocky-mountain-pension-plan-launches-deputy-cio-search/) [Dahab Associates Names New Director Of Research](https://www.fin-news.com/2026/07/02/dahab-associates-names-new-director-of-research/)\n[ ![](https://www.fin-news.com/wp-content/uploads/2026/05/fin-forum-2026-1-scaled.jpg) ](https://www.finnewsevents.com/)\nFIN News Subscription\nEnsure you aren't missing business leads that your competitors are seeing.\nYour $1350/year FIN News subscription includes:\nDaily newsletter alerts listing that day’s most pertinent headlines and intel\nAccess to our new FIN News Feed—a better way to scan stories online\n24/7 unlimited online access to subscription content on the FIN News site\n[Start Your Free Trial](https://www.fin-news.com/signup/)\nYour user agent does not support the HTML5 Video element.\n[Demo the Feed](https://www.fin-news.com/daily-feed/)\nFinancial Investment News is a key service provider for the asset management and financial services industries. For further details on our offerings, contact Victoria Dorage at vdorage@fin-news.com\n[Terms & Conditions](https://www.fin-news.com/terms-and-conditions/) | [Privacy Policy](https://www.fin-news.com/privacy-policy-2/)\n* [Fin](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n* [About Us](https://www.fin-news.com/about-us/)\n* [Advertise](https://www.fin-news.com/advertise/)\n* [Contact Us](https://www.fin-news.com/contact/)\n* [Pricing](https://checkout.fin-news.com/pricing)\n* [Submit a Tip](https://www.fin-news.com/submit-a-tip/)\n* [News](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n* [FIN Daily](https://www.fin-news.com/about-findaily/)\n* [Nonprofit News](https://www.fin-news.com/nonprofitnews/)\n* [Reprints](https://www.fin-news.com/reprints/)\n* [Promoted Jobs](https://www.fin-news.com/job-listings/)\n* [Promoted RFPs](https://www.fin-news.com/rfps/)\n* [My Account](https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/)\n* [Account](https://www.fin-news.com/user-portal/)\n* [My Dashboard](https://www.fin-news.com/my-dashboard/)\n* [Log In](https://www.fin-news.com/signin/)\n* [Log Out](http://logout)\n[](https://www.finsearches.com/) [](https://emergingmanagermonthly.com/)\n[](https://www.linkedin.com/company/financial-investment-news/) [](https://twitter.com/findaily)",
+    "website_metadata": {
+        "url": "https://www.fin-news.com/2020/10/16/colonial-consulting-rebrands-as-crewcial-partners/",
+        "content_length": 13334
+    },
+    "contact": {
+        "emails": [
+            "group-2@3x.png",
+            "rob@fin-news.com",
+            "vdorage@fin-news.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/financial-investment-news"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Financial Services",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/company/financial-investment-news",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 84,
+        "level": "Medium"
+    },
+    "emails": [
+        "group-2@3x.png",
+        "rob@fin-news.com",
+        "vdorage@fin-news.com"
+    ],
+    "phones": [
+        "212-627-7615"
+    ],
+    "aum": "$37 billion",
+    "geographic_focus": [
+        "Germany"
+    ],
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\colonial_consulting.json",
+    "normalized_name": "colonial consulting",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "fin-news.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/financial-investment-news",
+                    "normalized": "https://linkedin.com/company/financial-investment-news",
+                    "username": "financial-investment-news",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 3,
+                "business": 3,
+                "generic": 0,
+                "official": 2,
+                "domains": [
+                    "3x.png",
+                    "fin-news.com"
+                ]
+            },
+            "official": [
+                "rob@fin-news.com",
+                "vdorage@fin-news.com"
+            ],
+            "details": [
+                {
+                    "original": "group-2@3x.png",
+                    "normalized": "group-2@3x.png",
+                    "domain": "3x.png",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                },
+                {
+                    "original": "rob@fin-news.com",
+                    "normalized": "rob@fin-news.com",
+                    "domain": "fin-news.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "vdorage@fin-news.com",
+                    "normalized": "vdorage@fin-news.com",
+                    "domain": "fin-news.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "rob@fin-news.com",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "2126277615"
+            ]
+        }
+    }
+}

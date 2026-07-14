@@ -1,0 +1,235 @@
+{
+    "name": "DFID",
+    "description": "The long-term success of the African continent matters to HMG in the UK. In DFID we seek to work in partnership with African nations to better support both peace and global prosperity.",
+    "organization_type": "",
+    "country": "",
+    "city": "",
+    "website": "https://www.gov.uk/government/organisations/department-for-international-development",
+    "linkedin": "https://uk.linkedin.com/company/department-for-international-development",
+    "investment_focus": [
+        "peace",
+        "global prosperity",
+        "climate change",
+        "gender equality",
+        "education",
+        "family planning"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.gov.uk/government/organisations/department-for-international-development",
+        "linkedin": "https://uk.linkedin.com/company/department-for-international-development",
+        "github": "https://github.com/DFID"
+    },
+    "social_media": {
+        "github": "https://github.com/DFID"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:14:17.327013+00:00",
+        "website_enriched": true,
+        "tavily_results": 17,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "DFID",
+        "answer": "",
+        "results_count": 17,
+        "urls": [
+            "https://gov.uk/government/organisations/department-for-international-development",
+            "https://en.wikipedia.org/wiki/Department_for_International_Development",
+            "https://www.devex.com/organizations/department-for-international-development-dfid-44526",
+            "https://uk.linkedin.com/company/department-for-international-development",
+            "https://linkedin.com/in/anne-fraser-06ba5410",
+            "https://linkedin.com/in/lindsay-hayward-19a9a34b",
+            "https://uk.linkedin.com/company/foreign-commonwealth-and-development-office",
+            "https://linkedin.com/in/pauline-perry-618b7725",
+            "https://linkedin.com/company/department-for-international-development",
+            "https://www.devex.com/organizations/dfid-44526",
+            "https://dfid.gov.uk/",
+            "https://github.com/DFID",
+            "https://www.wellfound.org.uk/partners",
+            "https://www.wellfound.org.uk/partnerships/trusts-foundations",
+            "https://www.wellfound.org.uk/news/independent-evaluation-of-wellfounds-work",
+            "https://devtracker.fcdo.gov.uk/projects/GB-COH-04105827-AIDDIRECT",
+            "https://www.gov.uk/government/organisations/department-for-international-development"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": true,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 6,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 2,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 2,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "## Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies. You can [change your cookie settings](https://www.gov.uk/help/cookies) at any time.\nYou have rejected additional cookies. You can [change your cookie settings](https://www.gov.uk/help/cookies) at any time.\nAccept additional cookies Reject additional cookies [View cookies](https://www.gov.uk/help/cookies)\nHide cookie message\n[Skip to main content](https://www.gov.uk/government/organisations/department-for-international-development#content)\n[ GOV.UK ](https://www.gov.uk/)\n##  Navigation menu\n[ Menu ](https://www.gov.uk/browse) Menu\n###  Services and information\n* [Benefits](https://www.gov.uk/browse/benefits)\n* [Births, death, marriages and care](https://www.gov.uk/browse/births-deaths-marriages)\n* [Business and self-employed](https://www.gov.uk/browse/business)\n* [Childcare and parenting](https://www.gov.uk/browse/childcare-parenting)\n* [Citizenship and living in the UK](https://www.gov.uk/browse/citizenship)\n* [Crime, justice and the law](https://www.gov.uk/browse/justice)\n* [Disabled people](https://www.gov.uk/browse/disabilities)\n* [Driving and transport](https://www.gov.uk/browse/driving)\n* [Education and learning](https://www.gov.uk/browse/education)\n* [Employing people](https://www.gov.uk/browse/employing-people)\n* [Environment and countryside](https://www.gov.uk/browse/environment-countryside)\n* [Housing and local services](https://www.gov.uk/browse/housing-local-services)\n* [Money and tax](https://www.gov.uk/browse/tax)\n* [Passports, travel and living abroad](https://www.gov.uk/browse/abroad)\n* [Visas and immigration](https://www.gov.uk/browse/visas-immigration)\n* [Working, jobs and pensions](https://www.gov.uk/browse/working)\n###  Government activity\n* [Departments](https://www.gov.uk/government/organisations)\nDepartments, agencies and public bodies\n* [News](https://www.gov.uk/search/news-and-communications)\nNews stories, speeches, letters and notices\n* [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)\nDetailed guidance, regulations and rules\n* [Research and statistics](https://www.gov.uk/search/research-and-statistics)\nReports, analysis and official statistics\n* [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)\nConsultations and strategy\n* [Transparency](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)\nData, Freedom of Information releases and corporate reports\nSearch GOV.UK  ×  [ Search GOV.UK  ](https://www.gov.uk/search)\n###  Search\nSearch GOV.UK\nWhen search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.\nSearch\n1. [Home](https://www.gov.uk/)\n2. [Organisations](https://www.gov.uk/government/organisations)\n# Department for International Development\nDepartment\nfor International\nDevelopment\nDepartment for International Development was replaced by [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)\nThe Department for International Development has closed. It’s been replaced by the Foreign, Commonwealth & Development Office (FCDO).\n##  Documents\n###  Services\n* [Construction Ideas Fund window 1: application form](https://www.gov.uk/government/publications/construction-ideas-fund-window-1-application-form)\n* [Humanitarian response funding guidelines for NGOs - Annex C](https://www.gov.uk/government/publications/humanitarian-response-funding-guidelines-for-ngos-annex-c)\n[ See all services ](https://www.gov.uk/search/services?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n###  Guidance and regulation\n* [Accountable Grant Arrangement: budget template and guidance](https://www.gov.uk/government/publications/dfid-accountable-grant-arrangement-budget-template-and-guidance)\n* 3 September 2021\n* Guidance\n* [Safeguarding and protection from sexual exploitation and abuse and harassment (SEAH) in the aid sector](https://www.gov.uk/guidance/safeguarding-and-protection-from-sexual-exploitation-and-abuse-and-harassment-seah-in-the-aid-sector)\n* 22 May 2026\n* Guidance\n[ See all guidance and regulation ](https://www.gov.uk/search/guidance-and-regulation?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n###  News and communications\n* [Foreign Secretary & Naomi Campbell discuss girls' education](https://www.gov.uk/government/news/foreign-secretary-naomi-campbell-discuss-girls-education)\n* 2 October 2024\n* Press release\n* [Foreign Secretary commits to more effective and accountable aid spending under new Foreign, Commonwealth and Development Office](https://www.gov.uk/government/news/foreign-secretary-commits-to-more-effective-and-accountable-aid-spending-under-new-foreign-commonwealth-and-development-office)\n* 29 August 2020\n* Press release\n[ See all news and communications ](https://www.gov.uk/search/news-and-communications?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n###  Research and statistics\n* [Statistics on International Development: underlying data for 2009 to 2016](https://www.gov.uk/government/statistics/statistics-on-international-development-underlying-data-for-2009-to-2016)\n* 27 August 2025\n* National Statistics\n* [Statistics on International Development: Final UK Aid Spend 2019](https://www.gov.uk/government/statistics/announcements/statistics-on-international-development-final-uk-aid-spend-2019)\n* 21 August 2020\n* National statistics announcement\n[ See all research and statistics ](https://www.gov.uk/search/research-and-statistics?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n###  Policy papers and consultations\n* [Conflict, Stability and Security Fund: Eastern Europe and Central Asia annual review summaries 2020 to 2021](https://www.gov.uk/government/publications/conflict-stability-and-security-fund-eastern-europe-and-central-asia-annual-review-summaries-2020-to-2021)\n* 22 May 2023\n* Policy paper\n* [Conflict, Stability and Security Fund: Western Balkans annual review summaries 2020 to 2021](https://www.gov.uk/government/publications/conflict-stability-and-security-fund-western-balkans-annual-review-summaries-2020-to-2021)\n* 22 May 2023\n* Policy paper\n[ See all policy papers and consultations ](https://www.gov.uk/search/policy-papers-and-consultations?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n###  Transparency and freedom of information releases\n* [Foreign, Commonwealth & Development Office (FCDO): retention schedule](https://www.gov.uk/government/publications/foreign-commonwealth-development-office-fcdo-retention-schedule)\n* 22 March 2023\n* Transparency data\n* [DFID: ministerial gifts, hospitality, travel and meetings, January to March 2020](https://www.gov.uk/government/publications/dfid-ministerial-gifts-hospitality-travel-and-meetings-january-to-march-2020)\n* 24 November 2022\n* Transparency data\n[ See all transparency and freedom of information releases ](https://www.gov.uk/search/transparency-and-freedom-of-information-releases?organisations\\[\\]=department-for-international-development&parent=department-for-international-development)\n## Is this page useful?\n* [ Maybe ](https://www.gov.uk/contact/govuk)\n* Yes this page is useful\n* No this page is not useful\nThank you for your feedback\nReport a problem with this page\n## Help us improve GOV.UK\nDo not include personal or financial information like your National Insurance number or credit card details.\nThis field is for robots only. Please leave blank\nWhat were you doing?\nWhat went wrong?\nSend Cancel\n## Help us improve GOV.UK\nTo help us improve GOV.UK, we’d like to know more about your visit today. [Please fill in this survey (opens in a new tab](https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/organisations/department-for-international-development).\nCancel\n## Services and information\n* [Benefits](https://www.gov.uk/browse/benefits)\n* [Births, death, marriages and care](https://www.gov.uk/browse/births-deaths-marriages)\n* [Business and self-employed](https://www.gov.uk/browse/business)\n* [Childcare and parenting](https://www.gov.uk/browse/childcare-parenting)\n* [Citizenship and living in the UK](https://www.gov.uk/browse/citizenship)\n* [Crime, justice and the law](https://www.gov.uk/browse/justice)\n* [Disabled people](https://www.gov.uk/browse/disabilities)\n* [Driving and transport](https://www.gov.uk/browse/driving)\n* [Education and learning](https://www.gov.uk/browse/education)\n* [Employing people](https://www.gov.uk/browse/employing-people)\n* [Environment and countryside](https://www.gov.uk/browse/environment-countryside)\n* [Housing and local services](https://www.gov.uk/browse/housing-local-services)\n* [Money and tax](https://www.gov.uk/browse/tax)\n* [Passports, travel and living abroad](https://www.gov.uk/browse/abroad)\n* [Visas and immigration](https://www.gov.uk/browse/visas-immigration)\n* [Working, jobs and pensions](https://www.gov.uk/browse/working)\n## Government activity\n* [Departments](https://www.gov.uk/government/organisations)\n* [News](https://www.gov.uk/search/news-and-communications)\n* [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)\n* [Research and statistics](https://www.gov.uk/search/research-and-statistics)\n* [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)\n* [Transparency](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)\n* [How government works](https://www.gov.uk/government/how-government-works)\n* [Get involved](https://www.gov.uk/government/get-involved)\n* * *\n## Support links\n* [Help](https://www.gov.uk/help)\n* [Privacy](https://www.gov.uk/help/privacy-notice)\n* [Cookies](https://www.gov.uk/help/cookies)\n* [Accessibility statement](https://www.gov.uk/help/accessibility-statement)\n* [Contact](https://www.gov.uk/contact)\n* [Terms and conditions](https://www.gov.uk/help/terms-conditions)\n* [Rhestr o Wasanaethau Cymraeg](https://www.gov.uk/cymraeg)\n* [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)\nAll content is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), except where otherwise stated\n[© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/)",
+    "website_metadata": {
+        "url": "https://www.gov.uk/government/organisations/department-for-international-development",
+        "content_length": 10962
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://github.com/DFID"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "geographic_focus": [
+        "Africa",
+        "developing countries"
+    ],
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\dfid.json",
+    "normalized_name": "dfid",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "gov.uk",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "github"
+                ]
+            },
+            "details": {
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/DFID",
+                    "normalized": "https://github.com/DFID",
+                    "username": "DFID",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

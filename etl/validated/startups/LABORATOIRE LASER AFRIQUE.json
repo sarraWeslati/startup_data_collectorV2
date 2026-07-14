@@ -1,0 +1,255 @@
+{
+    "entity_type": "startup",
+    "name": "LABORATOIRE LASER AFRIQUE",
+    "description": "LABORATOIRE LASER AFRIQUE (2016)\nSecteur d’activité / Sector : Agritech\nlaboratoirelaser.com\nFondateur / Founder\nE-mail\nAdresse / Address\nVAN DER BEEK TIMMO\ntimmo.vanderbeek@laboratoirelaser.com\nB11, ELghazala Technopark\nActivité Nous développons des solutions photoniques \npour l'agriculture. Notre produit principal est un outil \nde gestion d'irrigation pour prévention de sous ou sur \nirrigation. Par un capteur imagerie laser, nous suivons le \nbesoin d'eau dans un champs en temps réel. Outre cela, le \ncapteur signale la santé générale des plantes.\nAspect Technologique Nous utilisons la lumière et l'imagerie. \nLa stabilisation du capteur et l'alignement des faisceaux \nsont les principaux défis techniques.\nOriginalité Nous mesurons une moyenne dans un champs \nentier en temps réel au lieu de mesurer localement.\nActivity We develop photonic solutions for agriculture. \nOur main product is a irrigation management tool for \nover- and underirrigation. Using a laser imaging sensor, \nwe capture the water need of all the plants in a field in \nrealtime. The sensor also signals the general health of \nplants.\nTechnological Aspect We use light sources and imaging. \nSensor stabilization and laser alignment are the main \ntechnological challenges. \nOriginality We measure an entire field and we take an \naverage in real time instead of a local measurement.\nFR\nEN",
+    "tagline": "Your field tells you when to water",
+    "industry": "Agritech",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Tunis",
+    "headquarters": "Laboratoire Laser Afrique, Tunis, Tunisia",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://laboratoirelaser.com",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "timmo.vanderbeek@laboratoirelaser.com"
+        ],
+        "phones": [],
+        "address": "Tunis, Tunisia",
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "LDIMS",
+            "description": "A field‑ready irrigation management system that uses compact sensor masts to capture plant physiological signals, performs real‑time stress analysis, and provides actionable irrigation indices via a mobile and web dashboard.",
+            "category": "Irrigation management system"
+        },
+        {
+            "name": "Solar Oven for Yemen",
+            "description": "A lightweight, affordable solar‑heated bread oven designed for humanitarian deployment, reaching 200 °C within minutes without fuel or electricity.",
+            "category": "Solar cooking solution"
+        },
+        {
+            "name": "PlanOptic Monitor",
+            "description": "A preventive plant pathology monitoring system using laser imaging to detect disease and stress in crops before visible symptoms appear.",
+            "category": "Plant health monitoring"
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "Agriculture across Africa and the MENA region",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [
+        "Partners for Water programme"
+    ],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://laboratoirelaser.com",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 69,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:05:16.878513",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 1,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "laboratoirelaser.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[![Laboratoire Laser Afrique](https://laboratoirelaser.com/)](https://laboratoirelaser.com/)\n[LDIMS](https://laboratoirelaser.com/#how-it-works) [Field Results](https://laboratoirelaser.com/#field) [Partners](https://laboratoirelaser.com/#partners) [Projects](https://laboratoirelaser.com/#other-projects) [Contact](https://laboratoirelaser.com/#contact)\nEN FR ع\nRequest a demo\n[LDIMS](https://laboratoirelaser.com/#how-it-works) [Field Results](https://laboratoirelaser.com/#field) [Partners](https://laboratoirelaser.com/#partners) [Projects](https://laboratoirelaser.com/#other-projects) [Contact](https://laboratoirelaser.com/#contact)\nTunisia · Precision irrigation\n# Your field tells you _when to water_\nLDIMS listens to your plants — not the weather forecast. The first irrigation management system driven by real-time plant stress response.\nRequest a demo kit Become a distributor\nField-tested in Tunisia\nPartners for Water programme\nWhite-label available\nField trial · Medjez el Bab, Tunisia · 2025\nWhat makes LLA different\nWe don’t just publish research — we build tools that work outside the lab. Every project at Laboratoire Laser Afrique is designed from the start to be deployable, affordable, and adapted to the realities of agriculture and industry in Africa and beyond.\nHow it works\n## Plant intelligence, field-ready\nFour steps from sensor to irrigation decision.\n01\n### Sensors in the field\nCompact sensor masts deployed across your plots continuously capture plant physiological signals — no soil probes, no sampling delays.\n02\n### Real-time stress analysis\nThe ensemble response of the crop to drought and other stress factors is computed in real time and translated into actionable irrigation indices.\n03\n### Farmer dashboard\nA simple mobile and web dashboard answers three questions: when to irrigate, how long, and how much. No agronomy degree required.\n04\n### Connects to your setup\nWorks alongside any existing drip or sprinkler system. No need to replace infrastructure — LDIMS adds intelligence to what you already have.\nLDIMS vs conventional systems\nConventional approach\nSoil sensors — measure environment, not the crop\nWeather-based schedules — ignore actual plant state\nFixed irrigation cycles — risk over or under-watering\nReactive — stress noticed days after onset\nLDIMS\nPlant sensors — the crop signals directly\nReal-time stress index — based on actual crop physiology\nData-driven decisions — right amount, right time\nProactive — stress detected at earliest onset\nPartners for Water · Tunisia · 2025\nFrom the field\n## Tested where it matters\nActive LDIMS trials in Medjez el Bab, in collaboration with the Partners for Water programme. Results being published — contact us for a briefing.\n2025\nActive LDIMS field trial, Medjez el Bab\nReal-time\nPlant stress data streamed continuously\nLive\nResults in progress — ask for a briefing\n![LDIMS sensor mast in Medjez el Bab field trial, Tunisia 2025](https://laboratoirelaser.com/)\nField trial 2025\n### Medjez el Bab, Tunisia\nLDIMS sensor masts deployed across drip-irrigated plots. Collective crop stress response measured continuously in real field conditions, in collaboration with the Partners for Water programme.\n“This is not another weather station. LDIMS reads the crop directly — a fundamentally different approach to knowing when your field needs water.”\nField trial team · Laboratoire Laser Afrique · 2025\nWho we work with\n## Built to distribute\nWhether you resell technology, run a farm, or supply agricultural inputs — our systems are designed to integrate into your business.\n### Tech resellers\nWhite-label hardware and software bundle. Margin-friendly pricing, full technical documentation and training.\n### Nurseries & farms\nDeploy on your own land first. Subscription dashboard, no server management. Financing available for pilots.\n### Agricultural suppliers\nBundle our products with your existing lines. Co-branded packaging. Volume discounts from 10 units.\nPartnership process\n1\n### Request a demo kit\nWe ship a unit to you. Test in real conditions — no commitment required.\n2\n### Choose your model\nReseller, white-label, or OEM. We adapt pricing and branding to your business.\n3\n### We support your rollout\nInstallation guides, remote support, staff training and partner portal.\n4\n### Grow together\nCo-marketing, joint case studies, and product development based on your clients’ feedback.\nAlso from our lab\n## Two more technologies in development\nExplore our other projects\nBeyond LDIMS, Laboratoire Laser Afrique is developing solutions for humanitarian energy access and preventive plant health monitoring.\nSolar energy\n### Solar Oven for Yemen\nA lightweight, affordable solar-heated bread oven designed for humanitarian deployment. Using innovative reflective materials, the oven mantle reaches 200°C within minutes — even in winter — without fuel or electricity.\nSolar thermalLightweight materials200°C in minutesOff-grid\nPlant diagnostics\n### PlanOptic Monitor\nA preventive plant pathology monitoring system using laser imaging to detect disease and stress in crops before visible symptoms appear. Early detection means less pesticide, less loss, and better yields.\nLaser imagingEarly detectionPreventive monitoringPrecision agri\n↑ Back to LDIMS\nGet in touch\n## Start a conversation\nWe respond within 48 hours. Reach out for demo kits, partnership discussions, or technical questions.\ntimmo.vanderbeek@laboratoirelaser.com\nTunis, Tunisia\nLaboratoire Laser Afrique\nlaboratoirelaser.com\n**Interested in our technology?** We offer demo kits, white-label licensing, and volume pricing to qualified partners across Africa and the MENA region.\n![Laboratoire Laser Afrique](https://laboratoirelaser.com/)\n© 2025 Laboratoire Laser Afrique · Tunis, Tunisia\n[LDIMS](https://laboratoirelaser.com/#how-it-works) [Field Results](https://laboratoirelaser.com/#field) [Partners](https://laboratoirelaser.com/#partners) [Contact](https://laboratoirelaser.com/#contact)",
+    "website_metadata": {
+        "url": "https://laboratoirelaser.com",
+        "content_length": 5957
+    },
+    "external_profiles": {},
+    "emails": [
+        "timmo.vanderbeek@laboratoirelaser.com"
+    ],
+    "tavily": {
+        "query": "LABORATOIRE LASER AFRIQUE",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\laboratoire_laser_afrique.json",
+    "normalized_name": "laboratoire laser afrique",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "laboratoirelaser.com",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "laboratoirelaser.com"
+                ]
+            },
+            "official": [
+                "timmo.vanderbeek@laboratoirelaser.com"
+            ],
+            "details": [
+                {
+                    "original": "timmo.vanderbeek@laboratoirelaser.com",
+                    "normalized": "timmo.vanderbeek@laboratoirelaser.com",
+                    "domain": "laboratoirelaser.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "timmo.vanderbeek@laboratoirelaser.com",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

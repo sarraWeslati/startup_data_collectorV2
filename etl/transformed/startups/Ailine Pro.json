@@ -1,0 +1,252 @@
+{
+    "entity_type": "startup",
+    "name": "Ailine Pro",
+    "description": "Connect all of your SaaS platforms like GitHub, Slack, and Jira. Get instant AI-powered summaries of your team’s progress and regain 20% of your focus time every day.",
+    "tagline": "Instant AI-powered summaries of your team’s progress",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2024",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.ailine.ai",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/ailine-professional-software-development"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/ailine-professional-software-development"
+    },
+    "founders": [
+        {
+            "name": "Ines Achourchtourou saif",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Nadra Achour",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "AiLine",
+            "description": "Connect all of your SaaS platforms like GitHub, Slack, and Jira. Get instant AI-powered summaries of your team’s progress and regain 20% of your focus time every day.",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:00:59.906017",
+        "website_enriched": true,
+        "tavily_results": 11,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Nov-24"
+    },
+    "external_profiles": {
+        "website": "https://www.ailine.ai",
+        "linkedin": "https://linkedin.com/company/ailine-professional-software-development"
+    },
+    "tavily": {
+        "query": "Ailine Pro",
+        "answer": "",
+        "results_count": 11,
+        "urls": [
+            "https://ailine.pro/",
+            "https://www.ailine.ai/",
+            "https://www.alinepro.pl/en/home",
+            "https://linkedin.com/company/ailine-professional-software-development",
+            "https://ailine.com.br/",
+            "https://linkedin.com/in/jihenme",
+            "https://www.linkedin.com/company/ailine-professional-software-development",
+            "https://linkedin.com/in/aline-pro-78a770133",
+            "https://linkedin.com/in/aline-provezano-27571931",
+            "https://ailine.org/",
+            "https://theorg.com/org/anglogold-ashanti-ltd/org-chart/aline-prodocio"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": false
+    },
+    "website_content": "top of page\n* [How it works](https://www.ailine.ai)\n* [Pricing](https://www.ailine.ai)\n* [About us](https://www.ailine.ai)\n* [Contact](https://www.ailine.ai)\n* [Login](https://app.ailine.ai/login)\n* More\nUse tab to navigate through the menu items.\n[Try for Free](https://signup.ailine.ai/signup)\n[![AiLine logo](https://static.wixstatic.com/media/4bc90f_fb5f7156365140eca677021f633531b9~mv2.png/v1/fill/w_129,h_58,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mira_V1_WHITE-removebg-preview.png)](https://www.ailine.ai)\n# Stop Wasting 1.8 Hours a Day Sifting Through Tool Chaos\nConnect all of your SaaS platforms like GitHub, Slack, and Jira. Get instant AI-powered summaries of your team’s progress and regain 20% of your focus time every day.\n[Try for Free](https://signup.ailine.ai/signup)\n![](https://static.wixstatic.com/media/c837a6_786cc680f77b40d19fc7bfd75f7a49e0~mv2.png/v1/fill/w_1080,h_634,al_b,q_95,enc_avif,quality_auto/c837a6_786cc680f77b40d19fc7bfd75f7a49e0~mv2.png)\n![AiLine tool screenshot](https://static.wixstatic.com/media/4bc90f_d2dda36459ce4a4ebd7b042c70852c05~mv2.png/v1/fill/w_980,h_639,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/AiLine%20\\(1\\).png)\n## Why AiLine?\nAiLine eliminates these costs by creating a single 'Causal Graph' of your company's intelligence\n9.3 Hours/Week\n### Spent searching for information.\n23 Minutes\n### Average time to resume a task after one notification.\n352\nHours/Year\n### Wasted on \"work about work\" (meetings/alignment).\nFeatures anchor\n## How it Works\nStreamline your workflow\nGet started by feeding all your changes, logs and events from each platform into one place.\n* ![GitHub    ](https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png)\n* ![google-drive](https://static.wixstatic.com/media/4bc90f_0116d254183d49e1bd8eec78784733a0~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bc90f_0116d254183d49e1bd8eec78784733a0~mv2.png)\n* ![jira](https://static.wixstatic.com/media/4bc90f_4202055b04c84a5884bd4fa70d6bb251~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bc90f_4202055b04c84a5884bd4fa70d6bb251~mv2.png)\n* ![salesforce](https://static.wixstatic.com/media/4bc90f_909c72187d2049ef926249bc13a0a1db~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bc90f_909c72187d2049ef926249bc13a0a1db~mv2.png)\n* ![figma](https://static.wixstatic.com/media/4bc90f_4941f78811ad44abb6602aef239f316e~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bc90f_4941f78811ad44abb6602aef239f316e~mv2.png)\n![AiLine logo](https://static.wixstatic.com/media/4bc90f_fb5f7156365140eca677021f633531b9~mv2.png/v1/fill/w_108,h_45,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bc90f_fb5f7156365140eca677021f633531b9~mv2.png)\nSee events and details about all the changes happening in your company\nUse the built-in AI search function to get answers faster\nFeed event data as company contexts into in-house AI\n[Try for Free](https://signup.ailine.ai/signup)\nTrack. Visualize. Search.\nSave time and resources with AiLine’s key features. Enjoy simplified tracking and an intuitive timeline overview, and boost your productivity with smart AI Search\n![Working at Outdoor Cafe](https://static.wixstatic.com/media/11062b_5308f062aceb4f109ae90c745bec073e~mv2.jpeg/v1/crop/x_0,y_3,w_7000,h_4661/fill/w_446,h_297,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Working%20at%20Outdoor%20Cafe.jpeg)\n![Tools that can connect to AiLine](https://static.wixstatic.com/media/4bc90f_54f79f5027cd4cf499c12c538f65a9b1~mv2.png/v1/fill/w_350,h_159,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Slice%201%201%20\\(1\\).png)\n### Founder\n###### Visibility Collapse. Stop asking \"What happened?\" AiLine gives you the answer before you ask.\n[Try for Free](https://signup.ailine.ai/signup)\n### Product Manager\nContext Rebuild Fatigue. Stop sifting through chats to explain a KPI shift. The causal chain is already mapped.\n[Try for Free](https://signup.ailine.ai/signup)\n![Frame 171 \\(4\\).png](https://static.wixstatic.com/media/4bc90f_cb7172110ff64d6aa1a67a3a942c312e~mv2.png/v1/fill/w_600,h_366,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%20171%20\\(4\\).png)\n![Slack logo](https://static.wixstatic.com/media/4bc90f_b3fbc55aba6947a6919fdda0fa6f3f3f~mv2.png/v1/fill/w_86,h_86,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/5cb480cd5f1b6d3fbadece79.png)\n07:46\nProduct Marketing team flagged mistakes in the summer campaign assets\nSpelling mistakes have been identified\n![Indian Woman](https://static.wixstatic.com/media/11062b_19482d0b3ebf4a58b8876b70803e9804~mv2.jpeg/v1/crop/x_1171,y_0,w_4744,h_4727/fill/w_278,h_277,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Indian%20Woman.jpeg)\nPricing Anchor\n### BizOps / RevOps\nNumbers without context erode trust. AiLine connects actions to outcomes.\n[Try for Free](https://signup.ailine.ai/signup)\n![Gemini_Generated_Image_kstqc2kstqc2kstq.png](https://static.wixstatic.com/media/4bc90f_1d418236809744b2b080d30ea2f3dc53~mv2.png/v1/crop/x_28,y_0,w_2969,h_1408/fill/w_588,h_279,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gemini_Generated_Image_kstqc2kstqc2kstq.png)\n### Data Analyst\n###### Metrics move for certain reasons. AiLine shows the causal chain.\n[Try for Free](https://signup.ailine.ai/signup)\n![Untitled design.png](https://static.wixstatic.com/media/4bc90f_f0017fcf9e8d4ec4b5ac56dce8996c10~mv2.png/v1/fill/w_448,h_483,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design.png)\n![Data Search Technology Search Engine Optimization. man's hands are using a computer keyboa](https://static.wixstatic.com/media/4bc90f_e9e64f161ce54e72a15f89e6ebbf6c84~mv2.jpg/v1/fill/w_457,h_315,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Data%20Search%20Technology%20Search%20Engine%20Optimization_%20man's%20hands%20are%20using%20a%20computer%20keyboa.jpg)\n\"When did we fix the API for the summer campaign?\"\n\"IT fixed the assets in Github yesterday at 18:48\"\n### Tech Lead\nStatus Ping Overload. Reduce interruptions by 23 minutes per ping by silencing the execution broadcast.\n[Try for Free](https://signup.ailine.ai/signup)\nAbout us anchor\n## Our Story\nFor over a decade, we’ve been immersed in the online tech world. Along the way, we've witnessed firsthand how companies evolve rapidly—from nimble startups, to sprawling corporations struggling to stay aligned. In the early days, communication was simple, knowledge sharing was face-to-face, and complex problems were tackled collaboratively.\nHowever, as companies grew, staying in the loop, sharing insights, and understanding solutions beyond core teams became increasingly challenging. And we’re here to fix that disconnect.\n​\nSay goodbye to wasted time sifting through various tools and platforms just to piece together yesterday’s events. It’s time-consuming, and drags down productivity.\n​\n​Enter AiLine, an intelligent solution that addresses these challenges and streamlines your workflow—all in one place.\n## Our Team\n![shinsnouke_iguchi_profile_edited.jpg](https://static.wixstatic.com/media/aadd39_6450a07cdd4d404297f30dbd43db6139~mv2.jpg/v1/fill/w_287,h_323,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/shinsnouke_iguchi_profile_edited.jpg)\nShin Iguchi\nCo-founder\n![victor_tejeda_profile_.jpeg](https://static.wixstatic.com/media/aadd39_28a3e7fa270e4927b20a1c664bbe3fbe~mv2.jpeg/v1/fill/w_287,h_323,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/victor_tejeda_profile_.jpeg)\nVictor Tejeda\nCo-founder\nContact\n## Contact us\nDrop us a line with any questions\nFirst Name\nLast Name\nEmail\nJob position\nLeave us a message...\nSubmit\nThanks for submitting!\n![AiLine logo](https://static.wixstatic.com/media/4bc90f_fb5f7156365140eca677021f633531b9~mv2.png/v1/fill/w_129,h_58,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mira_V1_WHITE-removebg-preview.png)\nTry for Free\n[Security](https://www.ailine.ai/security)\n[Terms & Conditions](https://www.ailine.ai/terms-and-conditions)\nSave time and reduce the number of tabs opened in your browser\nNeue Gruenstrasse 9, 10179 Berlin, Germany\n© 2024 by AiLine.\nbottom of page",
+    "website_metadata": {
+        "url": "https://www.ailine.ai/",
+        "content_length": 8254
+    },
+    "linkedin": "https://linkedin.com/company/ailine-professional-software-development",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\ailine_pro.json",
+    "normalized_name": "ailine pro",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "ailine.ai",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/ailine-professional-software-development",
+                    "normalized": "https://linkedin.com/company/ailine-professional-software-development",
+                    "username": "ailine-professional-software-development",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "7156365140",
+                "78784733",
+                "418236809744"
+            ]
+        }
+    }
+}

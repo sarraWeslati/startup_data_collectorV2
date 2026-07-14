@@ -1,0 +1,284 @@
+{
+    "name": "Cowry Asset",
+    "description": "Trading, Real estate and Funds management; Cowry Asset has evolved into a financial supermarket.",
+    "organization_type": "",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "website": "https://www.jobzilla.ng/jobs/full-stack-developer-at-cowry-asset-management-limited-264234",
+    "linkedin": "https://linkedin.com/company/cowry-asset-management-limited",
+    "investment_focus": [
+        "investment",
+        "asset management",
+        "securities trading",
+        "real estate",
+        "advisory services"
+    ],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.jobzilla.ng/jobs/full-stack-developer-at-cowry-asset-management-limited-264234",
+        "linkedin": "https://linkedin.com/company/cowry-asset-management-limited",
+        "crunchbase": "https://www.crunchbase.com/organization/cowry-asset-management"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/jobs/view/4292773203"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:11:51.462621+00:00",
+        "website_enriched": true,
+        "tavily_results": 20,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Cowry Asset",
+        "answer": "",
+        "results_count": 20,
+        "urls": [
+            "https://cowryasset.com/AssetManagement",
+            "https://cowryasset.com/Home/Contact",
+            "https://securities.cowryasset.com/",
+            "https://linkedin.com/company/cowry-asset-management-limited",
+            "https://www.cowryasset.com/InvestmentBanking",
+            "https://ng.linkedin.com/company/cowry-asset-management-limited",
+            "https://linkedin.com/in/johnson-chukwu-cowry",
+            "https://linkedin.com/in/olukayode-fatoke-fca-716a5867",
+            "https://linkedin.com/in/daniel-ohwodo-aca-cisa-mba-51a66b27",
+            "https://linkedin.com/in/oludayo-olugbemi-080b42150",
+            "https://www.crunchbase.com/organization/cowry-asset-management",
+            "https://cowryasset.com/",
+            "https://cowryasset.com/home/",
+            "https://www.cowryasset.com/About",
+            "https://ng-check.com/cowry-asset-management-limited/1077834.html",
+            "https://www.cowryasset.com/",
+            "https://cowryasset.com/Careers",
+            "https://www.jobzilla.ng/jobs/full-stack-developer-at-cowry-asset-management-limited-264234",
+            "https://jobnow.ng/business-development-officer-mutual-funds-at-cowry-asset-management-limited/",
+            "https://superscout.co/investor/cowry-asset-management-limited"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": false,
+        "has_github": false,
+        "has_dealroom": false,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 5,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 1,
+        "partners_count": 0,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[JOBZILLA](https://www.jobzilla.ng/)\n* [Jobs](https://www.jobzilla.ng/jobs)\n* [Blog](https://www.jobzilla.ng/blog)\n* [CV Templates](https://www.jobzilla.ng/cv-templates)\n* [CV Samples](https://www.jobzilla.ng/cv-samples)\n* [Cover Letter Samples](https://www.jobzilla.ng/cover-letter-samples)\n* [Aptitude Tests](https://www.jobzilla.ng/aptitude-tests)\n* [Interview Questions](https://www.jobzilla.ng/interview-questions)\n* [Salaries](https://www.jobzilla.ng/salaries)\nHOT!  [**Are you HIV Positive? Looking for love? Click here to join the HIV+ dating Network in Nigeria.**](https://whatsapp.com/channel/0029Vb6j2jD1HsprZV83rx0d)\n# Full-Stack Developer at Cowry Asset Management Limited\n* **⏲** Sep 3, 2025, 7:36 AM\n* **⋕**[ View all ICT Support & Telecommunications jobs](https://www.jobzilla.ng/category/it-and-telecoms-jobs \"ICT Support & Telecommunications Jobs in Nigeria\")\n* * *\nCowry Asset Management Limited is a leading investment banking firm licensed by the Securities and Exchange Commission (SEC). Our goal is to provide tailored investment solutions to clients across diverse sectors.\nWe are recruiting to fill the position below:\n**Job Title:** Full-Stack Developer\n**Location:** Lagos\nJob type: Full-time\n**About the Job**\n* We are seeking a Full-Stack Developer to join our technology team. The successful candidate will play a vital role in building and maintaining enterprise-grade applications that support our financial and corporate operations.\n* We are looking for a developer who is not only technically strong in C#, ASP.NET Core, and SQL but also creative, solution-driven, and open to exploring the best tools and frameworks to achieve business goals.\n**Responsibilities**\n* Design and develop full-stack applications with ASP.NET Core, C#, and SQL Server as the primary stack.\n* Build and maintain RESTful APIs to support system integration and automation.\n* Develop responsive and user-friendly front-end interfaces using HTML5, CSS3, Bootstrap, and JavaScript frameworks (React, Angular, or Vue).\n* Design and optimize relational database schemas.\n* Write and tune SQL queries, stored procedures, and views.\n* Ensure data integrity, performance, and scalability.\n* Work with automated build and deployment pipelines to ensure smooth delivery of applications.\n* Monitor applications for performance, security, and reliability.\n* Stay up-to-date with industry trends and modern frameworks.\n* Proactively suggest process improvements and system enhancements.\n* Apply creativity and analytical thinking to solve business challenges.\n* Work closely with cross-functional teams to gather requirements and deliver effective solutions.\n* Actively contribute to architecture discussions and planning sessions.\n* Participate in peer code reviews and promote best practices.\n* Write clean, maintainable, and testable code.\n* Conduct unit and integration testing.\n**Qualifications**\n* Bachelor’s Degree in Computer Science, Software Engineering, or related field.\n* Over 3 years of proven experience as a Full-Stack Developer.\n* Strong expertise with C#, ASP.NET Core, and SQL Server.\n* Understanding of software engineering best practices (OOP, SOLID, design patterns).\n* Strong problem-solving skills and ability to work in a fast-paced environment.\n* Excellent communication and teamwork skills.\n* Good knowledge of front-end technologies: HTML5, CSS3, Bootstrap, and JavaScript/TypeScript.\n* Experience with modern front-end frameworks (React, Angular, or Vue).\n* Familiarity with API design and integration.\nAdditional Skills (Nice-to-Have):\n* Experience with Azure or other cloud platforms.\n* Exposure to enterprise applications (HR, finance, workflow systems).\n* Knowledge of background job schedulers (e.g., Hangfire) and caching strategies.\n* Familiarity with DevOps tools (CI/CD pipelines, GitHub Actions, Docker).\n**How to Apply**\nInterested and qualified candidates should:\n[**Click here to apply**](https://www.linkedin.com/jobs/view/4292773203/?utm_source=HNJ)\n* * *\n[View all Jobs in Nigeria](https://www.jobzilla.ng/jobs)\n[**Lagos State**](https://www.jobzilla.ng/jobs-in-lagos-state \"Job vacancies in Lagos State\")\n[Full Stack Developer job vacancies in Nigeria](https://www.jobzilla.ng/tag/full-stack-developer \"Full Stack Developer Jobs in Nigeria\")\n##### You may need..\n[Full Stack Developer CV Sample](https://www.jobzilla.ng/full-stack-developer-cv)\n[Full Stack Developer Cover Letter Sample](https://www.jobzilla.ng/full-stack-developer-cover-letter)\n[Full Stack Developer Interview Questions and Answers](https://www.jobzilla.ng/full-stack-developer-interview-questions)\n[Full Stack Developer Salary in Nigeria](https://www.jobzilla.ng/full-stack-developer-salary)\n##### You may also be interested in..\n[Enterprise Sales Executives (Connectivity Consultant) at Cobranet Limited](https://www.jobzilla.ng/jobs/enterprise-sales-executives-connectivity-consultant-at-cobranet-limited-288088)\n[Field Technician - Fiber (FTTH, FTTB, FTTX) at BluNet Internet Solutions](https://www.jobzilla.ng/jobs/field-technician-fiber-ftth-fttb-fttx-at-blunet-internet-solutions-288087)\n[Documentation and Report Officer at Cobranet Limited](https://www.jobzilla.ng/jobs/documentation-and-report-officer-at-cobranet-limited-288020)\n[FOC Supervisor at Cobranet Limited](https://www.jobzilla.ng/jobs/foc-supervisor-at-cobranet-limited-288004)\n[Fiber Optics Engineer at Cobranet Limited](https://www.jobzilla.ng/jobs/fiber-optics-engineer-at-cobranet-limited-287976)\n[Fiber Coordinator at Cobranet Limited](https://www.jobzilla.ng/jobs/fiber-coordinator-at-cobranet-limited-287948)\n[Sales Team Lead at Cobranet Limited](https://www.jobzilla.ng/jobs/sales-team-lead-at-cobranet-limited-287940)\n[Marketing and Communication Officer at Cobranet Limited](https://www.jobzilla.ng/jobs/marketing-and-communication-officer-at-cobranet-limited-287936)\n[Enterprise Sales Executive at Cobranet Limited](https://www.jobzilla.ng/jobs/enterprise-sales-executive-at-cobranet-limited-287918)\n[ICT Manager at Domeo Resources International (DRI)](https://www.jobzilla.ng/jobs/ict-manager-at-domeo-resources-international-dri-287900)\n##### Popular Jobs\n[LPG Station Manager at Ardova Plc](https://www.jobzilla.ng/jobs/lpg-station-manager-at-ardova-plc-285114)\n[Head Cashier at Domeo Resources International (DRI)](https://www.jobzilla.ng/jobs/head-cashier-at-domeo-resources-international-dri-285115)\n[Analyst - Machine Learning at MTN Nigeria](https://www.jobzilla.ng/jobs/analyst-machine-learning-at-mtn-nigeria-285116)\n[Virtual Assistant (Bi-Lingual) in a Leading Consulting Firm - Remote](https://www.jobzilla.ng/jobs/virtual-assistant-bi-lingual-in-a-leading-consulting-firm-remote-285117)\n[HR Officer at Jubaili Agrotec Limited](https://www.jobzilla.ng/jobs/hr-officer-at-jubaili-agrotec-limited-285118)\n[Human Resource Manager at Domeo Resources International (DRI)](https://www.jobzilla.ng/jobs/human-resource-manager-at-domeo-resources-international-dri-285119)\n[Forklift Maintenance Technician, Expert at Viju Industries Nigeria Limited](https://www.jobzilla.ng/jobs/forklift-maintenance-technician-expert-at-viju-industries-nigeria-limited-285120)\n[Loan Officers (Salary Loan & Investment) at Rosabon Financial Services (RFS) Limited - 4 Openings](https://www.jobzilla.ng/jobs/loan-officers-salary-loan-investment-at-rosabon-financial-services-rfs-limited-4-openings-285121)\n[Engineering Lead at Tophire Africa](https://www.jobzilla.ng/jobs/engineering-lead-at-tophire-africa-285122)\n[Programme Assistant, Democracy & Governance in a Leading Non-governmental Organization (NGO)](https://www.jobzilla.ng/jobs/programme-assistant-democracy-governance-in-a-leading-non-governmental-organization-ngo-285123)\n[**JOBZILLA**](https://www.jobzilla.ng/)\nFind jobs, download free cover letters & CVs, practise free interview & aptitude test questions, get insightful company reviews, salary surveys....and so much more!\nJobzilla is simply the absolute career toolkit and [encyclopedia](https://www.jobzilla.ng/blog) for the average Nigerian!\n###### **JOBS**\n* [Latest jobs in Nigeria](https://www.jobzilla.ng/jobs)\n* [Remote jobs](https://www.jobzilla.ng/jobs-in-remote)\n* [Hot Nigerian jobs](https://www.jobzilla.ng/category/hot-nigerian-jobs)\n* [Post job](https://www.jobzilla.ng/free-job-post)\n###### **RESOURCES**\n* [Shop New](https://www.jobzilla.ng/shop)\n* [Aptitude tests](https://www.jobzilla.ng/aptitude-tests)\n* [Interview questions](https://www.jobzilla.ng/interview-questions)\n* [Cover letter samples](https://www.jobzilla.ng/cover-letter-samples)\n* [CV samples](https://www.jobzilla.ng/cv-samples)\n* [CV formats & styles](https://www.jobzilla.ng/cv-templates)\n###### **EXPLORE**\n* [Company reviews](https://www.jobzilla.ng/companies)\n* [Salary surveys](https://www.jobzilla.ng/salaries)\n* [Job descriptions](https://www.jobzilla.ng/job-descriptions)\n* [Scholarships](https://www.jobzilla.ng/category/scholarships)\n###### **CONTACT US**\nIf you need help with any of our services, contact us via:\n**Email:** hello [at] jobzilla [dot] ng\n**WhatsApp:** [+234-8139012623](tel:+2348139012623)\nCopyright © 2026 [Jobzilla Services](https://www.jobzilla.ng/). All rights reserved.\n* [Home](https://www.jobzilla.ng/) /\n* [Advertise](https://www.jobzilla.ng/advertise) /\n* [About](https://www.jobzilla.ng/about) /\n* [Contact](https://www.jobzilla.ng/contact) /\n* [Terms of Service](https://www.jobzilla.ng/terms) /\n* [Privacy Policy](https://www.jobzilla.ng/privacy-policy)",
+    "website_metadata": {
+        "url": "https://www.jobzilla.ng/jobs/full-stack-developer-at-cowry-asset-management-limited-264234",
+        "content_length": 9476
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/jobs/view/4292773203"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [
+        "investment banking"
+    ],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "Investment Banking",
+    "headquarters": "",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4292773203",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "phones": [
+        "+2349137048686",
+        "+2348067295051",
+        "+234-8139012623",
+        "+2348139012623"
+    ],
+    "geographic_focus": [
+        "Nigeria"
+    ],
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 76,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\cowry_asset.json",
+    "normalized_name": "cowry asset",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "jobzilla.ng",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/jobs/view/4292773203",
+                    "normalized": "https://linkedin.com/jobs/view/4292773203",
+                    "username": "jobs",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 3,
+                "candidates": [
+                    {
+                        "country": "Nigeria",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Nigeria",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Nigeria",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 23,
+            "valid": 0,
+            "removed": 23,
+            "duplicates": 0,
+            "invalid": [
+                "+2344292773203",
+                "+234288088",
+                "+234288087",
+                "+234288020",
+                "+234288004",
+                "+234287976",
+                "+234287948",
+                "+234287940",
+                "+234287936",
+                "+234287918",
+                "+234287900",
+                "+234285114",
+                "+234285115",
+                "+234285116",
+                "+234285117",
+                "+234285118",
+                "+234285119",
+                "+234285120",
+                "+234285121",
+                "+234285122",
+                "+234285123",
+                "+2348139012623",
+                "+2348139012623"
+            ]
+        }
+    }
+}

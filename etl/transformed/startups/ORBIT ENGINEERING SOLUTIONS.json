@@ -1,0 +1,245 @@
+{
+    "entity_type": "startup",
+    "name": "ORBIT ENGINEERING SOLUTIONS",
+    "description": "ORBIT ENGINEERING SOLUTIONS (2018)\nSecteur d’activité / Sector : Autre; IT, Informatique et digitalisation industriel\norbitsolutions.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nCHEBBAH TAREK / JALLOULI WISSAM\ntarek.chebbah@orbitsolutions.tn\nPépinière d’entreprises de L’ISTIC, Technopole Borj \nCédria, Route de Soliman, 1164 Ben Arous - Tunis\nActivité \"Orbit Engineering Solutions\" est une \nsociété spécialisée dans le développement de solutions \nd'efficacité énergétique et de digitalisation. Notre \nproduit \"Orbit Smart Monitoring\", est un outil d'analyse \nde données énergétiques et industrielles dans le cloud \navec un éditeur simple et autonome pour construire votre \napplication avec vos exigences.\nAspect \nTechnologique \nOutil \nd'analyse \ndes \ndonnées \nénergétiques et industrielles avec un matériel agnostique \net un éditeur graphique pour construire votre application.\nOriginalité Agnostique sur le plan matériel et logiciel \n(éditeur graphique avec une large gamme de widgets). \nHaut niveau de sécurité avec la blockchain privée.\nActivity \"Orbit Engineering Solutions\" is a company \nspecialized \nin \nenergy \nefficiency \nand \ndigitalization \ndeveloping \nsolutions. \nOur \nProduct \n\"Orbit \nSmart \nMonitoring\", is a cloud energy and industrial data analytics \ntool with a hardware agnostic and simple drag and drop \neditor to build your application with your requirements.\nTechnological Aspect Energy and industrial data analytics \ntool with a hardware agnostic and a graphic editor tools \nto build your application. \nOriginality Hardware and software agnostic(graphic editor \nwith large gamme of widgets). High level of security with \nprivate Blockchain.\nFR\nEN",
+    "tagline": "The AI Operating System for Industrial Performance.",
+    "industry": "Autre; IT, Informatique et digitalisation industriel",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": null,
+    "headquarters": null,
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://orbitsolutions.tn",
+    "linkedin_url": null,
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "tarek.chebbah@orbitsolutions.tn"
+        ],
+        "phones": [],
+        "address": null,
+        "primary_social": ""
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "Orbit Edge AI",
+            "description": "Industrial Gateway Edge Telemetry, Local Buffering, AI Processing.",
+            "category": ""
+        },
+        {
+            "name": "Orbit Cloud AI",
+            "description": "Central Neural Core, AI Engine, Predictive Analytics, Digital Twin.",
+            "category": ""
+        },
+        {
+            "name": "Orbit AI Copilot",
+            "description": "Industrial AI assistant delivering anomaly detection, predictive insights, operational recommendations, and automated decision support.",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [
+        {
+            "type": "pdf",
+            "url": "pdf",
+            "confidence": 1.0
+        },
+        {
+            "type": "website",
+            "url": "https://orbitsolutions.tn",
+            "confidence": 1.0
+        }
+    ],
+    "confidence": {
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T15:24:01.993496",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 3,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "orbitsolutions.tn"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "[Skip to main content](https://orbitsolutions.tn/#main-content)[![Orbit Logo](https://orbitsolutions.tn/_next/image?url=%2Flogo-orbit.png&w=2048&q=75)](https://orbitsolutions.tn/)\nSolutions\nOrbit AI Platform\nIndustries\nCompany\nSupport\nClient Portal\nen\n[Launch System](https://orbitsolutions.tn/contact)\n![Orbit Industrial Digital Twin](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fcinematic-digital-twin.png&w=3840&q=75)\nHome / Platform / Industrial AI\n# The AI Operating System for Industrial Performance.\nOrbit transforms industrial data into measurable business outcomes using AI agents, Digital Twins and engineering expertise.\n[Book a Demo](https://orbitsolutions.tn/contact)[Watch Success Story](https://orbitsolutions.tn/#success-story)\n![Orbit Industrial Digital Twin](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fcinematic-digital-twin.png&w=3840&q=75)\n0+Connected Assets\n0.0B+Data Points\n-0.0%Average Energy Reduction\nValidated Corporate Deployments\n## They chose\nReview authentic deployment metrics and cost savings achieved across major industrial sites.\n![Diari Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDiari.jpg&w=3840&q=75)\nMilling & Pasta\n![ACN Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FACN.jpg&w=3840&q=75)\nCold storage\n![Warda Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fwarda.jpg&w=3840&q=75)\nPremium Pasta\n![L'Epi d'Or Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fepi-dor.png&w=3840&q=75)\nFlour & Milling\n![Spiga Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FSPIGA.jpg&w=3840&q=75)\nFood Processing\n![Mliha Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FMLIHA.jpg&w=3840&q=75)\nAgri & Poultry\n![Cap d'Or Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FCap-Dor.jpg&w=3840&q=75)\nCheese & Dairy\n![Abida Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FAbida.png&w=3840&q=75)\nFood & Agri\n![Biopak Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FBIOPAK.png&w=3840&q=75)\nPackaging & Print\n![La Compagnie Fromagère Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fla-compagnie-fromagere.jpg&w=3840&q=75)\nDairy Production\n![Délice Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDELICE.jpg&w=3840&q=75)\nDairy & Beverages\n![Délice Eau Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdelice-eau.jpg&w=3840&q=75)\nMineral Water\n![Délice Danone Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdelice-danone.jpg&w=3840&q=75)\nYogurt Production\n![Danone Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDANONE.jpg&w=3840&q=75)\nDairy & Yogurt\n![SBT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsbt.jpg&w=3840&q=75)\nBeverage Production\n![Bic Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fbic.png&w=3840&q=75)\nWriting Instruments\n![Diari Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDiari.jpg&w=3840&q=75)\nMilling & Pasta\n![ACN Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FACN.jpg&w=3840&q=75)\nCold storage\n![Warda Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fwarda.jpg&w=3840&q=75)\nPremium Pasta\n![L'Epi d'Or Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fepi-dor.png&w=3840&q=75)\nFlour & Milling\n![Spiga Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FSPIGA.jpg&w=3840&q=75)\nFood Processing\n![Mliha Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FMLIHA.jpg&w=3840&q=75)\nAgri & Poultry\n![Cap d'Or Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FCap-Dor.jpg&w=3840&q=75)\nCheese & Dairy\n![Abida Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FAbida.png&w=3840&q=75)\nFood & Agri\n![Biopak Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FBIOPAK.png&w=3840&q=75)\nPackaging & Print\n![La Compagnie Fromagère Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fla-compagnie-fromagere.jpg&w=3840&q=75)\nDairy Production\n![Délice Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDELICE.jpg&w=3840&q=75)\nDairy & Beverages\n![Délice Eau Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdelice-eau.jpg&w=3840&q=75)\nMineral Water\n![Délice Danone Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdelice-danone.jpg&w=3840&q=75)\nYogurt Production\n![Danone Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2FDANONE.jpg&w=3840&q=75)\nDairy & Yogurt\n![SBT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsbt.jpg&w=3840&q=75)\nBeverage Production\n![Bic Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fbic.png&w=3840&q=75)\nWriting Instruments\n![ADT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fadt.jpg&w=3840&q=75)\nAdvanced Tech\n![Sotuchoc Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsotuchoc.png&w=3840&q=75)\nConfectionery\n![ENIT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fenit.png&w=3840&q=75)\nAcademic Research\n![SFBT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsfbt.png&w=3840&q=75)\nBeverages & Food\n![Pristine Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fpristine.png&w=3840&q=75)\nIndustrial Hygiene\n![Vivo Energy Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fvivo-energy.png&w=3840&q=75)\nEnergy & Utilities\n![Sudgaz Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsudgaz.png&w=3840&q=75)\nGas Distribution\n![Ooredoo Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fooredoo.png&w=3840&q=75)\nTelecommunications\n![Visteon Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fvisteon.jpg&w=3840&q=75)\nAutomotive Tech\n![Sagemcom Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsagemcom.png&w=3840&q=75)\nSmart Metering\n![Cogemco Logo](https://orbitsolutions.tn/images/clients/ingemcom.svg)\nElectrical Grid\n![Draxlmaier Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdraxlmaier.png&w=3840&q=75)\nAutomotive Wiring\n![Caveo Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fcaveo.png&w=3840&q=75)\nIndustrial Safety\n![UIB Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fuib.jpg&w=3840&q=75)\nBanking Services\n![GSS Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fgss.png&w=3840&q=75)\nSecurity Solutions\n![ADT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fadt.jpg&w=3840&q=75)\nAdvanced Tech\n![Sotuchoc Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsotuchoc.png&w=3840&q=75)\nConfectionery\n![ENIT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fenit.png&w=3840&q=75)\nAcademic Research\n![SFBT Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsfbt.png&w=3840&q=75)\nBeverages & Food\n![Pristine Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fpristine.png&w=3840&q=75)\nIndustrial Hygiene\n![Vivo Energy Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fvivo-energy.png&w=3840&q=75)\nEnergy & Utilities\n![Sudgaz Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsudgaz.png&w=3840&q=75)\nGas Distribution\n![Ooredoo Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fooredoo.png&w=3840&q=75)\nTelecommunications\n![Visteon Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fvisteon.jpg&w=3840&q=75)\nAutomotive Tech\n![Sagemcom Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fsagemcom.png&w=3840&q=75)\nSmart Metering\n![Cogemco Logo](https://orbitsolutions.tn/images/clients/ingemcom.svg)\nElectrical Grid\n![Draxlmaier Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fdraxlmaier.png&w=3840&q=75)\nAutomotive Wiring\n![Caveo Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fcaveo.png&w=3840&q=75)\nIndustrial Safety\n![UIB Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fuib.jpg&w=3840&q=75)\nBanking Services\n![GSS Logo](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Fclients%2Fgss.png&w=3840&q=75)\nSecurity Solutions\n![](https://orbitsolutions.tn/_next/image?url=%2Fimages%2Findustrial-control-center.png&w=3840&q=75)\nLOCAL SYSTEM DEMO\n### Orbit Open Industrial Ecosystem\nWatch how Orbit connects raw sensor telemetry to closed-loop neural logic in real time.\nDIGITAL TRANSFORMATION\n## Accelerating the Future of Digital Industry\nDiscover how Orbit unifies operational technologies (OT) and information technology (IT) into an open digital platform. We empower industrial enterprises to turn complex field data into automated insights that optimize production cycles, lower energy consumption, and guarantee sustainability.\n#### Engineering-First DNA\nOver 15 years of deep expertise in thermal processes, electrical grid safety, and machine automation.\n#### Open Ecosystem Integration\nCompatible with industry-standard protocols (Modbus, OPC UA, MQTT) and existing DCS/SCADA architectures.\nINDUSTRIAL AI PLATFORM\n## Building the Digital\nNervous System\nof Industry.\nOrbit transforms industrial operations into intelligent, connected, and AI-driven ecosystems through real-time telemetry, industrial IoT integration, predictive analytics, and smart automation.\n[Request Industrial Audit](https://orbitsolutions.tn/contact?type=audit)[Explore Platform](https://orbitsolutions.tn/#modules)\n60+Industrial Sites\n4,300+Connected Devices\n5B+Processed Data Points\nArchitecture\nSYSTEM_ACTIVE\nEnergy Meters\nutilities, consumption\nFlow Meters\nwater, gas, steam\nSensors\nvibration, pressure\nPLC & Databases\nModbus, OPC, SQL\n#### ORBIT EDGE\nIndustrial Gateway\nEdge Telemetry\nLocal Buffering\nAI Processing\nGATEWAY_ONACTIVE\nSECURE AI DATA TUNNELEncrypted Synchronization\n#### ORBIT CLOUD AI\nCentral Neural Core\nAI Engine\nPredictive Analytics\nDigital Twin\nAI Optimization ActiveΓåô 14% Energy Load\nNEURAL_CORE\nDashboardsΓùÅ LIVE\nEMS, MES, ESG Views\nSmart AlarmsΓùÅ ACTIVE\nReal-time asset alerts\nReports EngineΓùÅ AI READY\nISO 50001 PDF Audits\nAI CopilotΓùÅ ONLINE\nanomaly alerts, actions\nFIELD LAYERDevice Data Nodes\nMeters ΓÇó Sensors ΓÇó PLCs\nΓû╝\nSECURE GATEWAYORBIT EDGE AI\nOPC-UA ΓÇó Modbus ΓÇó Buffers\nΓû╝\nNEURAL SERVERORBIT CLOUD AI\nML Engines • Advanced Analytics\nLIVE INDUSTRIAL AI NETWORK\nReal-time OEE87.42%Operational efficiency\nEnergy Saved28.4% SavingsUtility optimizations\nCOΓéé REDUCTION-148.8 TonsScope 1/2 calculations\nMACHINE HEALTH99.4% NOMINALAcoustic vibration cores\nPOWER QUALITY0.98 cos ╧åIEEE 519 THD compliance\nDOWNTIME PREVENTED148 HoursPredictive FFT anomaly scan\nThe Industrial Nervous System\n## From Sensors to AI Operational Ecosystem\nOrbit unifies and transforms industrial infrastructure into a connected, intelligent, and AI-driven operational ecosystem.\nACT 1DATA ORIGIN\n#### Field Instrumentation\nSensors, Smart Meters, PLCs, Legacy Hardware\nACT 2PROTOCOLS\n#### Connectivity Layer\nModbus, OPC-UA, MQTT, BACnet Interoperability\nACT 3EDGE PROCESSING\n#### Orbit Edge AI\nLocal Data Acquisition & Edge Processing\nACT 4CLOUD INTELLIGENCE\n#### Orbit Cloud AI\nCentralized Neural Core & Digital Twin Modeling\nACT 5DECISION INTELLIGENCE\n#### Orbit AI Copilot\nOperational Decisions & Real-Time Recommendations\n● Multi-Site Ready● ISO 50001● IEC 62443● MQTT Secure● AI Ready● Edge Secure● Protocol Compatible\nACTIVE_LAYER_DIAGNOSTIC_CORE\nREF_ID: ORB-OS-4823\nACT 1 — DATA ORIGIN\n### Field Instrumentation & Industrial Connectivity\nOrbit connects directly to industrial infrastructure — including meters, PLCs, analyzers, sensors, SCADA systems, and legacy automation hardware — enabling real-time operational intelligence without replacing existing assets.\nIntegrate with the hardware you already have.Our platform supports 200+ industrial hardware integrations across 40+ global vendors — and growing.\nEnergy Meters\nFlow Meters\nSensors\nPLCs\nPower Analyzers\nSCADA Systems\nHVAC Controllers\nDatabases\n40+ Supported Industrial Vendors\nSiemensSchneider ElectricJanitzaABBHuaweiAtlas CopcoCircutorCarlo GavazziSiemensSchneider ElectricJanitzaABBHuaweiAtlas CopcoCircutorCarlo Gavazzi\nORBIT AUTOMATION CORETELEMETRY_STREAMING_ON\nThe Orbit Ecosystem\n## One Platform.\nEvery Industrial Solution\nOrbit unifies industrial operations, energy systems, maintenance, ESG intelligence, and AI-driven analytics into one connected operational platform.\nEcosystem Value Outcomes\n↓ 28% Energy Cost\n↑ 12% OEE Improvement\n↓ 14% Downtime Reduction\n↓ 148T CO₂ Reduced\nAI Optimization Active\nENERGY OPTIMIZATION ACTIVE REAL-TIME UTILITY MONITORING\nEnergy Intelligence\n### Orbit Energy Intelligence\nOptimize industrial energy consumption, utilities, and power quality using real-time operational analytics and AI-driven recommendations.\n[Explore Module](https://orbitsolutions.tn/ems)\nESG TRACKING ENABLED\nSustainability Intelligence\n### Orbit ESG Intelligence\nAutomate carbon footprint monitoring, ESG analytics, sustainability reporting, and environmental performance optimization.\n[Explore Module](https://orbitsolutions.tn/esg)\nREAL-TIME ANALYTICS\nProduction Intelligence\n### Manufacturing Intelligence\nMonitor OEE, production efficiency, downtime, and manufacturing operations through real-time industrial visibility.\n[Explore Module](https://orbitsolutions.tn/smart-factory)\nPlatform Brain\n### ORBIT AI OPERATING SYSTEM\nCentralized Operational Intelligence Layer\nAI Copilot\nPredictive Intelligence\nReal-Time Monitoring\nOptimization Engine\nDecision Intelligence\nAI REAL-TIME BRAIN\nNode Sync Online\n⚡ Compressor efficiency anomaly detected\nANOMALY_RUN\nAI ACTIVE\nAsset Intelligence\n### Predictive Maintenance AI\nMonitor machine health and predict equipment failures using vibration analytics, AI diagnostics, and operational intelligence.\n[Explore Module](https://orbitsolutions.tn/predictive-maintenance)\nEDGE CONNECTED\nEdge & Connectivity\n### Orbit Edge AI Gateway\nSecure industrial edge layer enabling local AI processing, telemetry acquisition, and multi-protocol connectivity.\n[Explore Module](https://orbitsolutions.tn/iot)\nCOPILOT ACTIVE\nCognitive Assistant\n### Orbit AI Copilot\nIndustrial AI assistant delivering anomaly detection, predictive insights, operational recommendations, and automated decision support.\nLive AI FeedAbnormal energy consumption detected\n[Explore Module](https://orbitsolutions.tn/ai-engineer)\n● Multi-Site Ready● IEC 62443 Certified● ISO 50001 Standard● MQTT Secure Stream● Edge Native Layer● AI Driven Platform\nAutonomous Copilot\n## Meet Orbit AI Engineer\n#### Your AI-powered industrial copilot.\nOrbit AI Engineer interacts with operators, managers, and engineers through an intelligent ",
+    "website_metadata": {
+        "url": "https://orbitsolutions.tn",
+        "content_length": 15000
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "ORBIT ENGINEERING SOLUTIONS",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\orbit_engineering_solutions.json",
+    "normalized_name": "orbit engineering solutions",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "orbitsolutions.tn",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "orbitsolutions.tn"
+                ]
+            },
+            "official": [
+                "tarek.chebbah@orbitsolutions.tn"
+            ],
+            "details": [
+                {
+                    "original": "tarek.chebbah@orbitsolutions.tn",
+                    "normalized": "tarek.chebbah@orbitsolutions.tn",
+                    "domain": "orbitsolutions.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "tarek.chebbah@orbitsolutions.tn",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

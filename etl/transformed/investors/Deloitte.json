@@ -1,0 +1,256 @@
+{
+    "name": "Deloitte",
+    "description": "Deloitte is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, financial advisory, risk advisory, tax and related services to select clients.",
+    "organization_type": "",
+    "country": "Morocco",
+    "city": "",
+    "website": "https://www.deloitte.com/us/en.html",
+    "linkedin": "https://linkedin.com/company/deloitte",
+    "investment_focus": [],
+    "investment_stages": [],
+    "portfolio_startups": [],
+    "entity_type": "investor",
+    "external_profiles": {
+        "website": "https://www.deloitte.com/us/en.html",
+        "linkedin": "https://linkedin.com/company/deloitte",
+        "crunchbase": "https://www.crunchbase.com/organization/deloitte",
+        "wellfound": "https://wellfound.com/job-collections/5-tech-companies-optimizing-the-workplace-and-hiring-now",
+        "dealroom": "https://dealroom.co/client-types/corporates"
+    },
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/deloitte"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-04T17:13:40.493238+00:00",
+        "website_enriched": true,
+        "tavily_results": 24,
+        "llm_enriched": true,
+        "sources_used": [
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "tavily": {
+        "query": "Deloitte",
+        "answer": "",
+        "results_count": 24,
+        "urls": [
+            "https://www.deloitte.com/us/en.html",
+            "https://www.deloitte.com/in/en.html",
+            "https://www.deloitte.com/ng/en.html",
+            "https://www.deloitte.com/ce/en.html",
+            "https://linkedin.com/company/deloitte",
+            "https://www.linkedin.com/company/deloitte",
+            "https://www.linkedin.com/company/deloitte-digital",
+            "https://linkedin.com/in/lynnesterrett",
+            "https://www.deloitte.com/us/en/services/consulting/articles/digital-business-strategy-linkedin-live.html",
+            "https://www.linkedin.com/jobs/deloitte-entry-level-jobs",
+            "https://www.crunchbase.com/organization/deloitte",
+            "https://deloitte.com/",
+            "https://www.cbinsights.com/company/deloitte",
+            "https://tracxn.com/d/companies/deloitte/__gs-isLtiroF-Z0Vvay1L5uCbdMlEQ7ezBOwWoWwRGCo",
+            "https://craft.co/deloitte",
+            "https://wellfound.com/job-collections/5-tech-companies-optimizing-the-workplace-and-hiring-now",
+            "https://www.deloitte.com/us/en/careers/deloitte-life/benefits-and-rewards.html",
+            "https://wellfound.com/job-collections/5-tech-companies-you-should-apply-to-if-you-re-passionate-about-sustainability",
+            "https://teamleasedigital.global/blog/how-to-nail-wellfound-formerly-angellist-talent-listing-for-your-company/",
+            "https://dealroom.co/client-types/corporates",
+            "https://app.dealroom.co/news/feed/deloitte-launches-agentic-ai-practice-with-google-cloud-deploys-1-000-industry-specific-agents",
+            "https://app.dealroom.co/news/feed/deloitte-launches-enterprise-ai-navigator-to-help-organisations-turn-ai-investment-into-measurable-value",
+            "https://app.dealroom.co/news/feed/deloitte-canada-acquires-pocketed-startup",
+            "https://app.dealroom.co/news/feed/deloitte-to-consolidate-emea-network-under-unified-22-6b-practice-with-1-7b-investment"
+        ]
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": true,
+        "has_github": false,
+        "has_dealroom": true,
+        "has_pitchbook": false,
+        "portfolio_count": 0,
+        "investment_focus_count": 0,
+        "investment_stages_count": 0,
+        "geographic_focus_count": 0,
+        "partners_count": 7,
+        "team_members_count": 0,
+        "social_profiles": 1,
+        "founders_count": 0,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 16,
+        "technologies_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "website_content": "Link opens in a new tab opens in new window\n[Skip to main content](javascript:void\\(0\\))\n[ ![Deloitte logo return to homepage](https://www.deloitte.com/content/dam/assets-shared/logos/svg/a-d/deloitte.svg) ![Deloitte logo return to homepage](https://www.deloitte.com/content/dam/assets-shared/logos/png/a-d/deloitte-print.png) ](https://www.deloitte.com/us/en.html)\n* [ Who we are ](https://www.deloitte.com/us/en.html)\n* [ Overview ](https://www.deloitte.com/us/en.html)\n* [ Governance ](https://www.deloitte.com/us/en.html)\n* [ Recognition ](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)\n* [ Newsroom ](https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news)\n* [ Contact Us ](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)\n* [ About Deloitte ](https://www.deloitte.com/us/en/about.html?icid=top_about)\n* [ Our shared values ](https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values)\n* [ Facts & figures ](https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures)\n* [ Network, brands & alliances ](https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances)\n* [ Transparency report ](https://www.deloitte.com/us/en/services/audit-assurance/articles/transparency-report.html?icid=top_transparency-report)\n* [ What we do ](https://www.deloitte.com/us/en.html)\n* [ Case studies ](https://www.deloitte.com/us/en/what-we-do/content/client-stories-and-successes.html?icid=top_client-stories-and-successes)\n* [ Services ](https://www.deloitte.com/us/en.html)\n* [ Industries ](https://www.deloitte.com/us/en.html)\n* [ Alliances ](https://www.deloitte.com/us/en.html)\n[ ![](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) Blockchain & Digital Assets  Service  ](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)\n* [ AI & Engineering ](https://www.deloitte.com/us/en/services/consulting/services/engineering-ai-data.html?icid=top_/content/websites/us/en/services/consulting/services/engineering-ai-data)\n* [ Assurance ](https://www.deloitte.com/us/en/services/audit-assurance/services/assurance.html?icid=top_assurance)\n* [ Audit ](https://www.deloitte.com/us/en/services/audit-assurance.html?icid=top_audit)\n* [ Business Process Solutions ](https://www.deloitte.com/us/en/services/tax/services/business-process-solutions.html?icid=top_business-process-solutions-overview)\n* [ Customer ](https://www.deloittedigital.com/us/en.html)\n* [ Cyber ](https://www.deloitte.com/us/en/services/consulting/services/cyber.html?icid=top_cyber-risk)\n* [ Deloitte Private ](https://www.deloitte.com/us/en/services/deloitte-private.html?icid=top_deloitte-private)\n* [ Direct Tax ](https://www.deloitte.com/us/en/services/tax/services/direct-tax.html?icid=top_direct-tax)\n* [ Enterprise Performance ](https://www.deloitte.com/us/en/services/consulting/services/enterprise-technology-performance.html?icid=top_enterprise-technology-performance)\n* [ Finance ](https://www.deloitte.com/us/en/what-we-do/capabilities/finance.html?icid=top_finance)\n* [ Global Employer Services ](https://www.deloitte.com/us/en/services/tax/services/global-employer-services.html?icid=top_global-employer-service)\n* [ Human Capital ](https://www.deloitte.com/us/en/services/consulting/services/human-capital.html?icid=top_human-capital)\n* [ Indirect Tax ](https://www.deloitte.com/us/en/services/tax/services/indirect-tax.html?icid=top_indirect-tax)\n* [ Legal Business Services ](https://www.deloitte.com/us/en/services/tax/services/legal-business.html?icid=top_legal-business)\n* [ M&A and Restructuring Services ](https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services)\n* [ Operate ](https://www.deloitte.com/us/en/services/consulting/services/operate-services.html?icid=top_operate-services)\n* [ Regulatory, Risk & Forensic ](https://www.deloitte.com/us/en/services/consulting/services/risk-regulatory-forensic.html?icid=top_deloitte-forensic)\n* [ Strategy & Transactions ](https://www.deloitte.com/us/en/services/consulting/services/strategy-transactions.html?icid=top_strategy-transactions)\n* [ Sustainability ](https://www.deloitte.com/us/en/issues/climate/sustainability-and-climate.html?icid=top_/content/websites/us/en/issues/climate/sustainability-and-climate)\n* [ Tax Technology Consulting ](https://www.deloitte.com/us/en/services/tax/services/technology-consulting.html?icid=top_technology-consulting)\n* [ Trade and Tariffs ](https://www.deloitte.com/us/en/what-we-do/capabilities/trade-tariffs-supply-chain.html?icid=top_trade-tariffs-supply-chain)\n[ ![](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) Blockchain & Digital Assets  Service  ](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)\n* [ IndustryAdvantageᵀᴹ ](https://www.deloitte.com/us/en/industries/industry-advantage-business-transformation.html?icid=top_industry-advantage-business-transformation)\n* [ Consumer ](https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about)\n* [ Energy, Resources & Industrials ](https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about)\n* [ Financial Services ](https://www.deloitte.com/us/en/industries/financial-services/about.html?icid=top_about)\n* [ Government & Public Services ](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)\n* [ Life Sciences & Health Care ](https://www.deloitte.com/us/en/industries/life-sciences-health-care/about.html?icid=top_about)\n* [ Private Equity ](https://www.deloitte.com/us/en/industries/investment-management/about/private-equity.html?icid=top_private-equity)\n* [ Sports ](https://www.deloitte.com/us/en/industries/tmt/about/sports-industry.html?icid=top_sports-industry)\n* [ Technology, Media & Telecommunications ](https://www.deloitte.com/us/en/industries/tmt/about.html?icid=top_about)\n[ ![](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) Blockchain & Digital Assets  Service  ](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)\n* [ AWS ](https://www.deloitte.com/us/en/alliances/aws.html?icid=top_aws)\n* [ Google ](https://www.deloitte.com/us/en/alliances/google.html?icid=top_google)\n* [ Oracle ](https://www.deloitte.com/us/en/alliances/oracle.html?icid=top_oracle)\n* [ Salesforce ](https://www.deloitte.com/us/en/alliances/salesforce.html?icid=top_salesforce)\n* [ SAP ](https://www.deloitte.com/us/en/alliances/sap.html?icid=top_sap)\n* [ ServiceNow ](https://www.deloitte.com/us/en/alliances/servicenow.html?icid=top_servicenow)\n* [ Workday ](https://www.deloitte.com/us/en/alliances/workday.html?icid=top_workday)\n* [ All Alliances ](https://www.deloitte.com/us/en/alliances/deloitte-alliances.html?icid=top_deloitte-alliances)\n[ ![](https://media.deloitte.com/is/image/deloitte/BDA-hub-hero-v2-2:720-x-480?$Responsive$=&fmt=webp&fit=stretch,1&dpr=off) Blockchain & Digital Assets  Service  ](https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html)\n* [ Our Thinking ](https://www.deloitte.com/us/en.html)\n* [ Overview ](https://www.deloitte.com/us/en/our-thinking.html?icid=top_our-thinking)\n* [ Industry thinking ](https://www.deloitte.com/us/en.html)\n* [ Deloitte Insights ](https://www.deloitte.com/us/en.html)\n* [ Dbriefs ](https://www.deloitte.com/us/en/dbriefs-webcasts/upcoming-webcasts.html?icid=top_upcoming-webcasts)\n* [ Automotive ](https://www.deloitte.com/us/en/industries/automotive/about.html?icid=top_about)\n* [ Banking & Capital Markets ](https://www.deloitte.com/us/en/industries/banking-capital-markets/about.html?icid=top_about)\n* [ Consumer Products ](https://www.deloitte.com/us/en/industries/consumer-products/about.html?icid=top_about)\n* [ Energy & Chemicals ](https://www.deloitte.com/us/en/industries/energy-chemicals/about.html?icid=top_about)\n* [ Government & Public Services ](https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about)\n* [ Health Care ](https://www.deloitte.com/us/en/industries/health-care/about.html?icid=top_about)\n* [ Industrial Products & Construction ](https://www.deloitte.com/us/en/industries/industrial-construction/about.html?icid=top_about)\n* [ Insurance ](https://www.deloitte.com/us/en/industries/insurance/about.html?icid=top_about)\n* [ Interactive Gaming ](https://www.deloitte.com/us/en/industries/tmt/about/interactive-gaming.html?icid=top_interactive-gaming)\n* [ Investment Management & Private Equity ](https://www.deloitte.com/us/en/industries/investment-management/about.html?icid=top_about)\n* [ Life Sciences ](https://www.deloitte.com/us/en/industries/life-sciences/about.html?icid=top_about)\n* [ Media & Entertainment ](https://www.deloitte.com/us/en/industries/tmt/about/media-entertainment.html?icid=top_media-entertainment)\n* [ Mining & Metals ](https://www.deloitte.com/us/en/industries/mining-metals/about.html?icid=top_about)\n* [ Power, Utilities & Renewables ](https://www.deloitte.com/us/en/industries/power-utilities-renewables/about.html?icid=top_about)\n* [ Real Estate ](https://www.deloitte.com/us/en/industries/real-estate/about.html?icid=top_about)\n* [ Retail, Wholesale & Distribution ](https://www.deloitte.com/us/en/industries/retail/about.html?icid=top_about)\n* [ Semiconductor ](https://www.deloitte.com/us/en/industries/tmt/about/semiconductor-industry.html?icid=top_semiconductor-industry)\n* [ Sports ](https://www.deloitte.com/us/en/industries/tmt/about/sports-industry.html?icid=top_sports-industry)\n* [ Technology ](https://www.deloitte.com/us/en/industries/technology/about.html?icid=top_about)\n* [ Telecommunications ](https://www.deloitte.com/us/en/industries/tmt/about/telecom-industry.html?icid=top_telecom-industry)\n* [ Transportation, Hospitality & Services ](https://www.deloitte.com/us/en/industries/transportation/about.html?icid=top_about)\n* [ Home ](https://www.deloitte.com/us/en/insights.html?icid=top_insights)\n* [ Explore by Topic ](https://www.deloitte.com/us/en/insights/topics.html?icid=top_topics)\n* [ Research Centers ](https://www.deloitte.com/us/en/insights/research-centers.html?icid=top_research-centers)\n* [ Top 10 Reading Guide ](https://www.deloitte.com/us/en/insights/top-10-business-insights.html?icid=top_top-10-business-insights)\n* [ Weekly Economic Update ](https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html?icid=top_weekly-update)\n* [ Careers ](https://www.deloitte.com/us/en.html)\n* [ Careers home ](https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers)\n* [ Job search ](https://apply.deloitte.com)\n* [ Students & early careers ](https://www.deloitte.com/us/en.html)\n* [ Experienced professionals ](https://www.deloitte.com/us/en.html)\n* [ Business areas ](https://www.deloitte.com/us/en.html)\n* [ Life at Deloitte ](https://www.deloitte.com/us/en.html)\n* [ Alumni ](https://www.deloitte.com/us/en/careers/alumni.html?icid=top_alumni)\n* [ Overview ](https://www.deloitte.com/us/en/careers/student-careers.html?icid=top_student-careers)\n* [ Internships ](https://www.deloitte.com/us/en/careers/internships.html?icid=top_internships)\n* [ Overview ](https://www.deloitte.com/us/en/careers/experienced-professionals.html?icid=top_experienced-professionals)\n* [ Contractors ](https://www.deloitte.com/us/en/careers/deloitte-open-talent.html?icid=top_deloitte-open-talent)\n* [ Executives ](https://www.deloitte.com/us/en/careers/executive-jobs.html?icid=top_executive-jobs)\n* [ Career pathways and programs ](https://www.deloitte.com/us/en/careers/career-pathways.html?icid=top_career-pathways)\n* [ Audit & Assurance ](https://www.deloitte.com/us/en/careers/join-deloitte/audit-careers.html?icid=top_audit-careers)\n* [ Consultative Offerings ](https://www.deloitte.com/us/en/careers/join-deloitte/consultative-offerings-careers.html?icid=top_consultative-offerings-careers)\n* [ Internal Services ](https://www.deloitte.com/us/en/careers/join-deloitte/internal-services-careers.html?icid=top_internal-services-careers)\n* [ Tax ](https://www.deloitte.com/us/en/careers/join-deloitte/tax-careers.html?icid=top_tax-careers)\n* [ Government & Public Services ](https://www.deloitte.com/us/en/careers/join-deloitte/government-and-public-services-careers.html?icid=top_government-and-public-services-careers)\n* [ US Delivery Center ](https://www.deloitte.com/us/en/careers/join-deloitte/us-delivery-center-careers.html?icid=top_us-delivery-center-careers)\n* [ Overview ](https://www.deloitte.com/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte)\n* [ Growth & development ](https://www.deloitte.com/us/en/careers/deloitte-life/growth-and-development.html?icid=top_growth-and-development)\n* [ Benefits ](https://www.deloitte.com/us/en/careers/deloitte-life/thriving-together-well-being.html?icid=top_thriving-together-well-being)\n* [ Awards ](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)\n* [ Who we are ](https://www.deloitte.com/us/en.html)\n* [ Main menu ](https://www.deloitte.com/us/en.html)\n* [ Who we are ](https://www.deloitte.com/us/en/about.html?icid=top_about)\n* [ Overview ](https://www.deloitte.com/us/en.html)\n* [ Who we are ](https://www.deloitte.com/us/en.html)\n* [ Overview ](https://www.deloitte.com/us/en/about.html?icid=top_about)\n* [ About Deloitte ](https://www.deloitte.com/us/en/about.html?icid=top_about)\n* [ Our shared values ](https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values)\n* [ Facts & figures ](https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures)\n* [ Governance ](https://www.deloitte.com/us/en.html)\n* [ Who we are ](https://www.deloitte.com/us/en.html)\n* [ Governance ](https://www.deloitte.com/us/en/about/governance.html?icid=top_governance)\n* [ Network, brands & alliances ](https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances)\n* [ Transparency report ](https://www.deloitte.com/us/en/services/audit-assurance/articles/transparency-report.html?icid=top_transparency-report)\n* [ Recognition ](https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition)\n* [ Newsroom ](https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news)\n* [ Contact Us ](https://www.deloitte.com/us/en/contact/contact-us.html?icid=top_contact-us)\n* [ What we do ](https://www.deloitte.com/us/en.html)\n* [ Main menu ](https://www.deloitte.com/us/en.html)\n* [ What we do ](https://w",
+    "website_metadata": {
+        "url": "https://www.deloitte.com/us/en.html",
+        "content_length": 15000
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/deloitte"
+    },
+    "founders": [],
+    "leadership": [],
+    "products": [],
+    "services": [
+        "Assurance",
+        "Audit",
+        "Business Process Solutions",
+        "Cyber",
+        "Deloitte Private",
+        "Direct Tax",
+        "Enterprise Performance",
+        "Global Employer Services",
+        "Human Capital",
+        "Indirect Tax",
+        "Legal Business Services",
+        "M&A and Restructuring Services",
+        "Operate",
+        "Regulatory, Risk & Forensic",
+        "Strategy & Transactions",
+        "Tax Technology Consulting"
+    ],
+    "technologies": [],
+    "partners": [],
+    "investors": [],
+    "accelerators": [],
+    "incubators": [],
+    "keywords": [],
+    "customer_segments": [],
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "tagline": "",
+    "industry": "",
+    "headquarters": "",
+    "linkedin_url": "",
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "target_market": "",
+    "sources": [],
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\deloitte.json",
+    "normalized_name": "deloitte",
+    "industries": [],
+    "countries": [],
+    "cities": [],
+    "portfolio": [],
+    "team_members": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "deloitte.com",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 5
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/company/deloitte",
+                    "normalized": "https://linkedin.com/company/deloitte",
+                    "username": "deloitte",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    }
+}

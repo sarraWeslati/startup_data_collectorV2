@@ -1,0 +1,272 @@
+{
+    "entity": {
+        "entity_type": "startup",
+        "name": "Addvocate AI",
+        "description": "",
+        "tagline": "",
+        "industry": "Business Software and services",
+        "keywords": [],
+        "country": "",
+        "city": "",
+        "headquarters": "",
+        "founded_year": "2024",
+        "startup_stage": "",
+        "startup_label": true,
+        "website": "https://www.f6s.com/company/addvocate-ai",
+        "linkedin_url": "",
+        "social_media": {
+            "linkedin": "https://linkedin.com/company/addvocate-ai"
+        },
+        "contact": {
+            "emails": [
+                "support@f6s.com"
+            ],
+            "phones": [],
+            "address": "",
+            "primary_social": "https://linkedin.com/company/addvocate-ai"
+        },
+        "founders": [
+            {
+                "name": "Mohamed Ridha Mami",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Sofyan Chekir",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            }
+        ],
+        "leadership": [],
+        "employee_count": null,
+        "employee_range": "",
+        "team_size": "",
+        "products": [],
+        "services": [],
+        "technologies": [],
+        "customer_segments": [],
+        "target_market": "",
+        "operating_countries": [],
+        "languages_supported": [],
+        "notable_customers": [],
+        "partners": [],
+        "accelerators": [],
+        "incubators": [],
+        "funding": {
+            "total_raised": null,
+            "currency": "",
+            "stage": "",
+            "rounds": []
+        },
+        "investors": [],
+        "awards": [],
+        "certifications": [],
+        "patents": [],
+        "business_metrics": {
+            "users_count": null,
+            "customers_count": null,
+            "downloads": null,
+            "monthly_transactions": null,
+            "annual_revenue": null,
+            "revenue_currency": ""
+        },
+        "recent_news": [],
+        "events": [],
+        "legal_info": {
+            "company_type": "",
+            "registration_number": ""
+        },
+        "extra_notes": "",
+        "sources": [],
+        "confidence": {
+            "score": 61,
+            "level": "Medium"
+        },
+        "enrichment": {
+            "status": "completed",
+            "sources": [
+                "website",
+                "tavily",
+                "llm"
+            ],
+            "date": "2026-07-03T14:56:07.625964",
+            "website_enriched": true,
+            "tavily_results": 14,
+            "llm_enriched": true,
+            "sources_used": [
+                "csv",
+                "website"
+            ],
+            "collection_date": "",
+            "last_updated": ""
+        },
+        "stats": {
+            "has_website": true,
+            "has_linkedin": true,
+            "has_crunchbase": false,
+            "has_wellfound": false,
+            "has_github": false,
+            "founders_count": 2,
+            "team_members_count": 0,
+            "investors_count": 0,
+            "products_count": 0,
+            "services_count": 0,
+            "technologies_count": 0,
+            "partners_count": 0,
+            "awards_count": 0,
+            "social_profiles": 1,
+            "leadership_count": 0,
+            "news_count": 0,
+            "social": {
+                "profiles_count": 1,
+                "linkedin": true,
+                "facebook": false,
+                "instagram": false,
+                "twitter": false,
+                "x": false,
+                "youtube": false,
+                "github": false,
+                "tiktok": false,
+                "medium": false
+            },
+            "emails": {
+                "count": 1,
+                "business_count": 1,
+                "generic_count": 0,
+                "official_count": 1,
+                "domains": [
+                    "f6s.com"
+                ]
+            },
+            "phones": {
+                "count": 0,
+                "countries": [],
+                "valid": 0
+            }
+        },
+        "others": {
+            "logo": "undefined",
+            "label_date": "Mar-25"
+        },
+        "external_profiles": {
+            "website": "https://www.f6s.com/company/addvocate-ai",
+            "linkedin": "https://linkedin.com/company/addvocate-ai"
+        },
+        "tavily": {
+            "query": "Addvocate AI",
+            "answer": "",
+            "results_count": 14,
+            "urls": [
+                "https://linkedin.com/company/addvocate-ai",
+                "https://www.f6s.com/company/addvocate-ai",
+                "https://addvocate.ai/legal-notice",
+                "https://www.preqin.com/data/profile/asset/addvocate-ai/765447",
+                "https://getlatka.com/companies/addvocate.ai",
+                "https://fr.linkedin.com/company/addvocate-ai",
+                "https://www.cbinsights.com/company/addvocate",
+                "https://www.startuphub.ai/startups/addvocate-ai",
+                "https://www.ventureradar.com/organisation/Addvocate_[dot]_AI/04ef2627-c92f-43c3-ab61-2eafa5b26454/",
+                "https://www.cbinsights.com/company/addvocate/financials",
+                "https://www.linkedin.com/company/addvocate-ai",
+                "https://thecatalystonline.com/investment-funding/addvocate-ai-expands-internationally-with-new-venture-investment/",
+                "https://liners.com/addvocate",
+                "https://www.wamda.com/index.php/2025/09/216-capital-invests-tunisias-addvocateai"
+            ]
+        },
+        "validation": {
+            "is_african": false,
+            "website_matches": true
+        },
+        "website_content": "![](https://www.f6s.com/content-resource/static/f6s-logo-square.svg?v=FVXHfEQcGR)\nWe think you might be a bot\nTo regain access, please make sure that cookies and JavaScript are enabled before reloading the page.\nPlease email support@f6s.com with the info below if you think this is an error:\nIP: 197.2.252.104\nRequest ID: K2CtPgic-4Ctu6m9LdFR9BXR_S6V66jmaM4IPpoARGC58qD6X3DpTQ==\n[Terms](https://www.f6s.com/terms) [Privacy](https://www.f6s.com/privacy-policy) [Data Security](https://www.f6s.com/data-security) [Cookie Policy](https://www.f6s.com/cookie-policy) [Cookie Table](https://www.f6s.com/cookie-table) © 2026 F6S Network Limited. All rights reserved. F6S is a registered trademark.",
+        "website_metadata": {
+            "url": "https://www.f6s.com/company/addvocate-ai",
+            "content_length": 690
+        },
+        "linkedin": "https://linkedin.com/company/addvocate-ai",
+        "emails": [
+            "support@f6s.com"
+        ],
+        "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\addvocate_ai.json",
+        "normalized_name": "addvocate ai",
+        "industries": [],
+        "etl": {
+            "website_validation": {
+                "website_valid": true,
+                "website_domain": "f6s.com",
+                "website_type": "official",
+                "social_profiles": 1,
+                "external_profiles": 2
+            },
+            "social_validation": {
+                "report": {
+                    "total": 1,
+                    "valid": 1,
+                    "official": 1,
+                    "platforms": [
+                        "linkedin"
+                    ]
+                },
+                "details": {
+                    "linkedin": {
+                        "platform": "linkedin",
+                        "original": "https://linkedin.com/company/addvocate-ai",
+                        "normalized": "https://linkedin.com/company/addvocate-ai",
+                        "username": "addvocate-ai",
+                        "valid": true,
+                        "official": true
+                    }
+                }
+            },
+            "email_validation": {
+                "report": {
+                    "total": 1,
+                    "business": 1,
+                    "generic": 0,
+                    "official": 1,
+                    "domains": [
+                        "f6s.com"
+                    ]
+                },
+                "official": [
+                    "support@f6s.com"
+                ],
+                "details": [
+                    {
+                        "original": "support@f6s.com",
+                        "normalized": "support@f6s.com",
+                        "domain": "f6s.com",
+                        "valid": true,
+                        "generic": false,
+                        "business": true,
+                        "official": true,
+                        "source": "website"
+                    }
+                ]
+            },
+            "country_detection": {
+                "selected_country": "",
+                "selected_source": "",
+                "confidence": 0,
+                "report": {
+                    "count": 0,
+                    "candidates": []
+                }
+            }
+        },
+        "primary_email": "support@f6s.com",
+        "quality": {
+            "phones": {
+                "total": 0,
+                "valid": 0,
+                "removed": 0,
+                "duplicates": 0,
+                "invalid": []
+            }
+        }
+    },
+    "errors": [
+        "Startup is not located in Africa."
+    ]
+}

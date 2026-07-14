@@ -1,0 +1,269 @@
+{
+    "entity_type": "startup",
+    "name": "AMBITION  STUDY",
+    "description": "Est une plate-forme innovante d'orientation et accompagnement des étudiants tunisiens et africains qui souhaitent poursuivre leurs études en dehors de leurs pays d'origines (France , Tunisie, Espagne, Canada .....)",
+    "tagline": "",
+    "industry": "Consumer products and services",
+    "keywords": [],
+    "country": "Morocco",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2023",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.letairis.com/patients/ambition-study-overview",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/ambition-study-platform-593320197",
+        "github": "https://github.com/ambition-study"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/ambition-study-platform-593320197"
+    },
+    "founders": [
+        {
+            "name": "ANISSA NAJJARKais Dridi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        {
+            "name": "Letairis",
+            "description": "",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 67,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:07:19.450550",
+        "website_enriched": true,
+        "tavily_results": 16,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": true,
+        "has_wellfound": true,
+        "has_github": true,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": true,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Oct-23"
+    },
+    "external_profiles": {
+        "website": "https://www.letairis.com/patients/ambition-study-overview",
+        "linkedin": "https://linkedin.com/in/ambition-study-platform-593320197",
+        "crunchbase": "https://www.crunchbase.com/organization/ambition-inc",
+        "wellfound": "https://wellfound.com/blog/study-technical-founders-raise-more-or-newsletter",
+        "github": "https://github.com/ambition-study",
+        "dealroom": "https://app.dealroom.co/news/feed/peak-xv-alumni-launch-250m-early-stage-fund-ambition-capital"
+    },
+    "tavily": {
+        "query": "AMBITION  STUDY",
+        "answer": "",
+        "results_count": 16,
+        "urls": [
+            "https://www.letairis.com/patients/ambition-study-overview",
+            "https://clinicaltrials.gov/study/NCT01178073",
+            "https://github.com/ambition-study",
+            "https://github.com/ambition-study/ambition",
+            "https://linkedin.com/in/ambition-study-platform-593320197",
+            "https://uk.linkedin.com/company/ambition-institute",
+            "https://linkedin.com/in/study-ambit-002152204",
+            "https://www.linkedin.com/company/ambition-llc",
+            "https://www.crunchbase.com/organization/ambition-inc",
+            "https://www.crunchbase.com/funding_round/ambition-inc-series-b--99ba3501",
+            "https://ambition.com/",
+            "https://wellfound.com/blog/study-technical-founders-raise-more-or-newsletter",
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC6251219/",
+            "https://github.com/ambition-trial",
+            "https://www.ulisboa.pt/en/noticia/dealroom-study-reveals-ulisboas-entrepreneurial-ecosystem-has-had-historic-impact-portugals",
+            "https://app.dealroom.co/news/feed/peak-xv-alumni-launch-250m-early-stage-fund-ambition-capital"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "* [REMS](http://www.letairisrems.com/?utm_medium=referral&utm_source=Letairis_Patient&utm_campaign=referral_Letairis_Patient&utm_content=Letairis_Patient_GlobalHeader)\n* [Prescribing\nInformation](https://www.letairis.com/patients/open-pdf?file=http:/www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_pi.pdf)\n* [Medication\nGuide](https://www.letairis.com/patients/open-pdf?file=http:/www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_medguide.pdf)\n* [Important Safety Information](https://www.letairis.com/patients/ambition-study-overview#prescribing_information)\n* [For HCPs](https://www.letairis.com/professional/?utm_medium=referral&utm_source=Letairis_Patient&utm_campaign=referral_Letairis_Patient&utm_content=Letairis_Patient_GlobalHeader)\n* [REMS](http://www.letairisrems.com/?utm_medium=referral&utm_source=Letairis_Patient&utm_campaign=referral_Letairis_Patient&utm_content=Letairis_Patient_GlobalHeader)\n* [Prescribing\nInformation](https://www.letairis.com/patients/open-pdf?file=http:/www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_pi.pdf)\n* [Medication\nGuide](https://www.letairis.com/patients/open-pdf?file=http:/www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_medguide.pdf)\n* [Important Safety Information](https://www.letairis.com/patients/ambition-study-overview#prescribing_information)\n* [For HCPs](https://www.letairis.com/professional/?utm_medium=referral&utm_source=Letairis_Patient&utm_campaign=referral_Letairis_Patient&utm_content=Letairis_Patient_GlobalHeader)\n[![Letairis® \\(ambrisentan\\) logo](https://www.letairis.com/patients/Content/img/logo-letairis.png)](https://www.letairis.com/patients/) [For HCPs](https://www.letairis.com/professional/) [Menu](https://www.letairis.com/patients/ambition-study-overview#primary-nav)      [About\nLetairis](https://www.letairis.com/patients/ambition-study-overview#nav-about_letairis)\n* [Why Stay With Letairis?](https://www.letairis.com/patients/why-stay-with-letairis)\n* [Use Alone](https://www.letairis.com/patients/aries-study-overview)\n* [Use in Combination Therapy](https://www.letairis.com/patients/ambition-study-overview)\n* [Dosing](https://www.letairis.com/patients/dosing)\n[\nLetairis Safety\nInformation](https://www.letairis.com/patients/safety-information)      [Taking\nLetairis](https://www.letairis.com/patients/ambition-study-overview#nav-taking-letairis)\n* [Starting on Letairis](https://www.letairis.com/patients/starting-letairis)\n* [Staying on Branded Letairis](https://www.letairis.com/patients/staying-on-letairis)\n* [Questions About Generics?](https://www.letairis.com/patients/letairis-faq)\n[Financial\nSupport](https://www.letairis.com/patients/ambition-study-overview#nav-patient-support)\n* [How LEAP Can Help](https://www.letairis.com/patients/how-leap-can-help)\n* [Financial Resources](https://www.letairis.com/patients/financial-resources)\n[Educational\nResources](https://www.letairis.com/patients/newsletter)\n* [Understanding PAH](https://www.letairis.com/patients/pah-overview)\n* [Patient Newsletter](https://www.letairis.com/patients/newsletter)\n* [Article Library](https://www.letairis.com/patients/newsletter/library)\n* [Sign Up For\nTips & Tools](https://www.letairis.com/patients/more-to-my-story-signup)\nLetairis (ambrisentan) is a prescription medicine used to treat pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of the lungs.\n[Why Stay With Letairis?](https://www.letairis.com/patients/why-stay-with-letairis) [Use Alone](https://www.letairis.com/patients/aries-study-overview) [Use in Combination Therapy](https://www.letairis.com/patients/ambition-study-overview) [Dosing](https://www.letairis.com/patients/dosing)\n#  **Letairis + tadalafil do more** together than either alone\n### See the study results for combination therapy\nThe AMBITION trial was designed and conducted by doctors to study the use of Letairis and tadalafil together to see if combining the two drugs is more effective than using either drug alone. These drugs work to reduce the blood pressure in the lungs of patients with PAH in different ways.\nIn the AMBITION trial, a total of 605 patients who were classified to have World Health Organization (WHO) Functional Classes II–III PAH participated. The patients, who had not been previously treated for PAH, were randomly assigned to specific treatment: 302 patients received combination Letairis + tadalafil; 152 patients received Letairis alone; and 151 patients received tadalafil alone. On average, patients were on treatment for 1.5 years.\n### When Letairis and tadalafil were taken together, greater benefits were seen in the following 3 areas:\n### Walk\n![Improve 6-minute walk test](https://www.letairis.com/patients/Content/img/footsteps.png)\n### Patients nearly doubled their ability to walk farther\nAfter 24 weeks, improvements in how far patients could walk in 6 minutes were:\n* **43 meters (141 feet) with Letairis + tadalafil**\n* 23 meters (75.5 feet) with Letairis alone\n* 22 meters (72 feet) with tadalafil alone\nThe trial measured the patients’ ability to exercise using the 6-Minute Walk Test (6MWT: how far a patient can walk in 6 minutes). The 6MWT was measured before patients received any treatment and again at 24 weeks.\n### Disease Progression\n![Reduce your risk of PAH worsening](https://www.letairis.com/patients/Content/img/gears.png)\n### Patients were much less likely to have their PAH get worse*\nThe primary goal of the trial was to see if patients taking Letairis and tadalafil together were less likely to have their disease get worse (also referred to as disease progression). The trial looked at 3 ways a patient's PAH could get worse:\n* If they had a serious event, for example, needing to go to the hospital for PAH\n* If they had trouble walking and doing daily activities for more than 2 weeks\n* If they had trouble walking for more than 2 weeks and trouble doing daily activities for more than 6 months\nDifferences between the treatment groups were assessed after 105 of these events occurred.\n*Only 20% of patients who took combination therapy had their disease get worse versus 35% of patients who took Letairis alone and 30% with tadalafil alone.\n### Hospitalization\n![Reduce PAH hospitalizations](https://www.letairis.com/patients/Content/img/hospital.png)\n### Patients were much less likely to be hospitalized for worsening PAH†\n†Only 8% of patients taking combination therapy were hospitalized for worsening PAH versus 22% of patients taking Letairis alone and 15% of patients taking tadalafil alone.\n**The most common side effects of Letairis when taken with tadalafil are** swelling of hands, legs, ankles and feet (peripheral edema), headache, stuffy nose (nasal congestion), cough, low red blood cell levels (anemia), indigestion (dyspepsia) or upper respiratory tract infection (bronchitis).\n![tips icon](https://www.letairis.com/patients/Content/img/icons/icon_cta_tip.png)\nWant to stay on branded Letairis?\nClick here to learn more\n## Important Safety Information\nand Indication\n### What is the most important information I should know about Letairis?\n#### Letairis can cause serious birth defects if taken during pregnancy.\n* **Females must not be pregnant when they start taking Letairis or become pregnant while taking Letairis**\n* Females who are able to get pregnant must have a negative pregnancy test before starting Letairis, every month while taking Letairis, and 1 month after stopping Letairis. Your doctor will decide when to do the tests, and order the tests for you depending on your menstrual cycle\n* Females who **are able** to get pregnant are females who have entered puberty (even if they have not started their period), **and** have a uterus, **and** have not gone through menopause (menopause means that you have not had a period for at least 12 months for natural reasons, or that you have had your ovaries removed)\n#### Females who are able to get pregnant must use two acceptable forms of birth control while taking Letairis and for 1 month after stopping Letairis because the medicine may still be in the body. See the Letairis Medication Guide for acceptable birth control options.\n* If you have had a tubal sterilization or have an IUD (intrauterine device) or progesterone implant, these methods can be used alone and no other form of birth control is needed\n* Talk with your doctor to find out about options for acceptable forms of birth control that you may use to prevent pregnancy during treatment with Letairis\n* If you decide that you want to change the form of birth control, talk with your doctor to be sure that you choose another acceptable form of birth control\n* **Do not have unprotected sex. Talk to your doctor or pharmacist right away if you have unprotected sex or if you think your birth control has failed. Your doctor may tell you to use emergency birth control**\n* **Tell your doctor right away if you miss a menstrual period or think you may be pregnant**\nIf you are the parent or caregiver of a female child who started taking Letairis before reaching puberty, you should check your child regularly to see if she is developing signs of puberty. Tell your doctor right away if you notice that she is developing breast buds or any pubic hair. **Your child may reach puberty before having her first menstrual period.**\nFemales can only receive Letairis through a restricted program called the Letairis Risk Evaluation and Mitigation (REMS) program. If you are a female who can get pregnant, you must talk to your doctor, understand the benefits and risks of Letairis, and agree to all of the instructions in the Letairis REMS program.\n### Who should not take Letairis?\n#### Do not take Letairis if:\n* **You are pregnant, plan to become pregnant, or become pregnant while taking Letairis. Letairis can cause serious birth defects.** (See \"What is the most important information I should know about Letairis?\")\n* You have Idiopathic Pulmonary Fibrosis (IPF)\n### What should I avoid while taking Letairis?\n* **Do not get pregnant.** If you miss a menstrual period, or think you might be pregnant, call your doctor right away\n* **Do not breastfeed.** It is not known if Letairis passes into your breast milk\n### What are the other possible side effects of Letairis?\n#### Serious side effects of Letairis can include:\n* **Swelling all over the body** (fluid retention) can happen within weeks after starting Letairis. Tell your doctor right away if you have any unusual weight gain, tiredness, or trouble breathing while taking Letairis. These may be symptoms of a serious health problem. You may need to be treated with medicine or need to go to the hospital\n* **Decreased sperm counts** have happened in some men taking a medicine that is like Letairis, which may affect your ability to father a child. Tell your doctor if being able to have children is important to you\n* **Low red blood cell levels** (anemia) can happen during the first weeks after starting Letairis. If this happens, you may need a blood transfusion. Your doctor will do blood tests to check your red blood cells before starting Letairis. Your doctor may also do these tests while you are taking Letairis\n**The most common side effects of Letairis are** swelling of hands, legs, ankles and feet (peripheral edema), stuffy nose (nasal congestion), inflamed nasal passages (sinusitis), hot flashes or getting red in the face (flushing). Tell your doctor if you have any side effect that bothers you or does not go away.\n**The most common side effects of Letairis when taken with tadalafil are** swelling of hands, legs, ankles and feet (peripheral edema), headache, stuffy nose (nasal congestion), cough, low red blood cell levels (anemia), indigestion (dyspepsia) or upper respiratory tract infection (bronchitis).\n**Some medicines that are like Letairis can cause liver problems. Tell your doctor if you get any of these symptoms while taking Letairis:** loss of appetite, nausea or vomiting, fever, achiness, generally do not feel well, pain in the upper right stomach (abdominal) area, yellowing of your skin or the whites of your eyes, dark urine, itching.\n### What should I tell my doctor before taking Letairis?\n* **All your medical conditions.** Be sure to tell your doctor if you have a low red blood cell level (anemia) or liver problems\n* **All the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.** Letairis and other medicines may affect each other, causing side effects. Do not start any new medicines until you check with your doctor\n* **Especially tell your doctor if you take cyclosporine (Gengraf, Neoral, Sandimmune).** Your doctor may need to change your dose of Letairis\n**You are encouraged to report negative side effects of prescription drugs to the FDA. Visit[www.fda.gov/medwatch](http://www.fda.gov/medwatch), or call [1-800-FDA-1088](tel:+18003321088).**\n### What is Letairis?\nLetairis is a prescription medicine used to treat pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of the lungs.\n* Letairis can improve your ability to exercise and it can help slow down the worsening of your physical condition and symptoms\n* When taken with tadalafil, Letairis is used to reduce the risks of your disease progressing and hospitalization due to worsening PAH, and to improve your ability to exercise\nPlease see full [Prescribing Information](https://www.letairis.com/patients/open-pdf?file=http:/www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_pi.pdf), including [Medication Guide](http://www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/letairis/letairis_medguide.pdf), with **important warnings**.\n* [Home](https://www.letairis.com/patients/)\n* [About Letairis](https://www.letairis.com/patients/ambition-study-overview#about_letairis)\n* [Why stay with Letairis?](https://www.letairis.com/patients/why-stay-with-letairis)\n* [Use Alone](https://www.letairis.com/patients/aries-study-overview)\n* [Use in Combination Therapy](https://www.letairis.com/patients/ambition-study-overview)\n* [Dosing](https://www.letairis.com/patients/dosing)\n* [Letairis Safety Information](https://www.letairis.com/patients/safety-information)\n* [Taking Letairis](https://www.letairis.com/patients/ambition-study-overview#taking_letairis)\n* [Starting on Letairis](https://www.letairis.com/patients/starting-letairis)\n* [Staying on Branded Letairis](https://www.letairis.com/patients/staying-on-letairis)\n* [Questions About Generics?](https://www.letairis.com/patients/letairis-faq)\n* [Financial Support](https://www.letairis.com/patients/ambition-study-overview#patient-support)\n* [How LEAP Can Help](https://www.letairis.com/patients/how-leap-can-help)\n* [Financial Resources](https://www.letairis.com/patients/financial-resources)\n* [Educational Resources](https://www.letairis.com/patients/ambition-study-overview#newsletter",
+    "website_metadata": {
+        "url": "https://www.letairis.com/patients/ambition-study-overview",
+        "content_length": 15000
+    },
+    "linkedin": "https://linkedin.com/in/ambition-study-platform-593320197",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\ambition_study.json",
+    "normalized_name": "ambition study",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "letairis.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 6
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "github",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/ambition-study-platform-593320197",
+                    "normalized": "https://linkedin.com/in/ambition-study-platform-593320197",
+                    "username": "ambition-study-platform-593320197",
+                    "valid": true,
+                    "official": true
+                },
+                "github": {
+                    "platform": "github",
+                    "original": "https://github.com/ambition-study",
+                    "normalized": "https://github.com/ambition-study",
+                    "username": "ambition-study",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Morocco",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 1,
+            "valid": 0,
+            "removed": 1,
+            "duplicates": 0,
+            "invalid": [
+                "+18003321088"
+            ]
+        }
+    }
+}

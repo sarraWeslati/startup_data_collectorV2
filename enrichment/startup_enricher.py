@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import (datetime, UTC)
 
 from enrichment.website_enricher import (
     enrich_from_website
@@ -26,26 +26,30 @@ from validators.entity_validator import (
     validate_entity
 )
 from utils.entity_merger import (
-    merge_entities,
-    merge_dicts
+    merge_entities
 )
 
 async def enrich_startup(
     startup: dict
 ) -> dict:
     """
-    Startup enrichment pipeline
+    Complete startup enrichment pipeline.
 
-    1. Website enrichment
-    2. Tavily Search
-    3. LLM enrichment
-    4. Metadata
+    Steps
+
+    1. Tavily Search
+    2. Website Resolution
+    3. Website Enrichment
+    4. Investor Search
+    5. LLM Enrichment
+    6. Validation
+    7. Confidence Score
     """
 
     startup_name = startup.get(
         "name",
         ""
-    )
+    ).strip()
 
     if not startup_name:
 
@@ -94,51 +98,185 @@ async def enrich_startup(
 
         tavily_data = {}
 
-    # -------------------------
-    # Construction du package
-    # -------------------------
+    # =====================================================
+    # BUILD ENRICHMENT PACKAGE
+    # =====================================================
 
     package = build_enrichment_package(
+
         startup_name,
+
         tavily_data
+
     )
 
+    if not isinstance(
+        package,
+        dict
+    ):
+
+        package = {}
+
     # =====================================================
-    # Resolve official website
+    # BUILD WEBSITE CANDIDATES
+    # =====================================================
+
+    candidate_urls = []
+
+    # -----------------------------------------------------
+    # Existing website
+    # -----------------------------------------------------
+
+    website = startup.get(
+        "website"
+    )
+
+    if website:
+
+        candidate_urls.append(
+            website
+        )
+
+    # -----------------------------------------------------
+    # Package main website
+    # -----------------------------------------------------
+
+    website = package.get(
+        "website"
+    )
+
+    if website:
+
+        candidate_urls.append(
+            website
+        )
+
+    # -----------------------------------------------------
+    # LinkedIn
+    # -----------------------------------------------------
+
+    linkedin = package.get(
+        "linkedin"
+    )
+
+    if linkedin:
+
+        candidate_urls.append(
+            linkedin
+        )
+
+    # -----------------------------------------------------
+    # External profiles
+    # -----------------------------------------------------
+
+    for key in [
+
+        "crunchbase",
+
+        "wellfound",
+
+        "github",
+
+        "dealroom",
+
+        "pitchbook",
+
+        "startupblink"
+
+    ]:
+
+        url = package.get(
+            key
+        )
+
+        if url:
+
+            candidate_urls.append(
+                url
+            )
+
+    # -----------------------------------------------------
+    # Tavily URLs
+    # -----------------------------------------------------
+
+    candidate_urls.extend(
+
+        package.get(
+            "urls",
+            []
+        )
+
+    )
+
+    # -----------------------------------------------------
+    # Remove duplicates
+    # -----------------------------------------------------
+
+    candidate_urls = [
+
+        url
+
+        for url in dict.fromkeys(
+            candidate_urls
+        )
+
+        if url
+
+    ]
+
+    # =====================================================
+    # RESOLVE OFFICIAL WEBSITE
     # =====================================================
 
     website_candidate = resolve_official_website(
 
-        startup.get(
-            "website",
-            ""
-        ),
+        company_name=startup_name,
 
-        package.get(
-            "website",
-            ""
-        )
+        urls=candidate_urls
 
     )
 
     if website_candidate:
 
-        startup["website"] = website_candidate
-
-    # =====================================
-    # WEBSITE ENRICHMENT
-    # =====================================
-
-    try:
-
-        startup = await enrich_from_website(
-            startup
+        print(
+            f"[OFFICIAL WEBSITE] {website_candidate}"
         )
 
-    except Exception as e:
+        startup["official_website"] = website_candidate
+
+        startup["website"] = website_candidate
+
+    else:
 
         print(
-            f"[WEBSITE ERROR] {e}"
+            "[OFFICIAL WEBSITE] Not found."
+        )
+
+    startup["website_candidates"] = candidate_urls
+
+
+    # =====================================================
+    # WEBSITE ENRICHMENT
+    # =====================================================
+
+    if startup.get("website"):
+
+        try:
+
+            startup = await enrich_from_website(
+                startup
+            )
+
+        except Exception as e:
+
+            print(
+                f"[WEBSITE ERROR] {e}"
+            )
+
+    else:
+
+        print(
+            "[WEBSITE ENRICHMENT] No website available."
         )
 
     # -------------------------
@@ -158,27 +296,9 @@ async def enrich_startup(
         )
 
         investors_data = {}
-            # =====================================
+    # =====================================================
     # APPLY TAVILY ENRICHMENT
-    # =====================================
-
-    if (
-        package.get("website")
-        and not startup.get("website")
-    ):
-
-        startup["website"] = (
-            package["website"]
-        )
-
-    if (
-        package.get("linkedin")
-        and not startup.get("linkedin")
-    ):
-
-        startup["linkedin"] = (
-            package["linkedin"]
-        )
+    # =====================================================
 
     startup = merge_entities(
 
@@ -186,23 +306,47 @@ async def enrich_startup(
 
         {
 
+            "linkedin": package.get(
+                "linkedin"
+            ),
+
             "external_profiles": {
 
-                "website": package.get("website"),
+                "official_website": startup.get(
+                    "official_website"
+                ),
 
-                "linkedin": package.get("linkedin"),
+                "website": package.get(
+                    "website"
+                ),
 
-                "crunchbase": package.get("crunchbase"),
+                "linkedin": package.get(
+                    "linkedin"
+                ),
 
-                "wellfound": package.get("wellfound"),
+                "crunchbase": package.get(
+                    "crunchbase"
+                ),
 
-                "github": package.get("github"),
+                "wellfound": package.get(
+                    "wellfound"
+                ),
 
-                "dealroom": package.get("dealroom"),
+                "github": package.get(
+                    "github"
+                ),
 
-                "pitchbook": package.get("pitchbook"),
+                "dealroom": package.get(
+                    "dealroom"
+                ),
 
-                "startupblink": package.get("startupblink")
+                "pitchbook": package.get(
+                    "pitchbook"
+                ),
+
+                "startupblink": package.get(
+                    "startupblink"
+                )
 
             }
 
@@ -246,60 +390,39 @@ async def enrich_startup(
             website_content[:15000]
         )
 
-    # =====================================
+    # =====================================================
     # LLM ENRICHMENT
-    # =====================================
+    # =====================================================
 
-    try:
+    if (
 
-        enriched_startup = (
-            enrich_startup_with_llm(
-                startup=startup,
-                tavily_data=tavily_data,
-                investors_data=investors_data,
-                website_content=website_content
-            )
+        startup.get("website")
+
+        or package.get("results_count", 0) > 0
+
+    ):
+
+        enriched_startup = await enrich_startup_with_llm(
+
+            startup,
+
+            package,
+
+            investors_data
+
         )
 
-        if not isinstance(
-            enriched_startup,
-            dict
-        ):
-
-            print(
-                "[WARNING] Invalid LLM result"
-            )
-
-            enriched_startup = startup
-
-    except Exception as e:
+    else:
 
         print(
-            f"[LLM ERROR] {e}"
+            "[LLM] Skipped (no search data available)."
         )
 
         enriched_startup = startup
-            # =====================================
+    
+     # =====================================================
     # PRESERVE TAVILY DATA
-    # =====================================
-
-    if (
-        package.get("website")
-        and not enriched_startup.get("website")
-    ):
-
-        enriched_startup["website"] = (
-            package["website"]
-        )
-
-    if (
-        package.get("linkedin")
-        and not enriched_startup.get("linkedin")
-    ):
-
-        enriched_startup["linkedin"] = (
-            package["linkedin"]
-        )
+    # =====================================================
 
     enriched_startup = merge_entities(
 
@@ -307,40 +430,61 @@ async def enrich_startup(
 
         {
 
-            "social_media":
+            "official_website": startup.get(
+                "official_website"
+            ),
 
-            package.get(
+            "website_candidates": startup.get(
+                "website_candidates",
+                []
+            ),
+
+            "linkedin": package.get(
+                "linkedin"
+            ),
+
+            "social_media": package.get(
                 "social_media",
                 {}
-            )
-
-        }
-
-    )
-
-    enriched_startup = merge_entities(
-
-        enriched_startup,
-
-        {
+            ),
 
             "external_profiles": {
 
-                "website": package.get("website"),
+                "official_website": startup.get(
+                    "official_website"
+                ),
 
-                "linkedin": package.get("linkedin"),
+                "website": package.get(
+                    "website"
+                ),
 
-                "crunchbase": package.get("crunchbase"),
+                "linkedin": package.get(
+                    "linkedin"
+                ),
 
-                "wellfound": package.get("wellfound"),
+                "crunchbase": package.get(
+                    "crunchbase"
+                ),
 
-                "github": package.get("github"),
+                "wellfound": package.get(
+                    "wellfound"
+                ),
 
-                "dealroom": package.get("dealroom"),
+                "github": package.get(
+                    "github"
+                ),
 
-                "pitchbook": package.get("pitchbook"),
+                "dealroom": package.get(
+                    "dealroom"
+                ),
 
-                "startupblink": package.get("startupblink")
+                "pitchbook": package.get(
+                    "pitchbook"
+                ),
+
+                "startupblink": package.get(
+                    "startupblink"
+                )
 
             }
 
@@ -382,7 +526,7 @@ async def enrich_startup(
 
                 ],
 
-                "date": datetime.utcnow().isoformat(),
+                "date": datetime.now(UTC).isoformat(),
 
                 "website_enriched": bool(
 
@@ -430,6 +574,15 @@ async def enrich_startup(
                 "results_count": package.get(
                     "results_count",
                     0
+                ),
+
+                "official_website": startup.get(
+                    "official_website"
+                ),
+
+                "candidate_urls": startup.get(
+                    "website_candidates",
+                    []
                 ),
 
                 "urls": package.get(
@@ -616,3 +769,53 @@ async def enrich_startup(
     )
 
     return enriched_startup
+
+
+
+# =====================================================
+# TEST
+# =====================================================
+
+import asyncio
+import json
+
+
+async def test():
+
+    startup = {
+
+        "name": "2BK Innovation",
+
+        "entity_type": "startup"
+
+    }
+
+    result = await enrich_startup(
+        startup
+    )
+
+    print("\n")
+    print("=" * 80)
+    print("RESULT")
+    print("=" * 80)
+
+    print(
+
+        json.dumps(
+
+            result,
+
+            indent=4,
+
+            ensure_ascii=False
+
+        )
+
+    )
+
+
+if __name__ == "__main__":
+
+    asyncio.run(
+        test()
+    )

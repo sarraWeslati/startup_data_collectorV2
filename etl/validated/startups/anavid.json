@@ -1,0 +1,267 @@
+{
+    "entity_type": "startup",
+    "name": "anavid",
+    "description": "anavid propose des solutions technologiques basées sur l'AI d'analyse vidéo pour augmenter les performances économiques du retail physique.",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2019",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.euroquity.com/en/company/anavid",
+    "linkedin_url": "https://www.linkedin.com/company/anavidfr/about",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/anavidfr/about",
+        "youtube": "https://youtube.com/watch"
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/company/anavidfr/about"
+    },
+    "founders": [
+        {
+            "name": "Ahmed Chaari",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "David Nilsson",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:08:28.121821",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 0,
+            "business_count": 0,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": []
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Dec-19"
+    },
+    "external_profiles": {
+        "website": "https://www.euroquity.com/en/company/anavid",
+        "linkedin": "https://linkedin.com/company/anavidfr",
+        "pitchbook": "https://pitchbook.com/profiles/company/538857-46"
+    },
+    "tavily": {
+        "query": "anavid",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://www.anavid.ai/home",
+            "https://www.anavid.ai/fr/home",
+            "https://linkedin.com/company/anavidfr/",
+            "https://www.anavid.ai/services",
+            "https://www.anavid.ai/de/home",
+            "https://www.linkedin.com/company/anavidfr/",
+            "https://www.linkedin.com/posts/anavidfr_lossprevention-retailsecurity-ai-activity-7478735343547031552-5s27",
+            "https://aws.amazon.com/marketplace/seller-profile?id=seller-3mxwlglhjjwsu",
+            "https://www.euroquity.com/en/company/anavid",
+            "https://pitchbook.com/profiles/company/538857-46",
+            "https://tracxn.com/d/companies/anavid/__VZU8W1mcx2dM0hI5kFhHjmV_3Xl2XjfquVgVvy2hqHk",
+            "https://vc4a.com/ventures/anavid/",
+            "https://parsers.vc/startup/anavid.ai/",
+            "https://fr.linkedin.com/company/anavidfr",
+            "https://www.madica.vc/portfolio/anavid"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "[ ![Home](https://www.euroquity.com/themes/custom/bpi_theme_euroquity/logo.svg) ](https://www.euroquity.com/en \"Home\")\n[ Companies ](https://www.euroquity.com/en/companies \"Companies\") [ Investors ](https://www.euroquity.com/en/accueil-investisseur \"Investors\") [ Business supports ](https://www.euroquity.com/en/accueil-sa \"Business supports\")\n[](https://www.euroquity.com/en/company/anavid)\nBrowse\nBrowse\n* [ Companies () ](https://www.euroquity.com/en/search?groupType=society&sortCriteria=activity_score&sortOrder=desc)\n* [ Investors () ](https://www.euroquity.com/en/search?groupType=investor&sortCriteria=activity_score&sortOrder=desc)\n* [ Business supports () ](https://www.euroquity.com/en/search?groupType=support_structure&sortCriteria=activity_score&sortOrder=desc)\n* [ Communities () ](https://www.euroquity.com/en/search?groupType=community&sortCriteria=group_membership&sortOrder=desc)\n* [ Labels () ](https://www.euroquity.com/en/search?groupType=certification&sortCriteria=group_membership&sortOrder=desc)\n* [ Calls for tender ](https://www.euroquity.com/en/search/calls-for-tender \"Calls for tender\")\nEN\n* [French](https://www.euroquity.com/fr/societe/anavid)\n* [English](https://www.euroquity.com/en/company/anavid)\n![Logo](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/eqt_group_avatar_desktop/public/legacy/1822/8a2f0fef-1585049142433_0.png.webp?VersionId=hKGwHSv3G0E2_PeT4igM3DhW1DN.J2du&itok=pM7UpGE3)\n#  anavid\nCompany |\nFrance, Paris\n* Overview\n* [ News ](https://www.euroquity.com/en/group/3072/news)\n* [ Activity ](https://www.euroquity.com/en/group/3072/activities)\n[ Play Video ](https://youtube.com/watch?v=QXvISINfZcw \"Play Video\") Play\n##  About\nAnavid is a Paris-based computer-vision deeptech focused on Retail Intelligence. We turn existing CCTV into privacy-respectful sensors that deliver real-time, actionable insight—helping stores lose less and sell more while improving customer experience.\nMission: empower organizations with real-time, affordable, privacy-first video analytics that transform massive video flows into useful, ethical, high-impact insights.\nProducts:\n- Shoplifting Detector – an AI layer that analyzes live video to spot theft-related behaviors and send instant, human-actionable alerts (short audit clips) to store teams. Works with existing cameras, runs on-premise or in the cloud, and uses encryption, access controls, and auditing. No facial recognition or PII.\n- ShopAnalytics – store intelligence: footfall counting, queue measurement, heatmaps, dwell patterns, and aggregate age/gender estimation. Insights guide staffing, layout, and promotions. Open APIs connect to POS/ERP/WFM/CRM.\nWhy Anavid?\n- Deploys on infrastructure retailers already own; scales to multi-camera, multi-site estates.\n- Privacy by design (anonymization, encryption, role-based access; no biometrics).\n- Flexible architecture: edge + cloud options, data-residency compliant.\n- Measurable outcomes: less shrink, shorter waits, better on-shelf availability, clearer decisions.\nBusiness Model :\n- B2B subscription (SaaS or on-prem licence) priced per store/site (and/or per camera), with tiered plans by features and usage.\n- Add-ons for advanced analytics (e.g., forecasting/decisioning), analytics APIs, and premium governance/compliance.\n- One-time setup/integration.\n- Annual contracts with volume discounts .\nRoadmap :\nEnhancing ShopAnalytics with short-horizon forecasting and decision support (staffing, planograms, localized promotions). Auto-adaptation of models to store specifics is a key R&D target.\nKeywords: retail intelligence, computer vision, loss prevention, shoplifting detection, video analytics, queue analytics, heatmaps, footfall analysis, theft prevention, store optimization, asset protection, in-store analytics, AI in retail, privacy-by-design, real-time alerts, on-premise and cloud, SaaS.\n##  Network (0)\nThere are no organizations in the network.\n28\n1\n##  Key informations\n###  Location\nFrance, Paris\n###  Sector(s)\n* [ Other ](https://www.euroquity.com/en/search?groupType=society&activity_sector=4)\n###  Key figures\nCreation date\n2018-01-01\nHeadcount\n20-49\nTurnover\n100 000€\n###  Markets\n* [ Germany ](https://www.euroquity.com/en/search?groupType=society&market_tag=DE)\n* [ France ](https://www.euroquity.com/en/search?groupType=society&market_tag=FR)\n* [ Tunisia ](https://www.euroquity.com/en/search?groupType=society&market_tag=TN)\n###  Needed support\n* [ Communication & marketing ](https://www.euroquity.com/en/search?groupType=society&searched_accompaniment=42)\n* [ Research & development ](https://www.euroquity.com/en/search?groupType=society&searched_accompaniment=47)\n* [ Fundraising support ](https://www.euroquity.com/en/search?groupType=society&searched_accompaniment=94)\n* [ Intellectual property ](https://www.euroquity.com/en/search?groupType=society&searched_accompaniment=99)\n###  Follow us\n[ Website  ](https://www.anavid.co/ \"Website\") [ Linkedin  ](https://www.linkedin.com/company/anavidfr/about/ \"Linkedin\")\n###  Communities (2)\n[ ![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_medium/public/2024-02/Invest%27i-Logo_CMJN.png.webp?VersionId=a7MIDNNh3CXJcLWIge2juPjexTeqNU8V&itok=oHYar3sj) INVEST'I  272 members  ](https://www.euroquity.com/en/community/investi \"INVEST'I\")\n[ ![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_medium/public/legacy/1716/8761dba7-anima-hd_0.png.webp?VersionId=jNXYEwJK4yQBkBo4z6QUxYccIITe.k9a&itok=HccY3Pbj) ANIMA Investment Network  56 members  ](https://www.euroquity.com/en/community/anima-investment-network \"ANIMA Investment Network\")\n###  Labels (1)\n[ ![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_medium/public/legacy/2475/e3795057-startuptunisia-logo-small-03_0.png.webp?VersionId=31nHdGcbkWXKYZV3pWnxePSqBvZO941t&itok=ge7ARAuw) Start-Up ACT  102 labeled  ](https://www.euroquity.com/en/label/start-act \"Start-Up ACT\")\n###  Team (4)\n[ ![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_medium/public/legacy/1824/4d1a30cc-ac_0.jpg.webp?VersionId=kIpp3A8.kOkwp4rjK0d5S8I2CltxyjHk&itok=j6bHMgB_) Ahmed Chaari  CEO  anavid  ](https://www.euroquity.com/en/profile/66759 \"Ahmed Chaari\")\n[ ![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_medium/public/2025-08/DSC02654.jpg.webp?VersionId=WjOjcpIH3hN5SC7mRFKWMeiZQpxxNWgu&itok=rC1F6GIz) Amine Abdelkhalek  CFO  anavid  ](https://www.euroquity.com/en/profile/163462 \"Amine Abdelkhalek\")\n[ ![Avatar](https://www.euroquity.com/themes/custom/bpi_theme_euroquity/assets/images/fallback/avatar-profile.png) Ahmed Chaari  Membre  anavid  ](https://www.euroquity.com/en/profile/82526 \"Ahmed Chaari\")\n[ ![Avatar](https://www.euroquity.com/themes/custom/bpi_theme_euroquity/assets/images/fallback/avatar-profile.png) Ahmed Chaari  Membre  anavid  ](https://www.euroquity.com/en/profile/83152 \"Ahmed Chaari\")\n###  Recent activities\n![Avatar](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/2025-08/DSC02654.jpg?VersionId=ooqLZPgjUHLUzZ01KTGD4Bp8CGwAjAWo)\n_**[Amine Abdelkhalek](https://www.euroquity.com/fr/profile/163462 \"Amine Abdelkhalek\")**_ has joined _**[anavid](https://www.euroquity.com/en/company/anavid \"anavid\")**_.\n10 months 2 weeks ago\n![Avatar](https://www.euroquity.com/themes/custom/bpi_theme_euroquity/assets/images/fallback/avatar-profile.png)\n_**[Ahmed Chaari](https://www.euroquity.com/fr/profile/83152 \"Ahmed Chaari\")**_ has joined _**[anavid](https://www.euroquity.com/en/company/anavid \"anavid\")**_.\n2 years 8 months ago\n![Avatar](https://www.euroquity.com/themes/custom/bpi_theme_euroquity/assets/images/fallback/avatar-profile.png)\n_**[Ahmed Chaari](https://www.euroquity.com/fr/profile/82526 \"Ahmed Chaari\")**_ has joined _**[anavid](https://www.euroquity.com/en/company/anavid \"anavid\")**_.\n2 years 8 months ago\n[Show more](https://www.euroquity.com/en/group/3072/activities)\n![Logo Bpifrance](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_logo/public/2025-03/bpifrance_logo.png.webp?VersionId=SrS6hmVuCgEWRdN3NMH.eacka9QtS2qG&itok=jrA-6FVT)\n![Logo Wallonie Entreprendre](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_logo/public/2025-03/wallonie-entreprendre_logo.png.webp?VersionId=1LfIgEo8cF8E2ZTiFvWCQkBm3ZX1uJcf&itok=SFGHXyrH)\nA Bpifrance service in partnership with Wallonie Entreprendre\nEuroQuity\n* [About](https://www.euroquity.com/en/presentation)\n* [Testimonials](https://www.euroquity.com/en/voices-success-testimonials-0 \"Testimonials\")\n* [FAQ & Tips](https://www.euroquity.com/en/faq)\n* [Trust](https://www.euroquity.com/en/euroquity-trust)\n* [Blog](https://www.euroquity.com/en/blog)\n* [Accessibility: not compliant](https://www.euroquity.com/en/accessibility-not-compliant)\nService\n* [Contact us](https://cloud.media.bpifrance.fr/contact-euroquity)\n* [Cookies](https://www.euroquity.com/en)\n* [Data privacy](https://www.euroquity.com/en/termofuse#rgpd)\n* [Legal Notices](https://www.euroquity.com/en/legalinformation)\n* [Terms and Conditions](https://www.euroquity.com/en/termofuse)\nFollow us\n* [ ![Linkedin Logo](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_logo/public/2023-06/logos_linkedin-icon.png.webp?VersionId=JiwdKuEA2jryTxWEmR1AiYAzfzr7cOsL&itok=Ob1YefCq) Linkedin Logo ](https://www.linkedin.com/company/euroquity-bpifrance/ \"Linkedin Logo\")\n* [ ![X logo](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_logo/public/2025-03/X_logo_2023.png.webp?VersionId=XbGdPfWMphx6hL0bY6WOBIrazTJWVxAE&itok=s2pz_xFO) X logo ](https://x.com/EuroQuity_eu \"X logo\")\n* [ ![Youtube logo](https://dr84voq2lwxr8.cloudfront.net/s3fs-public/styles/social_logo/public/2023-06/youtube-logo%201.png.webp?VersionId=BGYt6E6N74nYCCvIr5H6t29azOPmnJjk&itok=VzyJzGOg) Youtube logo ](https://www.youtube.com/channel/UCCwl6Y8oVI1lbWKr8oRSRVg \"Youtube logo\")\nCopyright © 2026 EuroQuity",
+    "website_metadata": {
+        "url": "https://www.euroquity.com/en/company/anavid",
+        "content_length": 9864
+    },
+    "linkedin": "https://linkedin.com/company/anavidfr/",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\anavid.json",
+    "normalized_name": "anavid",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "euroquity.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 3
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/anavidfr/about",
+                    "normalized": "https://linkedin.com/company/anavidfr/about",
+                    "username": "anavidfr",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://youtube.com/watch?v=QXvISINfZcw",
+                    "normalized": "https://youtube.com/watch",
+                    "username": "watch",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 0,
+                "business": 0,
+                "generic": 0,
+                "official": 0,
+                "domains": []
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "website_content",
+            "confidence": 0.6,
+            "report": {
+                "count": 1,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 0,
+            "removed": 3,
+            "duplicates": 0,
+            "invalid": [
+                "1585049142433",
+                "20180101",
+                "3795057"
+            ]
+        }
+    }
+}

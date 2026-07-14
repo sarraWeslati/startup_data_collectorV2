@@ -1,0 +1,291 @@
+{
+    "entity_type": "startup",
+    "name": "ArtForNess",
+    "description": "Marketplace d'oeuvres d'art (peinture et print) d'artistes nord africains et moyen orientaux.",
+    "tagline": "",
+    "industry": "Commerce and shopping",
+    "keywords": [],
+    "country": "",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.darnafrance.com/darna-x-artforness",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/ines-baccouche-hadhiri",
+        "facebook": "https://facebook.com/artforness",
+        "instagram": "https://instagram.com/artforness",
+        "youtube": "https://youtube.com/channel/UCRqTm7RTVCrJXZD4vDPd3WQ"
+    },
+    "contact": {
+        "emails": [
+            "artshop@artforness.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/in/ines-baccouche-hadhiri"
+    },
+    "founders": [
+        {
+            "name": "Ines Baccouche",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": "",
+    "operating_countries": [],
+    "languages_supported": [],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:13:09.598780",
+        "website_enriched": true,
+        "tavily_results": 8,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 1,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 0,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 4,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 4,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
+            "twitter": false,
+            "x": false,
+            "youtube": true,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 0,
+            "domains": [
+                "artforness.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-22"
+    },
+    "external_profiles": {
+        "website": "https://www.darnafrance.com/darna-x-artforness",
+        "linkedin": "https://linkedin.com/in/ines-baccouche-hadhiri"
+    },
+    "tavily": {
+        "query": "ArtForNess",
+        "answer": "",
+        "results_count": 8,
+        "urls": [
+            "https://www.darnafrance.com/darna-x-artforness/",
+            "https://www.tekiano.com/2020/10/08/artforness-une-galerie-virtuelle-reflet-de-la-scene-artistique-bouillante-dans-la-zone-mena/",
+            "https://egyptianstreets.com/2022/12/10/this-european-gallery-brings-arab-art-from-mena-to-the-world/",
+            "https://linkedin.com/in/ines-baccouche-hadhiri/",
+            "https://linkedin.com/in/cyrine-bettaleb-ali",
+            "https://linkedin.com/in/amnasaied/en",
+            "https://linkedin.com/company/artforness",
+            "https://linkedin.com/in/hoda-khalifa"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "Gérer le consentement\nNous utilisons des cookies pour optimiser notre site web et notre service.\nFonctionnel Fonctionnel Toujours activé\nL’accès ou le stockage technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.\nPréférences Préférences\nL’accès ou le stockage technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’internaute.\nStatistiques Statistiques\nLe stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques. Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.\nMarketing Marketing\nL’accès ou le stockage technique est nécessaire pour créer des profils d’internautes afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.\n* [Gérer les options](https://www.darnafrance.com/politique-de-cookies-ue/#cmplz-manage-consent-container)\n* [Gérer les services](https://www.darnafrance.com/politique-de-cookies-ue/#cmplz-cookies-overview)\n* [Gérer {vendor_count} fournisseurs](https://www.darnafrance.com/politique-de-cookies-ue/#cmplz-tcf-wrapper)\n* [En savoir plus sur ces finalités](https://cookiedatabase.org/tcf/purposes/)\nAccepter Refuser Préférences Enregistrer les préférences [Préférences](https://www.darnafrance.com/politique-de-cookies-ue/#cmplz-manage-consent-container)\n* [Politique de cookies ](https://www.darnafrance.com/politique-de-cookies-ue/)\n* [{title}](https://www.darnafrance.com/darna-x-artforness/)\n* [{title}](https://www.darnafrance.com/darna-x-artforness/)\n[](https://www.darnafrance.com/darna-x-artforness/)\n* [Darna](https://www.darnafrance.com/darna-x-artforness/)\n* [Qui sommes-nous ?](https://www.darnafrance.com/historique/)\n* [Nos valeurs](https://www.darnafrance.com/nos-valeurs/)\n* [Les Mamans de Darna](https://www.darnafrance.com/les-mamans-de-darna/)\n* [Darna en quelques chiffres](https://www.darnafrance.com/darna-en-quelques-chiffres/)\n* [Notre équipe](https://www.darnafrance.com/notre-equipe/)\n* [Nos anges gardiens](https://www.darnafrance.com/nos-anges-gardiens/)\n* [Nos Partenaires](https://www.darnafrance.com/category/nos-partenaires/)\n* [Témoignages](https://www.darnafrance.com/category/temoignages/)\n* [Agir](https://www.darnafrance.com/darna-x-artforness/)\n* [Faire un don](https://www.darnafrance.com/faire-un-don/)\n* [Devenir Adhérent](https://www.darnafrance.com/devenir-adherent/)\n* [Devenir bénévole](https://www.darnafrance.com/devenir-benevole/)\n* [Devenir parrain](https://www.darnafrance.com/devenir-parrain/)\n* [Devenir une entreprise partenaire](https://www.darnafrance.com/devenir-une-entreprise-partenaire/)\n* [Boutique solidaire](https://www.darnafrance.com/boutique-solidaire/)\n* [Panier](https://www.darnafrance.com/boutique-solidaire/panier/)\n* [Actualités](https://www.darnafrance.com/category/actualites/)\n* [Contact](https://www.darnafrance.com/contact/)\n[ ![DARNA FRANCE](https://www.darnafrance.com/wp-content/themes/oxpitan/images/logo-mobile3.png) ](https://www.darnafrance.com/)\n[Faire un don](https://darnafrance.com//faire-un-don/)\n[ ![DARNA FRANCE](https://www.darnafrance.com/wp-content/uploads/2020/11/logo-Darna-france-V2.5.png) ](https://www.darnafrance.com/)\n* [Darna](https://www.darnafrance.com/darna-x-artforness/)\n* [Qui sommes-nous ?](https://www.darnafrance.com/historique/)\n* [Nos valeurs](https://www.darnafrance.com/nos-valeurs/)\n* [Les Mamans de Darna](https://www.darnafrance.com/les-mamans-de-darna/)\n* [Darna en quelques chiffres](https://www.darnafrance.com/darna-en-quelques-chiffres/)\n* [Notre équipe](https://www.darnafrance.com/notre-equipe/)\n* [Nos anges gardiens](https://www.darnafrance.com/nos-anges-gardiens/)\n* [Nos Partenaires](https://www.darnafrance.com/category/nos-partenaires/)\n* [Témoignages](https://www.darnafrance.com/category/temoignages/)\n* [Agir](https://www.darnafrance.com/darna-x-artforness/)\n* [Faire un don](https://www.darnafrance.com/faire-un-don/)\n* [Devenir Adhérent](https://www.darnafrance.com/devenir-adherent/)\n* [Devenir bénévole](https://www.darnafrance.com/devenir-benevole/)\n* [Devenir parrain](https://www.darnafrance.com/devenir-parrain/)\n* [Devenir une entreprise partenaire](https://www.darnafrance.com/devenir-une-entreprise-partenaire/)\n* [Boutique solidaire](https://www.darnafrance.com/boutique-solidaire/)\n* [Panier](https://www.darnafrance.com/boutique-solidaire/panier/)\n* [Actualités](https://www.darnafrance.com/category/actualites/)\n* [Contact](https://www.darnafrance.com/contact/)\n[Faire un don](https://darnafrance.com//faire-un-don/)\n## Darna x ArtForNess\n1. [Accueil](https://www.darnafrance.com)\n2. / [Nos partenaires](https://www.darnafrance.com/category/nos-partenaires/)\n3. / Darna x ArtForNess\n# Darna x ArtForNess\n[Nos partenaires](https://www.darnafrance.com/category/nos-partenaires/) [février 6, 2023](https://www.darnafrance.com/darna-x-artforness/)\n![Darna x ArtForNess](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/art-for-ness.png?fit=720%2C720&ssl=1)\n## Art For Ness\nArtForNess est votre adresse pour acheter de l’art pour sa maison et ses proches. Acheter de l’art ne consiste pas seulement à être un collectionneur. Si l’art n’existe pas, nous n’existerons jamais. Illustrer les civilisations aide à en créer de nouvelles et avoir de l’art à la maison aide à en faire un foyer. Art For Ness présente de l’art illustré d’Afrique du Nord et d’Asie de l’Ouest afin d’apporter une partie du monde dans votre monde.\nLe concept a commencé par une histoire d’amour entre la fondatrice Ines Baccouche et l’illustration, car elle est une grande fan de mangas et d’animés.\n## Darna x Art For Ness\nAfin de contribuer à la cause de Darna, Art For Ness a lancé une série limitée de foulards en soie. La collection « Let it Bee » est illustrée par Noha Hbaieb, une des artistes illustratrices de ArtForNess. Les foulards sont disponibles en deux couleurs : jaune et rose.\nEn achetant ce foulard, vous encouragez non seulement les créations de cette jeune artiste, mais vous participez également au soutien de notre association : 30 € nous seront renversés pour chaque foulard.\nUn joli cadeau à (s’)offrir sur la [boutique en ligne ArtForNess](https://www.artforness.com/achat-oeuvre-d-art/categories/foulard/?fbclid=IwAR3upfsbFIVl9mQT1jBk4xEujHybi_f2dmsM8UNQcoQ9-eQSDItbJ1nE0Ko).\nMerci Noha, Ines et toute l’équipe ArtForNess\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/Foulard_Jaune.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/Foulard_Jaune.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5363.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5363.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/Foulard-Rose.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/Foulard-Rose.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5362.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5362.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86709755_1108223816187269_3146454523782889472_n.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86709755_1108223816187269_3146454523782889472_n.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86875442_484359718928217_2692938150925303808_n.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86875442_484359718928217_2692938150925303808_n.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5365.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/IMG_5365.jpg?ssl=1)\n[![](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86732197_3039989539368256_5392559601675665408_n.jpg?resize=180%2C180&ssl=1)](https://i0.wp.com/www.darnafrance.com/wp-content/uploads/2023/02/86732197_3039989539368256_5392559601675665408_n.jpg?ssl=1)\n## Contacts\n* 955 av de la République, 06550 La Roquette Sur Siagne\n* +33 6 23 35 05 18\n* artshop@artforness.com\n* [ Page Facebook  ](https://www.facebook.com/artforness)\n* [ Instagram ](https://www.instagram.com/artforness/?hl=fr)\n[Lire la suite ](https://www.darnafrance.com/darna-x-artforness/)\n[Previous Post](https://www.darnafrance.com/darna-x-assen/)[Next Post](https://www.darnafrance.com/darna-x-artforness-x-noha-habaieb/)\n### Articles récents\n* [Vavada kod promocyjny 2026 – ekskluzywne bonusy dla graczy](https://www.darnafrance.com/vavada-kod-promocyjny-2026-ekskluzywne-bonusy-dla/)\n* [Online Kasyno Vavada](https://www.darnafrance.com/online-kasyno-vavada/)\n* [Online Kasyno Vavada](https://www.darnafrance.com/online-kasyno-vavada-2/)\n* [Vavada Casino odpowiedzialna gra](https://www.darnafrance.com/vavada-casino-odpowiedzialna-gra/)\n* [Merhabet Giriş Adresini Favorilerinize Ekleyin Eğlencenin Ve Sosyal Bağlantıların Yeni Yolu](https://www.darnafrance.com/merhabet-giri-adresini-favorilerinize-ekleyin/)\n### Autres thèmes\n* [Actualités](https://www.darnafrance.com/category/actualites/) (71)\n* [merhabet](https://www.darnafrance.com/category/merhabet/) (1)\n* [Nos partenaires](https://www.darnafrance.com/category/nos-partenaires/) (32)\n* [Témoignages](https://www.darnafrance.com/category/temoignages/) (10)\n* [vavada](https://www.darnafrance.com/category/vavada/) (3)\n* [vavadakasynoonlinepl](https://www.darnafrance.com/category/vavadakasynoonlinepl/) (1)\n* [vavadatestpl](https://www.darnafrance.com/category/vavadatestpl/) (1)\n* [Vavus](https://www.darnafrance.com/category/vavus/) (1)\n#### Darna France\n* [ Qui sommes-nous ? ](https://darnafrance.com/historique/)\n* [ Nos valeurs ](https://darnafrance.com/nos-valeurs/)\n* [ Les mamans de Darna ](https://darnafrance.com/les-mamans-de-darna/)\n* [ Darna en quelques chiffres ](https://darnafrance.com/darna-en-quelques-chiffres/)\n* [ Notre Newsletter ](https://95b972ef.sibforms.com/serve/MUIEAOP-MCe9IeqnUxe6kQU5kujK2RCEuq3hk3d8lp_s-9bOYY97-FxqEq_OUbPHsNLCf9BmooSXmA87JsTq6Gj8h1BYG4qo54B_Hv-Da4y5ib_zS_ouUrCqydwhhqLyqkTBWBf1Yc_JZnrPdxu5rZNBJ-tgk2wFqYke_evAgVlpCzm9H7LPEMQXnu1TqBSzVivFbvdPAAegtDSs)\n#### Nous Aider\n* [ Faire un don ](https://darnafrance.com/faire-un-don/)\n* [ Devenir adhérent ](https://darnafrance.com/devenir-adherent/)\n* [ Devenir bénévole ](https://darnafrance.com/devenir-benevole/)\n* [ Devenir entreprise partenaire ](https://darnafrance.com/devenir-une-entreprise-partenaire/)\n#### Boutique Solidaire\n* [ La boutique ](https://darnafrance.com/boutique-solidaire/)\n* [ Votre panier ](https://darnafrance.com/boutique-solidaire/panier/)\n#### Nous Contacter\nDarna France\n44 avenue des peupliers\n94000 Créteil\n[ Facebook ](https://www.facebook.com/AssociationDarnaFrance/about/?ref=page_internal) [ Instagram ](http://www.instagram.com) [ Youtube ](https://www.youtube.com/channel/UCRqTm7RTVCrJXZD4vDPd3WQ) Envelope\n### Notre Newsletter\nAbonnez-vous pour ne rien rater de notre actualité.\n![loader](https://i0.wp.com/www.darnafrance.com/wp-includes/images/spinner.gif?w=900&ssl=1)\nEmail*\nCopyright 2021 - All rights reserved to Darna France - [Politique de confidentialité](https://darnafrance.com/politique-de-confidentialite/) - [Mentions légales](https://darnafrance.com/mentions-legales/)\nGérer le consentement\nShopping cart0\nIl n'y a pas d'articles dans le panier !\nContinuer les achats\n0\nNotifications",
+    "website_metadata": {
+        "url": "https://www.darnafrance.com/darna-x-artforness/",
+        "content_length": 12198
+    },
+    "linkedin": "https://linkedin.com/in/ines-baccouche-hadhiri/",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\artforness.json",
+    "normalized_name": "artforness",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "darnafrance.com",
+            "website_type": "official",
+            "social_profiles": 4,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 4,
+                "valid": 4,
+                "official": 4,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin",
+                    "youtube"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://linkedin.com/in/ines-baccouche-hadhiri",
+                    "normalized": "https://linkedin.com/in/ines-baccouche-hadhiri",
+                    "username": "ines-baccouche-hadhiri",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/artforness",
+                    "normalized": "https://facebook.com/artforness",
+                    "username": "artforness",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/artforness/?hl=fr",
+                    "normalized": "https://instagram.com/artforness",
+                    "username": "artforness",
+                    "valid": true,
+                    "official": true
+                },
+                "youtube": {
+                    "platform": "youtube",
+                    "original": "https://www.youtube.com/channel/UCRqTm7RTVCrJXZD4vDPd3WQ",
+                    "normalized": "https://youtube.com/channel/UCRqTm7RTVCrJXZD4vDPd3WQ",
+                    "username": "channel",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 0,
+                "domains": [
+                    "artforness.com"
+                ]
+            },
+            "official": [],
+            "details": [
+                {
+                    "original": "artshop@artforness.com",
+                    "normalized": "artshop@artforness.com",
+                    "domain": "artforness.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "",
+            "selected_source": "",
+            "confidence": 0,
+            "report": {
+                "count": 0,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "artshop@artforness.com",
+    "quality": {
+        "phones": {
+            "total": 10,
+            "valid": 0,
+            "removed": 10,
+            "duplicates": 0,
+            "invalid": [
+                "86709755",
+                "1108223816187269",
+                "3146454523782889472",
+                "86875442",
+                "484359718928217",
+                "2692938150925303808",
+                "86732197",
+                "3039989539368256",
+                "5392559601675665408",
+                "+33623350518"
+            ]
+        }
+    }
+}

@@ -1,0 +1,319 @@
+{
+    "entity_type": "startup",
+    "name": "BUS SOFTWARE",
+    "description": "BUS SOFTWARE (2018)\nSecteur d’activité / Sector : Mobility\nwinicari.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nAMOR SAHNOUN / MAKRAM ERGUEZ\nbussoftware@winicari.tn\nRUE HEDI NOUIRA 4022 AKOUDA\nActivité Bus software développer une nouvelle \nméthode de transport intelligent qui se base sur la \nbilletterie à bord des bus et la numérisation de tout \nle processus d’exploitation depuis la planification à \nl’information en temps réel des voyageurs. Notre mission \nest de rendre le sourire aux utilisateurs du transport \npublic.\nAspect Technologique Nous avons apporté une solution à : \nla billetterie manuelle; Absence de statistique; Absence \nd’accès à l’information.\nOriginalité Notre objectif est de concevoir une intelligence \nartificielle pour avoir une offre de transport par bus \noptimisé.\nActivity Bus software is a startup that aims to \ndevelop a new method of intelligent transport based \non ticketing on board buses and the digitization of the \nentire operating process from line planning to real-time \ninformation to travelers. Our mission is to put a smile on \npublic transport users’ face.\nTechnological Aspect We brought a digital solution to 3 \nproblems: Manual ticketing; Lack of up-to-date statistics; \nLack of access to information.\nOriginality Our future goal is to design an artificial \nintelligence, to have an optimized bus transport services.\nFR\nEN",
+    "tagline": "Assister les sociétés de transport public au quotidien",
+    "industry": "Mobility",
+    "keywords": [],
+    "country": "Tunisia",
+    "city": "Sousse",
+    "headquarters": "Rue Hedi Nouira Akouda, Sousse 4022",
+    "founded_year": null,
+    "startup_stage": null,
+    "startup_label": true,
+    "website": "https://winicari.tn",
+    "linkedin_url": "https://www.linkedin.com/in/societe-bus-software-27636011a",
+    "social_media": {
+        "linkedin": "https://linkedin.com/in/societe-bus-software-27636011a"
+    },
+    "contact": {
+        "emails": [
+            "bussoftware@winicari.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21699202630",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21627636011",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
+        "address": "Rue Hedi Nouira Akouda, Sousse 4022",
+        "primary_social": "https://linkedin.com/in/societe-bus-software-27636011a"
+    },
+    "founders": [],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": null,
+    "team_size": null,
+    "products": [
+        {
+            "name": "OsTicket",
+            "description": "Système de gestion billettique complet — distribution, validation, contrôle. Modulaire et scalable. Gestion des titres tickets, réquisitions, bagages et tarification selon le type de réseau. Machine embarquée équipée WiFi + GPS + OsTicket, connectée en temps réel à la plateforme.",
+            "category": "Billettique"
+        },
+        {
+            "name": "OS_SAEIV Platform",
+            "description": "Plateforme tableau de bord exploitants : km, prises de service, ponctualité, incidents. Suivi en temps réel depuis PC, tablette ou smartphone. Rapports d'activité diffusés automatiquement aux collectivités et exploitants.",
+            "category": "Supervision"
+        },
+        {
+            "name": "Winicari",
+            "description": "Application voyageurs avec horaires, itinéraires, état du trafic et prix des titres en un clic. Disponible gratuitement sur Android 5.0+, mises à jour continues, résilience multi-niveaux avec données sauvegardées sur machine, serveur central et sites client.",
+            "category": "Mobile App"
+        },
+        {
+            "name": "Machine embarquée",
+            "description": "Équipée WiFi + GPS + OsTicket, connectée en temps réel à la plateforme.",
+            "category": ""
+        },
+        {
+            "name": "Plateforme OS_SAEIV",
+            "description": "Tableau de bord exploitants : km, prises de service, ponctualité, incidents. Suivi en temps réel. Accès depuis PC, tablette ou smartphone sans outil supplémentaire. Rapports d'activité Diffusion automatique des rapports aux collectivités et exploitants.",
+            "category": ""
+        },
+        {
+            "name": "Application Winicari",
+            "description": "Horaires, itinéraires, état du trafic et prix des titres en un clic. Google Play Application gratuite, Android 5.0+. Mises à jour continues.",
+            "category": ""
+        }
+    ],
+    "services": [],
+    "technologies": [],
+    "customer_segments": [],
+    "target_market": null,
+    "operating_countries": [
+        "Tunisia"
+    ],
+    "languages_supported": [],
+    "notable_customers": [
+        "SRTK S.R.T.K — Kasserine",
+        "STS S.T.S — Sousse",
+        "SEL S.R.T. Siliana",
+        "TCV Transport collectif",
+        "ELG S.R.T. El Gouafel"
+    ],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": null,
+        "stage": null,
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [
+        "AFD Top 10 Startups Africaines",
+        "Brevet INNORPI N° 24999",
+        "Trophée StartUp Tunisia 2016",
+        "Label StartUp Tunisie N° G5ZZRP9C",
+        "Trophée National Innovation 2016",
+        "2ème place — Concours national d'innovation"
+    ],
+    "certifications": [],
+    "patents": [
+        "Brevet INNORPI N° 24999"
+    ],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": null
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": null,
+        "registration_number": null
+    },
+    "extra_notes": null,
+    "sources": [],
+    "confidence": {
+        "score": 58,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "completed",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:36:18.252138",
+        "website_enriched": true,
+        "tavily_results": 0,
+        "llm_enriched": true,
+        "sources_used": [
+            "pdf",
+            "website"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 0,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 7,
+        "services_count": 0,
+        "technologies_count": 0,
+        "partners_count": 0,
+        "awards_count": 6,
+        "social_profiles": 1,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 1,
+            "linkedin": true,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "winicari.tn"
+            ]
+        },
+        "phones": {
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
+        }
+    },
+    "website_content": "[+216 99 202 630](tel:+21699202630) | Rue Hedi Nouira Akouda, Sousse 4022\n[Espace Voyageur](https://www.winicari.tn/info/default.htm) | [Espace Exploitant](https://www.winicari.tn/societe) | [LinkedIn](https://www.linkedin.com/in/societe-bus-software-27636011a/)\n[ ![OS_SAEIV – Bus Software](https://www.winicari.tn/static/images/Os_Saeiv_logo.png) OS_SAEIV ](https://winicari.tn/)\n* [Solutions](https://winicari.tn/)\nBillettique\n[ ![OsTicket](https://www.winicari.tn/static/images/solutions_driver.png) OsTicket Système de gestion billettique complet — distribution, validation, contrôle. Modulaire et scalable. ](https://winicari.tn/#products) ###### [Gestion des titres Tickets, réquisitions, bagages et tarification selon le type de réseau. ](https://winicari.tn/#products) ###### [Machine embarquée Équipée WiFi + GPS + OsTicket, connectée en temps réel à la plateforme. ](https://winicari.tn/#products)\nSupervision\n[ ![Supervision](https://www.winicari.tn/static/images/solution_supervision.gif) Plateforme OS_SAEIV Tableau de bord exploitants : km, prises de service, ponctualité, incidents. ](https://winicari.tn/#products) ###### [Suivi en temps réel Accès depuis PC, tablette ou smartphone sans outil supplémentaire. ](https://winicari.tn/#products) ###### [Rapports d'activité Diffusion automatique des rapports aux collectivités et exploitants. ](https://winicari.tn/#products)\nApplication voyageurs\n[ ![Winicari](https://www.winicari.tn/static/images/solution_info.gif) Application Winicari Horaires, itinéraires, état du trafic et prix des titres en un clic. ](https://winicari.tn/#products) ###### [Google Play Application gratuite, Android 5.0+. Mises à jour continues. ](https://play.google.com/store/apps/details?id=com.BusSoftware.winicari) ###### [Résilience multi-niveaux Données sauvegardées sur machine, serveur central et sites client. ](https://winicari.tn/#resilience)\n![Ponctualité](https://www.winicari.tn/static/images/picto_home_ponctuality.png)\n###### Une solution made in Tunisia\nConçue et produite en Tunisie, adaptable à tous les réseaux sans distinction de taille.\n[Demander une démo ](https://winicari.tn/#contact)\n* [Clients](https://winicari.tn/)\nNos clients\n[SRTK S.R.T.K — Kasserine Ponctualité améliorée après plusieurs années de déploiement ](https://winicari.tn/#clients) [STS S.T.S — Sousse Gestion de l'exploitation et information voyageurs en temps réel ](https://winicari.tn/#clients) [SEL S.R.T. Siliana Suivi des performances réseau et billettique intégrée ](https://winicari.tn/#clients)\n[TCV T.C.V Transport collectif — solution complète OS_SAEIV déployée ](https://winicari.tn/#clients) [ELG S.R.T. El Gouafel Réseau optimisé avec aide à l'exploitation et app voyageurs ](https://winicari.tn/#clients)\nCouverture nationale\n> « OS_SAEIV est présent dans les principales sociétés régionales de transport à travers toute la Tunisie. »\n— Bus Software, Sousse\n[Voir tous nos clients ](https://winicari.tn/#clients)\n* [Comment ça marche](https://winicari.tn/)\nDéploiement\n###### [1. Transmission des plans Envoi des plans de route, horaires et données réseau. ](https://winicari.tn/#howworks) ###### [2. Paramétrage Configuration complète de la plateforme et des applications. ](https://winicari.tn/#howworks)\nMise en route\n###### [3. Formation sur site Un chef de projet forme vos exploitants directement dans vos locaux. ](https://winicari.tn/#howworks) ###### [4. Mise en service 100% opérationnel en moins d'une semaine. ](https://winicari.tn/#howworks)\nFAQ rapide\nBus Software fournit-il les cartes SIM ?\nNon. Bus Software ne fournit pas d'abonnement télécom — nous recommandons aux clients de gérer directement cet aspect.\nQuels formats d'import sont supportés ?\nGTFS, Excel ou formats personnalisés. Des connecteurs pour systèmes tiers sont disponibles.\nLes mises à jour sont-elles incluses ?\nOui, toutes les mises à jour correctives et évolutives sont incluses sans frais supplémentaires.\n* [À propos](https://winicari.tn/)\nSociété\n###### [Qui sommes-nous Spécialistes ITS, billettique et mobilité urbaine depuis Sousse. ](https://winicari.tn/#news) ###### [Notre équipe Fondateurs, CTO, chefs de projet et développeurs. ](https://winicari.tn/#team)\nReconnaissance\n###### [Récompenses AFD Top 10 Afrique, Brevet INNORPI, StartUp Tunisia. ](https://winicari.tn/#news) ###### [Mentions légales CGV, politique de confidentialité, informations légales. ](https://www.winicari.tn/legal.php)\nNotre vision\n> « Le transport interurbain joue un rôle clef dans le maillage des territoires. Leur développement nécessite une confiance durable des voyageurs dans la fiabilité des services. »\n[Nous rejoindre ](https://winicari.tn/#contact)\n* [Demander une démo](https://winicari.tn/#contact)\nLabellisé StartUp Tunisie · Label N° G5ZZRP9C\n# Assister les sociétés de _transport public_ au quotidien\nAvec OS_SAEIV, bénéficiez d'une solution complète et facile à déployer, conçue pour simplifier la gestion des exploitants et améliorer l'expérience des voyageurs.\n[Demander une démo](https://winicari.tn/#contact) [Comment ça marche](https://winicari.tn/#howworks)\n0h\nBackup automatique\n0×\nNiveaux résilience\n0%\nWeb · Tablette · Mobile\n0+\nSociétés clientes\n![Plateforme OS_SAEIV en action](https://www.winicari.tn/static/images/solution_supervision.gif)\n**Suivi temps réel** 3 lignes actives\nOsTicket\n###### Billettique embarquée\nWiFi + GPS connecté en continu à la plateforme centrale.\nWinicari\n###### App voyageurs\nHoraires, itinéraires & trafic en temps réel. Gratuit.\nS.R.T.K — Kasserine\nS.T.S — Sousse\nS.R.T. Siliana\nT.C.V\nS.R.T. El Gouafel\nLabel StartUp Tunisie\nBrevet INNORPI N° 24999\nAFD Top 10 Startups Africaines\nTrophée National Innovation 2016\nS.R.T.K — Kasserine\nS.T.S — Sousse\nS.R.T. Siliana\nT.C.V\nS.R.T. El Gouafel\nLabel StartUp Tunisie\nBrevet INNORPI N° 24999\nAFD Top 10 Startups Africaines\nTrophée National Innovation 2016\nNos solutions\n## Une solution complète pour le transport public\nDéveloppée d'un commun accord avec des sociétés de transport, chaque fonctionnalité vise à simplifier votre travail et optimiser la performance de votre réseau.\nBillettique\n### OsTicket — Système de perception innovant\nUn système billettique complet et modulaire : de la distribution des titres de transport à la chambre de compensation, en passant par la validation et le contrôle.\n* Machine embarquée WiFi + GPS — jamais seul dans son véhicule\n* Gestion tickets, réquisitions, faveurs et bagages\n* Communication temps réel entre conducteurs et exploitants\n* Scalable : scolaire, interurbain, urbain sans distinction de taille\n* Mises à jour applicatives gratuites incluses\nWiFi + GPS intégré\n![OsTicket — machine embarquée](https://www.winicari.tn/static/images/solutions_driver.png)\nSupervision\n### Plateforme OS_SAEIV — Pilotez vos performances\nSuivez directement les prises de services et le respect du planning. L'accès aux données en temps réel et le signalement d'incidents facilitent la gestion des aléas.\n* Tableau de bord multi-indicateurs : km, ponctualité, recettes\n* Accès depuis PC, tablette ou smartphone — sans installation\n* Signalement d'incidents et alertes en temps réel\n* Import GTFS, Excel ou formats personnalisés\n* Connecteurs pour systèmes tiers (géolocalisation, SAE)\nTemps réel\n![Supervision OS_SAEIV](https://www.winicari.tn/static/images/solution_supervision.gif)\nApplication voyageurs\n### Winicari — Donnez la maîtrise à vos voyageurs\nEn un clic, chaque voyageur dispose de toutes les informations utiles : temps d'attente à ses arrêts favoris, suivi des lignes préférées, incidents en cours.\n* Horaires temps réel fiables grâce aux algorithmes GPS\n* Recherche d'itinéraire et état du trafic intégrés\n* Application gratuite, Android 5.0+ — mises à jour incluses\n* Fidélisez vos voyageurs et attirez une nouvelle clientèle\n* Espace promotionnel dédié aux offres de la société\n[ Télécharger sur Google Play ](https://play.google.com/store/apps/details?id=com.BusSoftware.winicari)\nGratuit\n![Application Winicari](https://www.winicari.tn/static/images/solution_info.gif)\nSécurité & continuité\n## Résilience multi-niveaux\nLes données sont conservées simultanément sur la machine, sur le serveur central avec backup toutes les 24 h, et sur les sites de sauvegarde du client si son infrastructure le permet.\n* Aucune perte de données — stockage local sécurisé en permanence\n* La quasi-totalité des incidents se résolvent par un simple redémarrage\n* Reprise d'activité immédiate sans intervention technique\n* Compatibilité avec l'infrastructure de sauvegarde existante\n* Rapports développés d'un commun accord avec les transporteurs\nArchitecture de sauvegarde\n1\n###### Stockage local — Machine\nDonnées conservées en temps réel sur l'appareil. Disponible hors-ligne.\n2\n###### Serveur central — Backup toutes les 24 h\nSynchronisation automatique avec le serveur Bus Software.\n3\n###### Sites de sauvegarde client\nIntégration avec l'infrastructure existante si disponible.\nDéploiement\n## Déployable en quelques heures\nOS_SAEIV connecte collecteurs, voyageurs et exploitants dans un seul écosystème cohérent et intégré.\n![Schéma de fonctionnement OS_SAEIV](https://www.winicari.tn/static/images/home_shema_app.gif)\nÉcosystème OS_SAEIV — Plateforme · OsTicket · Winicari\n1\n#### Transmission des plans\nEnvoi des plans de route, horaires et données réseau à l'équipe Bus Software.\n2\n#### Paramétrage de la solution\nConfiguration complète de la plateforme, OsTicket et de l'app Winicari selon votre réseau.\n3\n#### Formation sur site\nUn chef de projet vient former vos exploitants directement dans vos locaux.\n4\n#### Mise en service\nPrise en main conducteurs en quelques minutes — 100% opérationnel en moins d'une semaine.\nIls nous font confiance\n## Nos clients en Tunisie\nOS_SAEIV est présent dans plusieurs sociétés régionales de transport en Tunisie, avec des résultats mesurables en matière de ponctualité et de satisfaction voyageurs.\nSRTK\n##### S.R.T.K\nKasserine\nDéfi réussi après plusieurs années de déploiement : résolution des problèmes de ponctualité et amélioration sensible de la satisfaction voyageurs.\nDéployé & opérationnel\nSTS\n##### S.T.S\nSousse\nGestion optimisée de l'exploitation et information voyageurs en temps réel — un gain de performance mesurable pour l'ensemble du réseau.\nDéployé & opérationnel\nSEL\n##### S.R.T. Siliana\nSiliana\nSuivi des performances réseau, billettique intégrée et accès temps réel aux données d'exploitation depuis PC, tablette ou smartphone.\nDéployé & opérationnel\nTCV\n##### T.C.V\nTunisie\nDéploiement complet de la solution OS_SAEIV : plateforme de supervision, OsTicket embarqué et application Winicari pour les voyageurs.\nDéployé & opérationnel\nELG\n##### S.R.T. El Gouafel\nEl Gouafel\nRéseau optimisé avec aide à l'exploitation intégrée, suivi GPS en temps réel et relation voyageurs enrichie via l'application Winicari.\nDéployé & opérationnel\n##### Rejoignez nos clients\nToute la Tunisie\nVotre société de transport peut bénéficier des mêmes avantages. Contactez-nous pour une démonstration gratuite.\n[ Demander une démo](https://winicari.tn/#contact)\n![Réseau national](https://www.winicari.tn/static/images/picto_home_ponctuality.png)\nCouverture nationale\n#### Présent dans l'ensemble des sociétés de transport de Tunisie\nNotre système est actif ou en cours de test dans les principales sociétés régionales de transport. Chaque déploiement est accompagné par notre équipe jusqu'à la pleine autonomie.\n[Nous contacter](https://winicari.tn/#contact)\nApplication mobile\n## Winicari dans votre poche\nTéléchargez l'application gratuite et accédez à toutes les informations voyageurs en temps réel : horaires, itinéraires, alertes trafic et tarification.\n[ Disponible surGoogle Play ](https://play.google.com/store/apps/details?id=com.BusSoftware.winicari)\n100% gratuit\nAndroid 5.0+\nMises à jour incluses\n![Application Winicari sur mobile](https://www.winicari.tn/static/images/solution_info.gif)\nQuestions fréquentes\n## Tout ce que vous devez savoir\n## Qu'est-ce qui est compris dans l'achat ?\nOS_SAEIV est un logiciel SaaS sans abonnement annuel. L'achat comprend l'hébergement sur les serveurs Bus Software, les mises à jour correctives, l'accès à toutes les évolutions continues, le support téléphonique et e-mail, et tous les documents de formation. Il inclut également le logiciel de perception OsTicket.\n## L'application Winicari est-elle gratuite pour les voyageurs ?\nOui, l'application Winicari est totalement gratuite pour les voyageurs (Android 5.0 ou supérieur). La plateforme OS_SAEIV pour les exploitants l'est aussi, de même que toutes les mises à jour des deux applications.\n## Existe-t-il d'autres modes de facturation ?\nL'achat est le mode principal recommandé. D'autres modalités peuvent être envisagées selon le contexte — contactez notre service commercial pour étudier vos besoins spécifiques.\n## Quels formats de données sont supportés pour l'import réseau ?\nOS_SAEIV supporte les formats GTFS, Excel et formats personnalisés. Des connecteurs sont disponibles pour échanger des données avec vos systèmes de géolocalisation, pupitres ou systèmes tiers d'information voyageurs en temps réel.\n## Qu'est-ce que couvre le contrat de maintenance ?\nLe contrat de maintenance s'applique uniquement aux machines de perception OsTicket après la période de garantie. Les mises à jour logicielles (OsTicket, Winicari, plateforme) restent gratuites.\n## Bus Software fournit-il les cartes SIM et la connectivité ?\nNon. Bus Software ne fournit pas d'abonnement télécom. Nous recommandons aux sociétés de transport de gérer directement cet aspect selon leurs contrats opérateurs existants. Notre équipe peut cependant vous conseiller sur les bonnes pratiques.\nActualités & distinctions\n## Reconnaissance & récompenses\nBus Software primée et reconnue à l'échelle nationale et africaine pour son innovation dans le transport public.\n2016\n##### Trophée StartUp Tunisia\nDistinction attribuée lors de l'exposition StartUp Tunisia 2016, récompensant l'innovation dans le secteur du transport intelligent.\nTrophée national\n2017\n##### Brevet d'invention INNORPI N° 24999\nBrevet accordé par l'Institut national de la propriété industrielle, valable 20 ans, pour la machine de gestion des informations de perception.\nBrevet 20 ans\n2019\n##### Label StartUp — N° G5ZZRP9C\nLabel officiel décerné le 2 mai 2019 par le ministère des Technologies de la Communication et de la Transformation Digitale de Tunisie.\nLabel Ministère\n2020\n##### Top 10 Startups Africaines — AFD\nBus Software nommée parmi les dix startups les plus innovantes d'Afrique par l'Agence Française de Développement.\nAFD Afrique\nInnovation\n##### 2ème place — Concours national d'innovation\nBus Software récompensée au niveau national pour sa solution d'amélioration de la qualité des services de transport public tunisien.\n2ème place nationale\nVision\n##### Made in Tunisia\nFiers de concevoir et produire entièrement en Tunisie une solution de niveau international pour le transport public africain.\n100% Tunisie\nL'équipe\n## Faites connaissan",
+    "website_metadata": {
+        "url": "https://winicari.tn",
+        "content_length": 15000
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "BUS SOFTWARE",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\bus_software.json",
+    "normalized_name": "bus software",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "winicari.tn",
+            "website_type": "official",
+            "social_profiles": 1,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 1,
+                "valid": 1,
+                "official": 1,
+                "platforms": [
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/in/societe-bus-software-27636011a",
+                    "normalized": "https://linkedin.com/in/societe-bus-software-27636011a",
+                    "username": "societe-bus-software-27636011a",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 1,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "winicari.tn"
+                ]
+            },
+            "official": [
+                "bussoftware@winicari.tn"
+            ],
+            "details": [
+                {
+                    "original": "bussoftware@winicari.tn",
+                    "normalized": "bussoftware@winicari.tn",
+                    "domain": "winicari.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 5,
+                "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "domain",
+                        "confidence": 0.8
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "website_content",
+                        "confidence": 0.6
+                    }
+                ]
+            }
+        }
+    },
+    "primary_email": "bussoftware@winicari.tn",
+    "quality": {
+        "phones": {
+            "total": 3,
+            "valid": 2,
+            "removed": 0,
+            "duplicates": 1,
+            "invalid": []
+        }
+    }
+}
