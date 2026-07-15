@@ -1,14 +1,42 @@
-from openai import OpenAI
-import json
 import os
+import json
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY")
+NVIDIA_API_KEY = os.getenv(
+    "NVIDIA_API_KEY"
 )
+
+
+if not NVIDIA_API_KEY:
+
+    raise Exception(
+        "❌ NVIDIA_API_KEY introuvable dans .env"
+    )
+
+
+print(
+    "✅ NVIDIA KEY:",
+    NVIDIA_API_KEY[:15] + "********"
+)
+
+
+
+NVIDIA_URL = (
+
+    "https://integrate.api.nvidia.com/v1/chat/completions"
+
+)
+
+
+NVIDIA_MODEL = (
+
+    "meta/llama-3.1-8b-instruct"
+
+)
+
 
 SYSTEM_PROMPT = """
 You are a high-precision startup ecosystem extraction system.
@@ -42,6 +70,14 @@ OTHER:
 
 IMPORTANT:
 If funding is mentioned AND a company exists → startup
+
+=================================================
+COUNTRY RULE
+=================================================
+Always try to identify the country of the entity (startup or investor)
+from the article. Use the country actually stated or clearly implied in
+the text (e.g. "startup tunisienne" → "Tunisia", "fonds égyptien" →
+"Egypt"). If truly not determinable, leave it as an empty string.
 
 =================================================
 OUTPUT (STRICT JSON ONLY)
@@ -101,12 +137,15 @@ RULES:
 - Return ONLY JSON
 """
 
+
 def safe_json(raw):
     try:
         raw = raw.strip()
 
         if raw.startswith("```json"):
             raw = raw.replace("```json", "").replace("```", "").strip()
+        elif raw.startswith("```"):
+            raw = raw.replace("```", "").strip()
 
         return json.loads(raw)
 
@@ -132,17 +171,31 @@ ARTICLE:
 Extract structured data.
 """
 
-    try:
-        response = client.chat.completions.create(
-            model="openai/gpt-oss-120b:free",
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0
-        )
+    headers = {
+        "Authorization": f"Bearer {NVIDIA_API_KEY}",
+        "Content-Type": "application/json",
+    }
 
-        raw = response.choices[0].message.content
+    payload = {
+        "model": NVIDIA_MODEL,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0,
+        "max_tokens": 1024,
+    }
+
+    try:
+        response = requests.post(
+            NVIDIA_URL,
+            headers=headers,
+            json=payload,
+            timeout=30,
+        )
+        response.raise_for_status()
+
+        raw = response.json()["choices"][0]["message"]["content"]
         return safe_json(raw)
 
     except Exception as e:

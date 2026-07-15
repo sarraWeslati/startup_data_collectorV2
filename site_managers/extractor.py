@@ -440,7 +440,7 @@ def build_source(url: str, title: str, text: str) -> dict:
     }
 
 
-def build_startup(url: str, title: str, text: str) -> dict:
+def build_startup(url: str, title: str, text: str, date: str = "") -> dict:
     data = deepcopy(STARTUP_TEMPLATE)
     amounts = find_amounts(text)
     industries = find_keywords(text, INDUSTRY_KEYWORDS)
@@ -456,12 +456,13 @@ def build_startup(url: str, title: str, text: str) -> dict:
             "sources": [url],
             "confidence": {"classification": "rules"},
             "source_article": build_source(url, title, text),
+            "date": date,
         }
     )
     return data
 
 
-def build_investor(url: str, title: str, text: str) -> dict:
+def build_investor(url: str, title: str, text: str, date: str = "") -> dict:
     data = deepcopy(INVESTOR_TEMPLATE)
     amounts = find_amounts(text)
     focus = find_keywords(text, INDUSTRY_KEYWORDS)
@@ -476,12 +477,13 @@ def build_investor(url: str, title: str, text: str) -> dict:
             "sources": [url],
             "confidence": {"classification": "rules"},
             "source_article": build_source(url, title, text),
+            "date": date,
         }
     )
     return data
 
 
-def build_other(url: str, title: str, text: str) -> dict:
+def build_other(url: str, title: str, text: str, date: str = "") -> dict:
     tags = find_keywords(text, INDUSTRY_KEYWORDS)
     amounts = find_amounts(text)
 
@@ -493,12 +495,12 @@ def build_other(url: str, title: str, text: str) -> dict:
         "relevance": "high" if amounts or tags else "medium",
         "amounts": amounts,
         "source_article": build_source(url, title, text),
-        "date": "",
+        "date": date,
         "others": {},
     }
 
 
-def extract_structured_data(url, title, text):
+def extract_structured_data(url, title, text, date=""):
     if not text:
         return None
 
@@ -507,9 +509,9 @@ def extract_structured_data(url, title, text):
     entity_type = classify_article(url, title, text)
 
     if entity_type == "startup":
-        return build_startup(url, title, text)
+        return build_startup(url, title, text, date)
 
     if entity_type == "investor":
-        return build_investor(url, title, text)
+        return build_investor(url, title, text, date)
 
-    return build_other(url, title, text)
+    return build_other(url, title, text, date)

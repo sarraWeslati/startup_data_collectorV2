@@ -4,7 +4,8 @@ import json
 import sys
 
 from crawler import get_article_links
-from extractor import extract_structured_data
+from extractor import find_country
+from llm import llm_extract
 from scraper import scrape_article
 
 
@@ -16,12 +17,28 @@ STORAGE_DIR = ROOT_DIR / "storage"
 
 def process_article(url):
     try:
-        text = scrape_article(url)
+        text, date = scrape_article(url)
         if not text:
             return None
 
         title = text.split(".")[0][:250]
-        return extract_structured_data(url, title, text)
+
+        result = llm_extract(url, title, text)
+        entity_type = result.get("entity_type", "other")
+        data = result.get("data", {}) or {}
+
+        if entity_type in ("startup", "investor") and not data.get("country"):
+            data["country"] = find_country(text)
+
+        data["entity_type"] = entity_type
+        data["date"] = date
+        data["source_article"] = {
+            "url": url,
+            "title": title,
+            "content": text,
+        }
+
+        return data
 
     except Exception as e:
         print(f"[ERROR] {url}: {e}")
