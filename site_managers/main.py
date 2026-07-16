@@ -1,114 +1,653 @@
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from pathlib import Path
 import json
 import sys
+from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 from crawler import get_article_links
-from extractor import find_country
 from llm import llm_extract
 from scraper import scrape_article
 
 
+
+# ==================================
+# CONFIG
+# ==================================
+
 BASE_URL = "https://managers.tn/category/startup/"
+
 MAX_WORKERS = 3
+
+
 ROOT_DIR = Path(__file__).resolve().parent
+
 STORAGE_DIR = ROOT_DIR / "storage"
 
 
+
+
+
+# ==================================
+# PROCESS ARTICLE
+# ==================================
+
 def process_article(url):
+
     try:
-        text, date = scrape_article(url)
-        if not text:
+
+        print("\n[SCRAPE]", url)
+
+
+        result = scrape_article(url)
+
+
+        if not result:
+
             return None
+
+
+        text, date = result
+
+
+        if not text:
+
+            return None
+
+
 
         title = text.split(".")[0][:250]
 
-        result = llm_extract(url, title, text)
-        entity_type = result.get("entity_type", "other")
-        data = result.get("data", {}) or {}
 
-        if entity_type in ("startup", "investor") and not data.get("country"):
-            data["country"] = find_country(text)
+        print(
+            "[LLM]",
+            title
+        )
 
-        data["entity_type"] = entity_type
-        data["date"] = date
+
+        data = llm_extract(
+
+            url=url,
+
+            title=title,
+
+            text=text,
+
+            date=date
+
+        )
+
+
+        if not data.get(
+            "relevant",
+            False
+        ):
+
+            print(
+                "❌ NOT RELEVANT"
+            )
+
+            return None
+
+
+
+        data["source"] = url
+
+
         data["source_article"] = {
+
             "url": url,
+
             "title": title,
-            "content": text,
+
+            "content": text
+
         }
+
+
+
+        print(
+            "✅ SAVED:",
+            data.get("category")
+        )
+
 
         return data
 
+
+
     except Exception as e:
-        print(f"[ERROR] {url}: {e}")
+
+
+        print(
+            "[PROCESS ERROR]",
+            url,
+            e
+        )
+
+
         return None
 
 
-def save_json(path, data):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
 
 
-def main():
-    print("START MANAGERS PIPELINE")
 
-    if len(sys.argv) > 1:
-        mode = sys.argv[1].strip().lower()
-    else:
-        mode = input("Mode (20 / full): ").strip().lower()
 
-    links = get_article_links(BASE_URL)
+# ==================================
+# SAVE JSON
+# ==================================
 
-    if mode == "20":
-        links = links[:20]
-        print("TEST MODE")
-    else:
-        print("FULL MODE")
+def save_json(filename, data):
 
-    print(f"Total links: {len(links)}")
-    print(f"Workers: {MAX_WORKERS}")
+
+    STORAGE_DIR.mkdir(
+        exist_ok=True
+    )
+
+
+    path = STORAGE_DIR / filename
+
+
+
+    with open(
+
+        path,
+
+        "w",
+
+        encoding="utf-8"
+
+    ) as f:
+
+
+        json.dump(
+
+            data,
+
+            f,
+
+            indent=4,
+
+            ensure_ascii=False
+
+        )
+
+
+    print(
+        "SAVED:",
+        path
+    )
+
+
+
+
+
+
+# ==================================
+# REMOVE DUPLICATES
+# ==================================
+
+def remove_duplicates(data, key):
+
+
+    seen = set()
+
+    result = []
+
+
+
+    for item in data:
+
+
+        value = item.get(key)
+
+
+
+        if isinstance(value, dict):
+
+            value = value.get(
+                "name",
+                ""
+            )
+
+
+
+        if isinstance(value, list):
+
+            value = str(value)
+
+
+
+        if value and value not in seen:
+
+
+            seen.add(value)
+
+            result.append(item)
+
+
+
+    return result
+
+
+
+
+
+
+# ==================================
+# EXTRACT ENTITIES
+# ==================================
+
+def extract_entities(articles):
+
 
     startups = []
+
     investors = []
-    others = []
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(process_article, url): url for url in links}
 
-        for completed, future in enumerate(as_completed(futures), start=1):
+
+    for article in articles:
+
+
+        entities = article.get(
+            "entities",
+            {}
+        )
+
+
+
+        # ==========================
+        # STARTUPS
+        # ==========================
+
+
+        for startup in entities.get(
+            "startups",
+            []
+        ):
+
+
+            if isinstance(startup, dict):
+
+                startup_name = startup.get(
+                    "name",
+                    ""
+                )
+
+            else:
+
+                startup_name = startup
+
+
+
+            if startup_name:
+
+
+                startups.append({
+
+                    "name": startup_name,
+
+
+                    "country": article.get(
+                        "country",
+                        ""
+                    ),
+
+
+                    "summary": article.get(
+                        "summary",
+                        ""
+                    ),
+
+
+                    "category": article.get(
+                        "category",
+                        ""
+                    ),
+
+
+                    "funding": article.get(
+                        "funding",
+                        {}
+                    ),
+
+
+                    "metrics": article.get(
+                        "metrics",
+                        {}
+                    ),
+
+
+                    "source": article.get(
+                        "source",
+                        ""
+                    ),
+
+
+                    "article_title": article.get(
+                        "title",
+                        ""
+                    )
+
+                })
+
+
+
+
+
+
+        # ==========================
+        # INVESTORS
+        # ==========================
+
+
+        for investor in entities.get(
+            "investors",
+            []
+        ):
+
+
+            if isinstance(investor, dict):
+
+                investor_name = investor.get(
+                    "name",
+                    ""
+                )
+
+            else:
+
+                investor_name = investor
+
+
+
+            if investor_name:
+
+
+                investors.append({
+
+                    "name": investor_name,
+
+
+                    "country": article.get(
+                        "country",
+                        ""
+                    ),
+
+
+                    "summary": article.get(
+                        "summary",
+                        ""
+                    ),
+
+
+                    "category": article.get(
+                        "category",
+                        ""
+                    ),
+
+
+                    "investments": {
+
+
+                        "startups": entities.get(
+                            "startups",
+                            []
+                        ),
+
+
+                        "funding": article.get(
+                            "funding",
+                            {}
+                        )
+
+                    },
+
+
+                    "source": article.get(
+                        "source",
+                        ""
+                    ),
+
+
+                    "article_title": article.get(
+                        "title",
+                        ""
+                    )
+
+                })
+
+
+
+
+
+    startups = remove_duplicates(
+        startups,
+        "name"
+    )
+
+
+    investors = remove_duplicates(
+        investors,
+        "name"
+    )
+
+
+
+    return startups, investors
+
+
+
+
+
+
+
+# ==================================
+# MAIN
+# ==================================
+
+# ==================================
+# MAIN
+# ==================================
+
+def main():
+
+    print(
+        "🚀 AFRICA STARTUP NEWS PIPELINE"
+    )
+
+
+    # ==============================
+    # MODE
+    # ==============================
+
+    if len(sys.argv) > 1:
+
+        mode = sys.argv[1]
+
+    else:
+
+        mode = input(
+            "Mode (20/full): "
+        )
+
+
+
+    # ==============================
+    # GET URLS
+    # ==============================
+
+    links = get_article_links(
+        BASE_URL
+    )
+
+
+
+    if mode == "20":
+
+        links = links[:20]
+
+        print(
+            "TEST MODE"
+        )
+
+    else:
+
+        print(
+            "FULL MODE"
+        )
+
+
+
+    print(
+        "TOTAL URLS:",
+        len(links)
+    )
+
+
+
+    # ==============================
+    # PROCESS ARTICLES
+    # ==============================
+
+    articles = []
+
+
+
+    with ThreadPoolExecutor(
+        max_workers=MAX_WORKERS
+    ) as executor:
+
+
+        futures = {
+
+
+            executor.submit(
+                process_article,
+                url
+            ): url
+
+
+            for url in links
+
+        }
+
+
+
+        for i, future in enumerate(
+            as_completed(futures),
+            start=1
+        ):
+
+
             url = futures[future]
-            print(f"[{completed}/{len(links)}] Done: {url}")
+
+
+            print(
+                f"[{i}/{len(links)}]"
+            )
+
 
             try:
+
                 data = future.result()
-                if not data:
-                    continue
 
-                entity_type = data.get("entity_type", "other")
 
-                if entity_type == "startup":
-                    startups.append(data)
-                elif entity_type == "investor":
-                    investors.append(data)
-                else:
-                    others.append(data)
+                if data:
+
+                    # Tous les articles startup/funding/investor
+                    articles.append(data)
+
+
 
             except Exception as e:
-                print(f"[PROCESS ERROR] {url}: {e}")
 
-    save_json(STORAGE_DIR / "startups.json", startups)
-    save_json(STORAGE_DIR / "investors.json", investors)
-    save_json(STORAGE_DIR / "articles.json", others)
+                print(
+                    "[ERROR]",
+                    e
+                )
 
-    print("\n================================")
-    print("DONE")
-    print("STARTUPS :", len(startups))
-    print("INVESTORS:", len(investors))
-    print("OTHERS   :", len(others))
-    print("================================")
+
+
+    # ==============================
+    # SAVE ALL ARTICLES FIRST
+    # ==============================
+
+    print(
+        "\nTOTAL ARTICLES:",
+        len(articles)
+    )
+
+
+    save_json(
+        "articles.json",
+        articles
+    )
+
+
+
+    # ==============================
+    # EXTRACT STARTUPS + INVESTORS
+    # ==============================
+
+    startups, investors = extract_entities(
+        articles
+    )
+
+
+
+    # ==============================
+    # SAVE STARTUPS
+    # ==============================
+
+    save_json(
+        "startups.json",
+        startups
+    )
+
+
+
+    # ==============================
+    # SAVE INVESTORS
+    # ==============================
+
+    save_json(
+        "investors.json",
+        investors
+    )
+
+
+
+    # ==============================
+    # STATISTICS
+    # ==============================
+
+    print("\n====================")
+
+
+    print(
+        "ARTICLES:",
+        len(articles)
+    )
+
+
+    print(
+        "STARTUPS:",
+        len(startups)
+    )
+
+
+    print(
+        "INVESTISSEURS:",
+        len(investors)
+    )
+
+
+    print("====================")
+
+
+
 
 
 if __name__ == "__main__":
+
     main()
