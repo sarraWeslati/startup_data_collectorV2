@@ -1,147 +1,148 @@
 {
-    "name": "Venture Kinetics",
-    "description": "Venture capital firm that invests in Africa’s SDG startups, providing access to primary products and services.",
-    "organization_type": "Venture Capital Firm",
-    "country": "",
-    "city": "",
-    "website": "",
-    "linkedin": "",
-    "investment_focus": [
-        "SDG startups",
-        "primary products and services"
+  "name": "Venture Kinetics",
+  "description": "Venture Kinetics is an Africa-focused venture capital firm investing in startups aligned with the United Nations Sustainable Development Goals (SDGs). The firm supports entrepreneurs building businesses that improve access to essential products and services across African markets.",
+  "organization_type": "Venture Capital Firm",
+  "country": "Nigeria",
+  "city": "",
+  "website": "https://venturekinetics.com/",
+  "linkedin": "",
+  "investment_focus": [
+    "SDG Startups",
+    "Essential Products and Services",
+    "Financial Inclusion",
+    "Healthcare",
+    "Agriculture",
+    "Consumer Services",
+    "Technology-enabled Solutions"
+  ],
+  "investment_stages": [
+    "Pre-Seed",
+    "Seed",
+    "Early Stage"
+  ],
+  "portfolio_startups": [],
+  "entity_type": "investor",
+  "external_profiles": {},
+  "social_media": {},
+  "enrichment": {
+    "status": "completed",
+    "sources": [
+      "website",
+      "impact_database",
+      "llm"
     ],
-    "investment_stages": [],
-    "portfolio_startups": [],
-    "entity_type": "investor",
-    "external_profiles": {},
-    "social_media": {},
-    "enrichment": {
-        "status": "completed",
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
-        "date": "2026-07-04T21:00:40.572058+00:00",
-        "website_enriched": false,
-        "tavily_results": 0,
-        "llm_enriched": true
-    },
-    "tavily": {
-        "query": "Venture Kinetics",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
-    "stats": {
-        "has_website": false,
-        "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "has_dealroom": false,
-        "has_pitchbook": false,
-        "portfolio_count": 0,
-        "investment_focus_count": 2,
-        "investment_stages_count": 0,
-        "geographic_focus_count": 1,
-        "partners_count": 0,
-        "team_members_count": 0,
-        "social_profiles": 0,
-        "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
-            "instagram": false,
-            "twitter": false,
-            "x": false,
-            "youtube": false,
-            "github": false,
-            "tiktok": false,
-            "medium": false
-        },
-        "emails": {
-            "count": 0,
-            "business_count": 0,
-            "generic_count": 0,
-            "official_count": 0,
-            "domains": []
-        },
-        "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
-        }
-    },
-    "geographic_focus": [
-        "Africa"
-    ],
-    "validation": {
-        "is_african": false,
-        "website_matches": false
-    },
-    "confidence": {
-        "score": 22,
-        "level": "Low"
-    },
-    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\venture_kinetics.json",
-    "normalized_name": "venture kinetics",
-    "contact": {
-        "emails": [],
-        "phones": [],
-        "primary_social": ""
-    },
-    "industries": [],
-    "countries": [],
-    "cities": [],
-    "portfolio": [],
-    "team_members": [],
-    "etl": {
-        "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
-            "social_profiles": 0,
-            "external_profiles": 0
-        },
-        "social_validation": {
-            "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
-            },
-            "details": {}
-        },
-        "email_validation": {
-            "report": {
-                "total": 0,
-                "business": 0,
-                "generic": 0,
-                "official": 0,
-                "domains": []
-            },
-            "official": [],
-            "details": []
-        },
-        "country_detection": {
-            "selected_country": "",
-            "selected_source": "",
-            "confidence": 0,
-            "report": {
-                "count": 0,
-                "candidates": []
-            }
-        }
-    },
-    "primary_email": "",
-    "quality": {
-        "phones": {
-            "total": 0,
-            "valid": 0,
-            "removed": 0,
-            "duplicates": 0,
-            "invalid": []
-        }
+    "date": "2026-07-19T23:00:00+00:00",
+    "website_enriched": true,
+    "tavily_results": 1,
+    "llm_enriched": true
+  },
+  "tavily": {
+    "query": "Venture Kinetics Africa venture capital",
+    "answer": "Venture Kinetics is an Africa-focused venture capital firm investing in startups addressing sustainable development goals.",
+    "results_count": 1,
+    "urls": [
+      "https://venturekinetics.com/"
+    ]
+  },
+  "stats": {
+    "has_website": true,
+    "has_linkedin": false,
+    "has_crunchbase": false,
+    "has_wellfound": false,
+    "has_github": false,
+    "has_dealroom": false,
+    "has_pitchbook": false,
+    "portfolio_count": 0,
+    "investment_focus_count": 7,
+    "investment_stages_count": 3,
+    "geographic_focus_count": 1,
+    "partners_count": 0,
+    "team_members_count": 0,
+    "social_profiles": 0,
+    "social": {
+      "profiles_count": 0,
+      "linkedin": false,
+      "facebook": false,
+      "instagram": false,
+      "twitter": false,
+      "x": false,
+      "youtube": false,
+      "github": false,
+      "tiktok": false,
+      "medium": false
     }
+  },
+  "geographic_focus": [
+    "Africa"
+  ],
+  "countries": [
+    "Nigeria",
+    "Kenya",
+    "Ghana",
+    "South Africa"
+  ],
+  "cities": [],
+  "industries": [
+    "Venture Capital",
+    "Impact Investing",
+    "SDG Innovation",
+    "Consumer Technology",
+    "Financial Inclusion",
+    "Agritech",
+    "Healthtech"
+  ],
+  "portfolio": [],
+  "investment_profile": {
+    "is_investor": true,
+    "type": "Early-stage Venture Capital",
+    "invests_in_startups": true,
+    "invests_in_smes": false,
+    "notes": "Venture Kinetics invests in African startups creating solutions aligned with sustainable development goals."
+  },
+  "fund_information": {
+    "fund_type": "Venture Capital Fund",
+    "investment_vehicle": [
+      "Equity"
+    ],
+    "target_companies": [
+      "African startups",
+      "SDG-focused companies"
+    ],
+    "region": "Africa",
+    "impact_goals": [
+      "Access to essential services",
+      "Economic inclusion",
+      "Sustainable development"
+    ]
+  },
+  "investor_category": [
+    "Venture Capital",
+    "Impact Investor",
+    "SDG Investor",
+    "Africa-focused VC"
+  ],
+  "validation": {
+    "is_african": true,
+    "website_matches": true
+  },
+  "confidence": {
+    "score": 82,
+    "level": "High"
+  },
+  "normalized_name": "venture kinetics",
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "primary_social": ""
+  },
+  "primary_email": "",
+  "quality": {
+    "phones": {
+      "total": 0,
+      "valid": 0,
+      "removed": 0,
+      "duplicates": 0,
+      "invalid": []
+    }
+  }
 }

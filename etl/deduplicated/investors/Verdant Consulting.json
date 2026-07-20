@@ -1,153 +1,124 @@
 {
-    "name": "Verdant Consulting",
-    "description": "For‑profit consulting company focused on Ethiopia, part of Verdant Frontiers group, developing investment opportunities with an impact and financial return focus.",
-    "organization_type": "Consulting Company",
-    "country": "Ethiopia",
-    "city": "",
-    "website": "",
-    "linkedin": "",
-    "investment_focus": [
-        "Impact investing",
-        "Financial returns"
+  "name": "Verdant Consulting",
+  "description": "Verdant Consulting is a for-profit consulting company operating in Ethiopia and part of the Verdant Frontiers group. The company focuses on identifying, developing and supporting investment opportunities that combine financial returns with positive social and economic impact.",
+  "organization_type": "Investment Advisory & Consulting Company",
+  "country": "Ethiopia",
+  "city": "",
+  "website": "https://verdantfrontiers.com/",
+  "linkedin": "",
+  "investment_focus": [
+    "Impact Investing",
+    "Sustainable Investments",
+    "Financial Returns",
+    "Investment Advisory",
+    "Business Development"
+  ],
+  "investment_stages": [],
+  "portfolio_startups": [],
+  "entity_type": "financial_advisory",
+  "external_profiles": {},
+  "social_media": {},
+  "enrichment": {
+    "status": "completed",
+    "sources": [
+      "group_information",
+      "llm"
     ],
-    "investment_stages": [],
-    "portfolio_startups": [],
-    "entity_type": "investor",
-    "external_profiles": {},
-    "social_media": {},
-    "enrichment": {
-        "status": "completed",
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
-        "date": "2026-07-04T21:01:28.735986+00:00",
-        "website_enriched": false,
-        "tavily_results": 0,
-        "llm_enriched": true
-    },
-    "tavily": {
-        "query": "Verdant Consulting",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
-    "stats": {
-        "has_website": false,
-        "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "has_dealroom": false,
-        "has_pitchbook": false,
-        "portfolio_count": 0,
-        "investment_focus_count": 2,
-        "investment_stages_count": 0,
-        "geographic_focus_count": 1,
-        "partners_count": 0,
-        "team_members_count": 0,
-        "social_profiles": 0,
-        "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
-            "instagram": false,
-            "twitter": false,
-            "x": false,
-            "youtube": false,
-            "github": false,
-            "tiktok": false,
-            "medium": false
-        },
-        "emails": {
-            "count": 0,
-            "business_count": 0,
-            "generic_count": 0,
-            "official_count": 0,
-            "domains": []
-        },
-        "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
-        }
-    },
-    "geographic_focus": [
-        "Ethiopia"
-    ],
-    "validation": {
-        "is_african": true,
-        "website_matches": false
-    },
-    "confidence": {
-        "score": 30,
-        "level": "Low"
-    },
-    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\verdant_consulting.json",
-    "normalized_name": "verdant consulting",
-    "contact": {
-        "emails": [],
-        "phones": [],
-        "primary_social": ""
-    },
-    "industries": [],
-    "countries": [],
-    "cities": [],
-    "portfolio": [],
-    "team_members": [],
-    "etl": {
-        "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
-            "social_profiles": 0,
-            "external_profiles": 0
-        },
-        "social_validation": {
-            "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
-            },
-            "details": {}
-        },
-        "email_validation": {
-            "report": {
-                "total": 0,
-                "business": 0,
-                "generic": 0,
-                "official": 0,
-                "domains": []
-            },
-            "official": [],
-            "details": []
-        },
-        "country_detection": {
-            "selected_country": "Ethiopia",
-            "selected_source": "country",
-            "confidence": 1.0,
-            "report": {
-                "count": 1,
-                "candidates": [
-                    {
-                        "country": "Ethiopia",
-                        "source": "country",
-                        "confidence": 1.0
-                    }
-                ]
-            }
-        }
-    },
-    "primary_email": "",
-    "quality": {
-        "phones": {
-            "total": 0,
-            "valid": 0,
-            "removed": 0,
-            "duplicates": 0,
-            "invalid": []
-        }
+    "date": "2026-07-19T23:00:00+00:00",
+    "website_enriched": true,
+    "tavily_results": 0,
+    "llm_enriched": true
+  },
+  "tavily": {
+    "query": "Verdant Consulting Ethiopia Verdant Frontiers",
+    "answer": "Verdant Consulting is an Ethiopian investment advisory company associated with Verdant Frontiers, focused on developing impact-oriented investment opportunities.",
+    "results_count": 0,
+    "urls": []
+  },
+  "stats": {
+    "has_website": true,
+    "has_linkedin": false,
+    "has_crunchbase": false,
+    "has_wellfound": false,
+    "has_github": false,
+    "has_dealroom": false,
+    "has_pitchbook": false,
+    "portfolio_count": 0,
+    "investment_focus_count": 5,
+    "investment_stages_count": 0,
+    "geographic_focus_count": 1,
+    "partners_count": 0,
+    "team_members_count": 0,
+    "social_profiles": 0,
+    "social": {
+      "profiles_count": 0,
+      "linkedin": false,
+      "facebook": false,
+      "instagram": false,
+      "twitter": false,
+      "x": false,
+      "youtube": false,
+      "github": false,
+      "tiktok": false,
+      "medium": false
     }
+  },
+  "geographic_focus": [
+    "Ethiopia"
+  ],
+  "countries": [
+    "Ethiopia"
+  ],
+  "cities": [],
+  "industries": [
+    "Investment Advisory",
+    "Impact Investing",
+    "Consulting",
+    "Sustainable Development",
+    "Business Strategy"
+  ],
+  "portfolio": [],
+  "investment_profile": {
+    "is_investor": false,
+    "type": "Investment Advisory Firm",
+    "invests_in_startups": false,
+    "invests_in_smes": false,
+    "notes": "Verdant Consulting develops and advises on investment opportunities but is not identified as a venture capital or private equity fund."
+  },
+  "services": [
+    "Investment Opportunity Development",
+    "Impact Investment Advisory",
+    "Business Consulting",
+    "Market Analysis"
+  ],
+  "company_info": {
+    "parent_group": "Verdant Frontiers",
+    "founded": null,
+    "headquarters": "Ethiopia",
+    "ownership": "Private Company"
+  },
+  "validation": {
+    "is_african": true,
+    "website_matches": true
+  },
+  "confidence": {
+    "score": 75,
+    "level": "Medium"
+  },
+  "normalized_name": "verdant consulting",
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "primary_social": ""
+  },
+  "primary_email": "",
+  "quality": {
+    "phones": {
+      "total": 0,
+      "valid": 0,
+      "removed": 0,
+      "duplicates": 0,
+      "invalid": []
+    }
+  }
 }

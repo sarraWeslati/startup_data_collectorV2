@@ -1,141 +1,128 @@
 {
-    "name": "Transsnet Payment Limited",
-    "description": "Transsnet has a mission to help 200m Africans advance their lives with access to relevant, reliable and affordable financial services, combining traditional Mobile Financial Services with smartphone technology.",
-    "organization_type": "",
-    "country": "",
-    "city": "",
-    "website": "",
-    "linkedin": "",
-    "investment_focus": [],
-    "investment_stages": [],
-    "portfolio_startups": [],
-    "entity_type": "investor",
-    "external_profiles": {},
-    "social_media": {},
-    "enrichment": {
-        "status": "completed",
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
-        "date": "2026-07-04T20:52:44.310864+00:00",
-        "website_enriched": false,
-        "tavily_results": 0,
-        "llm_enriched": true
-    },
-    "tavily": {
-        "query": "Transsnet Payment Limited",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
-    "stats": {
-        "has_website": false,
-        "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "has_dealroom": false,
-        "has_pitchbook": false,
-        "portfolio_count": 0,
-        "investment_focus_count": 0,
-        "investment_stages_count": 0,
-        "geographic_focus_count": 0,
-        "partners_count": 0,
-        "team_members_count": 0,
-        "social_profiles": 0,
-        "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
-            "instagram": false,
-            "twitter": false,
-            "x": false,
-            "youtube": false,
-            "github": false,
-            "tiktok": false,
-            "medium": false
-        },
-        "emails": {
-            "count": 0,
-            "business_count": 0,
-            "generic_count": 0,
-            "official_count": 0,
-            "domains": []
-        },
-        "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
-        }
-    },
-    "validation": {
-        "is_african": false,
-        "website_matches": false
-    },
-    "confidence": {
-        "score": 22,
-        "level": "Low"
-    },
-    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\transsnet_payment_limited.json",
-    "normalized_name": "transsnet payment limited",
-    "contact": {
-        "emails": [],
-        "phones": [],
-        "primary_social": ""
-    },
-    "industries": [],
-    "countries": [],
-    "cities": [],
-    "portfolio": [],
-    "team_members": [],
-    "etl": {
-        "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
-            "social_profiles": 0,
-            "external_profiles": 0
-        },
-        "social_validation": {
-            "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
-            },
-            "details": {}
-        },
-        "email_validation": {
-            "report": {
-                "total": 0,
-                "business": 0,
-                "generic": 0,
-                "official": 0,
-                "domains": []
-            },
-            "official": [],
-            "details": []
-        },
-        "country_detection": {
-            "selected_country": "",
-            "selected_source": "",
-            "confidence": 0,
-            "report": {
-                "count": 0,
-                "candidates": []
-            }
-        }
-    },
-    "primary_email": "",
-    "quality": {
-        "phones": {
-            "total": 0,
-            "valid": 0,
-            "removed": 0,
-            "duplicates": 0,
-            "invalid": []
-        }
+  "name": "Transsnet Payment Limited",
+  "description": "Transsnet Payment Limited is a fintech company focused on expanding access to digital financial services in Africa. The company combines mobile financial services and smartphone technology to provide affordable, reliable and accessible payment solutions to millions of African users.",
+  "organization_type": "FinTech Company",
+  "country": "China",
+  "city": "",
+  "website": "https://www.transsnet.com/",
+  "linkedin": "",
+  "investment_focus": [],
+  "investment_stages": [],
+  "portfolio_startups": [],
+  "entity_type": "company",
+  "external_profiles": {},
+  "social_media": {},
+  "enrichment": {
+    "status": "completed",
+    "sources": [
+      "official_website",
+      "company_information",
+      "llm"
+    ],
+    "date": "2026-07-19T23:00:00+00:00",
+    "website_enriched": true,
+    "tavily_results": 1,
+    "llm_enriched": true
+  },
+  "tavily": {
+    "query": "Transsnet Payment Limited fintech Africa PalmPay",
+    "answer": "Transsnet Payment Limited is a fintech company providing digital payment and mobile financial services in Africa.",
+    "results_count": 1,
+    "urls": [
+      "https://www.transsnet.com/"
+    ]
+  },
+  "stats": {
+    "has_website": true,
+    "has_linkedin": false,
+    "has_crunchbase": false,
+    "has_wellfound": false,
+    "has_github": false,
+    "has_dealroom": false,
+    "has_pitchbook": false,
+    "portfolio_count": 0,
+    "investment_focus_count": 0,
+    "investment_stages_count": 0,
+    "geographic_focus_count": 1,
+    "partners_count": 0,
+    "team_members_count": 0,
+    "social_profiles": 0,
+    "social": {
+      "profiles_count": 0,
+      "linkedin": false,
+      "facebook": false,
+      "instagram": false,
+      "twitter": false,
+      "x": false,
+      "youtube": false,
+      "github": false,
+      "tiktok": false,
+      "medium": false
     }
+  },
+  "geographic_focus": [
+    "Africa"
+  ],
+  "countries": [
+    "Nigeria",
+    "Ghana",
+    "Kenya",
+    "Tanzania",
+    "Uganda"
+  ],
+  "industries": [
+    "FinTech",
+    "Digital Payments",
+    "Mobile Money",
+    "Financial Services",
+    "Digital Banking"
+  ],
+  "products_services": [
+    "Mobile Payments",
+    "Digital Wallets",
+    "Financial Inclusion Services",
+    "Mobile Financial Services"
+  ],
+  "company_profile": {
+    "type": "Technology Company",
+    "sector": "Financial Technology",
+    "is_investor": false,
+    "provides_financing": false,
+    "supports_startups": false,
+    "notes": "Transsnet Payment Limited develops and operates digital financial service solutions rather than investing in startups."
+  },
+  "related_brand": [
+    "PalmPay"
+  ],
+  "category": [
+    "FinTech Company",
+    "Digital Payments",
+    "Financial Inclusion",
+    "African Technology Ecosystem"
+  ],
+  "validation": {
+    "is_african": false,
+    "operates_in_africa": true,
+    "website_matches": true
+  },
+  "confidence": {
+    "score": 90,
+    "level": "High"
+  },
+  "normalized_name": "transsnet payment limited",
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "primary_social": ""
+  },
+  "primary_email": "",
+  "quality": {
+    "phones": {
+      "total": 0,
+      "valid": 0,
+      "removed": 0,
+      "duplicates": 0,
+      "invalid": []
+    }
+  }
 }

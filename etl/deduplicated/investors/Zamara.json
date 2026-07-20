@@ -1,141 +1,124 @@
 {
-    "name": "Zamara",
-    "description": "Zamara is the largest pension fund administrator in East and Central Africa. Originally known as Alexander Forbes and focusing on actuarial services the organization has grown to be a one stop financial services partner offering, pension, insurance and actuarial services to the region.",
-    "organization_type": "pension fund administrator",
-    "country": "",
-    "city": "",
-    "website": "",
-    "linkedin": "",
-    "investment_focus": [],
-    "investment_stages": [],
-    "portfolio_startups": [],
-    "entity_type": "investor",
-    "external_profiles": {},
-    "social_media": {},
-    "enrichment": {
-        "status": "completed",
-        "sources": [
-            "website",
-            "tavily",
-            "llm"
-        ],
-        "date": "2026-07-04T21:04:04.553088+00:00",
-        "website_enriched": false,
-        "tavily_results": 0,
-        "llm_enriched": true
-    },
-    "tavily": {
-        "query": "Zamara",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
-    "stats": {
-        "has_website": false,
-        "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "has_dealroom": false,
-        "has_pitchbook": false,
-        "portfolio_count": 0,
-        "investment_focus_count": 0,
-        "investment_stages_count": 0,
-        "geographic_focus_count": 0,
-        "partners_count": 0,
-        "team_members_count": 0,
-        "social_profiles": 0,
-        "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
-            "instagram": false,
-            "twitter": false,
-            "x": false,
-            "youtube": false,
-            "github": false,
-            "tiktok": false,
-            "medium": false
-        },
-        "emails": {
-            "count": 0,
-            "business_count": 0,
-            "generic_count": 0,
-            "official_count": 0,
-            "domains": []
-        },
-        "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
-        }
-    },
-    "validation": {
-        "is_african": false,
-        "website_matches": false
-    },
-    "confidence": {
-        "score": 22,
-        "level": "Low"
-    },
-    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\zamara.json",
-    "normalized_name": "zamara",
-    "contact": {
-        "emails": [],
-        "phones": [],
-        "primary_social": ""
-    },
-    "industries": [],
-    "countries": [],
-    "cities": [],
-    "portfolio": [],
-    "team_members": [],
-    "etl": {
-        "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
-            "social_profiles": 0,
-            "external_profiles": 0
-        },
-        "social_validation": {
-            "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
-            },
-            "details": {}
-        },
-        "email_validation": {
-            "report": {
-                "total": 0,
-                "business": 0,
-                "generic": 0,
-                "official": 0,
-                "domains": []
-            },
-            "official": [],
-            "details": []
-        },
-        "country_detection": {
-            "selected_country": "",
-            "selected_source": "",
-            "confidence": 0,
-            "report": {
-                "count": 0,
-                "candidates": []
-            }
-        }
-    },
-    "primary_email": "",
-    "quality": {
-        "phones": {
-            "total": 0,
-            "valid": 0,
-            "removed": 0,
-            "duplicates": 0,
-            "invalid": []
-        }
+  "name": "Zamara",
+  "description": "Zamara is a pan-African financial services firm specializing in pension administration, actuarial services, insurance, reinsurance brokerage and consulting services. Originally operating as Alexander Forbes and previously known for actuarial services, the organization has expanded into a regional financial services partner across Africa.",
+  "organization_type": "financial services company / pension fund administrator",
+  "country": "Kenya",
+  "city": "Nairobi",
+  "website": "https://zamaragroup.com/",
+  "linkedin": "https://www.linkedin.com/company/zamara/",
+  "investment_focus": [],
+  "investment_stages": [],
+  "portfolio_startups": [],
+  "entity_type": "investor",
+  "external_profiles": {
+    "linkedin": "https://www.linkedin.com/company/zamara/"
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/zamara/"
+  },
+  "enrichment": {
+    "status": "completed",
+    "sources": [
+      "website",
+      "linkedin",
+      "llm"
+    ],
+    "date": "2026-07-19T23:00:00+00:00",
+    "website_enriched": true,
+    "tavily_results": 1,
+    "llm_enriched": true
+  },
+  "tavily": {
+    "query": "Zamara",
+    "answer": "Zamara is a pan-African financial services company headquartered in Nairobi, Kenya, providing pension administration, actuarial, insurance and consulting services.",
+    "results_count": 1,
+    "urls": [
+      "https://zamaragroup.com/"
+    ]
+  },
+  "stats": {
+    "has_website": true,
+    "has_linkedin": true,
+    "has_crunchbase": false,
+    "has_wellfound": false,
+    "has_github": false,
+    "has_dealroom": false,
+    "has_pitchbook": false,
+    "portfolio_count": 0,
+    "investment_focus_count": 0,
+    "investment_stages_count": 0,
+    "geographic_focus_count": 7,
+    "partners_count": 0,
+    "team_members_count": 0,
+    "social_profiles": 1,
+    "social": {
+      "profiles_count": 1,
+      "linkedin": true,
+      "facebook": false,
+      "instagram": false,
+      "twitter": false,
+      "x": false,
+      "youtube": false,
+      "github": false,
+      "tiktok": false,
+      "medium": false
     }
+  },
+  "validation": {
+    "is_african": true,
+    "website_matches": true
+  },
+  "confidence": {
+    "score": 85,
+    "level": "High"
+  },
+  "normalized_name": "zamara",
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "primary_social": "linkedin"
+  },
+  "industries": [
+    "Pensions",
+    "Financial Services",
+    "Insurance",
+    "Actuarial Services",
+    "Consulting"
+  ],
+  "countries": [
+    "Kenya",
+    "Uganda",
+    "Malawi",
+    "Tanzania",
+    "Rwanda",
+    "Zambia",
+    "UAE"
+  ],
+  "cities": [
+    "Nairobi"
+  ],
+  "portfolio": [],
+  "team_members": [],
+  "investment_profile": {
+    "is_investor": false,
+    "type": "pension fund administrator",
+    "invests_in_startups": false,
+    "notes": "Zamara provides pension, insurance and actuarial financial services. No evidence of venture capital investment activity."
+  },
+  "services": [
+    "Pension Administration",
+    "Corporate Trusteeship",
+    "Actuarial Services",
+    "General Insurance",
+    "Medical Insurance",
+    "Travel Insurance",
+    "Insurance Brokerage Services",
+    "Financial Consulting"
+  ],
+  "company_info": {
+    "founded": 1994,
+    "employees": "201-500",
+    "headquarters": "Nairobi, Kenya",
+    "ownership": "Privately Held"
+  }
 }
