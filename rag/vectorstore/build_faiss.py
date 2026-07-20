@@ -6,18 +6,58 @@ from pathlib import Path
 
 
 
-EMBEDDINGS_FILE = Path("../data/embeddings.npy")
+# =====================================
+# PATHS
+# =====================================
 
-CHUNKS_FILE = Path("../data/chunks.json")
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-INDEX_FILE = Path("./index.faiss")
+EMBEDDINGS_FILE = (
+    BASE_DIR /
+    "embeddings" /
+    "embeddings.npy"
+)
 
-METADATA_FILE = Path("./metadata.json")
 
+CHUNKS_FILE = (
+    BASE_DIR /
+    "data" /
+    "chunks.json"
+)
+
+
+OUTPUT_DIR = (
+    BASE_DIR /
+    "vectorstore"
+)
+
+
+INDEX_FILE = (
+    OUTPUT_DIR /
+    "index.faiss"
+)
+
+
+METADATA_FILE = (
+    OUTPUT_DIR /
+    "metadata.json"
+)
+
+
+
+# =====================================
+# MAIN
+# =====================================
 
 
 def main():
+
+
+    OUTPUT_DIR.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
 
     print("Loading embeddings...")
@@ -25,6 +65,17 @@ def main():
 
     embeddings = np.load(
         EMBEDDINGS_FILE
+    )
+
+
+    embeddings = embeddings.astype(
+        "float32"
+    )
+
+
+    print(
+        "Embedding shape:",
+        embeddings.shape
     )
 
 
@@ -47,6 +98,12 @@ def main():
     )
 
 
+    print(
+        "Vectors indexed:",
+        index.ntotal
+    )
+
+
 
     faiss.write_index(
         index,
@@ -55,9 +112,20 @@ def main():
 
 
     print(
-        "FAISS saved"
+        "FAISS saved:",
+        INDEX_FILE
     )
 
+
+
+    # -----------------------------
+    # Metadata
+    # -----------------------------
+
+
+    print(
+        "Loading chunks..."
+    )
 
 
     with open(
@@ -65,63 +133,44 @@ def main():
         encoding="utf-8"
     ) as f:
 
-        chunks=json.load(f)
+        chunks = json.load(f)
 
 
 
-    metadata=[]
+    metadata = []
 
 
-
-    for chunk in chunks:
-
-
-        meta = chunk.get(
-            "metadata",
-            {}
-        )
+    for i, chunk in enumerate(chunks):
 
 
         metadata.append(
 
             {
 
-                "chunk_id":
-                chunk["chunk_id"],
+                "index": i,
 
+
+                "chunk_id":
+                chunk.get(
+                    "chunk_id"
+                ),
+
+
+                # IMPORTANT
+                # garder le texte
 
                 "text":
-                chunk["text"],
+                chunk.get(
+                    "text",
+                    ""
+                ),
 
 
                 "metadata":
-
-                {
-
-                    "title":
-                    meta.get("title"),
-
-
-                    "date":
-                    meta.get("date"),
-
-
-                    "category":
-                    meta.get("category"),
-
-
-                    "sectors":
-                    meta.get("sectors"),
-
-
-                    "source_url":
-                    meta.get("source_url"),
-
-
-                    "chunk_number":
-                    meta.get("chunk_number")
-
-                }
+                chunk.get(
+                    "metadata",
+                    {}
+                )
 
             }
 
@@ -151,10 +200,18 @@ def main():
 
 
     print(
-        "Metadata saved"
+        "Metadata saved:",
+        len(metadata)
+    )
+
+
+    print(
+        "\nVECTOR DATABASE READY ✅"
     )
 
 
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
+
     main()

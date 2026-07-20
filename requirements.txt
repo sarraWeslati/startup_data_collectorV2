@@ -36,3 +36,4 @@ sentence-transformers
 faiss-cpu
 scipy
 numpy scikit-learn
+openai numpy

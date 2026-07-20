@@ -1,386 +1,1196 @@
 """
 Script 2 : Nettoyage & normalisation des données
-==================================================
-Prend en entrée merged_news.json (sortie du script 1) et produit clean_news.json.
+================================================
 
-Ce script :
-    - nettoie les textes (HTML, entités, espaces, caractères parasites)
-    - normalise les dates vers un format ISO unique (YYYY-MM-DD)
-    - normalise les pays (alias -> nom canonique, listes multi-pays, régions)
-    - normalise les secteurs/tags (vocabulaire unifié)
-    - supprime les articles vides ou inexploitables
-    - conserve toutes les métadonnées importantes (entités, montants, sources...)
+Input:
+    merged_news.json
 
-Usage :
-    python 02_clean_data.py
+Output:
+    clean_news.json
+
+Pipeline:
+    merged_news.json
+          |
+          v
+    nettoyage
+          |
+          v
+    normalisation
+          |
+          v
+    clean_news.json
+          |
+          v
+    RAG / Embeddings
 """
 
 import json
 import re
 import html
 import unicodedata
+
 from pathlib import Path
 from datetime import datetime
 from dateutil import parser as date_parser
 
-# ------------------------------------------------------------------
-# Configuration
-# ------------------------------------------------------------------
-INPUT_DIR = Path(__file__).parent
-INPUT_FILE = INPUT_DIR / "merged_news.json"
-OUTPUT_FILE = INPUT_DIR / "clean_news.json"
-
-MIN_CONTENT_LENGTH = 30  # en dessous de ce nombre de caractères, l'article est jugé vide/inexploitable
 
 
-# ------------------------------------------------------------------
-# 1. Nettoyage de texte
-# ------------------------------------------------------------------
+# ==========================================================
+# CONFIG
+# ==========================================================
+
+
+BASE_DIR = Path(__file__).parent
+
+INPUT_FILE = BASE_DIR / "merged_news.json"
+
+OUTPUT_FILE = BASE_DIR / "clean_news.json"
+
+
+MIN_CONTENT_LENGTH = 30
+
+
+
+# ==========================================================
+# TEXT CLEANING
+# ==========================================================
+
+
 HTML_TAG_RE = re.compile(r"<[^>]+>")
-MULTI_SPACE_RE = re.compile(r"[ \t]+")
-MULTI_NEWLINE_RE = re.compile(r"\n{2,}")
-CONTROL_CHARS_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
 
-# Caractères typographiques à uniformiser (guillemets, tirets, espaces insécables...)
+MULTI_SPACE_RE = re.compile(r"[ \t]+")
+
+CONTROL_RE = re.compile(r"[\x00-\x1f\x7f]")
+
+
 CHAR_REPLACEMENTS = {
-    "\u2018": "'", "\u2019": "'", "\u201c": '"', "\u201d": '"',
-    "\u2013": "-", "\u2014": "-", "\u00a0": " ", "\u200b": "",
-    "\ufeff": "",
+
+    "\u2018":"' ",
+    "\u2019":"' ",
+    "\u201c":'"',
+    "\u201d":'"',
+    "\u2013":"-",
+    "\u2014":"-",
+    "\u00a0":" ",
+    "\u200b":"",
+    "\ufeff":""
+
 }
 
 
-def clean_text(text: str) -> str:
-    """Nettoie une chaîne de texte : HTML, entités, caractères parasites, espaces."""
-    if not text:
+
+def clean_text(text):
+
+    if text is None:
         return ""
 
-    text = html.unescape(text)          # &amp; -> &, &#39; -> ', etc.
-    text = HTML_TAG_RE.sub(" ", text)   # supprime les balises HTML résiduelles
+    text = str(text)
 
+    # Decode HTML
+    text = html.unescape(text)
+
+    # Remove HTML
+    text = HTML_TAG_RE.sub(" ", text)
+
+    # Fix unicode characters
     for old, new in CHAR_REPLACEMENTS.items():
         text = text.replace(old, new)
 
-    text = CONTROL_CHARS_RE.sub("", text)
-    text = unicodedata.normalize("NFKC", text)  # normalise la représentation unicode
 
-    text = MULTI_SPACE_RE.sub(" ", text)
-    text = MULTI_NEWLINE_RE.sub("\n", text)
-    text = "\n".join(line.strip() for line in text.split("\n"))
-    text = text.strip()
-
-    return text
+    # Normalize unicode
+    text = unicodedata.normalize(
+        "NFKC",
+        text
+    )
 
 
-def clean_list(items: list[str]) -> list[str]:
-    """Nettoie une liste de chaînes (tags, montants, noms d'entités...) et supprime les vides/doublons."""
-    if not items:
+    # Remove control chars
+    text = CONTROL_RE.sub("", text)
+
+
+    # FIX apostrophes
+    # l' agriculture -> l'agriculture
+    text = re.sub(
+        r"\s+'\s*",
+        "'",
+        text
+    )
+
+
+    # FIX quotes
+    text = re.sub(
+        r'\s+"\s*',
+        '"',
+        text
+    )
+
+
+    # Remove multiple spaces
+    text = MULTI_SPACE_RE.sub(
+        " ",
+        text
+    )
+
+
+    return text.strip()
+
+
+def clean_list(items):
+
+    if not isinstance(items,list):
         return []
-    cleaned = []
-    seen = set()
-    for it in items:
-        c = clean_text(str(it))
-        key = c.lower()
-        if c and key not in seen:
-            cleaned.append(c)
-            seen.add(key)
-    return cleaned
 
 
-# ------------------------------------------------------------------
-# 2. Normalisation des dates
-# ------------------------------------------------------------------
-MONTHS_FR = {
-    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5,
-    "juin": 6, "juillet": 7, "août": 8, "aout": 8, "septembre": 9,
-    "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
+    result=[]
+
+    seen=set()
+
+
+    for item in items:
+
+
+        value=clean_text(item)
+
+
+        if value:
+
+
+            key=value.lower()
+
+
+            if key not in seen:
+
+                result.append(value)
+
+                seen.add(key)
+
+
+    return result
+
+
+
+
+# ==========================================================
+# ENTITIES CLEANING
+# ==========================================================
+
+
+
+def clean_entities(items):
+
+    """
+    Conserve les objets LLM :
+
+    {
+      name,
+      founders,
+      country,
+      sector
+    }
+
+    """
+
+    if not isinstance(items,list):
+
+        return []
+
+
+    result=[]
+
+    seen=set()
+
+
+    for item in items:
+
+
+        if isinstance(item,dict):
+
+
+            obj={}
+
+
+            for key,value in item.items():
+
+                if value in ["", None, []]:
+                 continue
+
+
+                if isinstance(value,list):
+
+                    obj[key]=clean_list(value)
+
+
+                elif isinstance(value,dict):
+
+                    obj[key]=value
+
+
+                else:
+
+                    obj[key]=clean_text(value)
+
+
+
+            signature=json.dumps(
+                obj,
+                sort_keys=True,
+                ensure_ascii=False
+            )
+
+
+
+            if signature not in seen:
+
+                result.append(obj)
+
+                seen.add(signature)
+
+
+
+        else:
+
+
+            value=clean_text(item)
+
+
+            if value and value.lower() not in seen:
+
+                result.append(value)
+
+                seen.add(
+                    value.lower()
+                )
+
+
+    return result
+
+
+
+
+# ==========================================================
+# DATE NORMALIZATION
+# ==========================================================
+
+
+
+UNKNOWN_DATE={
+    "",
+    "unknown",
+    "n/a",
+    "na",
+    "-",
+    "tbd"
 }
 
-NON_DATE_VALUES = {"", "not specified", "unknown", "n/a", "na", "-", "tbd"}
 
 
-def _try_fr_date(raw: str) -> datetime | None:
-    """Essaie de parser une date en français, ex: '26 juin 2026'."""
-    m = re.match(r"^(\d{1,2})\s+([a-zéû]+)\s+(\d{4})$", raw.strip().lower())
-    if m:
-        day, month_name, year = m.groups()
-        month = MONTHS_FR.get(month_name)
-        if month:
-            try:
-                return datetime(int(year), month, int(day))
-            except ValueError:
-                return None
-    return None
+MONTHS_FR={
+
+"janvier":1,
+"février":2,
+"fevrier":2,
+"mars":3,
+"avril":4,
+"mai":5,
+"juin":6,
+"juillet":7,
+"août":8,
+"aout":8,
+"septembre":9,
+"octobre":10,
+"novembre":11,
+"décembre":12,
+"decembre":12
+
+}
 
 
-def normalize_date(raw: str) -> dict:
-    """
-    Normalise une date brute (formats très hétérogènes) vers un format ISO.
 
-    Retourne un dict :
-        {
-          "date": "YYYY-MM-DD" | None,   # date normalisée (jour arbitraire=01 si inconnu)
-          "date_precision": "day" | "month" | "year" | "unknown"
+
+def normalize_date(raw):
+
+
+    raw=clean_text(raw)
+
+
+
+    if raw.lower() in UNKNOWN_DATE:
+
+        return {
+            "date":None,
+            "precision":"unknown"
         }
-    """
-    if not raw or raw.strip().lower() in NON_DATE_VALUES:
-        return {"date": None, "date_precision": "unknown"}
 
-    raw = raw.strip()
 
-    # Cas "2025-03-xx" -> mois connu, jour inconnu
-    m = re.match(r"^(\d{4})-(\d{2})-xx$", raw, re.IGNORECASE)
-    if m:
-        year, month = m.groups()
-        return {"date": f"{year}-{month}-01", "date_precision": "month"}
 
-    # Cas année seule "2025"
-    if re.match(r"^\d{4}$", raw):
-        return {"date": f"{raw}-01-01", "date_precision": "year"}
 
-    # Cas "YYYY-MM"
-    if re.match(r"^\d{4}-\d{2}$", raw):
-        return {"date": f"{raw}-01", "date_precision": "month"}
+    if re.match(
+        r"^\d{4}$",
+        raw
+    ):
 
-    # Cas plage de dates "February 11-12, 2026" -> on garde la première date
-    m = re.match(r"^([A-Za-zéû]+)\s+(\d{1,2})[-–]\d{1,2},?\s+(\d{4})$", raw)
-    if m:
-        month_name, day, year = m.groups()
-        raw = f"{month_name} {day}, {year}"
+        return {
 
-    # Cas français "26 juin 2026"
-    fr_date = _try_fr_date(raw)
-    if fr_date:
-        return {"date": fr_date.strftime("%Y-%m-%d"), "date_precision": "day"}
+            "date":raw+"-01-01",
 
-    # Cas générique (YYYY-MM-DD, "June 17, 2026", "11 July 2022", "May 2026"...)
+            "precision":"year"
+
+        }
+
+
+
+
+    if re.match(
+        r"^\d{4}-\d{2}$",
+        raw
+    ):
+
+        return {
+
+            "date":raw+"-01",
+
+            "precision":"month"
+
+        }
+
+
+
+
     try:
-        parsed = date_parser.parse(raw, default=datetime(1900, 1, 1), dayfirst=False)
-        # Détecte si le jour a été deviné par défaut (absent de la chaîne d'origine)
-        precision = "day"
-        if not re.search(r"\b\d{1,2}\b", raw.replace(str(parsed.year), "")):
-            precision = "month"
-        return {"date": parsed.strftime("%Y-%m-%d"), "date_precision": precision}
-    except (ValueError, OverflowError):
-        return {"date": None, "date_precision": "unknown"}
+
+        dt=date_parser.parse(
+            raw,
+            dayfirst=True
+        )
 
 
-# ------------------------------------------------------------------
-# 3. Normalisation des pays / régions
-# ------------------------------------------------------------------
-REGION_TERMS = {"africa", "mena", "north africa", "north america"}
+        return {
+
+            "date":dt.strftime(
+                "%Y-%m-%d"
+            ),
+
+            "precision":"day"
+
+        }
+
+
+    except:
+
+
+        return {
+
+            "date":None,
+
+            "precision":"unknown"
+
+        }
+    # ==========================================================
+# COUNTRY / REGION NORMALIZATION
+# ==========================================================
+
+
+REGION_TERMS = {
+
+    "africa",
+    "mena",
+    "north africa",
+    "middle east"
+
+}
+
+
 
 COUNTRY_ALIASES = {
-    "ksa": "Saudi Arabia",
-    "saudi arabia": "Saudi Arabia",
-    "uae": "United Arab Emirates",
-    "dubai": "United Arab Emirates",
-    "tunisia": "Tunisia",
-    "morocco": "Morocco",
-    "algeria": "Algeria",
-    "libya": "Libya",
-    "egypt": "Egypt",
-    "nigeria": "Nigeria",
-    "kenya": "Kenya",
-    "jordan": "Jordan",
-    "lebanon": "Lebanon",
-    "palestine": "Palestine",
-    "turkey": "Turkey",
-    "oman": "Oman",
-    "malaysia": "Malaysia",
-    "india": "India",
-    "kazakhstan": "Kazakhstan",
-    "togo": "Togo",
-    "benin": "Benin",
-    "madagascar": "Madagascar",
-    "côte d'ivoire": "Côte d'Ivoire",
-    "côte d’ivoire": "Côte d'Ivoire",
-    "cote d'ivoire": "Côte d'Ivoire",
-    "francophone africa": None,  # zone, pas un pays -> ignoré comme pays
+
+
+    "tunisia":"Tunisia",
+    "tunisie":"Tunisia",
+
+    "morocco":"Morocco",
+    "maroc":"Morocco",
+
+    "algeria":"Algeria",
+    "algérie":"Algeria",
+
+    "egypt":"Egypt",
+    "egypte":"Egypt",
+
+    "nigeria":"Nigeria",
+
+    "kenya":"Kenya",
+
+    "south africa":"South Africa",
+
+    "uae":"United Arab Emirates",
+    "dubai":"United Arab Emirates",
+
+    "ksa":"Saudi Arabia",
+    "saudi arabia":"Saudi Arabia",
+
+    "ivory coast":"Côte d'Ivoire",
+    "cote d'ivoire":"Côte d'Ivoire",
+
+    "senegal":"Senegal",
+
+    "ghana":"Ghana",
+
+    "rwanda":"Rwanda",
+
+    "ethiopia":"Ethiopia"
+
 }
 
-UNKNOWN_VALUES = {"", "unknown", "n/a", "na", "-"}
 
 
-def normalize_country(raw: str) -> dict:
-    """
-    Normalise un champ pays brut, potentiellement multi-valeurs ou contenant une région.
 
-    Retourne :
-        {
-          "countries": [str, ...],  # liste de pays canoniques (peut être vide)
-          "region": str | None      # région si détectée (Africa, MENA...)
+def normalize_country(raw):
+
+
+    if not raw:
+
+        return {
+            "countries":[],
+            "region":None
         }
-    """
-    if not raw or raw.strip().lower() in UNKNOWN_VALUES:
-        return {"countries": [], "region": None}
 
-    raw_clean = raw.strip()
 
-    # Cas région pure ("Africa", "MENA"...)
-    if raw_clean.lower() in REGION_TERMS:
-        return {"countries": [], "region": raw_clean}
 
-    # Extrait une éventuelle liste entre parenthèses : "Multiple (Nigeria, Egypt, Kenya, Francophone Africa)"
-    region = None
-    paren_match = re.search(r"\(([^)]+)\)", raw_clean)
-    if paren_match:
-        raw_clean = paren_match.group(1)
+    if isinstance(raw,list):
 
-    # Sépare sur virgules et " and "
-    tokens = re.split(r",|\band\b", raw_clean)
+        raw=",".join(raw)
 
-    countries = []
-    seen = set()
-    for tok in tokens:
-        tok_clean = tok.strip()
-        if not tok_clean:
+
+
+    raw=clean_text(raw)
+
+
+
+    if not raw:
+
+        return {
+            "countries":[],
+            "region":None
+        }
+
+
+
+
+    countries=[]
+
+    region=None
+
+    seen=set()
+
+
+
+    tokens=re.split(
+        r",|and|\||/",
+        raw,
+        flags=re.I
+    )
+
+
+
+    for token in tokens:
+
+
+        token=token.strip()
+
+
+        if not token:
             continue
-        key = tok_clean.lower()
+
+
+
+        key=token.lower()
+
+
 
         if key in REGION_TERMS:
-            region = tok_clean
+
+            region=token.title()
+
             continue
 
-        canonical = COUNTRY_ALIASES.get(key, None)
-        if canonical is None and key not in COUNTRY_ALIASES:
-            # Pas dans les alias connus : on garde la valeur telle quelle (Title Case)
-            canonical = tok_clean
-        if canonical and canonical.lower() not in seen:
-            countries.append(canonical)
-            seen.add(canonical.lower())
-
-    return {"countries": countries, "region": region}
 
 
-# ------------------------------------------------------------------
-# 4. Normalisation des secteurs (tags) et catégories
-# ------------------------------------------------------------------
-SECTOR_ALIASES = {
-    "ai": "AI", "artificial intelligence": "AI",
-    "fintech": "Fintech", "financial technology": "Fintech",
-    "e-commerce": "E-commerce", "ecommerce": "E-commerce",
-    "cleantech": "CleanTech", "climate tech": "CleanTech", "climatetech": "CleanTech",
-    "healthtech": "HealthTech", "health tech": "HealthTech",
-    "edtech": "EdTech", "education technology": "EdTech",
-    "agritech": "AgriTech", "agtech": "AgriTech",
-    "logistics": "Logistics",
-    "banking": "Banking",
-    "insurtech": "InsurTech",
-    "proptech": "PropTech",
-    "mobility": "Mobility",
-    "energy": "Energy",
-}
 
-CATEGORY_ALIASES = {
-    "funding": "funding",
-    "investment": "funding",
-    "acquisition": "acquisition",
-    "startup": "startup",
-    "news": "news",
-    "report": "report",
-    "banking": "banking",
-    "event": "event",
-    "other": "other",
-}
+        country=COUNTRY_ALIASES.get(
+
+            key,
+
+            token.title()
+
+        )
 
 
-def normalize_sector(tag: str) -> str:
-    """Normalise un tag/secteur individuel vers un vocabulaire unifié."""
-    key = tag.strip().lower()
-    return SECTOR_ALIASES.get(key, tag.strip().title())
+
+        if country.lower() not in seen:
+
+            countries.append(country)
+
+            seen.add(
+                country.lower()
+            )
 
 
-def normalize_category(cat: str) -> str:
-    """Normalise le type d'article (catégorie) vers un vocabulaire unifié."""
-    if not cat:
-        return "other"
-    key = cat.strip().lower()
-    return CATEGORY_ALIASES.get(key, key)
 
-
-# ------------------------------------------------------------------
-# 5. Pipeline de nettoyage d'un article
-# ------------------------------------------------------------------
-def clean_article(article: dict) -> dict | None:
-    """
-    Nettoie et normalise un article complet.
-    Retourne None si l'article doit être supprimé (contenu inexploitable).
-    """
-    title = clean_text(article.get("title", ""))
-    summary = clean_text(article.get("summary", ""))
-    content = clean_text(article.get("content", ""))
-
-    # Texte de référence pour juger si l'article est exploitable : le plus long des trois
-    best_text_len = max(len(content), len(summary), len(title))
-    if best_text_len < MIN_CONTENT_LENGTH:
-        return None  # article vide ou inexploitable -> supprimé
-
-    date_info = normalize_date(article.get("date", ""))
-    country_info = normalize_country(article.get("country", ""))
-
-    entities = article.get("entities") or {}
-    tags = article.get("tags") or []
 
     return {
-        "id": article.get("id"),
-        "title": title,
-        "summary": summary,
-        # Si le contenu détaillé est absent, on retombe sur le résumé pour ne pas perdre d'information
-        "content": content or summary,
-        "date": date_info["date"],
-        "date_precision": date_info["date_precision"],
-        "countries": country_info["countries"],
-        "region": country_info["region"] or clean_text(article.get("region", "")) or None,
-        "category": normalize_category(article.get("category", "")),
-        "sectors": [normalize_sector(t) for t in clean_list(tags)],
-        "amounts": clean_list(article.get("amounts") or []),
-        "relevance": clean_text(article.get("relevance", "")) or None,
-        "entities": {
-            "startups": clean_list(entities.get("startups") or []),
-            "investors": clean_list(entities.get("investors") or []),
-            "funds": clean_list(entities.get("funds") or []),
-        },
-        "funding": article.get("funding") or {},
-        "source_url": article.get("source_url", ""),
-        "origin_file": article.get("origin_file", ""),
+
+        "countries":countries,
+
+        "region":region
+
     }
 
 
-# ------------------------------------------------------------------
-# Point d'entrée
-# ------------------------------------------------------------------
+
+
+
+
+# ==========================================================
+# SECTORS / CATEGORY
+# ==========================================================
+
+
+SECTOR_ALIASES={
+
+
+"ai":"AI",
+
+"artificial intelligence":"AI",
+
+
+"fintech":"Fintech",
+
+"financial technology":"Fintech",
+
+
+"ecommerce":"E-commerce",
+
+"e-commerce":"E-commerce",
+
+
+"healthtech":"HealthTech",
+
+"health tech":"HealthTech",
+
+
+"edtech":"EdTech",
+
+
+"agritech":"AgriTech",
+
+"agtech":"AgriTech",
+
+
+"climate tech":"CleanTech",
+
+"cleantech":"CleanTech",
+
+"climatetech":"CleanTech",
+
+
+"logistics":"Logistics",
+
+"mobility":"Mobility",
+
+"energy":"Energy",
+
+"saas":"SaaS",
+
+"software":"Software"
+
+}
+
+
+
+
+CATEGORY_ALIASES={
+
+
+"funding":"funding",
+
+"investment":"funding",
+
+"fundraise":"funding",
+
+
+"startup":"startup",
+
+"startup ecosystem":"startup ecosystem",
+
+"ecosystem":"startup ecosystem",
+
+
+"acquisition":"acquisition",
+
+"report":"report",
+
+"event":"event",
+
+"news":"news"
+
+
+}
+
+
+
+
+def normalize_sector(value):
+
+
+    value=clean_text(value)
+
+
+    if not value:
+
+        return None
+
+
+
+    return SECTOR_ALIASES.get(
+
+        value.lower(),
+
+        value.title()
+
+    )
+
+
+
+
+def normalize_category(value):
+
+
+    value=clean_text(value)
+
+
+
+    if not value:
+
+        return "other"
+
+
+
+    return CATEGORY_ALIASES.get(
+
+        value.lower(),
+
+        value.lower()
+
+    )
+
+
+
+
+
+# ==========================================================
+# EXTRACTION SECTORS FROM ENTITIES
+# ==========================================================
+
+
+def extract_entity_sectors(entities):
+
+
+    sectors=[]
+
+
+    for startup in entities.get(
+        "startups",
+        []
+    ):
+
+
+        if isinstance(startup,dict):
+
+
+            sector=startup.get(
+                "sector"
+            )
+
+
+            if sector:
+
+                sectors.append(
+                    sector
+                )
+
+
+    return sectors
+
+
+
+
+
+# ==========================================================
+# FUNDING CLEAN
+# ==========================================================
+
+
+
+def clean_funding(data):
+
+
+    if not isinstance(data,dict):
+
+        return {}
+
+
+
+    result={}
+
+
+
+    for key,value in data.items():
+
+
+        if isinstance(value,list):
+
+            result[key]=clean_list(value)
+
+
+
+        elif isinstance(value,dict):
+
+            result[key]=clean_funding(value)
+
+
+
+        else:
+
+            result[key]=clean_text(value)
+
+
+
+    return result
+
+
+
+
+
+# ==========================================================
+# ARTICLE CLEANING
+# ==========================================================
+
+
+
+def clean_article(article):
+
+
+    title=clean_text(
+        article.get("title")
+    )
+
+
+    summary=clean_text(
+        article.get("summary")
+    )
+
+
+    content=clean_text(
+        article.get("content")
+    )
+
+
+
+    if max(
+        len(title),
+        len(summary),
+        len(content)
+
+    ) < MIN_CONTENT_LENGTH:
+
+        return None
+
+
+
+
+    date_info=normalize_date(
+        article.get("date")
+    )
+
+
+
+    country_info = normalize_country(
+    article.get("countries")
+    or article.get("country")
+)
+
+
+    entities=article.get(
+        "entities",
+        {}
+    )
+
+
+
+    tags=article.get(
+        "tags",
+        []
+    )
+
+
+
+    # Ajouter secteurs venant des startups LLM
+
+    tags.extend(
+        extract_entity_sectors(
+            entities
+        )
+    )
+
+
+
+    sectors=[]
+
+    for tag in clean_list(tags):
+
+        sector=normalize_sector(tag)
+
+        if sector and sector not in sectors:
+
+            sectors.append(
+                sector
+            )
+
+
+
+
+    text_for_rag=f"""
+Title:
+{title}
+
+Summary:
+{summary}
+
+Content:
+{content}
+""".strip()
+
+
+
+
+
+    return {
+
+
+        "id":article.get(
+            "id"
+        ),
+
+
+        "title":title,
+
+
+        "summary":summary,
+
+
+        "content":content or summary,
+
+
+        "text_for_rag":text_for_rag,
+
+
+
+        "date":date_info["date"],
+
+
+        "date_precision":
+            date_info["precision"],
+
+
+
+
+        "countries":
+            country_info["countries"],
+
+
+
+        "region":
+            country_info["region"],
+
+
+
+
+        "category":
+            normalize_category(
+                article.get("category")
+            ),
+
+
+
+        "sectors":sectors,
+
+
+
+        "amounts":
+            clean_list(
+                article.get("amounts")
+                or []
+            ),
+
+
+
+
+        "relevance":
+            clean_text(
+                article.get("relevance")
+            )
+            or None,
+
+
+
+
+        "entities":{
+
+
+            "startups":
+                clean_entities(
+                    entities.get(
+                        "startups",
+                        []
+                    )
+                ),
+
+
+            "investors":
+                clean_entities(
+                    entities.get(
+                        "investors",
+                        []
+                    )
+                ),
+
+
+            "funds":
+                clean_entities(
+                    entities.get(
+                        "funds",
+                        []
+                    )
+                )
+
+        },
+
+
+
+        "funding":
+            clean_funding(
+                article.get(
+                    "funding"
+                )
+            ),
+
+
+
+
+        "source_url":
+            clean_text(
+                article.get(
+                    "source_url"
+                )
+            ),
+
+
+
+
+        "origin_file":
+            clean_text(
+                article.get(
+                    "origin_file"
+                )
+            )
+
+    }
+
+
+def extract_sectors(article):
+
+    sectors=[]
+
+    # tags
+    for tag in article.get("tags", []):
+
+        sector = normalize_sector(tag)
+
+        if sector:
+            sectors.append(sector)
+
+
+
+    # startups sectors
+    entities = article.get(
+        "entities",
+        {}
+    )
+
+
+    for startup in entities.get(
+        "startups",
+        []
+    ):
+
+        if isinstance(startup,dict):
+
+            sector = normalize_sector(
+                startup.get("sector","")
+            )
+
+            if sector:
+                sectors.append(sector)
+
+
+
+    # remove duplicates
+
+    result=[]
+
+    seen=set()
+
+    for s in sectors:
+
+        if s.lower() not in seen:
+
+            result.append(s)
+
+            seen.add(
+                s.lower()
+            )
+
+
+    return result
+
+
+
+# ==========================================================
+# MAIN
+# ==========================================================
+
+
+
 def main():
-    with open(INPUT_FILE, encoding="utf-8") as f:
-        articles = json.load(f)
-
-    print(f"Articles chargés depuis {INPUT_FILE.name} : {len(articles)}")
-
-    cleaned = []
-    removed = 0
-    for art in articles:
-        result = clean_article(art)
-        if result is None:
-            removed += 1
-            continue
-        cleaned.append(result)
-
-    print(f"Articles supprimés (vides/inexploitables) : {removed}")
-    print(f"Articles conservés après nettoyage         : {len(cleaned)}")
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(cleaned, f, ensure_ascii=False, indent=2)
-
-    print(f"\nFichier nettoyé sauvegardé : {OUTPUT_FILE}")
-
-    # Petit résumé statistique pour vérification rapide
-    with_date = sum(1 for a in cleaned if a["date"])
-    with_country = sum(1 for a in cleaned if a["countries"])
-    with_region = sum(1 for a in cleaned if a["region"])
-    print(f"\n--- Statistiques ---")
-    print(f"Articles avec date normalisée   : {with_date}/{len(cleaned)}")
-    print(f"Articles avec pays identifié(s) : {with_country}/{len(cleaned)}")
-    print(f"Articles avec région identifiée : {with_region}/{len(cleaned)}")
 
 
-if __name__ == "__main__":
+    with open(
+        INPUT_FILE,
+        encoding="utf-8"
+    ) as f:
+
+        articles=json.load(f)
+
+
+
+    print(
+        f"Articles chargés : {len(articles)}"
+    )
+
+
+
+    cleaned=[]
+
+    removed=0
+
+
+
+    for article in articles:
+
+
+        result=clean_article(
+            article
+        )
+
+
+        if result:
+
+            cleaned.append(
+                result
+            )
+
+        else:
+
+            removed+=1
+
+
+
+
+    print(
+        f"Supprimés : {removed}"
+    )
+
+
+    print(
+        f"Conservés : {len(cleaned)}"
+    )
+
+
+
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+
+        json.dump(
+            cleaned,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+
+    print(
+        f"Fichier créé : {OUTPUT_FILE}"
+    )
+
+
+
+    print("\n===== STATISTIQUES =====")
+
+
+    print(
+        "Avec date :",
+        sum(
+            1 for x in cleaned
+            if x["date"]
+        )
+    )
+
+
+    print(
+        "Avec pays :",
+        sum(
+            1 for x in cleaned
+            if x["countries"]
+        )
+    )
+
+
+    print(
+        "Avec startups :",
+        sum(
+            1 for x in cleaned
+            if x["entities"]["startups"]
+        )
+    )
+
+
+    print(
+        "Avec investisseurs :",
+        sum(
+            1 for x in cleaned
+            if x["entities"]["investors"]
+        )
+    )
+
+
+
+
+
+if __name__=="__main__":
+
     main()

@@ -6,84 +6,176 @@ INPUT = Path("../../cleaningNews/clean_news.json")
 OUTPUT = Path("../data/documents.json")
 
 
+def extract_entity_names(items):
+    """
+    Transforme une liste d'entités JSON en liste de noms.
+    
+    Exemple:
+    [
+        {"name": "EcoFeed", "founder": "Malek"},
+        {"name": "Bako Motors"}
+    ]
+
+    devient:
+    [
+        "EcoFeed",
+        "Bako Motors"
+    ]
+    """
+
+    names = []
+
+    for item in items:
+
+        if isinstance(item, dict):
+            name = item.get("name")
+
+            if name:
+                names.append(name)
+
+        else:
+            value = str(item).strip()
+
+            if value:
+                names.append(value)
+
+    return names
+
+
+
 def build_document(news):
 
     entities = news.get("entities", {})
 
-    startups = ", ".join(
+
+    # -------------------------
+    # Extraction entités
+    # -------------------------
+
+    startups = extract_entity_names(
         entities.get("startups", [])
     )
 
-    investors = ", ".join(
+    investors = extract_entity_names(
         entities.get("investors", [])
     )
 
-    funds = ", ".join(
+    funds = extract_entity_names(
         entities.get("funds", [])
     )
 
 
-    sectors = ", ".join(
-        news.get("sectors", [])
-    )
+    sectors = news.get("sectors", [])
+
+    countries = news.get("countries", [])
 
 
-    countries = ", ".join(
-        news.get("countries", [])
-    )
 
+    # -------------------------
+    # Texte utilisé pour embedding
+    # -------------------------
 
     text = f"""
 Titre:
-{news.get('title','')}
+{news.get("title", "")}
 
 
 Résumé:
-{news.get('summary','')}
+{news.get("summary", "")}
 
 
 Date:
-{news.get('date','')}
+{news.get("date", "")}
 
 
 Catégorie:
-{news.get('category','')}
+{news.get("category", "")}
 
 
 Secteurs:
-{sectors}
+{", ".join(sectors)}
 
 
 Pays:
-{countries}
+{", ".join(countries)}
 
 
 Startups mentionnées:
-{startups}
+{", ".join(startups)}
 
 
 Investisseurs:
-{investors}
+{", ".join(investors)}
 
 
 Fonds:
-{funds}
+{", ".join(funds)}
 
 
 Article:
-{news.get('content','')}
-"""
+{news.get("content", "")}
+""".strip()
+
 
 
     return {
+
         "id": news.get("id"),
-        "text": text.strip(),
+
+
+        # Texte pour embeddings
+        "text": text,
+
+
+        # Données structurées
+        "title": news.get("title"),
+
+        "summary": news.get("summary"),
+
+        "content": news.get("content"),
+
+        "date": news.get("date"),
+
+        "category": news.get("category"),
+
+
+        "countries": countries,
+
+        "sectors": sectors,
+
+
+        # On garde les objets JSON originaux
+        "startups": entities.get(
+            "startups",
+            []
+        ),
+
+        "investors": entities.get(
+            "investors",
+            []
+        ),
+
+        "funds": entities.get(
+            "funds",
+            []
+        ),
+
+
+
         "metadata": {
+
             "title": news.get("title"),
+
             "date": news.get("date"),
+
             "category": news.get("category"),
-            "sectors": news.get("sectors"),
+
+            "countries": countries,
+
+            "sectors": sectors,
+
             "source_url": news.get("source_url")
+
         }
     }
 
@@ -91,18 +183,30 @@ Article:
 
 def main():
 
-    with open(INPUT,encoding="utf-8") as f:
-        news=json.load(f)
+    with open(
+        INPUT,
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        news = json.load(f)
 
 
-    documents=[]
 
+    documents = []
 
     for article in news:
 
-        doc=build_document(article)
+        doc = build_document(article)
 
         documents.append(doc)
+
+
+
+    OUTPUT.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
 
     with open(
@@ -120,11 +224,10 @@ def main():
 
 
     print(
-        len(documents),
-        "documents created"
+        f"{len(documents)} documents created"
     )
 
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     main()
