@@ -238,6 +238,9 @@
         "score": 84,
         "level": "Medium"
     },
+    "geographic_focus": [
+        "Africa"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\adventis_international.json",
     "normalized_name": "adventis international",
     "industries": [],
@@ -335,8 +338,5 @@
                 "0232788294060"
             ]
         }
-    },
-    "geographic_focus": [
-        "Africa"
-    ]
+    }
 }

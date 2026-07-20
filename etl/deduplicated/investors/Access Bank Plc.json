@@ -2,7 +2,7 @@
     "name": "Access Bank Plc",
     "description": "Leading full‑service commercial bank operating through a network of more than 600 branches across three continents, 12 countries and 31 million customers. Listed on the Nigerian Stock Exchange since 1998, with subsidiaries in Sub‑Saharan Africa, the United Kingdom, and representative offices in China, Lebanon and India.",
     "organization_type": "Bank",
-    "country": "Niger",
+    "country": "Nigeria",
     "city": "Lagos",
     "website": "https://www.accessbankplc.com",
     "linkedin": "https://ie.linkedin.com/company/access-bank-plc",
@@ -279,9 +279,9 @@
             "details": []
         },
         "country_detection": {
-            "selected_country": "Niger",
-            "selected_source": "headquarters",
-            "confidence": 0.9,
+            "selected_country": "Nigeria",
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
                 "count": 3,
                 "candidates": [
@@ -291,12 +291,12 @@
                         "confidence": 1.0
                     },
                     {
-                        "country": "Niger",
+                        "country": "Nigeria",
                         "source": "headquarters",
                         "confidence": 0.9
                     },
                     {
-                        "country": "Niger",
+                        "country": "Nigeria",
                         "source": "website_content",
                         "confidence": 0.6
                     }

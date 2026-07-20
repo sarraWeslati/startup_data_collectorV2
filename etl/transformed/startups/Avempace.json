@@ -6,7 +6,7 @@
     "industry": "Consumer products and services",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Nabeul",
     "headquarters": "",
     "founded_year": "2015",
     "startup_stage": "",
@@ -257,11 +257,16 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "website_content",
@@ -279,7 +284,7 @@
             "removed": 1,
             "duplicates": 0,
             "invalid": [
-                "1601115165214"
+                "+2161601115165214"
             ]
         }
     }

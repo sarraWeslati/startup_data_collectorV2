@@ -18,8 +18,18 @@
         "youtube": "https://youtube.com/watch"
     },
     "contact": {
-        "emails": [],
-        "phones": [],
+        "emails": [
+            "contact@anavid.co"
+        ],
+        "phones": [
+            {
+                "number": "+21620180101",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/company/anavidfr/about"
     },
@@ -130,16 +140,20 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "anavid.co"
+            ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
         }
     },
     "others": {
@@ -225,22 +239,45 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "anavid.co"
+                ]
             },
             "official": [],
-            "details": []
+            "details": [
+                {
+                    "original": "contact@anavid.co",
+                    "normalized": "contact@anavid.co",
+                    "domain": "anavid.co",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "website_content",
@@ -250,17 +287,16 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "contact@anavid.co",
     "quality": {
         "phones": {
             "total": 3,
-            "valid": 0,
-            "removed": 3,
+            "valid": 1,
+            "removed": 2,
             "duplicates": 0,
             "invalid": [
-                "1585049142433",
-                "20180101",
-                "3795057"
+                "+2161585049142433",
+                "+2163795057"
             ]
         }
     }

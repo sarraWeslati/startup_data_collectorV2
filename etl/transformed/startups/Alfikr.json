@@ -5,33 +5,34 @@
     "tagline": "",
     "industry": "EdTech",
     "keywords": [],
-    "country": "Morocco",
-    "city": "",
+    "country": "Tunisia",
+    "city": "Monastir",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
     "startup_label": true,
-    "website": "https://www.karmatalfikr.com",
+    "website": "https://www.al-fikr.com",
     "linkedin_url": "",
     "social_media": {
         "linkedin": "https://linkedin.com/in/alfikri-alfikri"
     },
     "contact": {
         "emails": [
-            "sales@karmatalfikr.com"
+            "info@al-fikr.com"
         ],
-        "phones": [],
+        "phones": [
+            {
+                "number": "+21652528300",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/in/alfikri-alfikri"
     },
-    "founders": [
-        {
-            "name": "Brahim Jrah",
-            "role": "",
-            "linkedin": "",
-            "bio": ""
-        }
-    ],
+    "founders": [],
     "leadership": [],
     "employee_count": null,
     "employee_range": "",
@@ -129,13 +130,15 @@
             "generic_count": 0,
             "official_count": 1,
             "domains": [
-                "karmatalfikr.com"
+                "al-fikr.com"
             ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
         }
     },
     "others": {
@@ -191,7 +194,7 @@
     "etl": {
         "website_validation": {
             "website_valid": true,
-            "website_domain": "karmatalfikr.com",
+            "website_domain": "al-fikr.com",
             "website_type": "official",
             "social_profiles": 1,
             "external_profiles": 2
@@ -223,17 +226,17 @@
                 "generic": 0,
                 "official": 1,
                 "domains": [
-                    "karmatalfikr.com"
+                    "al-fikr.com"
                 ]
             },
             "official": [
-                "sales@karmatalfikr.com"
+                "info@al-fikr.com"
             ],
             "details": [
                 {
-                    "original": "sales@karmatalfikr.com",
-                    "normalized": "sales@karmatalfikr.com",
-                    "domain": "karmatalfikr.com",
+                    "original": "info@al-fikr.com",
+                    "normalized": "info@al-fikr.com",
+                    "domain": "al-fikr.com",
                     "valid": true,
                     "generic": false,
                     "business": true,
@@ -243,12 +246,22 @@
             ]
         },
         "country_detection": {
-            "selected_country": "Morocco",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Morocco",
                         "source": "website_content",
@@ -258,16 +271,16 @@
             }
         }
     },
-    "primary_email": "sales@karmatalfikr.com",
+    "primary_email": "info@al-fikr.com",
     "quality": {
         "phones": {
-            "total": 2,
-            "valid": 0,
+            "total": 3,
+            "valid": 1,
             "removed": 2,
             "duplicates": 0,
             "invalid": [
                 "+966541441244",
-                "966541441244"
+                "+216966541441244"
             ]
         }
     }

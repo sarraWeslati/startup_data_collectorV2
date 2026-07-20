@@ -1,19 +1,19 @@
 {
     "extract": {
-        "startups": 1032,
+        "startups": 1027,
         "investors": 417
     },
     "transform": {
-        "startups": 1032,
+        "startups": 1027,
         "investors": 417
     },
     "validate": {
-        "valid": 461,
-        "rejected": 988
+        "valid": 829,
+        "rejected": 615
     },
     "deduplicate": {
-        "before": 461,
-        "after": 403
+        "before": 829,
+        "after": 746
     },
     "load": {
         "inserted": 0,

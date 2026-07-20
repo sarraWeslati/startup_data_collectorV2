@@ -6,7 +6,9 @@
     "city": "Tunis",
     "website": "https://ween.tn/fiche/ste-tuniso-emiratie-de-developpement-bte-sicar",
     "linkedin": "https://www.linkedin.com/in/dorra-chouchane-87956671",
-    "investment_focus": [],
+    "investment_focus": [
+        "investissement - sociétés d'investissement"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -77,8 +79,8 @@
         "registration_number": ""
     },
     "tagline": "",
-    "industry": "",
-    "headquarters": "",
+    "industry": "Investissement - Societes D’investissement",
+    "headquarters": "5 Rue Mohamed Badra 1002 Tunis Belvédère, Tunis",
     "linkedin_url": "https://www.linkedin.com/company/bte",
     "employee_count": null,
     "employee_range": "",
@@ -110,9 +112,9 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 1,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 1,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 3,
@@ -200,6 +202,9 @@
         "score": 88,
         "level": "High"
     },
+    "geographic_focus": [
+        "Tunisia"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bte_sicar.json",
     "normalized_name": "bte sicar",
     "industries": [],

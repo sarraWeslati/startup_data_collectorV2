@@ -26,8 +26,26 @@
     },
     "founders": [],
     "leadership": [],
-    "products": [],
-    "services": [],
+    "products": [
+        "Checking",
+        "Savings",
+        "Certificates of Deposit",
+        "Money Markets",
+        "Individual Retirement Accounts",
+        "Home Loans",
+        "Mortgages",
+        "Auto Loans",
+        "Personal Loans",
+        "Credit Cards",
+        "ExpressBank",
+        "Insights"
+    ],
+    "services": [
+        "investment banking",
+        "institutional sales",
+        "trading",
+        "financial services"
+    ],
     "technologies": [],
     "partners": [],
     "investors": [],
@@ -113,7 +131,7 @@
         "investment_focus_count": 0,
         "investment_stages_count": 0,
         "geographic_focus_count": 1,
-        "partners_count": 0,
+        "partners_count": 3,
         "team_members_count": 0,
         "social_profiles": 1,
         "founders_count": 0,
@@ -149,14 +167,17 @@
         }
     },
     "tagline": "",
-    "industry": "",
+    "industry": "Banking",
     "headquarters": "",
     "linkedin_url": "https://www.linkedin.com/in/bti-bank-62020a240",
     "employee_count": null,
     "employee_range": "",
     "team_size": "",
     "target_market": "",
-    "sources": [],
+    "sources": [
+        "website",
+        "tavily"
+    ],
     "phones": [
         "+212 80-1050404"
     ],
@@ -168,7 +189,7 @@
         "website_matches": false
     },
     "confidence": {
-        "score": 76,
+        "score": 84,
         "level": "Medium"
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bti_bank.json",

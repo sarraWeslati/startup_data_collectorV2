@@ -7,8 +7,8 @@
     "keywords": [],
     "country": "Tunisia",
     "city": "Bizerte",
-    "headquarters": "12 Rue Mohamed Lahbib Dhaouadi, 7000 Bizerte",
-    "founded_year": null,
+    "headquarters": "12 Rue Mohamed Lahbib Dhaouadi, 7000 Bizerte, Tunisia",
+    "founded_year": "2019",
     "startup_stage": null,
     "startup_label": true,
     "website": "https://felcloud.tn",
@@ -24,19 +24,18 @@
             "emine@felcloud.tn",
             "contact@felcloud.io"
         ],
-        "phones": [
-            {
-                "number": "+21698711072",
-                "country": "Tunisia",
-                "country_code": "+216",
-                "valid": true,
-                "source": "website"
-            }
-        ],
-        "address": null,
+        "phones": [],
+        "address": "12 Rue Mohamed Lahbib Dhaouadi, 7000 Bizerte, Tunisia",
         "primary_social": "https://linkedin.com/company/cloudnetgroup"
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Mohamed Amine IBRAHIM",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
     "employee_count": null,
     "employee_range": null,
@@ -44,18 +43,38 @@
     "products": [
         "Cloud Computing platform",
         "Dedicated Server",
-        "Load Balancing"
+        "Load Balancing",
+        "FelCloud Public Cloud"
     ],
     "services": [
         "Digital transformation consulting",
         "Cloud infrastructure migration",
-        "Pay-as-you-go cloud computing services"
+        "Pay-as-you-go cloud computing services",
+        "Cloud Computing",
+        "Virtual Machines (VM)",
+        "Object Storage",
+        "Block Storage",
+        "Load Balancer",
+        "Virtual Networking",
+        "Cloud Infrastructure",
+        "Infrastructure as a Service (IaaS)"
     ],
     "technologies": [
-        "Cloud Computing platform"
+        "Cloud Computing platform",
+        "OpenStack",
+        "Cloud Computing",
+        "Virtualization",
+        "IaaS",
+        "REST API"
     ],
-    "customer_segments": [],
-    "target_market": "All sizes of companies",
+    "customer_segments": [
+        "SMEs",
+        "Large Enterprises",
+        "Software Developers",
+        "DevOps Teams",
+        "IT Departments"
+    ],
+    "target_market": "Cloud infrastructure and digital transformation for businesses",
     "operating_countries": [],
     "languages_supported": [],
     "notable_customers": [],
@@ -87,13 +106,17 @@
         "registration_number": null
     },
     "extra_notes": null,
-    "sources": [],
+    "sources": [
+        "https://felcloud.io",
+        "https://www.linkedin.com/company/felcloudgroup",
+        "https://www.tunisieindustrie.nat.tn/fr/download/STARTUPSTECH.pdf"
+    ],
     "confidence": {
         "score": 92,
         "level": "High"
     },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
         "sources": [
             "website",
             "tavily",
@@ -105,7 +128,8 @@
         "llm_enriched": true,
         "sources_used": [
             "pdf",
-            "website"
+            "website",
+            "csv"
         ],
         "collection_date": "",
         "last_updated": ""
@@ -171,7 +195,7 @@
     },
     "validation": {
         "is_african": true,
-        "website_matches": false
+        "website_matches": true
     },
     "linkedin": "https://www.linkedin.com/company/cloudnetgroup/",
     "emails": [
@@ -255,28 +279,7 @@
             "official": [
                 "emine@felcloud.tn"
             ],
-            "details": [
-                {
-                    "original": "emine@felcloud.tn",
-                    "normalized": "emine@felcloud.tn",
-                    "domain": "felcloud.tn",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": true,
-                    "source": "website"
-                },
-                {
-                    "original": "contact@felcloud.io",
-                    "normalized": "contact@felcloud.io",
-                    "domain": "felcloud.io",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": false,
-                    "source": "website"
-                }
-            ]
+            "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -284,23 +287,7 @@
             "confidence": 1.0,
             "report": {
                 "count": 3,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "phone",
-                        "confidence": 0.95
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "domain",
-                        "confidence": 0.8
-                    }
-                ]
+                "candidates": []
             }
         }
     },
@@ -315,5 +302,9 @@
                 "+216103714034460649"
             ]
         }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Mar-21"
     }
 }

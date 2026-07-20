@@ -2,16 +2,22 @@
     "entity_type": "startup",
     "name": "Finispia",
     "description": "Finispia est un outil de recherche des actions conformes aux principes d'investissement islamique sur plus de 90 bourses dans le monde utilisé principalement par des professionnels, particuliers et institutions financières.",
-    "tagline": "",
+    "tagline": "Screening halal des actions sur 90+ bourses",
     "industry": "Fintech",
-    "keywords": [],
+    "keywords": [
+        "Islamic finance",
+        "halal stocks",
+        "screening",
+        "Sharia compliance",
+        "ETF"
+    ],
     "country": "",
     "city": "",
     "headquarters": "",
     "founded_year": "2020",
-    "startup_stage": "",
+    "startup_stage": "Growth",
     "startup_label": true,
-    "website": "",
+    "website": "https://finispia.com",
     "linkedin_url": "",
     "social_media": {},
     "contact": {
@@ -23,13 +29,13 @@
     "founders": [
         {
             "name": "Alaa Guidara",
-            "role": "",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Mohamed Kallel",
-            "role": "",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         }
@@ -38,13 +44,34 @@
     "employee_count": null,
     "employee_range": "",
     "team_size": "",
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": "",
+    "products": [
+        "Application mobile Finispia (App Store)",
+        "Corporate Solutions (screening d’ETF, portefeuilles, indices)",
+        "White Label Technology pour banques et asset managers",
+        "Halal Working Capital Solutions"
+    ],
+    "services": [
+        "Screening halal des actions",
+        "Solutions corporate",
+        "Technologie en marque blanche"
+    ],
+    "technologies": [
+        "SaaS",
+        "Screening algorithmique",
+        "Finance islamique digitale"
+    ],
+    "customer_segments": [
+        "Particuliers",
+        "Banques",
+        "Institutions financières",
+        "Asset managers"
+    ],
+    "target_market": "Finance islamique mondiale",
     "operating_countries": [],
-    "languages_supported": [],
+    "languages_supported": [
+        "Anglais",
+        "Français"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
@@ -56,7 +83,9 @@
         "rounds": []
     },
     "investors": [],
-    "awards": [],
+    "awards": [
+        "Most Reliable Islamic Fintech 2020 - Global Brands Magazine"
+    ],
     "certifications": [],
     "patents": [],
     "business_metrics": {
@@ -73,11 +102,15 @@
         "company_type": "",
         "registration_number": ""
     },
-    "extra_notes": "",
-    "sources": [],
+    "extra_notes": "Finispia utilise plusieurs méthodologies de conformité : Dow Jones, FTSE, S&P, MSCI, AAOIFI.",
+    "sources": [
+        "https://finispia.com",
+        "https://apps.apple.com/us/app/finispia/id1528790466",
+        "https://www.globalbrandsmagazine.com/most-reliable-islamic-fintech-2020-finispia/"
+    ],
     "confidence": {
-        "score": 30,
-        "level": "Low"
+        "score": 70,
+        "level": "Medium"
     },
     "enrichment": {
         "status": "csv_import",
@@ -91,27 +124,27 @@
             "tavily",
             "llm"
         ],
-        "date": "2026-07-08T23:56:10.172223",
-        "website_enriched": false,
+        "date": "2026-07-19T17:05:00",
+        "website_enriched": true,
         "tavily_results": 0,
         "llm_enriched": true
     },
     "stats": {
-        "has_website": false,
+        "has_website": true,
         "has_linkedin": false,
         "founders_count": 2,
         "leadership_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
+        "products_count": 4,
+        "services_count": 3,
+        "technologies_count": 3,
         "news_count": 0,
         "has_crunchbase": false,
         "has_wellfound": false,
         "has_github": false,
         "team_members_count": 0,
         "partners_count": 0,
-        "awards_count": 0,
+        "awards_count": 1,
         "social_profiles": 0,
         "social": {
             "profiles_count": 0,
@@ -142,7 +175,9 @@
         "logo": "undefined",
         "label_date": "Aug-20"
     },
-    "external_profiles": {},
+    "external_profiles": {
+        "website": "https://finispia.com"
+    },
     "tavily": {
         "query": "Finispia",
         "answer": "",
@@ -151,18 +186,18 @@
     },
     "validation": {
         "is_african": false,
-        "website_matches": false
+        "website_matches": true
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\finispia.json",
     "normalized_name": "finispia",
     "industries": [],
     "etl": {
         "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
+            "website_valid": true,
+            "website_domain": "finispia.com",
+            "website_type": "official",
             "social_profiles": 0,
-            "external_profiles": 0
+            "external_profiles": 1
         },
         "social_validation": {
             "report": {

@@ -7,7 +7,10 @@
     "website": "https://www.wamda.com/2024/03/dhekra-khelifi-leads-216-capital-disrupt-tunisian-startup-ecosystem",
     "linkedin": "https://www.linkedin.com/company/216capital/",
     "investment_focus": [
-        "early-stage technology companies"
+        "early-stage technology companies",
+        "AI",
+        "fintech",
+        "healthcare"
     ],
     "ticket_size": "€250,000",
     "portfolio_companies": [
@@ -49,7 +52,9 @@
         "youtube": "https://youtube.com/user/wamda"
     },
     "investment_stages": [
-        "Early-stage"
+        "Early-stage",
+        "pre-seed",
+        "seed"
     ],
     "portfolio_startups": [
         {

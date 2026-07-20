@@ -1,0 +1,336 @@
+{
+    "entity_type": "startup",
+    "name": "Insight+",
+    "description": "Ahmini est une plateforme qui permet de décentraliser l'affiliation des femmes rurales au système de couverture sociale adéquat tout en leur facilitant le paiement et leur cotisation en le fragmentant et le rapprochant .",
+    "tagline": "",
+    "industry": "Social Business",
+    "keywords": [
+        "fintech",
+        "cloud",
+        "change manuel",
+        "BBE",
+        "Tunisie"
+    ],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2018",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://www.cbinsights.com/company/ahmini/people",
+    "linkedin_url": "",
+    "social_media": {
+        "linkedin": "https://linkedin.com/shareArticle",
+        "facebook": "https://facebook.com/cbinsights"
+    },
+    "contact": {
+        "emails": [
+            "info@cbinsights.com",
+            "contact@tunisia-tomorrow.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": "https://linkedin.com/shareArticle"
+    },
+    "founders": [
+        {
+            "name": "Meher Khelifi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Borhen kharrat",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Adel Jenni",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Imed Kouki",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Mohamed Ali Jenni",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Hamdi Mezoughi",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Sabri Ameri",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Application cloud Insight+"
+    ],
+    "services": [
+        "Solution de change manuel pour bureaux de change"
+    ],
+    "technologies": [
+        "Cloud",
+        "Fintech",
+        "Application web"
+    ],
+    "customer_segments": [
+        "Bureaux de change",
+        "Institutions financières"
+    ],
+    "target_market": "Tunisie",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "Insight+ se positionne comme une startup fintech tunisienne pionnière dans la digitalisation du change manuel.",
+    "sources": [],
+    "confidence": {
+        "score": 63,
+        "level": "Medium",
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-03T15:00:39.019570",
+        "website_enriched": true,
+        "tavily_results": 15,
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": true,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "founders_count": 2,
+        "team_members_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 1,
+        "technologies_count": 3,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 2,
+        "leadership_count": 0,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 2,
+            "business_count": 2,
+            "generic_count": 0,
+            "official_count": 1,
+            "domains": [
+                "cbinsights.com",
+                "tunisia-tomorrow.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jan-20"
+    },
+    "external_profiles": {
+        "website": "https://www.cbinsights.com/company/ahmini/people",
+        "linkedin": "https://www.linkedin.com/company/ahmini"
+    },
+    "tavily": {
+        "query": "Ahmini",
+        "answer": "",
+        "results_count": 15,
+        "urls": [
+            "https://solve.mit.edu/challenges/id4d-mission-billion-2020/solutions/34672",
+            "https://www.startuplist.africa/startups/ahmini",
+            "https://www.do4africa.org/en/projets/ahmini-2/",
+            "https://storymaps.arcgis.com/stories/68746b33909e4b3a8e8daee074cb9585",
+            "https://tracxn.com/d/companies/ahmini/__5hKlT0C5StG6_smyESA7OgH9lyFdac1RTdfDy7_8NeU",
+            "https://www.linkedin.com/company/ahmini",
+            "https://linkedin.com/in/meher-khelifi-%D9%85%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D9%8A-7203aa156",
+            "https://linkedin.com/in/oumaima-ahmini-10b73b198/en",
+            "https://www.linkedin.com/posts/meher-khelifi-%D9%85%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D9%8A-7203aa156_websummitqatar2024-qfc-qdb-activity-7428027999884787713-r-x8",
+            "https://linkedin.com/in/ahmini-%D8%A7%D8%AD%D9%85%D9%8A%D9%86%D9%8A-56b707159",
+            "https://linkedin.com/company/ahmini",
+            "https://www.wearetech.africa/en/fils-uk/solutions/tunisia-ahmini-facilitates-rural-women-s-access-to-social-security-coverage",
+            "https://www.cbinsights.com/company/ahmini/people",
+            "https://solve.mit.edu/solutions/484",
+            "https://kickstartafrica.com/fiche/ahmini/"
+        ]
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
+    },
+    "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n![Ahmini company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/ab89052f-9d01-4656-a217-543f90a9cc60.jpeg?w=3840)\n# Ahmini\nUnclaimed\n[ahmini.net](https://ahmini.net)\n[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.cbinsights.com/company/ahmini/people)[](https://twitter.com/intent/tweet?text=https://www.cbinsights.com/company/ahmini/people)[](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Check%20out%20Ahmini's%20Profile%20on%20CB%20Insights&body=I%20thought%20you%E2%80%99d%20find%20Ahmini's%20page%20interesting:%20https://www.cbinsights.com/company/ahmini/people)\n* [Overview & Products](https://www.cbinsights.com/company/ahmini/)\n* [Financials](https://www.cbinsights.com/company/ahmini/financials)\n* [People](https://www.cbinsights.com/company/ahmini/people)\n## Executives\n1\n# Ahmini Management Team\n## 1 Team Member\nAhmini has 1 executive. Ahmini's  current CEO, Président-Directeur Général is Meher Khelifi.\n| Name  | Work History  | Title  | Status  |\n| --- | --- | --- | --- |\n| Meher Khelifi  | EPI Educational Group  | CEO, Président-Directeur Général  | Current  |\n| Name  | Meher Khelifi  |\n| --- | --- |\n| Work History  | EPI Educational Group  |\n| Title  | CEO, Président-Directeur Général  |\n| Status  | Current  |\nLearn more by requesting a demo\n[![Start free trial](https://no-cache.hubspot.com/cta/default/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f)\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n## Who to Watch\n![Yahoo! Logo](https://www.cbinsights.com/images/twitter/profile_images/747326716746444800/IRfRHRaE_normal.jpg)\n[Yahoo!](https://www.cbinsights.com/company/yahoo)\nYahoo! is a technology company that provides online properties and services to users; and marketing services to advertisers worldwide. Its offerings include the Yahoo! Home Page, My Yahoo!, Yahoo! Toolbar, Yahoo! Local, Yahoo! Finance amongst many others. The company also provides tools for online display advertising, including rich media, video, and targeting.\nE\n[Exga 3D](https://www.cbinsights.com/company/exga-3d)\nExga 3D creates 3D models of food for events and marketing purposes.\n![CarGurus Logo](https://www.cbinsights.com/images/twitter/profile_images/994580944894951426/yU-64rNd_normal.jpg)\n[CarGurus](https://www.cbinsights.com/company/cargurus)\nCarGurus (NASDAQ: CARG) is an online car shopping platform where users can browse, list, research, and share information about cars.\n![DoorDash Logo](https://www.cbinsights.com/images/twitter/profile_images/1026571485425491968/1hgnM-we_normal.jpg)\n[DoorDash](https://www.cbinsights.com/company/doordash)\nDoorDash (NYSE: DASH) is an on-demand delivery service that connects customers with local businesses. Through the DoorDash marketplace, people can purchase goods from local merchants and have them delivered in less than 45 minutes - thanks to its logistics technology.\n![Mixer Logo](https://www.cbinsights.com/images/twitter/profile_images/1070815956233060352/9M84oitZ_normal.jpg)\n[Mixer](https://www.cbinsights.com/company/beam1)\nMixer, formerly Beam, is an interactive game streaming service that lets viewers play along with streamers as they watch. Beam's model takes the mostly passive interaction that streaming fans may be used to from services like Twitch and YouTube, and adds the ability for viewers to interact with the streamer via crowdsourced controls.\nF\n[Fyre Media](https://www.cbinsights.com/company/fyre-media)\nFyre Media is the developer of Fyre, an on-demand service that makes booking the most influential celebrities, artists, athletes, models, and entertainers seamless and transparent. Fyre Media is the company behind the Fyre Festival, a music festival promoted as a luxury getaway in the Bahamas for the wealthy and elite.\n## Discover the right solution for your team\nThe CB Insights tech market intelligence platform analyzes millions of data points on vendors, products, partnerships, and patents to help your team find their next technology solution.\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7)\n![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)\n498 Seventh Avenue 12th floor\nNew York, NY 10018 info@cbinsights.com\n[212 292 3148](tel:+12122923148)\nFollow Us On Social\n[![Twitter](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/twitter-icon.svg?w=64&q=75)](https://twitter.com/CBinsights)[![Linkedin](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/linkedin-icon.svg?w=64&q=75)](https://linkedin.com/company/cb-insights/)[![Facebook](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/fb-icon.svg?w=64&q=75)](https://facebook.com/cbinsights/)\n### [About](https://www.cbinsights.com/)\n* [About Us](https://www.cbinsights.com/about/)\n* [Upcoming Webinars](https://www.cbinsights.com/research/events)\n* [Contact Us](https://www.cbinsights.com/contact-us/)\n### [How We Help](https://www.cbinsights.com/)\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Create Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n### [What We Offer](https://www.cbinsights.com/)\n* [Platform](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research Overview](https://www.cbinsights.com/what-we-offer/research/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n### [Popular Research](https://www.cbinsights.com/)\n* [AI 100](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2024/)\n* [Fintech 100](https://www.cbinsights.com/research/report/top-fintech-startups-2023/)\n* [Digital Health 50](https://www.cbinsights.com/research/report/digital-health-startups-redefining-healthcare-2023/)\n* [Tech Trends 2024](https://www.cbinsights.com/research/report/top-tech-trends-2024/)\n* [Generative AI Predictions](https://www.cbinsights.com/research/report/generative-ai-predictions-2024/)\n* [Unicorn Tracker](https://www.cbinsights.com/research-unicorn-companies/)\n* [VC Glossary](https://www.cbinsights.com/research-vc-glossary-index/)\n* [Company List Applications](https://www.cbinsights.com/research-company-list-applications)\n* [CB Insights Website Terms of Use](https://www.cbinsights.com/website-terms-of-use/)\n* [Privacy Policy](https://www.cbinsights.com/privacy-policy/)\n* [Do Not Sell My Info](https://preferences.cbinsights.com/dont_sell)\n* [Partnership](https://www.cbinsights.com/research-partnerships)\nCopyright 2026 CB Information Services, Inc. All rights reserved.\nCBI websites generally use certain cookies to enable better interactions with our sites and services. Use of these cookies, which may be stored on your device, permits us to improve and customize your experience. You can read more about your cookie choices at [our privacy policy](https://www.cbinsights.com/privacy-policy). By continuing to use this site you are consenting to these choices.\nI ACCEPT\nI DO NOT ACCEPT",
+    "website_metadata": {
+        "url": "https://www.cbinsights.com/company/ahmini/people",
+        "content_length": 13543
+    },
+    "linkedin": "https://www.linkedin.com/company/ahmini",
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\insight.json",
+    "normalized_name": "insight",
+    "industries": [],
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "cbinsights.com",
+            "website_type": "official",
+            "social_profiles": 2,
+            "external_profiles": 2
+        },
+        "social_validation": {
+            "report": {
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
+            },
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fahmini%2Fpeople%29%5B%5D%28https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3Dhttps%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fahmini%2Fpeople%29%5B%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm&fs=1&tf=1&to=&su=Check+out+Ahmini",
+                    "normalized": "https://linkedin.com/shareArticle",
+                    "username": "shareArticle",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://facebook.com/cbinsights",
+                    "normalized": "https://facebook.com/cbinsights",
+                    "username": "cbinsights",
+                    "valid": true,
+                    "official": true
+                }
+            }
+        },
+        "email_validation": {
+            "report": {
+                "total": 2,
+                "business": 2,
+                "generic": 0,
+                "official": 1,
+                "domains": [
+                    "cbinsights.com",
+                    "tunisia-tomorrow.com"
+                ]
+            },
+            "official": [
+                "info@cbinsights.com"
+            ],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "info@cbinsights.com",
+    "quality": {
+        "phones": {
+            "total": 9,
+            "valid": 0,
+            "removed": 9,
+            "duplicates": 0,
+            "invalid": [
+                "+216905844",
+                "+216014656",
+                "+216747326716746444800",
+                "+216994580944894951426",
+                "+2161026571485425491968",
+                "+2161070815956233060352",
+                "+21675498",
+                "+2162122923148",
+                "+12122923148"
+            ]
+        }
+    }
+}

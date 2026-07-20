@@ -25,12 +25,13 @@
         "emails": [],
         "phones": [],
         "address": "",
-        "primary_social": "https://facebook.com/sharer.php"
+        "primary_social": "https://twitter.com/share"
     },
     "social_media": {
         "facebook": "https://facebook.com/sharer.php",
         "instagram": "https://instagram.com/vccircledotcom",
-        "youtube": "https://youtube.com/@VCCIRCLE"
+        "youtube": "https://youtube.com/@VCCIRCLE",
+        "twitter": "https://twitter.com/share"
     },
     "founders": [
         {
@@ -151,11 +152,11 @@
         "technologies_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 3,
+            "profiles_count": 4,
             "linkedin": false,
             "facebook": true,
             "instagram": true,
-            "twitter": false,
+            "twitter": true,
             "x": false,
             "youtube": true,
             "github": false,
@@ -207,17 +208,18 @@
             "website_valid": true,
             "website_domain": "vccircle.com",
             "website_type": "official",
-            "social_profiles": 4,
+            "social_profiles": 5,
             "external_profiles": 2
         },
         "social_validation": {
             "report": {
-                "total": 3,
-                "valid": 3,
-                "official": 3,
+                "total": 4,
+                "valid": 4,
+                "official": 4,
                 "platforms": [
                     "facebook",
                     "instagram",
+                    "twitter",
                     "youtube"
                 ]
             },
@@ -243,6 +245,14 @@
                     "original": "https://www.youtube.com/@VCCIRCLE",
                     "normalized": "https://youtube.com/@VCCIRCLE",
                     "username": "@VCCIRCLE",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/share?url=https%3A%2F%2Fwww.vccircle.com%2Fapispartners-collects-1-23-bn-for-new-private-equity-fund&via=vccircle&related=twitterapi%2Ctwitter&+hashtags=VCCircle&text=Apis+Partners+collects+123+bn+for+new+private+equity+fund+exceeds+target",
+                    "normalized": "https://twitter.com/share",
+                    "username": "share",
                     "valid": true,
                     "official": true
                 }

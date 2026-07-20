@@ -9,7 +9,9 @@
     "investment_focus": [
         "Sustainable development",
         "Economic growth",
-        "Innovation"
+        "Innovation",
+        "Climate",
+        "Energy"
     ],
     "investment_stages": [],
     "portfolio_startups": [],
@@ -301,7 +303,7 @@
                         "confidence": 1.0
                     },
                     {
-                        "country": "Niger",
+                        "country": "Nigeria",
                         "source": "website_content",
                         "confidence": 0.6
                     }

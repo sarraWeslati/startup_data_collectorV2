@@ -5,7 +5,7 @@
     "tagline": "",
     "industry": "Social Business",
     "keywords": [],
-    "country": "Morocco",
+    "country": "Tunisia",
     "city": "",
     "headquarters": "",
     "founded_year": "2018",
@@ -19,7 +19,8 @@
     },
     "contact": {
         "emails": [
-            "info@cbinsights.com"
+            "info@cbinsights.com",
+            "contact@tunisia-tomorrow.com"
         ],
         "phones": [],
         "address": "",
@@ -131,12 +132,13 @@
             "medium": false
         },
         "emails": {
-            "count": 1,
-            "business_count": 1,
+            "count": 2,
+            "business_count": 2,
             "generic_count": 0,
             "official_count": 1,
             "domains": [
-                "cbinsights.com"
+                "cbinsights.com",
+                "tunisia-tomorrow.com"
             ]
         },
         "phones": {
@@ -227,12 +229,13 @@
         },
         "email_validation": {
             "report": {
-                "total": 1,
-                "business": 1,
+                "total": 2,
+                "business": 2,
                 "generic": 0,
                 "official": 1,
                 "domains": [
-                    "cbinsights.com"
+                    "cbinsights.com",
+                    "tunisia-tomorrow.com"
                 ]
             },
             "official": [
@@ -248,16 +251,31 @@
                     "business": true,
                     "official": true,
                     "source": "website"
+                },
+                {
+                    "original": "contact@tunisia-tomorrow.com",
+                    "normalized": "contact@tunisia-tomorrow.com",
+                    "domain": "tunisia-tomorrow.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
                 }
             ]
         },
         "country_detection": {
-            "selected_country": "Morocco",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Morocco",
                         "source": "website_content",
@@ -275,14 +293,14 @@
             "removed": 9,
             "duplicates": 0,
             "invalid": [
-                "905844",
-                "014656",
-                "747326716746444800",
-                "994580944894951426",
-                "1026571485425491968",
-                "1070815956233060352",
-                "75498",
-                "2122923148",
+                "+216905844",
+                "+216014656",
+                "+216747326716746444800",
+                "+216994580944894951426",
+                "+2161026571485425491968",
+                "+2161070815956233060352",
+                "+21675498",
+                "+2162122923148",
                 "+12122923148"
             ]
         }

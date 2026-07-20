@@ -42,19 +42,19 @@
     "founders": [
         {
             "name": "Amadou Sow",
-            "role": "",
+            "role": "Local Businessman",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Koenraad Beckers",
-            "role": "",
+            "role": "International Energy Expert",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Ruth Beckers",
-            "role": "",
+            "role": "Project Finance Expert",
             "linkedin": "",
             "bio": ""
         }
@@ -305,7 +305,7 @@
                         "confidence": 0.95
                     },
                     {
-                        "country": "Niger",
+                        "country": "Mali",
                         "source": "headquarters",
                         "confidence": 0.9
                     },

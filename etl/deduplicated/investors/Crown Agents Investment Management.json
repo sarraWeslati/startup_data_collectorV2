@@ -7,10 +7,14 @@
     "website": "https://www.cbinsights.com/company/crown-agents-crown-agents-bank-and-agent-investment-management-units",
     "linkedin": "https://linkedin.com/company/crown-agents-investment-management",
     "investment_focus": [
+        "impact investing",
+        "sustainable enterprises",
+        "excluded communities",
+        "remote geographies",
+        "rural enterprises",
         "enterprise",
         "soft infrastructure",
         "platforms integrating Africa",
-        "impact investing",
         "social enterprises",
         "poverty alleviation",
         "FinTech",
@@ -74,22 +78,25 @@
     "social_media": {
         "linkedin": "https://linkedin.com/company/cb-insights/)[![Facebook](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/fb-icon.svg",
         "facebook": "https://facebook.com/cbinsights",
-        "github": "https://github.com/ARYZEofficial"
+        "github": "https://github.com/ARYZEofficial",
+        "twitter": "https://twitter.com/CBinsights"
     },
     "aum": "US$450 million",
     "geographic_focus": [
         "Emerging markets",
+        "India",
+        "Indonesia",
+        "Bangladesh",
+        "Kenya",
         "Africa",
         "Latin America",
         "South Asia",
         "United States",
-        "Kenya",
         "Rwanda",
         "Nigeria",
         "Uganda",
         "United Kingdom",
         "South Africa",
-        "India",
         "Tanzania",
         "Canada",
         "Ghana",
@@ -344,7 +351,7 @@
         "has_dealroom": true,
         "has_pitchbook": true,
         "portfolio_count": 6,
-        "investment_focus_count": 3,
+        "investment_focus_count": 5,
         "investment_stages_count": 2,
         "geographic_focus_count": 1,
         "partners_count": 5,
@@ -362,7 +369,7 @@
             "linkedin": true,
             "facebook": true,
             "instagram": false,
-            "twitter": false,
+            "twitter": true,
             "x": false,
             "youtube": false,
             "github": true,
@@ -391,7 +398,7 @@
         "website_matches": true
     },
     "confidence": {
-        "score": 55,
+        "score": 68,
         "level": "Medium"
     },
     "website_content": "* [Technology Vendors](https://www.cbinsights.com/what-we-offer/technology-vendors/)\n* [Recent Research](https://www.cbinsights.com/research/)\n* [Newsletter](https://www.cbinsights.com/newsletter/)\n* [Media Support](https://www.cbinsights.com/media-support/)\n* [Login](https://www.cbinsights.com/login)\n[![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)](https://www.cbinsights.com)\n* Who We Serve\n* Function\n* [Corporate Strategy](https://www.cbinsights.com/who-we-serve/function/corporate-strategy/)\n* [Corporate Venture Capital](https://www.cbinsights.com/who-we-serve/function/corporate-venture-capital/)\n* [Venture Capital](https://www.cbinsights.com/who-we-serve/function/venture-capital/)\n* [IT](https://www.cbinsights.com/who-we-serve/head-of-it/)\n* [Corporate Innovation](https://www.cbinsights.com/who-we-serve/function/corporate-innovation/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/VC_Persona_Videos.png?w=640&q=75)\n### How VCs Use CB Insights\n[Go to the video gallery →](https://www.cbinsights.com/how-vcs-use-cb-insights/)\n* Industries\n* [Consumer & Retail](https://www.cbinsights.com/who-we-serve/industries/consumer/)\n* [Tech](https://www.cbinsights.com/who-we-serve/industries/tech/)\n* [Insurance](https://www.cbinsights.com/who-we-serve/industries/insurance/)\n* [Healthcare](https://www.cbinsights.com/who-we-serve/industries/healthcare/)\n* [Industrials](https://www.cbinsights.com/who-we-serve/industries/industrials/)\n* [Financial Services](https://www.cbinsights.com/who-we-serve/industries/financial-services/)\n* [Professional Services](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/professionalservices.png?w=640&q=75)\n### Professional Services\n[Learn More→](https://www.cbinsights.com/who-we-serve/industries/professional-services/)\n* [Success Stories](https://www.cbinsights.com/resources/case-studies/)\n* How We Help\n* [Understand Tech Markets](https://www.cbinsights.com/how-we-help/understand-tech-markets/)\n* [Anticipate Competitor Strategy](https://www.cbinsights.com/how-we-help/competitor-strategy/)\n* [Determine Tech Strategy](https://www.cbinsights.com/how-we-help/create-tech-strategy/)\n* [Connect with Tech Vendors & Partners](https://www.cbinsights.com/how-we-help/find-tech-vendors/)\n* [Turbocharge Digital Transformation](https://www.cbinsights.com/how-we-help/digital-transformation/)\n* What We Offer\n* Platform\n* [Overview](https://www.cbinsights.com/what-we-offer/platform/)\n* [Technology Search Engine](https://www.cbinsights.com/what-we-offer/technology-search-engine/)\n* [Market Analytics and Visualizations](https://www.cbinsights.com/what-we-offer/market-analytics-and-visualizations/)\n* [Team Management and Collaboration](https://www.cbinsights.com/what-we-offer/team-management-and-collaboration/)\n* ![Featured Item](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/Feeds_General.svg?w=640&q=75)\n### Platform Overview\n[Learn More→](https://www.cbinsights.com/what-we-offer/platform/)\n* [Data](https://www.cbinsights.com/what-we-offer/data/)\n* [Research](https://www.cbinsights.com/what-we-offer/research/)\n* [Personal Briefing](https://www.cbinsights.com/learn/personal-briefing/)\n* [GenAI Instant Insights](https://www.cbinsights.com/learn/instant-insights/)\n* [Public Equity Data](https://www.cbinsights.com/learn/public-company-data/)\n* [Buyer Interview Transcripts](https://www.cbinsights.com/learn/buyer-interviews)\n* [Analyst Briefings](https://www.cbinsights.com/what-we-offer/technology-vendors//)\n* [API & Data Feeds](https://www.cbinsights.com/what-we-offer/api/)\n* Integrations\n* [Overview](https://www.cbinsights.com/what-we-offer/integrations/)\n* [Chrome and Edge](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Salesforce](https://www.cbinsights.com/what-we-offer/salesforce-integration/)\n* [Affinity](https://www.cbinsights.com/what-we-offer/integrations/affinity-integration/)\n* [Microsoft Excel](https://www.cbinsights.com/what-we-offer/integrations/microsoft-excel/)\n* [Google Sheets](https://www.cbinsights.com/what-we-offer/integrations/google-sheets/)\n* [Microsoft Teams](https://www.cbinsights.com/what-we-offer/integrations/microsoft-teams/)\n* [Slack](https://www.cbinsights.com/what-we-offer/integrations/slack/)\n* [Google Slides](https://www.cbinsights.com/what-we-offer/integrations/google-slides/)\n* [App Partners](https://www.cbinsights.com/what-we-offer/app-partners/)\n* [Browser Extension](https://www.cbinsights.com/what-we-offer/integrations/chrome-and-edge-extension/)\n* [Pricing](https://www.cbinsights.com/what-we-offer/pricing/)\n* About Us\n* [Overview](https://www.cbinsights.com/about/)\n* Our teams\n* [Business Development](https://www.cbinsights.com/about/business-development/)\n* [Engineering](https://www.cbinsights.com/about/engineering/)\n* [Operations](https://www.cbinsights.com/about/operations/)\n* [Product](https://www.cbinsights.com/about/product/)\n* [See all →](https://www.cbinsights.com/about/#work-with-us)\n* [Open Jobs](https://www.cbinsights.com/about/#work-with-us)\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/08e701e9-0584-4ae7-beff-12bf37040fdf.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/08e701e9-0584-4ae7-beff-12bf37040fdf)\n![Aavishkaar Capital company logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/26ed101f-0128-4e54-b219-98e29bea4380.png?w=3840)\n# Aavishkaar Capital\nUnclaimed\n[](https://www.cbinsights.com/company/aavishkaar-capital)\n[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.cbinsights.com/company/aavishkaar-capital)[](https://twitter.com/intent/tweet?text=https://www.cbinsights.com/company/aavishkaar-capital)[](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Check%20out%20Aavishkaar%20Capital's%20Profile%20on%20CB%20Insights&body=I%20thought%20you%E2%80%99d%20find%20Aavishkaar%20Capital's%20page%20interesting:%20https://www.cbinsights.com/company/aavishkaar-capital)\n* [Overview & Products](https://www.cbinsights.com/company/aavishkaar-capital/)\n* [Financials](https://www.cbinsights.com/company/aavishkaar-capital/financials)\n* [People](https://www.cbinsights.com/company/aavishkaar-capital/people)\n* [Alternatives & Competitors](https://www.cbinsights.com/company/aavishkaar-capital/alternatives-competitors)\n## Founded Year\n2001\n## Stage\nUnattributed VC | Alive\n## About Aavishkaar Capital\nAavishkaar Capital operates as a venture capital firm focusing on impact investing. The company provides financial support to entrepreneurs building sustainable enterprises, particularly those that can generate commercial returns while serving humanity sustainably. It primarily invests in businesses that cater to excluded communities and remote geographies, with a focus on scalable rural-focused enterprises. It was founded in 2001 and is based in Mumbai, India.\n## Headquarters Location\nNaman Center, C-31, G Block, Bandra Kurla Complex, Bandra East 2nd Floor\nMumbai, 400051,\nIndia\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n[![Start free trial](https://no-cache.hubspot.com/cta/default/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/55926c7d-e7c1-4c17-8ceb-37665ca53a2f)\n## Latest Aavishkaar Capital News\n[Aavishkaar Capital led $5 M funding raised by Poshs Metal](https://incubees.com/aavishkaar-capital-led-5-m-funding-raised-by-poshs-metal/)\nApr 24, 2025\nThe auto-grade flat steel processing company Poshs Metal Industries has raised Rs 43 crore ($5 million) in a funding round headed by Aavishkaar Capital. Poshs Metal will be able to better serve OEM clients by using the proceeds to support the construction of a new processing facility in Aurangabad. Poshs Metal, a steel service center for tier I automakers, was established by Ashok Kapoor. Tata Steel and it have had a 25-year exclusive partnership for the processing and distribution of steel in Western India. Volvo, Volkswagen, Mahindra, Bajaj Auto, and Tata Motors are important customers. Value-added services like scrap processing, in-house packaging, and steel blank customization are provided by the company. It replaced wooden pallets with an environmentally friendly steel pallet system. Aavishkaar’s $220 million global supply chain support fund, which assists SMEs in Asia and Africa that prioritize inclusive and sustainable practices, has made seven investments. The KfW Development Bank in Germany is supporting the fund.\nApr 22, 2025\n[Aavishkaar Capital Invests INR 43 Crores in Poshs Metal Industries](https://www.autocarpro.in/NEWS/aavishkaar-capital-invests-inr-43-crores-in-poshs-metal-industries-126011)\nApr 22, 2025\n[Aavishkaar Capital Backs Poshs Metal with INR 43 Crore Investment](https://startuptalky.com/news/aavishkaar-capital-invests-43-crores-poshs-metal/)\nApr 22, 2025\n[Aavishkaar Capital leads $5 Mn round in Poshs Metal](https://entrackr.com/snippets/aavishkaar-capital-leads-5-mn-round-in-poshs-metal-8988801)\nApr 5, 2025\n[Startup Mahakumbh Day 2: AgriTech Pavilion Unveils Game-Changing Solutions for Indian Farming](https://businessnewsthisweek.com/business/startup-mahakumbh-day-2-agritech-pavilion-unveils-game-changing-solutions-for-indian-farming/)\nLearn more by requesting a demo\n### Aavishkaar Capital Frequently Asked Questions (FAQ)\n* When was Aavishkaar Capital founded?\nAavishkaar Capital was founded in 2001.\n* Where is Aavishkaar Capital's headquarters?\nAavishkaar Capital's headquarters is located at Naman Center, C-31, G Block, Bandra Kurla Complex, Bandra East, Mumbai.\n* What is Aavishkaar Capital's latest funding round?\nAavishkaar Capital's latest funding round is Unattributed VC.\n* Who are the investors of Aavishkaar Capital?\nInvestors of Aavishkaar Capital include Blue7, Jayesh Parekh, AppWorks Ventures, Artha Impact and Blue Earth Capital.\n* Who are Aavishkaar Capital's competitors?\nCompetitors of Aavishkaar Capital include Red Fort Capital and 5 more.\n[![New call-to-action](https://no-cache.hubspot.com/cta/default/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/44dc5cae-a986-48aa-996a-34cb6eef5c03)\n## Compare Aavishkaar Capital to Competitors\nI\n[Incofin Investment Management](https://www.cbinsights.com/investor/incofin-investment-management)\nIncofin Investment Management (Incofin IM) manages funds that invest in microfinance institutions (MFIs) in developing countries. It provides financial services, such as credits, savings, and insurance, to people who cannot have recourse to regular banks. It focuses on rural microfinancing and aims to reach out to people who live in more secluded rural areas and who are active in the agricultural sector. It was founded in 2001 and is based in Antwerp, Belgium.\n![SV Creditline Logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/dffee4d5-09b6-44c8-8136-bbf20b20aefa.png)\n[SV Creditline](https://www.cbinsights.com/company/svcl)\nSV Creditline operates in the financial services sector, providing microcredit services through a joint liability group model. It offers collateral-free loans aimed at supporting income generation activities, primarily serving the rural population. It was founded in 2011 and is based in Gurugram, India.\n![Jagaran Microfin Logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/2790d086-9b6a-4c2f-ba08-aa301f0ce3ba.png)\n[Jagaran Microfin](https://www.cbinsights.com/company/jagaran-microfin)\nJagaran Microfin is a microfinance institution providing financial services to economically challenged sections of society in rural areas. The company offers various financial products aimed at individuals and small businesses, with an emphasis on women entrepreneurs. Jagaran Microfin serves sectors needing financial inclusion and support for business development, aiming to reduce social inequalities and enhance community livelihoods. It was founded in 2010 and is based in Kolkata, India.\nN\n[Northern Arc Investments](https://www.cbinsights.com/company/northern-arc-investments)\nNorthern Arc Investments is a financial services company focused on financial inclusion and impact investing in India. The company invests in entities that provide financial services to economically underserved individuals and businesses, aiming to improve their access to capital and financial products. Northern Arc Investments primarily serves sectors that promote social and economic development, such as education, gender equality, and sustainable economic growth. It was founded in 1989 and is based in Chennai, India.\n![Saija Finance Logo](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/ffc75074-f025-4927-a2db-46dea183b215.jpeg)\n[Saija Finance](https://www.cbinsights.com/company/saija-finance)\nSaija Finance is a non-banking financial company specializing in microfinance services. The company provides financial services to urban and rural poor, as well as micro and small businessmen, focusing on underserved regions. Saija Finance primarily serves the microfinance sector. It was founded in 2007 and is based in India.\nR\n[Rang De](https://www.cbinsights.com/investor/rang-de)\nRang De operates a peer-to-peer lending platform championing microcredit access for rural India. The company enables individuals to invest in first-time borrowers, with a focus on farmers, entrepreneurs, and students from low-income households. It was founded in 2008 and is based in Bangalore, India.\n## Discover the right solution for your team\nThe CB Insights tech market intelligence platform analyzes millions of data points on vendors, products, partnerships, and patents to help your team find their next technology solution.\n[![Join a demo](https://no-cache.hubspot.com/cta/default/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7.png)](https://cta-redirect.hubspot.com/cta/redirect/763793/a79cbd9c-f9a8-422f-849d-a30af904b1a7)\n![CB Insights](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/CBI_Logo_White.svg?w=3840&q=75)\n498 Seventh Avenue 12th floor\nNew York, NY 10018 info@cbinsights.com\n[212 292 3148](tel:+12122923148)\nFollow Us On Social\n[![Twitter](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/twitter-icon.svg?w=64&q=75)](https://twitter.com/CBinsights)[![Linkedin](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/linkedin-icon.svg?w=64&q=75)](https://linkedin.com/company/cb-insights/)[![Facebook](https://public-pages.cbinsights.com/public-site/656841/_next/static/public/images/fb-icon.svg?w=64&q=75)](https://facebook.com/cbins",
@@ -583,7 +590,8 @@
                 "platforms": [
                     "facebook",
                     "linkedin",
-                    "github"
+                    "github",
+                    "twitter"
                 ]
             },
             "details": {
@@ -597,7 +605,7 @@
                 },
                 "facebook": {
                     "platform": "facebook",
-                    "original": "https://facebook.com/cbinsights",
+                    "original": "https://www.facebook.com/cbinsights",
                     "normalized": "https://facebook.com/cbinsights",
                     "username": "cbinsights",
                     "valid": true,
@@ -608,6 +616,14 @@
                     "original": "https://github.com/ARYZEofficial",
                     "normalized": "https://github.com/ARYZEofficial",
                     "username": "ARYZEofficial",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/CBinsights",
+                    "normalized": "https://twitter.com/CBinsights",
+                    "username": "CBinsights",
                     "valid": true,
                     "official": true
                 }
@@ -721,6 +737,9 @@
         "+234-1-710-0434",
         "+44 (0)20 8643 3311",
         "+49 221 4986-0",
+        "49 221 4986-0",
+        "3825797-",
+        "126030400664",
         "1085215038657441794",
         "637332719110782976",
         "898582455048974336",

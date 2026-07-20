@@ -6,7 +6,7 @@
     "industry": "Agritech",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Ben Arous",
     "headquarters": "",
     "founded_year": "2024",
     "startup_stage": "",
@@ -15,8 +15,32 @@
     "linkedin_url": "",
     "social_media": {},
     "contact": {
-        "emails": [],
-        "phones": [],
+        "emails": [
+            "arsek.dripbox@gmail.com"
+        ],
+        "phones": [
+            {
+                "number": "+21625812346",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21600842595",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21614901961",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": ""
     },
@@ -127,16 +151,20 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
+            "count": 1,
             "business_count": 0,
-            "generic_count": 0,
+            "generic_count": 1,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "gmail.com"
+            ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
         }
     },
     "others": {
@@ -197,22 +225,45 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
+                "total": 1,
                 "business": 0,
-                "generic": 0,
+                "generic": 1,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "gmail.com"
+                ]
             },
             "official": [],
-            "details": []
+            "details": [
+                {
+                    "original": "arsek.dripbox@gmail.com",
+                    "normalized": "arsek.dripbox@gmail.com",
+                    "domain": "gmail.com",
+                    "valid": true,
+                    "generic": true,
+                    "business": false,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "domain",
@@ -222,17 +273,14 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "arsek.dripbox@gmail.com",
     "quality": {
         "phones": {
-            "total": 2,
-            "valid": 0,
-            "removed": 2,
+            "total": 3,
+            "valid": 3,
+            "removed": 0,
             "duplicates": 0,
-            "invalid": [
-                "00842595",
-                "14901961"
-            ]
+            "invalid": []
         }
     }
 }

@@ -6,12 +6,12 @@
     "industry": "Environment",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Safax",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
     "startup_label": true,
-    "website": "",
+    "website": "https://www.co-solar.com",
     "linkedin_url": "",
     "social_media": {},
     "contact": {
@@ -27,7 +27,7 @@
                 "source": "website"
             }
         ],
-        "address": "",
+        "address": "Route Sokra Km 0.5, Sfax, Tunisia",
         "primary_social": ""
     },
     "founders": [
@@ -139,7 +139,7 @@
             "count": 1,
             "business_count": 1,
             "generic_count": 0,
-            "official_count": 0,
+            "official_count": 1,
             "domains": [
                 "co-solar.com"
             ]
@@ -189,9 +189,9 @@
     "industries": [],
     "etl": {
         "website_validation": {
-            "website_valid": false,
-            "website_domain": "",
-            "website_type": "unknown",
+            "website_valid": true,
+            "website_domain": "co-solar.com",
+            "website_type": "official",
             "social_profiles": 0,
             "external_profiles": 0
         },
@@ -209,12 +209,14 @@
                 "total": 1,
                 "business": 1,
                 "generic": 0,
-                "official": 0,
+                "official": 1,
                 "domains": [
                     "co-solar.com"
                 ]
             },
-            "official": [],
+            "official": [
+                "contact@co-solar.com"
+            ],
             "details": [
                 {
                     "original": "contact@co-solar.com",
@@ -223,18 +225,23 @@
                     "valid": true,
                     "generic": false,
                     "business": true,
-                    "official": false,
+                    "official": true,
                     "source": "website"
                 }
             ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "phone",
-            "confidence": 0.95,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "phone",

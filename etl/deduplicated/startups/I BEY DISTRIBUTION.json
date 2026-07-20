@@ -8,7 +8,7 @@
     "country": "Tunisia",
     "city": null,
     "headquarters": null,
-    "founded_year": null,
+    "founded_year": "2020",
     "startup_stage": null,
     "startup_label": true,
     "website": "https://mymall.tn",
@@ -22,7 +22,14 @@
         "address": null,
         "primary_social": ""
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Inès Béjar",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
     "employee_count": null,
     "employee_range": null,
@@ -63,19 +70,22 @@
         "registration_number": null
     },
     "extra_notes": null,
-    "sources": [
-        {
-            "type": "pdf",
-            "url": "pdf",
-            "confidence": 1.0
-        }
-    ],
+    "sources": [],
     "confidence": {
         "score": 53,
-        "level": "Low"
+        "level": "Low",
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
     },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
         "sources": [
             "website",
             "tavily",
@@ -84,7 +94,12 @@
         "date": "2026-06-30T14:49:57.559827",
         "website_enriched": false,
         "tavily_results": 0,
-        "llm_enriched": true
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
     },
     "stats": {
         "has_website": true,
@@ -92,7 +107,7 @@
         "has_crunchbase": false,
         "has_wellfound": false,
         "has_github": false,
-        "founders_count": 0,
+        "founders_count": 1,
         "team_members_count": 0,
         "investors_count": 0,
         "products_count": 0,
@@ -126,7 +141,9 @@
             "count": 0,
             "countries": [],
             "valid": 0
-        }
+        },
+        "leadership_count": 0,
+        "news_count": 0
     },
     "external_profiles": {},
     "emails": [
@@ -175,18 +192,7 @@
             "official": [
                 "ines.bejar@mymall.tn"
             ],
-            "details": [
-                {
-                    "original": "ines.bejar@mymall.tn",
-                    "normalized": "ines.bejar@mymall.tn",
-                    "domain": "mymall.tn",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": true,
-                    "source": "website"
-                }
-            ]
+            "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -194,18 +200,7 @@
             "confidence": 1.0,
             "report": {
                 "count": 2,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "domain",
-                        "confidence": 0.8
-                    }
-                ]
+                "candidates": []
             }
         }
     },
@@ -218,5 +213,9 @@
             "duplicates": 0,
             "invalid": []
         }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Feb-21"
     }
 }

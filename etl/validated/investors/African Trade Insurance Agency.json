@@ -193,7 +193,7 @@
             "details": {
                 "linkedin": {
                     "platform": "linkedin",
-                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde&title=African+Trade+Insurance+Agency+%E2%80%94+Company+Profile+%7C+The+Company+Check&summary=African+Trade+Insurance+Agency+%5C%28Nairobi%2C+Kenya%5C%29+-+Secured+%2424.8M+total+funding.+Access+investors%2C+funding+history%2C+acquisitions%2C+financial+statements+&...=&source=TheCompanyCheck",
+                    "original": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.thecompanycheck.com%2Fcompany%2Fb%2Fafrican-trade-insurance-agency%2Fvaloqendniitk7qde&title=African+Trade+Insurance+Agency+%E2%80%94+Company+Profile+%7C+The+Company+Check&summary=African+Trade+Insurance+Agency+%28Nairobi%2C+Kenya%29+-+Secured+%2424.8M+total+funding.+Access+investors%2C+funding+history%2C+acquisitions%2C+financial+statements+&...=&source=TheCompanyCheck",
                     "normalized": "https://linkedin.com/shareArticle",
                     "username": "shareArticle",
                     "valid": true,
@@ -246,7 +246,7 @@
                         "confidence": 0.9
                     },
                     {
-                        "country": "Algeria",
+                        "country": "Kenya",
                         "source": "website_content",
                         "confidence": 0.6
                     }

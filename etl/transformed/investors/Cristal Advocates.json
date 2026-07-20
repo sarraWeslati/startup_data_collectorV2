@@ -66,7 +66,7 @@
         "portfolio_count": 0,
         "investment_focus_count": 0,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 1,
         "partners_count": 3,
         "team_members_count": 0,
         "social_profiles": 1,
@@ -151,6 +151,9 @@
         "score": 68,
         "level": "Medium"
     },
+    "geographic_focus": [
+        "Uganda"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\cristal_advocates.json",
     "normalized_name": "cristal advocates",
     "industries": [],
@@ -210,7 +213,7 @@
                         "confidence": 1.0
                     },
                     {
-                        "country": "Niger",
+                        "country": "Nigeria",
                         "source": "website_content",
                         "confidence": 0.6
                     }

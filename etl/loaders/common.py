@@ -80,11 +80,52 @@ def upsert_entity(
         entity
     )
 
+    print("\n--------------------------------")
+
+    print(
+        f"Entity : {entity.get('name')}"
+    )
+
+    print(
+        f"Query : {query}"
+    )
+
     if not query:
 
         return "skipped"
 
+    # -----------------------------------------
+    # Store normalized website domain
+    # -----------------------------------------
+
+    domain = get_domain(
+
+        entity.get(
+            "website",
+            ""
+        )
+
+    )
+
+    if domain:
+
+        entity["website_domain"] = domain
+
+    # -----------------------------------------
+    # MongoDB upsert
+    # -----------------------------------------
+
+    print(
+        f"Loading : {entity.get('name')}"
+    )
+
+    print(
+        f"Mongo filter : {query}"
+    )
+
     result = collection.update_one(
+
+        
 
         query,
 

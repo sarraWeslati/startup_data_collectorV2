@@ -2,44 +2,71 @@
     "entity_type": "startup",
     "name": "ORIENT TEA",
     "description": "26\nAPII / CIDT – SEPTEMBER 2022\nORIENT TEA (2013)\nSecteur d’activité / Sector : FoodTech & New Food\nkyufi.com\nFondateur / Founder\nE-mail\nAdresse / Address\nTAREK TALBI\n-\nRoute Khelidia Klm 6 Naassen 1135\nActivité la fabrication d'un thé soluble 100a% naturel et \n100a% authentique. Le thé est vendu dans 3 pays: Canada, \nFrance et Libye.\nAspect Technologique -\nOriginalité -\nActivity the manufacture of a 100a% natural and 100a% \nauthentic soluble tea. The tea is sold in 3 countries: \nCanada, France and Libya.\nTechnological Aspect - \nOriginality -\nFR\nEN",
-    "tagline": null,
-    "industry": "FoodTech & New Food",
-    "keywords": [],
+    "tagline": "",
+    "industry": "Consumer products and services",
+    "keywords": [
+        "thé soluble",
+        "produit naturel",
+        "boisson authentique",
+        "innovation alimentaire"
+    ],
     "country": "Tunisia",
-    "city": null,
-    "headquarters": null,
-    "founded_year": null,
-    "startup_stage": null,
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2013",
+    "startup_stage": "",
     "startup_label": true,
     "website": "https://kyufi.com",
-    "linkedin_url": null,
+    "linkedin_url": "",
     "social_media": {},
     "contact": {
         "emails": [],
         "phones": [],
-        "address": null,
+        "address": "",
         "primary_social": ""
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Tarek Talbi",
+            "role": "Fondateur",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
     "employee_count": null,
-    "employee_range": null,
-    "team_size": null,
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": null,
-    "operating_countries": [],
-    "languages_supported": [],
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Thé soluble KYUFI"
+    ],
+    "services": [
+        "Fabrication de thé soluble naturel",
+        "Distribution de boissons innovantes"
+    ],
+    "technologies": [
+        "Procédé de production innovant"
+    ],
+    "customer_segments": [
+        "Consommateurs de thé",
+        "Magasins alimentaires",
+        "Distributeurs de boissons"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
     "incubators": [],
     "funding": {
         "total_raised": null,
-        "currency": null,
-        "stage": null,
+        "currency": "",
+        "stage": "",
         "rounds": []
     },
     "investors": [],
@@ -52,33 +79,36 @@
         "downloads": null,
         "monthly_transactions": null,
         "annual_revenue": null,
-        "revenue_currency": null
+        "revenue_currency": ""
     },
     "recent_news": [],
     "events": [],
     "legal_info": {
-        "company_type": null,
-        "registration_number": null
+        "company_type": "",
+        "registration_number": ""
     },
-    "extra_notes": null,
-    "sources": [
-        {
-            "type": "pdf",
-            "url": "pdf",
-            "confidence": 1.0
-        },
-        {
-            "type": "website",
-            "url": "https://kyufi.com",
-            "confidence": 1.0
-        }
-    ],
+    "extra_notes": "KYUFI se positionne comme une startup tunisienne innovante dans le secteur des produits de consommation, avec un accent sur les boissons naturelles et authentiques.",
+    "sources": [],
     "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0,
         "score": 49,
         "level": "Low"
     },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": "",
         "sources": [
             "website",
             "tavily",
@@ -92,18 +122,13 @@
     "stats": {
         "has_website": true,
         "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "founders_count": 0,
-        "team_members_count": 0,
+        "founders_count": 1,
+        "leadership_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
-        "partners_count": 0,
-        "awards_count": 0,
-        "social_profiles": 0,
+        "products_count": 1,
+        "services_count": 2,
+        "technologies_count": 1,
+        "news_count": 0,
         "social": {
             "profiles_count": 0,
             "linkedin": false,
@@ -127,27 +152,23 @@
             "count": 0,
             "countries": [],
             "valid": 0
-        }
+        },
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "team_members_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0
     },
-    "website_content": "[ Ignorer et passer au contenu ](https://kyufi.fr/#MainContent)\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nMenu\n* [ Accueil ](https://kyufi.fr/)\n* [ Notre marque ](https://kyufi.fr/pages/notre-marque-1)\n* [ Différences entre sachet de thé, thé en vrac et thé en poudre Kyufi ](https://kyufi.fr/pages/differences-entre-sachet-de-the-the-en-vrac-et-the-en-poudre-kyufi)\n* [ Clients satisfaits ](https://kyufi.fr/pages/clients-satisfaits)\n* [ Thé vert à la menthe ](https://kyufi.fr/collections/100-soluble)\n* [ Thé noir à la menthe ](https://kyufi.fr/collections/100-naturel)\n* [ Thé vert citron ](https://kyufi.fr/collections/the-vert-citron)\n* [ Thé earl grey ](https://kyufi.fr/collections/the-noir-bergamote)\n* [ Thés classiques ](https://kyufi.fr/collections/100-authentique-1)\n* [ Nos accessoires ](https://kyufi.fr/collections/les-accessoires)\n* [ conditions de vente ](https://kyufi.fr/pages/nous-contacter)\n* [ faq ](https://kyufi.fr/pages/faq)\n[ Connexion](https://kyufi.fr/customer_authentication/redirect?locale=fr&region_country=TN)\n![Tunisie](https://flagcdn.com/w80/tn.png) Tunisie | EUR €\n* [ ![Afghanistan](https://flagcdn.com/w80/af.png) Afghanistan | EUR € ](https://kyufi.fr/)\n* [ ![Afrique du Sud](https://flagcdn.com/w80/za.png) Afrique du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Albanie](https://flagcdn.com/w80/al.png) Albanie | EUR € ](https://kyufi.fr/)\n* [ ![Algérie](https://flagcdn.com/w80/dz.png) Algérie | EUR € ](https://kyufi.fr/)\n* [ ![Allemagne](https://flagcdn.com/w80/de.png) Allemagne | EUR € ](https://kyufi.fr/)\n* [ ![Andorre](https://flagcdn.com/w80/ad.png) Andorre | EUR € ](https://kyufi.fr/)\n* [ ![Angola](https://flagcdn.com/w80/ao.png) Angola | EUR € ](https://kyufi.fr/)\n* [ ![Anguilla](https://flagcdn.com/w80/ai.png) Anguilla | EUR € ](https://kyufi.fr/)\n* [ ![Antigua-et-Barbuda](https://flagcdn.com/w80/ag.png) Antigua-et-Barbuda | EUR € ](https://kyufi.fr/)\n* [ ![Arabie saoudite](https://flagcdn.com/w80/sa.png) Arabie saoudite | EUR € ](https://kyufi.fr/)\n* [ ![Argentine](https://flagcdn.com/w80/ar.png) Argentine | EUR € ](https://kyufi.fr/)\n* [ ![Arménie](https://flagcdn.com/w80/am.png) Arménie | EUR € ](https://kyufi.fr/)\n* [ ![Aruba](https://flagcdn.com/w80/aw.png) Aruba | EUR € ](https://kyufi.fr/)\n* [ ![Australie](https://flagcdn.com/w80/au.png) Australie | EUR € ](https://kyufi.fr/)\n* [ ![Autriche](https://flagcdn.com/w80/at.png) Autriche | EUR € ](https://kyufi.fr/)\n* [ ![Azerbaïdjan](https://flagcdn.com/w80/az.png) Azerbaïdjan | EUR € ](https://kyufi.fr/)\n* [ ![Bahamas](https://flagcdn.com/w80/bs.png) Bahamas | EUR € ](https://kyufi.fr/)\n* [ ![Bahreïn](https://flagcdn.com/w80/bh.png) Bahreïn | EUR € ](https://kyufi.fr/)\n* [ ![Bangladesh](https://flagcdn.com/w80/bd.png) Bangladesh | EUR € ](https://kyufi.fr/)\n* [ ![Barbade](https://flagcdn.com/w80/bb.png) Barbade | EUR € ](https://kyufi.fr/)\n* [ ![Belgique](https://flagcdn.com/w80/be.png) Belgique | EUR € ](https://kyufi.fr/)\n* [ ![Belize](https://flagcdn.com/w80/bz.png) Belize | EUR € ](https://kyufi.fr/)\n* [ ![Bénin](https://flagcdn.com/w80/bj.png) Bénin | EUR € ](https://kyufi.fr/)\n* [ ![Bermudes](https://flagcdn.com/w80/bm.png) Bermudes | EUR € ](https://kyufi.fr/)\n* [ ![Bhoutan](https://flagcdn.com/w80/bt.png) Bhoutan | EUR € ](https://kyufi.fr/)\n* [ ![Biélorussie](https://flagcdn.com/w80/by.png) Biélorussie | EUR € ](https://kyufi.fr/)\n* [ ![Bolivie](https://flagcdn.com/w80/bo.png) Bolivie | EUR € ](https://kyufi.fr/)\n* [ ![Bosnie-Herzégovine](https://flagcdn.com/w80/ba.png) Bosnie-Herzégovine | EUR € ](https://kyufi.fr/)\n* [ ![Botswana](https://flagcdn.com/w80/bw.png) Botswana | EUR € ](https://kyufi.fr/)\n* [ ![Brésil](https://flagcdn.com/w80/br.png) Brésil | EUR € ](https://kyufi.fr/)\n* [ ![Brunei](https://flagcdn.com/w80/bn.png) Brunei | EUR € ](https://kyufi.fr/)\n* [ ![Bulgarie](https://flagcdn.com/w80/bg.png) Bulgarie | EUR € ](https://kyufi.fr/)\n* [ ![Burkina Faso](https://flagcdn.com/w80/bf.png) Burkina Faso | EUR € ](https://kyufi.fr/)\n* [ ![Burundi](https://flagcdn.com/w80/bi.png) Burundi | EUR € ](https://kyufi.fr/)\n* [ ![Cambodge](https://flagcdn.com/w80/kh.png) Cambodge | EUR € ](https://kyufi.fr/)\n* [ ![Cameroun](https://flagcdn.com/w80/cm.png) Cameroun | EUR € ](https://kyufi.fr/)\n* [ ![Canada](https://flagcdn.com/w80/ca.png) Canada | EUR € ](https://kyufi.fr/)\n* [ ![Cap-Vert](https://flagcdn.com/w80/cv.png) Cap-Vert | EUR € ](https://kyufi.fr/)\n* [ ![Chili](https://flagcdn.com/w80/cl.png) Chili | EUR € ](https://kyufi.fr/)\n* [ ![Chine](https://flagcdn.com/w80/cn.png) Chine | EUR € ](https://kyufi.fr/)\n* [ ![Chypre](https://flagcdn.com/w80/cy.png) Chypre | EUR € ](https://kyufi.fr/)\n* [ ![Colombie](https://flagcdn.com/w80/co.png) Colombie | EUR € ](https://kyufi.fr/)\n* [ ![Comores](https://flagcdn.com/w80/km.png) Comores | EUR € ](https://kyufi.fr/)\n* [ ![Congo-Brazzaville](https://flagcdn.com/w80/cg.png) Congo-Brazzaville | EUR € ](https://kyufi.fr/)\n* [ ![Congo-Kinshasa](https://flagcdn.com/w80/cd.png) Congo-Kinshasa | EUR € ](https://kyufi.fr/)\n* [ ![Corée du Sud](https://flagcdn.com/w80/kr.png) Corée du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Costa Rica](https://flagcdn.com/w80/cr.png) Costa Rica | EUR € ](https://kyufi.fr/)\n* [ ![Côte d’Ivoire](https://flagcdn.com/w80/ci.png) Côte d’Ivoire | EUR € ](https://kyufi.fr/)\n* [ ![Croatie](https://flagcdn.com/w80/hr.png) Croatie | EUR € ](https://kyufi.fr/)\n* [ ![Curaçao](https://flagcdn.com/w80/cw.png) Curaçao | EUR € ](https://kyufi.fr/)\n* [ ![Danemark](https://flagcdn.com/w80/dk.png) Danemark | EUR € ](https://kyufi.fr/)\n* [ ![Djibouti](https://flagcdn.com/w80/dj.png) Djibouti | EUR € ](https://kyufi.fr/)\n* [ ![Dominique](https://flagcdn.com/w80/dm.png) Dominique | EUR € ](https://kyufi.fr/)\n* [ ![Égypte](https://flagcdn.com/w80/eg.png) Égypte | EUR € ](https://kyufi.fr/)\n* [ ![Émirats arabes unis](https://flagcdn.com/w80/ae.png) Émirats arabes unis | EUR € ](https://kyufi.fr/)\n* [ ![Équateur](https://flagcdn.com/w80/ec.png) Équateur | EUR € ](https://kyufi.fr/)\n* [ ![Érythrée](https://flagcdn.com/w80/er.png) Érythrée | EUR € ](https://kyufi.fr/)\n* [ ![Espagne](https://flagcdn.com/w80/es.png) Espagne | EUR € ](https://kyufi.fr/)\n* [ ![Estonie](https://flagcdn.com/w80/ee.png) Estonie | EUR € ](https://kyufi.fr/)\n* [ ![Eswatini](https://flagcdn.com/w80/sz.png) Eswatini | EUR € ](https://kyufi.fr/)\n* [ ![État de la Cité du Vatican](https://flagcdn.com/w80/va.png) État de la Cité du Vatican | EUR € ](https://kyufi.fr/)\n* [ ![États-Unis](https://flagcdn.com/w80/us.png) États-Unis | EUR € ](https://kyufi.fr/)\n* [ ![Éthiopie](https://flagcdn.com/w80/et.png) Éthiopie | EUR € ](https://kyufi.fr/)\n* [ ![Fidji](https://flagcdn.com/w80/fj.png) Fidji | EUR € ](https://kyufi.fr/)\n* [ ![Finlande](https://flagcdn.com/w80/fi.png) Finlande | EUR € ](https://kyufi.fr/)\n* [ ![France](https://flagcdn.com/w80/fr.png) France | EUR € ](https://kyufi.fr/)\n* [ ![Gabon](https://flagcdn.com/w80/ga.png) Gabon | EUR € ](https://kyufi.fr/)\n* [ ![Gambie](https://flagcdn.com/w80/gm.png) Gambie | EUR € ](https://kyufi.fr/)\n* [ ![Géorgie](https://flagcdn.com/w80/ge.png) Géorgie | EUR € ](https://kyufi.fr/)\n* [ ![Géorgie du Sud-et-les Îles Sandwich du Sud](https://flagcdn.com/w80/gs.png) Géorgie du Sud-et-les Îles Sandwich du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Ghana](https://flagcdn.com/w80/gh.png) Ghana | EUR € ](https://kyufi.fr/)\n* [ ![Gibraltar](https://flagcdn.com/w80/gi.png) Gibraltar | EUR € ](https://kyufi.fr/)\n* [ ![Grèce](https://flagcdn.com/w80/gr.png) Grèce | EUR € ](https://kyufi.fr/)\n* [ ![Grenade](https://flagcdn.com/w80/gd.png) Grenade | EUR € ](https://kyufi.fr/)\n* [ ![Groenland](https://flagcdn.com/w80/gl.png) Groenland | EUR € ](https://kyufi.fr/)\n* [ ![Guadeloupe](https://flagcdn.com/w80/gp.png) Guadeloupe | EUR € ](https://kyufi.fr/)\n* [ ![Guatemala](https://flagcdn.com/w80/gt.png) Guatemala | EUR € ](https://kyufi.fr/)\n* [ ![Guernesey](https://flagcdn.com/w80/gg.png) Guernesey | EUR € ](https://kyufi.fr/)\n* [ ![Guinée](https://flagcdn.com/w80/gn.png) Guinée | EUR € ](https://kyufi.fr/)\n* [ ![Guinée équatoriale](https://flagcdn.com/w80/gq.png) Guinée équatoriale | EUR € ](https://kyufi.fr/)\n* [ ![Guinée-Bissau](https://flagcdn.com/w80/gw.png) Guinée-Bissau | EUR € ](https://kyufi.fr/)\n* [ ![Guyana](https://flagcdn.com/w80/gy.png) Guyana | EUR € ](https://kyufi.fr/)\n* [ ![Guyane française](https://flagcdn.com/w80/gf.png) Guyane française | EUR € ](https://kyufi.fr/)\n* [ ![Haïti](https://flagcdn.com/w80/ht.png) Haïti | EUR € ](https://kyufi.fr/)\n* [ ![Honduras](https://flagcdn.com/w80/hn.png) Honduras | EUR € ](https://kyufi.fr/)\n* [ ![Hongrie](https://flagcdn.com/w80/hu.png) Hongrie | EUR € ](https://kyufi.fr/)\n* [ ![Île Christmas](https://flagcdn.com/w80/cx.png) Île Christmas | EUR € ](https://kyufi.fr/)\n* [ ![Île Norfolk](https://flagcdn.com/w80/nf.png) Île Norfolk | EUR € ](https://kyufi.fr/)\n* [ ![Île de Man](https://flagcdn.com/w80/im.png) Île de Man | EUR € ](https://kyufi.fr/)\n* [ ![Île de l’Ascension](https://flagcdn.com/w80/ac.png) Île de l’Ascension | EUR € ](https://kyufi.fr/)\n* [ ![Îles Åland](https://flagcdn.com/w80/ax.png) Îles Åland | EUR € ](https://kyufi.fr/)\n* [ ![Îles Caïmans](https://flagcdn.com/w80/ky.png) Îles Caïmans | EUR € ](https://kyufi.fr/)\n* [ ![Îles Cocos](https://flagcdn.com/w80/cc.png) Îles Cocos | EUR € ](https://kyufi.fr/)\n* [ ![Îles Cook](https://flagcdn.com/w80/ck.png) Îles Cook | EUR € ](https://kyufi.fr/)\n* [ ![Îles Féroé](https://flagcdn.com/w80/fo.png) Îles Féroé | EUR € ](https://kyufi.fr/)\n* [ ![Îles Malouines](https://flagcdn.com/w80/fk.png) Îles Malouines | EUR € ](https://kyufi.fr/)\n* [ ![Îles Pitcairn](https://flagcdn.com/w80/pn.png) Îles Pitcairn | EUR € ](https://kyufi.fr/)\n* [ ![Îles Salomon](https://flagcdn.com/w80/sb.png) Îles Salomon | EUR € ](https://kyufi.fr/)\n* [ ![Îles Turques-et-Caïques](https://flagcdn.com/w80/tc.png) Îles Turques-et-Caïques | EUR € ](https://kyufi.fr/)\n* [ ![Îles Vierges britanniques](https://flagcdn.com/w80/vg.png) Îles Vierges britanniques | EUR € ](https://kyufi.fr/)\n* [ ![Îles mineures éloignées des États-Unis](https://flagcdn.com/w80/um.png) Îles mineures éloignées des États-Unis | EUR € ](https://kyufi.fr/)\n* [ ![Inde](https://flagcdn.com/w80/in.png) Inde | EUR € ](https://kyufi.fr/)\n* [ ![Indonésie](https://flagcdn.com/w80/id.png) Indonésie | EUR € ](https://kyufi.fr/)\n* [ ![Irak](https://flagcdn.com/w80/iq.png) Irak | EUR € ](https://kyufi.fr/)\n* [ ![Irlande](https://flagcdn.com/w80/ie.png) Irlande | EUR € ](https://kyufi.fr/)\n* [ ![Islande](https://flagcdn.com/w80/is.png) Islande | EUR € ](https://kyufi.fr/)\n* [ ![Israël](https://flagcdn.com/w80/il.png) Israël | EUR € ](https://kyufi.fr/)\n* [ ![Italie](https://flagcdn.com/w80/it.png) Italie | EUR € ](https://kyufi.fr/)\n* [ ![Jamaïque](https://flagcdn.com/w80/jm.png) Jamaïque | EUR € ](https://kyufi.fr/)\n* [ ![Japon](https://flagcdn.com/w80/jp.png) Japon | EUR € ](https://kyufi.fr/)\n* [ ![Jersey](https://flagcdn.com/w80/je.png) Jersey | EUR € ](https://kyufi.fr/)\n* [ ![Jordanie](https://flagcdn.com/w80/jo.png) Jordanie | EUR € ](https://kyufi.fr/)\n* [ ![Kazakhstan](https://flagcdn.com/w80/kz.png) Kazakhstan | EUR € ](https://kyufi.fr/)\n* [ ![Kenya](https://flagcdn.com/w80/ke.png) Kenya | EUR € ](https://kyufi.fr/)\n* [ ![Kirghizstan](https://flagcdn.com/w80/kg.png) Kirghizstan | EUR € ](https://kyufi.fr/)\n* [ ![Kiribati](https://flagcdn.com/w80/ki.png) Kiribati | EUR € ](https://kyufi.fr/)\n* [ ![Kosovo](https://flagcdn.com/w80/xk.png) Kosovo | EUR € ](https://kyufi.fr/)\n* [ ![Koweït](https://flagcdn.com/w80/kw.png) Koweït | EUR € ](https://kyufi.fr/)\n* [ ![La Réunion](https://flagcdn.com/w80/re.png) La Réunion | EUR € ](https://kyufi.fr/)\n* [ ![Laos](https://flagcdn.com/w80/la.png) Laos | EUR € ](https://kyufi.fr/)\n* [ ![Lesotho](https://flagcdn.com/w80/ls.png) Lesotho | EUR € ](https://kyufi.fr/)\n* [ ![Lettonie](https://flagcdn.com/w80/lv.png) Lettonie | EUR € ](https://kyufi.fr/)\n* [ ![Liban](https://flagcdn.com/w80/lb.png) Liban | EUR € ](https://kyufi.fr/)\n* [ ![Liberia](https://flagcdn.com/w80/lr.png) Liberia | EUR € ](https://kyufi.fr/)\n* [ ![Libye](https://flagcdn.com/w80/ly.png) Libye | EUR € ](https://kyufi.fr/)\n* [ ![Liechtenstein](https://flagcdn.com/w80/li.png) Liechtenstein | EUR € ](https://kyufi.fr/)\n* [ ![Lituanie](https://flagcdn.com/w80/lt.png) Lituanie | EUR € ](https://kyufi.fr/)\n* [ ![Luxembourg](https://flagcdn.com/w80/lu.png) Luxembourg | EUR € ](https://kyufi.fr/)\n* [ ![Macédoine du Nord](https://flagcdn.com/w80/mk.png) Macédoine du Nord | EUR € ](https://kyufi.fr/)\n* [ ![Madagascar](https://flagcdn.com/w80/mg.png) Madagascar | EUR € ](https://kyufi.fr/)\n* [ ![Malaisie](https://flagcdn.com/w80/my.png) Malaisie | EUR € ](https://kyufi.fr/)\n* [ ![Malawi](https://flagcdn.com/w80/mw.png) Malawi | EUR € ](https://kyufi.fr/)\n* [ ![Maldives](https://flagcdn.com/w80/mv.png) Maldives | EUR € ](https://kyufi.fr/)\n* [ ![Mali](https://flagcdn.com/w80/ml.png) Mali | EUR € ](https://kyufi.fr/)\n* [ ![Malte](https://flagcdn.com/w80/mt.png) Malte | EUR € ](https://kyufi.fr/)\n* [ ![Maroc](https://flagcdn.com/w80/ma.png) Maroc | EUR € ](https://kyufi.fr/)\n* [ ![Martinique](https://flagcdn.com/w80/mq.png) Martinique | EUR € ](https://kyufi.fr/)\n* [ ![Maurice](https://flagcdn.com/w80/mu.png) Maurice | EUR € ](https://kyufi.fr/)\n* [ ![Mauritanie](https://flagcdn.com/w80/mr.png) Mauritanie | EUR € ](https://kyufi.fr/)\n* [ ![Mayotte](https://flagcdn.com/w80/yt.png) Mayotte | EUR € ](https://kyufi.fr/)\n* [ ![Mexique](https://flagcdn.com/w80/mx.png) Mexique | EUR €",
-    "website_metadata": {
-        "url": "https://kyufi.com",
-        "content_length": 15000
-    },
-    "external_profiles": {},
-    "tavily": {
-        "query": "ORIENT TEA",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
-    "validation": {
-        "is_african": true,
-        "website_matches": false
+    "others": {
+        "logo": "undefined",
+        "label_date": "Mar-20"
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\orient_tea.json",
     "normalized_name": "orient tea",
     "industries": [],
+    "external_profiles": {},
     "etl": {
         "website_validation": {
             "website_valid": true,
@@ -182,18 +203,7 @@
             "confidence": 1.0,
             "report": {
                 "count": 2,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    },
-                    {
-                        "country": "Congo",
-                        "source": "website_content",
-                        "confidence": 0.6
-                    }
-                ]
+                "candidates": []
             }
         }
     },
@@ -206,5 +216,20 @@
             "duplicates": 0,
             "invalid": []
         }
+    },
+    "website_content": "[ Ignorer et passer au contenu ](https://kyufi.fr/#MainContent)\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nBienvenue!\nlivraison gratuite à partir de 20 € en France et 30 € pour le reste de l’Europe\nMenu\n* [ Accueil ](https://kyufi.fr/)\n* [ Notre marque ](https://kyufi.fr/pages/notre-marque-1)\n* [ Différences entre sachet de thé, thé en vrac et thé en poudre Kyufi ](https://kyufi.fr/pages/differences-entre-sachet-de-the-the-en-vrac-et-the-en-poudre-kyufi)\n* [ Clients satisfaits ](https://kyufi.fr/pages/clients-satisfaits)\n* [ Thé vert à la menthe ](https://kyufi.fr/collections/100-soluble)\n* [ Thé noir à la menthe ](https://kyufi.fr/collections/100-naturel)\n* [ Thé vert citron ](https://kyufi.fr/collections/the-vert-citron)\n* [ Thé earl grey ](https://kyufi.fr/collections/the-noir-bergamote)\n* [ Thés classiques ](https://kyufi.fr/collections/100-authentique-1)\n* [ Nos accessoires ](https://kyufi.fr/collections/les-accessoires)\n* [ conditions de vente ](https://kyufi.fr/pages/nous-contacter)\n* [ faq ](https://kyufi.fr/pages/faq)\n[ Connexion](https://kyufi.fr/customer_authentication/redirect?locale=fr&region_country=TN)\n![Tunisie](https://flagcdn.com/w80/tn.png) Tunisie | EUR €\n* [ ![Afghanistan](https://flagcdn.com/w80/af.png) Afghanistan | EUR € ](https://kyufi.fr/)\n* [ ![Afrique du Sud](https://flagcdn.com/w80/za.png) Afrique du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Albanie](https://flagcdn.com/w80/al.png) Albanie | EUR € ](https://kyufi.fr/)\n* [ ![Algérie](https://flagcdn.com/w80/dz.png) Algérie | EUR € ](https://kyufi.fr/)\n* [ ![Allemagne](https://flagcdn.com/w80/de.png) Allemagne | EUR € ](https://kyufi.fr/)\n* [ ![Andorre](https://flagcdn.com/w80/ad.png) Andorre | EUR € ](https://kyufi.fr/)\n* [ ![Angola](https://flagcdn.com/w80/ao.png) Angola | EUR € ](https://kyufi.fr/)\n* [ ![Anguilla](https://flagcdn.com/w80/ai.png) Anguilla | EUR € ](https://kyufi.fr/)\n* [ ![Antigua-et-Barbuda](https://flagcdn.com/w80/ag.png) Antigua-et-Barbuda | EUR € ](https://kyufi.fr/)\n* [ ![Arabie saoudite](https://flagcdn.com/w80/sa.png) Arabie saoudite | EUR € ](https://kyufi.fr/)\n* [ ![Argentine](https://flagcdn.com/w80/ar.png) Argentine | EUR € ](https://kyufi.fr/)\n* [ ![Arménie](https://flagcdn.com/w80/am.png) Arménie | EUR € ](https://kyufi.fr/)\n* [ ![Aruba](https://flagcdn.com/w80/aw.png) Aruba | EUR € ](https://kyufi.fr/)\n* [ ![Australie](https://flagcdn.com/w80/au.png) Australie | EUR € ](https://kyufi.fr/)\n* [ ![Autriche](https://flagcdn.com/w80/at.png) Autriche | EUR € ](https://kyufi.fr/)\n* [ ![Azerbaïdjan](https://flagcdn.com/w80/az.png) Azerbaïdjan | EUR € ](https://kyufi.fr/)\n* [ ![Bahamas](https://flagcdn.com/w80/bs.png) Bahamas | EUR € ](https://kyufi.fr/)\n* [ ![Bahreïn](https://flagcdn.com/w80/bh.png) Bahreïn | EUR € ](https://kyufi.fr/)\n* [ ![Bangladesh](https://flagcdn.com/w80/bd.png) Bangladesh | EUR € ](https://kyufi.fr/)\n* [ ![Barbade](https://flagcdn.com/w80/bb.png) Barbade | EUR € ](https://kyufi.fr/)\n* [ ![Belgique](https://flagcdn.com/w80/be.png) Belgique | EUR € ](https://kyufi.fr/)\n* [ ![Belize](https://flagcdn.com/w80/bz.png) Belize | EUR € ](https://kyufi.fr/)\n* [ ![Bénin](https://flagcdn.com/w80/bj.png) Bénin | EUR € ](https://kyufi.fr/)\n* [ ![Bermudes](https://flagcdn.com/w80/bm.png) Bermudes | EUR € ](https://kyufi.fr/)\n* [ ![Bhoutan](https://flagcdn.com/w80/bt.png) Bhoutan | EUR € ](https://kyufi.fr/)\n* [ ![Biélorussie](https://flagcdn.com/w80/by.png) Biélorussie | EUR € ](https://kyufi.fr/)\n* [ ![Bolivie](https://flagcdn.com/w80/bo.png) Bolivie | EUR € ](https://kyufi.fr/)\n* [ ![Bosnie-Herzégovine](https://flagcdn.com/w80/ba.png) Bosnie-Herzégovine | EUR € ](https://kyufi.fr/)\n* [ ![Botswana](https://flagcdn.com/w80/bw.png) Botswana | EUR € ](https://kyufi.fr/)\n* [ ![Brésil](https://flagcdn.com/w80/br.png) Brésil | EUR € ](https://kyufi.fr/)\n* [ ![Brunei](https://flagcdn.com/w80/bn.png) Brunei | EUR € ](https://kyufi.fr/)\n* [ ![Bulgarie](https://flagcdn.com/w80/bg.png) Bulgarie | EUR € ](https://kyufi.fr/)\n* [ ![Burkina Faso](https://flagcdn.com/w80/bf.png) Burkina Faso | EUR € ](https://kyufi.fr/)\n* [ ![Burundi](https://flagcdn.com/w80/bi.png) Burundi | EUR € ](https://kyufi.fr/)\n* [ ![Cambodge](https://flagcdn.com/w80/kh.png) Cambodge | EUR € ](https://kyufi.fr/)\n* [ ![Cameroun](https://flagcdn.com/w80/cm.png) Cameroun | EUR € ](https://kyufi.fr/)\n* [ ![Canada](https://flagcdn.com/w80/ca.png) Canada | EUR € ](https://kyufi.fr/)\n* [ ![Cap-Vert](https://flagcdn.com/w80/cv.png) Cap-Vert | EUR € ](https://kyufi.fr/)\n* [ ![Chili](https://flagcdn.com/w80/cl.png) Chili | EUR € ](https://kyufi.fr/)\n* [ ![Chine](https://flagcdn.com/w80/cn.png) Chine | EUR € ](https://kyufi.fr/)\n* [ ![Chypre](https://flagcdn.com/w80/cy.png) Chypre | EUR € ](https://kyufi.fr/)\n* [ ![Colombie](https://flagcdn.com/w80/co.png) Colombie | EUR € ](https://kyufi.fr/)\n* [ ![Comores](https://flagcdn.com/w80/km.png) Comores | EUR € ](https://kyufi.fr/)\n* [ ![Congo-Brazzaville](https://flagcdn.com/w80/cg.png) Congo-Brazzaville | EUR € ](https://kyufi.fr/)\n* [ ![Congo-Kinshasa](https://flagcdn.com/w80/cd.png) Congo-Kinshasa | EUR € ](https://kyufi.fr/)\n* [ ![Corée du Sud](https://flagcdn.com/w80/kr.png) Corée du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Costa Rica](https://flagcdn.com/w80/cr.png) Costa Rica | EUR € ](https://kyufi.fr/)\n* [ ![Côte d’Ivoire](https://flagcdn.com/w80/ci.png) Côte d’Ivoire | EUR € ](https://kyufi.fr/)\n* [ ![Croatie](https://flagcdn.com/w80/hr.png) Croatie | EUR € ](https://kyufi.fr/)\n* [ ![Curaçao](https://flagcdn.com/w80/cw.png) Curaçao | EUR € ](https://kyufi.fr/)\n* [ ![Danemark](https://flagcdn.com/w80/dk.png) Danemark | EUR € ](https://kyufi.fr/)\n* [ ![Djibouti](https://flagcdn.com/w80/dj.png) Djibouti | EUR € ](https://kyufi.fr/)\n* [ ![Dominique](https://flagcdn.com/w80/dm.png) Dominique | EUR € ](https://kyufi.fr/)\n* [ ![Égypte](https://flagcdn.com/w80/eg.png) Égypte | EUR € ](https://kyufi.fr/)\n* [ ![Émirats arabes unis](https://flagcdn.com/w80/ae.png) Émirats arabes unis | EUR € ](https://kyufi.fr/)\n* [ ![Équateur](https://flagcdn.com/w80/ec.png) Équateur | EUR € ](https://kyufi.fr/)\n* [ ![Érythrée](https://flagcdn.com/w80/er.png) Érythrée | EUR € ](https://kyufi.fr/)\n* [ ![Espagne](https://flagcdn.com/w80/es.png) Espagne | EUR € ](https://kyufi.fr/)\n* [ ![Estonie](https://flagcdn.com/w80/ee.png) Estonie | EUR € ](https://kyufi.fr/)\n* [ ![Eswatini](https://flagcdn.com/w80/sz.png) Eswatini | EUR € ](https://kyufi.fr/)\n* [ ![État de la Cité du Vatican](https://flagcdn.com/w80/va.png) État de la Cité du Vatican | EUR € ](https://kyufi.fr/)\n* [ ![États-Unis](https://flagcdn.com/w80/us.png) États-Unis | EUR € ](https://kyufi.fr/)\n* [ ![Éthiopie](https://flagcdn.com/w80/et.png) Éthiopie | EUR € ](https://kyufi.fr/)\n* [ ![Fidji](https://flagcdn.com/w80/fj.png) Fidji | EUR € ](https://kyufi.fr/)\n* [ ![Finlande](https://flagcdn.com/w80/fi.png) Finlande | EUR € ](https://kyufi.fr/)\n* [ ![France](https://flagcdn.com/w80/fr.png) France | EUR € ](https://kyufi.fr/)\n* [ ![Gabon](https://flagcdn.com/w80/ga.png) Gabon | EUR € ](https://kyufi.fr/)\n* [ ![Gambie](https://flagcdn.com/w80/gm.png) Gambie | EUR € ](https://kyufi.fr/)\n* [ ![Géorgie](https://flagcdn.com/w80/ge.png) Géorgie | EUR € ](https://kyufi.fr/)\n* [ ![Géorgie du Sud-et-les Îles Sandwich du Sud](https://flagcdn.com/w80/gs.png) Géorgie du Sud-et-les Îles Sandwich du Sud | EUR € ](https://kyufi.fr/)\n* [ ![Ghana](https://flagcdn.com/w80/gh.png) Ghana | EUR € ](https://kyufi.fr/)\n* [ ![Gibraltar](https://flagcdn.com/w80/gi.png) Gibraltar | EUR € ](https://kyufi.fr/)\n* [ ![Grèce](https://flagcdn.com/w80/gr.png) Grèce | EUR € ](https://kyufi.fr/)\n* [ ![Grenade](https://flagcdn.com/w80/gd.png) Grenade | EUR € ](https://kyufi.fr/)\n* [ ![Groenland](https://flagcdn.com/w80/gl.png) Groenland | EUR € ](https://kyufi.fr/)\n* [ ![Guadeloupe](https://flagcdn.com/w80/gp.png) Guadeloupe | EUR € ](https://kyufi.fr/)\n* [ ![Guatemala](https://flagcdn.com/w80/gt.png) Guatemala | EUR € ](https://kyufi.fr/)\n* [ ![Guernesey](https://flagcdn.com/w80/gg.png) Guernesey | EUR € ](https://kyufi.fr/)\n* [ ![Guinée](https://flagcdn.com/w80/gn.png) Guinée | EUR € ](https://kyufi.fr/)\n* [ ![Guinée équatoriale](https://flagcdn.com/w80/gq.png) Guinée équatoriale | EUR € ](https://kyufi.fr/)\n* [ ![Guinée-Bissau](https://flagcdn.com/w80/gw.png) Guinée-Bissau | EUR € ](https://kyufi.fr/)\n* [ ![Guyana](https://flagcdn.com/w80/gy.png) Guyana | EUR € ](https://kyufi.fr/)\n* [ ![Guyane française](https://flagcdn.com/w80/gf.png) Guyane française | EUR € ](https://kyufi.fr/)\n* [ ![Haïti](https://flagcdn.com/w80/ht.png) Haïti | EUR € ](https://kyufi.fr/)\n* [ ![Honduras](https://flagcdn.com/w80/hn.png) Honduras | EUR € ](https://kyufi.fr/)\n* [ ![Hongrie](https://flagcdn.com/w80/hu.png) Hongrie | EUR € ](https://kyufi.fr/)\n* [ ![Île Christmas](https://flagcdn.com/w80/cx.png) Île Christmas | EUR € ](https://kyufi.fr/)\n* [ ![Île Norfolk](https://flagcdn.com/w80/nf.png) Île Norfolk | EUR € ](https://kyufi.fr/)\n* [ ![Île de Man](https://flagcdn.com/w80/im.png) Île de Man | EUR € ](https://kyufi.fr/)\n* [ ![Île de l’Ascension](https://flagcdn.com/w80/ac.png) Île de l’Ascension | EUR € ](https://kyufi.fr/)\n* [ ![Îles Åland](https://flagcdn.com/w80/ax.png) Îles Åland | EUR € ](https://kyufi.fr/)\n* [ ![Îles Caïmans](https://flagcdn.com/w80/ky.png) Îles Caïmans | EUR € ](https://kyufi.fr/)\n* [ ![Îles Cocos](https://flagcdn.com/w80/cc.png) Îles Cocos | EUR € ](https://kyufi.fr/)\n* [ ![Îles Cook](https://flagcdn.com/w80/ck.png) Îles Cook | EUR € ](https://kyufi.fr/)\n* [ ![Îles Féroé](https://flagcdn.com/w80/fo.png) Îles Féroé | EUR € ](https://kyufi.fr/)\n* [ ![Îles Malouines](https://flagcdn.com/w80/fk.png) Îles Malouines | EUR € ](https://kyufi.fr/)\n* [ ![Îles Pitcairn](https://flagcdn.com/w80/pn.png) Îles Pitcairn | EUR € ](https://kyufi.fr/)\n* [ ![Îles Salomon](https://flagcdn.com/w80/sb.png) Îles Salomon | EUR € ](https://kyufi.fr/)\n* [ ![Îles Turques-et-Caïques](https://flagcdn.com/w80/tc.png) Îles Turques-et-Caïques | EUR € ](https://kyufi.fr/)\n* [ ![Îles Vierges britanniques](https://flagcdn.com/w80/vg.png) Îles Vierges britanniques | EUR € ](https://kyufi.fr/)\n* [ ![Îles mineures éloignées des États-Unis](https://flagcdn.com/w80/um.png) Îles mineures éloignées des États-Unis | EUR € ](https://kyufi.fr/)\n* [ ![Inde](https://flagcdn.com/w80/in.png) Inde | EUR € ](https://kyufi.fr/)\n* [ ![Indonésie](https://flagcdn.com/w80/id.png) Indonésie | EUR € ](https://kyufi.fr/)\n* [ ![Irak](https://flagcdn.com/w80/iq.png) Irak | EUR € ](https://kyufi.fr/)\n* [ ![Irlande](https://flagcdn.com/w80/ie.png) Irlande | EUR € ](https://kyufi.fr/)\n* [ ![Islande](https://flagcdn.com/w80/is.png) Islande | EUR € ](https://kyufi.fr/)\n* [ ![Israël](https://flagcdn.com/w80/il.png) Israël | EUR € ](https://kyufi.fr/)\n* [ ![Italie](https://flagcdn.com/w80/it.png) Italie | EUR € ](https://kyufi.fr/)\n* [ ![Jamaïque](https://flagcdn.com/w80/jm.png) Jamaïque | EUR € ](https://kyufi.fr/)\n* [ ![Japon](https://flagcdn.com/w80/jp.png) Japon | EUR € ](https://kyufi.fr/)\n* [ ![Jersey](https://flagcdn.com/w80/je.png) Jersey | EUR € ](https://kyufi.fr/)\n* [ ![Jordanie](https://flagcdn.com/w80/jo.png) Jordanie | EUR € ](https://kyufi.fr/)\n* [ ![Kazakhstan](https://flagcdn.com/w80/kz.png) Kazakhstan | EUR € ](https://kyufi.fr/)\n* [ ![Kenya](https://flagcdn.com/w80/ke.png) Kenya | EUR € ](https://kyufi.fr/)\n* [ ![Kirghizstan](https://flagcdn.com/w80/kg.png) Kirghizstan | EUR € ](https://kyufi.fr/)\n* [ ![Kiribati](https://flagcdn.com/w80/ki.png) Kiribati | EUR € ](https://kyufi.fr/)\n* [ ![Kosovo](https://flagcdn.com/w80/xk.png) Kosovo | EUR € ](https://kyufi.fr/)\n* [ ![Koweït](https://flagcdn.com/w80/kw.png) Koweït | EUR € ](https://kyufi.fr/)\n* [ ![La Réunion](https://flagcdn.com/w80/re.png) La Réunion | EUR € ](https://kyufi.fr/)\n* [ ![Laos](https://flagcdn.com/w80/la.png) Laos | EUR € ](https://kyufi.fr/)\n* [ ![Lesotho](https://flagcdn.com/w80/ls.png) Lesotho | EUR € ](https://kyufi.fr/)\n* [ ![Lettonie](https://flagcdn.com/w80/lv.png) Lettonie | EUR € ](https://kyufi.fr/)\n* [ ![Liban](https://flagcdn.com/w80/lb.png) Liban | EUR € ](https://kyufi.fr/)\n* [ ![Liberia](https://flagcdn.com/w80/lr.png) Liberia | EUR € ](https://kyufi.fr/)\n* [ ![Libye](https://flagcdn.com/w80/ly.png) Libye | EUR € ](https://kyufi.fr/)\n* [ ![Liechtenstein](https://flagcdn.com/w80/li.png) Liechtenstein | EUR € ](https://kyufi.fr/)\n* [ ![Lituanie](https://flagcdn.com/w80/lt.png) Lituanie | EUR € ](https://kyufi.fr/)\n* [ ![Luxembourg](https://flagcdn.com/w80/lu.png) Luxembourg | EUR € ](https://kyufi.fr/)\n* [ ![Macédoine du Nord](https://flagcdn.com/w80/mk.png) Macédoine du Nord | EUR € ](https://kyufi.fr/)\n* [ ![Madagascar](https://flagcdn.com/w80/mg.png) Madagascar | EUR € ](https://kyufi.fr/)\n* [ ![Malaisie](https://flagcdn.com/w80/my.png) Malaisie | EUR € ](https://kyufi.fr/)\n* [ ![Malawi](https://flagcdn.com/w80/mw.png) Malawi | EUR € ](https://kyufi.fr/)\n* [ ![Maldives](https://flagcdn.com/w80/mv.png) Maldives | EUR € ](https://kyufi.fr/)\n* [ ![Mali](https://flagcdn.com/w80/ml.png) Mali | EUR € ](https://kyufi.fr/)\n* [ ![Malte](https://flagcdn.com/w80/mt.png) Malte | EUR € ](https://kyufi.fr/)\n* [ ![Maroc](https://flagcdn.com/w80/ma.png) Maroc | EUR € ](https://kyufi.fr/)\n* [ ![Martinique](https://flagcdn.com/w80/mq.png) Martinique | EUR € ](https://kyufi.fr/)\n* [ ![Maurice](https://flagcdn.com/w80/mu.png) Maurice | EUR € ](https://kyufi.fr/)\n* [ ![Mauritanie](https://flagcdn.com/w80/mr.png) Mauritanie | EUR € ](https://kyufi.fr/)\n* [ ![Mayotte](https://flagcdn.com/w80/yt.png) Mayotte | EUR € ](https://kyufi.fr/)\n* [ ![Mexique](https://flagcdn.com/w80/mx.png) Mexique | EUR €",
+    "website_metadata": {
+        "url": "https://kyufi.com",
+        "content_length": 15000
+    },
+    "tavily": {
+        "query": "ORIENT TEA",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": false
     }
 }

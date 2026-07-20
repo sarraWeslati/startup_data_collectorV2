@@ -6,7 +6,12 @@
     "city": "Dakar",
     "website": "https://www.business-senegal.com/fre/Entreprises/profilent/_16651",
     "linkedin": "https://linkedin.com/company/actafriquegroup",
-    "investment_focus": [],
+    "investment_focus": [
+        "Business & Strategy Advisory",
+        "Investment Banking",
+        "Financial Services",
+        "Communication"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -66,7 +71,7 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 4,
         "investment_stages_count": 0,
         "geographic_focus_count": 4,
         "partners_count": 0,

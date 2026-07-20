@@ -135,6 +135,25 @@ INVESTORS_COLLECTION = "investors"
 
 NEWS_COLLECTION = "news"
 
+MONGODB_URI = (
+    "mongodb://localhost:27017/"
+)
+
+DATABASE_NAME = (
+    "startup_database"
+)
+
+STARTUPS_COLLECTION = (
+    "startups"
+)
+
+INVESTORS_COLLECTION = (
+    "investors"
+)
+
+NEWS_COLLECTION = (
+    "news"
+)
 
 # =====================================================
 # JSON

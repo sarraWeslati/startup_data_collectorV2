@@ -20,7 +20,8 @@
             "dealroom": "https://app.dealroom.co/news/feed/kimbo-fund-backs-angolan-food-processor-foodcare-with-dollar-denominated-convertible-note-1"
         },
         "social_media": {
-            "linkedin": "https://linkedin.com/showcase/5207493/)[](http://twitter.com/news_pdi"
+            "linkedin": "https://linkedin.com/showcase/5207493/)[](http://twitter.com/news_pdi",
+            "twitter": "https://twitter.com/news_pdi"
         },
         "enrichment": {
             "status": "completed",
@@ -90,11 +91,11 @@
             "technologies_count": 0,
             "news_count": 0,
             "social": {
-                "profiles_count": 1,
+                "profiles_count": 2,
                 "linkedin": true,
                 "facebook": false,
                 "instagram": false,
-                "twitter": false,
+                "twitter": true,
                 "x": false,
                 "youtube": false,
                 "github": false,
@@ -179,16 +180,17 @@
                 "website_valid": true,
                 "website_domain": "privatedebtinvestor.com",
                 "website_type": "official",
-                "social_profiles": 1,
+                "social_profiles": 2,
                 "external_profiles": 3
             },
             "social_validation": {
                 "report": {
-                    "total": 1,
-                    "valid": 1,
-                    "official": 1,
+                    "total": 2,
+                    "valid": 2,
+                    "official": 2,
                     "platforms": [
-                        "linkedin"
+                        "linkedin",
+                        "twitter"
                     ]
                 },
                 "details": {
@@ -197,6 +199,14 @@
                         "original": "https://www.linkedin.com/showcase/5207493/)[](http://twitter.com/news_pdi",
                         "normalized": "https://linkedin.com/showcase/5207493/)[](http://twitter.com/news_pdi",
                         "username": "showcase",
+                        "valid": true,
+                        "official": true
+                    },
+                    "twitter": {
+                        "platform": "twitter",
+                        "original": "http://twitter.com/news_pdi",
+                        "normalized": "https://twitter.com/news_pdi",
+                        "username": "news_pdi",
                         "valid": true,
                         "official": true
                     }

@@ -6,7 +6,7 @@
     "industry": "Consumer products and services",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Ariana",
     "headquarters": "",
     "founded_year": "2013",
     "startup_stage": "",
@@ -17,8 +17,32 @@
         "linkedin": "https://linkedin.com/company/arom-r-sarl"
     },
     "contact": {
-        "emails": [],
-        "phones": [],
+        "emails": [
+            "dg@air-communications.com.tn"
+        ],
+        "phones": [
+            {
+                "number": "+21600842595",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21601406208",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21614901961",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/company/arom-r-sarl"
     },
@@ -122,16 +146,20 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "air-communications.com.tn"
+            ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 3,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 3
         }
     },
     "others": {
@@ -216,22 +244,45 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "air-communications.com.tn"
+                ]
             },
             "official": [],
-            "details": []
+            "details": [
+                {
+                    "original": "dg@air-communications.com.tn",
+                    "normalized": "dg@air-communications.com.tn",
+                    "domain": "air-communications.com.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 2,
+                "count": 4,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "domain",
@@ -246,21 +297,18 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "dg@air-communications.com.tn",
     "quality": {
         "phones": {
             "total": 7,
-            "valid": 0,
-            "removed": 7,
+            "valid": 3,
+            "removed": 4,
             "duplicates": 0,
             "invalid": [
-                "00842595",
-                "276035381",
-                "505306387",
-                "276035202",
-                "7275554",
-                "01406208",
-                "14901961"
+                "+216276035381",
+                "+216505306387",
+                "+216276035202",
+                "+2167275554"
             ]
         }
     }

@@ -2,36 +2,70 @@
     "entity_type": "startup",
     "name": "SOCIÉTÉ DE PROMOTION MAGHRÉBINE MORPHÉE - SMPM",
     "description": "SOCIÉTÉ DE PROMOTION MAGHRÉBINE MORPHÉE - SMPM (2021)\nSecteur d’activité / Sector : Ad Tech and Creative Tech\nelbusines.com\nFondateur / Founder\nE-mail\nAdresse / Address\nHELA JELASSI / ANIS BORCHANI\nhjelassi@elbusines.com\nLes Berges du Lac 2\nActivité elbusines.com est une marketplace de vente \net d'acquisition d'entreprises et de startups. Elle assure \nle matchmaking entre les cédants et les repreneurs en \nutilisant la technologie de l'AI. Notre vision est de rendre \nles actifs illiquides plus liquides et de structurer le marché \nde la transmission des entreprises.\nAspect Technologique Nous utilisons la technologie de l'AI.\nOriginalité Notre objectif est de rendre les actifs illiquides \nplus liquides et de structurer le marché de la transmission.\nActivity \nelbusines.com \nis \na \nbusiness-for-sale \nmarketplace that connects SMEs and Startups founders \nwith potential investors and/or buyers in order to facilitate \nand accelerate buyout transactions and exits, through AI \ntechnology. Our vision is to make buyouts & exits more \nstructured and more liquid.\nTechnological Aspect We use the AI technology.\nOriginality Our goal is to make illiquid assest liquid and to \nstructure the buyout and exits market.\nFR\nEN",
-    "tagline": null,
-    "industry": "Ad Tech and Creative Tech",
+    "tagline": "",
+    "industry": "Business Software and services",
     "keywords": [],
     "country": "Tunisia",
-    "city": null,
-    "headquarters": null,
-    "founded_year": null,
-    "startup_stage": null,
+    "city": "Tunis",
+    "headquarters": "Les Berges du Lac II, Tunis, Tunisia",
+    "founded_year": "2021",
+    "startup_stage": "",
     "startup_label": true,
     "website": "https://elbusines.com",
-    "linkedin_url": null,
-    "social_media": {},
+    "linkedin_url": "https://www.linkedin.com/company/elbusines-com",
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/elbusines-com",
+        "facebook": "https://facebook.com/elbusines"
+    },
     "contact": {
         "emails": [
+            "commercial@elbusines.com",
             "hjelassi@elbusines.com"
         ],
         "phones": [],
-        "address": null,
-        "primary_social": ""
+        "address": "25 Rue de l'Île de Zembretta, Les Jardins du Lac, Les Berges du Lac II, 1053 Tunis, Tunisia",
+        "primary_social": "https://linkedin.com/company/elbusines-com"
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Hela Jelassi",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Anis Borchani",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
     "employee_count": null,
-    "employee_range": null,
-    "team_size": null,
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": null,
+    "employee_range": "2-10",
+    "team_size": "",
+    "products": [
+        "elbusines.com Marketplace"
+    ],
+    "services": [
+        "Business acquisition marketplace",
+        "Business sale marketplace",
+        "Startup fundraising matchmaking",
+        "M&A advisory",
+        "Business valuation",
+        "Investment opportunity marketplace"
+    ],
+    "technologies": [
+        "Artificial Intelligence (AI)"
+    ],
+    "customer_segments": [
+        "SMEs",
+        "Startup founders",
+        "Business owners",
+        "Investors",
+        "Business buyers"
+    ],
+    "target_market": "Business acquisition, investment and company transfer",
     "operating_countries": [],
     "languages_supported": [],
     "notable_customers": [],
@@ -40,8 +74,8 @@
     "incubators": [],
     "funding": {
         "total_raised": null,
-        "currency": null,
-        "stage": null,
+        "currency": "",
+        "stage": "",
         "rounds": []
     },
     "investors": [],
@@ -54,23 +88,19 @@
         "downloads": null,
         "monthly_transactions": null,
         "annual_revenue": null,
-        "revenue_currency": null
+        "revenue_currency": ""
     },
     "recent_news": [],
     "events": [],
     "legal_info": {
-        "company_type": null,
-        "registration_number": null
+        "company_type": "",
+        "registration_number": ""
     },
-    "extra_notes": null,
-    "sources": [
-        {
-            "type": "pdf",
-            "url": "pdf",
-            "confidence": 1.0
-        }
-    ],
+    "extra_notes": "",
+    "sources": [],
     "confidence": {
+        "score": 98,
+        "level": "High",
         "overall": 0.7,
         "description": 1.0,
         "founders": 0.0,
@@ -84,25 +114,42 @@
     "enrichment": {
         "status": "pdf_extracted",
         "sources_used": [
+            "csv",
             "pdf"
         ],
         "collection_date": "",
-        "last_updated": ""
+        "last_updated": "",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-07-08T23:18:03.428105",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
     },
     "stats": {
         "has_website": true,
         "has_linkedin": false,
-        "founders_count": 0,
+        "founders_count": 2,
         "leadership_count": 0,
         "investors_count": 0,
         "products_count": 0,
         "services_count": 0,
         "technologies_count": 0,
         "news_count": 0,
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "team_members_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0,
         "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
+            "profiles_count": 2,
+            "linkedin": true,
+            "facebook": true,
             "instagram": false,
             "twitter": false,
             "x": false,
@@ -121,31 +168,67 @@
             ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
         }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "May-21"
+    },
+    "external_profiles": {},
+    "tavily": {
+        "query": "elbusines.com",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\société_de_promotion_maghrébine_morphée_-_smpm.json",
     "normalized_name": "societe de promotion maghrebine morphee smpm",
     "industries": [],
-    "external_profiles": {},
     "etl": {
         "website_validation": {
             "website_valid": true,
             "website_domain": "elbusines.com",
             "website_type": "official",
-            "social_profiles": 0,
+            "social_profiles": 2,
             "external_profiles": 0
         },
         "social_validation": {
             "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
+                "total": 2,
+                "valid": 2,
+                "official": 2,
+                "platforms": [
+                    "facebook",
+                    "linkedin"
+                ]
             },
-            "details": {}
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/elbusines-com",
+                    "normalized": "https://linkedin.com/company/elbusines-com",
+                    "username": "elbusines-com",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/elbusines",
+                    "normalized": "https://facebook.com/elbusines",
+                    "username": "elbusines",
+                    "valid": true,
+                    "official": true
+                }
+            }
         },
         "email_validation": {
             "report": {
@@ -158,42 +241,26 @@
                 ]
             },
             "official": [
+                "commercial@elbusines.com",
                 "hjelassi@elbusines.com"
             ],
-            "details": [
-                {
-                    "original": "hjelassi@elbusines.com",
-                    "normalized": "hjelassi@elbusines.com",
-                    "domain": "elbusines.com",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": true,
-                    "source": "website"
-                }
-            ]
+            "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
             "selected_source": "country",
             "confidence": 1.0,
             "report": {
-                "count": 1,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    }
-                ]
+                "count": 3,
+                "candidates": []
             }
         }
     },
-    "primary_email": "hjelassi@elbusines.com",
+    "primary_email": "commercial@elbusines.com",
     "quality": {
         "phones": {
-            "total": 0,
-            "valid": 0,
+            "total": 1,
+            "valid": 1,
             "removed": 0,
             "duplicates": 0,
             "invalid": []

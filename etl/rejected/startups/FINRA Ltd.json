@@ -5,7 +5,12 @@
         "description": "FINRA Ltd est spécialisée dans la valorisation des articles électronique vintage.",
         "tagline": "",
         "industry": "Advanced Manufacturing & Robotics",
-        "keywords": [],
+        "keywords": [
+            "électronique vintage",
+            "valorisation",
+            "recyclage",
+            "manufacturing"
+        ],
         "country": "",
         "city": "",
         "headquarters": "",
@@ -24,13 +29,13 @@
         "founders": [
             {
                 "name": "Ons El Gaied",
-                "role": "",
+                "role": "Co-fondatrice",
                 "linkedin": "",
                 "bio": ""
             },
             {
                 "name": "Amir Farah",
-                "role": "",
+                "role": "Co-fondateur",
                 "linkedin": "",
                 "bio": ""
             }
@@ -92,7 +97,7 @@
                 "tavily",
                 "llm"
             ],
-            "date": "2026-07-08T23:56:33.607489",
+            "date": "2026-07-19T17:10:00",
             "website_enriched": false,
             "tavily_results": 0,
             "llm_enriched": true

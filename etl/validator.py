@@ -127,7 +127,19 @@ def validate_entities(
 
             })
 
+            print()
+
+            print("=" * 60)
+
+            print(
+                f"Rejected : {entity.get('name', 'Unknown')}"
+            )
+
             for error in result["errors"]:
+
+                print(
+                    f"   - {error}"
+                )
 
                 validation_errors[error] = (
 
@@ -139,6 +151,28 @@ def validate_entities(
                     + 1
 
                 )
+
+    print()
+
+    print("=" * 80)
+    print("VALIDATION SUMMARY")
+    print("=" * 80)
+
+    for error, count in sorted(
+
+        validation_errors.items(),
+
+        key=lambda item: item[1],
+
+        reverse=True
+
+    ):
+
+        print(
+            f"{count:5}  {error}"
+        )
+
+    print()
 
     return {
 

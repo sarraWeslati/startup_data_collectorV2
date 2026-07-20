@@ -2,11 +2,18 @@
     "name": "AFSIC – Investing in Africa",
     "description": "has become one of the most important conduits of investment into Africa.",
     "organization_type": "",
-    "country": "Ghana",
+    "country": "South Africa",
     "city": "",
     "website": "https://www.africa-legal.com/events/investors-controlling-more-than-1-trillion-in-assets-ready-to-look-at-africa-opportunities-at-afsic-2025/123128",
     "linkedin": "https://je.linkedin.com/company/afsic-investing-in-africa",
-    "investment_focus": [],
+    "investment_focus": [
+        "microfinance",
+        "infrastructure",
+        "natural resources",
+        "manufacturing",
+        "private equity",
+        "venture capital"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -148,10 +155,10 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 6,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
-        "partners_count": 0,
+        "geographic_focus_count": 4,
+        "partners_count": 5,
         "team_members_count": 0,
         "social_profiles": 3,
         "founders_count": 2,
@@ -206,6 +213,12 @@
         "level": "Medium"
     },
     "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgo.vc4a.com%2F5li&picture=https%3A%2F%2Fgo.vc4a.com%2F5li&title=AFSIC+%26%238211%3B+Investing+in+Africa&description=Africa+Events+Limited+works+with+major+National+Trade+and+Investment+Promotion+Agencies%2C+and+Governments+to+promote+African+business+links.+As+an+example+in+support+%5B%26hellip%3B%5D&src=vc4a.com&display=popup",
+    "geographic_focus": [
+        "East Africa",
+        "West Africa",
+        "Southern Africa",
+        "Pan-Africa"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\afsic_investing_in_africa.json",
     "normalized_name": "afsic investing in africa",
     "industries": [],
@@ -286,14 +299,14 @@
             ]
         },
         "country_detection": {
-            "selected_country": "Ghana",
+            "selected_country": "South Africa",
             "selected_source": "website_content",
             "confidence": 0.6,
             "report": {
                 "count": 1,
                 "candidates": [
                     {
-                        "country": "Ghana",
+                        "country": "South Africa",
                         "source": "website_content",
                         "confidence": 0.6
                     }

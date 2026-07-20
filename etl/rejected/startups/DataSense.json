@@ -23,7 +23,13 @@
         },
         "founders": [
             {
-                "name": "Charef Ahmed Anas Charfi",
+                "name": "Charef Ahmed",
+                "role": "",
+                "linkedin": "",
+                "bio": ""
+            },
+            {
+                "name": "Anas Charfi",
                 "role": "",
                 "linkedin": "",
                 "bio": ""

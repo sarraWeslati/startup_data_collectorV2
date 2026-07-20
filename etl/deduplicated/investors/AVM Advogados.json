@@ -3,7 +3,7 @@
     "description": "AVM Advogados was founded by Antonio Vicente Marques in 2003. The firm originally began assisting clients as a full-service law firm operating through its various offices in Africa and Europe with an integrated team of more than 40 lawyers. AVM Advogados has grown from a Luanda-based law firm into a truly international practice. AVM is a full-service law firm with market leading strengths in energy, financial services and EPCs and PPPs projects and related legal assistance. Through our offices we advise clients on all aspects of international a",
     "organization_type": "",
     "country": "Angola",
-    "city": "",
+    "city": "Luanda",
     "website": "https://www.avm-advogados.com/en/homepage",
     "linkedin": "https://linkedin.com/company/avm-advogados",
     "investment_focus": [],
@@ -204,7 +204,7 @@
         "website_matches": true
     },
     "confidence": {
-        "score": 75,
+        "score": 80,
         "level": "Medium"
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\avm_advogados.json",

@@ -6,7 +6,7 @@
     "industry": "HealthTech",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Tunis",
     "headquarters": "",
     "founded_year": "2016",
     "startup_stage": "",
@@ -19,10 +19,26 @@
         "instagram": "https://instagram.com/comptajobs.tn"
     },
     "contact": {
-        "emails": [],
+        "emails": [
+            "contact@aseptika-lab.com"
+        ],
         "phones": [
             {
                 "number": "+21626345149",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21628482752",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620102020",
                 "country": "Tunisia",
                 "country_code": "+216",
                 "valid": true,
@@ -139,18 +155,20 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "aseptika-lab.com"
+            ]
         },
         "phones": {
-            "count": 1,
+            "count": 3,
             "countries": [
                 "Tunisia"
             ],
-            "valid": 1
+            "valid": 3
         }
     },
     "others": {
@@ -242,22 +260,40 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "aseptika-lab.com"
+                ]
             },
             "official": [],
-            "details": []
+            "details": [
+                {
+                    "original": "contact@aseptika-lab.com",
+                    "normalized": "contact@aseptika-lab.com",
+                    "domain": "aseptika-lab.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": false,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "phone",
-            "confidence": 0.95,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 2,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "phone",
@@ -272,16 +308,14 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "contact@aseptika-lab.com",
     "quality": {
         "phones": {
-            "total": 2,
-            "valid": 1,
-            "removed": 1,
+            "total": 3,
+            "valid": 3,
+            "removed": 0,
             "duplicates": 0,
-            "invalid": [
-                "20102020"
-            ]
+            "invalid": []
         }
     }
 }

@@ -18,9 +18,9 @@
         "immigration",
         "Employer of Record"
     ],
-    "country": "Senegal",
+    "country": "Mauritius",
     "city": "",
-    "headquarters": "",
+    "headquarters": "Mauritius",
     "founded_year": "",
     "startup_stage": "",
     "startup_label": false,
@@ -284,12 +284,17 @@
             "details": []
         },
         "country_detection": {
-            "selected_country": "Senegal",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_country": "Mauritius",
+            "selected_source": "headquarters",
+            "confidence": 0.9,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Mauritius",
+                        "source": "headquarters",
+                        "confidence": 0.9
+                    },
                     {
                         "country": "Senegal",
                         "source": "website_content",

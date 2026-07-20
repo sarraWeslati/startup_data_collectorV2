@@ -6,7 +6,7 @@
     "industry": "Commerce and shopping",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Ariana",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
@@ -17,7 +17,9 @@
         "linkedin": "https://linkedin.com/company/allo-reparateur"
     },
     "contact": {
-        "emails": [],
+        "emails": [
+            "info@allo-reparateur.tn"
+        ],
         "phones": [
             {
                 "number": "+21670130303",
@@ -137,11 +139,13 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
-            "official_count": 0,
-            "domains": []
+            "official_count": 1,
+            "domains": [
+                "allo-reparateur.tn"
+            ]
         },
         "phones": {
             "count": 1,
@@ -220,14 +224,29 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
-                "official": 0,
-                "domains": []
+                "official": 1,
+                "domains": [
+                    "allo-reparateur.tn"
+                ]
             },
-            "official": [],
-            "details": []
+            "official": [
+                "info@allo-reparateur.tn"
+            ],
+            "details": [
+                {
+                    "original": "info@allo-reparateur.tn",
+                    "normalized": "info@allo-reparateur.tn",
+                    "domain": "allo-reparateur.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -260,7 +279,7 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "info@allo-reparateur.tn",
     "quality": {
         "phones": {
             "total": 1,

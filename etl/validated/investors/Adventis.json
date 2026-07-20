@@ -94,7 +94,7 @@
         "portfolio_count": 0,
         "investment_focus_count": 0,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 1,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 3,
@@ -187,6 +187,9 @@
         "score": 84,
         "level": "Medium"
     },
+    "geographic_focus": [
+        "Africa"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\adventis.json",
     "normalized_name": "adventis",
     "industries": [],

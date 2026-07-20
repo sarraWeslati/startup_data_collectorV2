@@ -74,7 +74,7 @@
         "portfolio_count": 0,
         "investment_focus_count": 5,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 1,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 4,
@@ -156,9 +156,15 @@
         "website_matches": false
     },
     "confidence": {
-        "score": 68,
+        "score": 76,
         "level": "Medium"
     },
+    "phones": [
+        "113326994708476)"
+    ],
+    "geographic_focus": [
+        "Nigeria"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\alpha_african_advisory_limited.json",
     "normalized_name": "alpha african advisory limited",
     "industries": [],

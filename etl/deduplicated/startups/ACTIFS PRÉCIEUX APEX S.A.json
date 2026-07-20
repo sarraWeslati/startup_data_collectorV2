@@ -6,7 +6,7 @@
     "industry": "Business Software and services",
     "keywords": [],
     "country": "Tunisia",
-    "city": null,
+    "city": "Tunis",
     "headquarters": null,
     "founded_year": "2020",
     "startup_stage": null,
@@ -22,7 +22,8 @@
     "contact": {
         "emails": [
             "hajer.derouiche@actifsprecieux.com",
-            "2026contact@actifsprecieux.com"
+            "2026contact@actifsprecieux.com",
+            "contact@anavid.co"
         ],
         "phones": [],
         "address": null,
@@ -153,7 +154,8 @@
             "generic_count": 0,
             "official_count": 0,
             "domains": [
-                "actifsprecieux.com"
+                "actifsprecieux.com",
+                "anavid.co"
             ]
         },
         "phones": {
@@ -291,7 +293,8 @@
                 "generic": 0,
                 "official": 0,
                 "domains": [
-                    "actifsprecieux.com"
+                    "actifsprecieux.com",
+                    "anavid.co"
                 ]
             },
             "official": [],
@@ -299,7 +302,7 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
+            "selected_source": "country",
             "confidence": 1.0,
             "report": {
                 "count": 3,
@@ -326,14 +329,8 @@
                 "+216250000",
                 "+2161779300468245",
                 "+2163795057",
-                "9709440",
-                "46246181",
-                "20200828",
-                "29445395",
-                "3795057",
-                "20190621",
-                "1585049142433",
-                "20180101"
+                "+2169709440",
+                "+2161585049142433"
             ]
         }
     },

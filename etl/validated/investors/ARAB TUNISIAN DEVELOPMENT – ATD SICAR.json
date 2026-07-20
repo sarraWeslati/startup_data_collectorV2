@@ -157,7 +157,6 @@
     },
     "social_media": {
         "linkedin": "https://linkedin.com/company/arabtunisianbank",
-        "facebook": "https://facebook.com/ArabTunisianBank",
         "instagram": "https://instagram.com/arab_tunisian_bank/%0A",
         "youtube": "https://youtube.com/user/ATBTunisie",
         "twitter": "https://twitter.com/ATBTunisie"
@@ -215,7 +214,10 @@
         "+216 71 965 849",
         "+216 71 965 813",
         "+216 70 020 297",
-        "80 10 03 47"
+        "80 10 03 47",
+        "+216 71 020 297",
+        "71.965.849",
+        "71.965.693"
     ],
     "geographic_focus": [
         "Tunisia"
@@ -290,9 +292,9 @@
         "technologies_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 5,
+            "profiles_count": 4,
             "linkedin": true,
-            "facebook": true,
+            "facebook": false,
             "instagram": true,
             "twitter": true,
             "x": false,
@@ -359,11 +361,10 @@
         },
         "social_validation": {
             "report": {
-                "total": 5,
-                "valid": 5,
-                "official": 5,
+                "total": 4,
+                "valid": 4,
+                "official": 4,
                 "platforms": [
-                    "facebook",
                     "instagram",
                     "linkedin",
                     "twitter",
@@ -376,14 +377,6 @@
                     "original": "https://www.linkedin.com/company/arabtunisianbank",
                     "normalized": "https://linkedin.com/company/arabtunisianbank",
                     "username": "arabtunisianbank",
-                    "valid": true,
-                    "official": true
-                },
-                "facebook": {
-                    "platform": "facebook",
-                    "original": "https://www.facebook.com/ArabTunisianBank",
-                    "normalized": "https://facebook.com/ArabTunisianBank",
-                    "username": "ArabTunisianBank",
                     "valid": true,
                     "official": true
                 },

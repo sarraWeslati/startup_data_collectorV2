@@ -1,4 +1,4 @@
-from enrichment.search_router import (search_web)
+from search.search_client import (search_web)
 import re
 from difflib import SequenceMatcher
 

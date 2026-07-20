@@ -6,7 +6,7 @@
     "industry": "Business Software and services",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Sfax",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
@@ -19,7 +19,15 @@
     },
     "contact": {
         "emails": [],
-        "phones": [],
+        "phones": [
+            {
+                "number": "+21619541434",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/company/fondation-orbital"
     },
@@ -136,9 +144,11 @@
             "domains": []
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
         }
     },
     "others": {
@@ -226,11 +236,21 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "website_content",
@@ -244,13 +264,12 @@
     "quality": {
         "phones": {
             "total": 3,
-            "valid": 0,
-            "removed": 3,
+            "valid": 1,
+            "removed": 2,
             "duplicates": 0,
             "invalid": [
-                "57206344106",
-                "37614452499",
-                "19541434"
+                "+21657206344106",
+                "+21637614452499"
             ]
         }
     }

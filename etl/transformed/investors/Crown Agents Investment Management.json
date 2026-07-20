@@ -20,7 +20,8 @@
     },
     "social_media": {
         "linkedin": "https://linkedin.com/shareArticle",
-        "facebook": "https://facebook.com/cbinsights"
+        "facebook": "https://facebook.com/cbinsights",
+        "twitter": "https://twitter.com/CBinsights"
     },
     "enrichment": {
         "status": "completed",
@@ -81,11 +82,11 @@
         "technologies_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 2,
+            "profiles_count": 3,
             "linkedin": true,
             "facebook": true,
             "instagram": false,
-            "twitter": false,
+            "twitter": true,
             "x": false,
             "youtube": false,
             "github": false,
@@ -181,17 +182,18 @@
             "website_valid": true,
             "website_domain": "cbinsights.com",
             "website_type": "official",
-            "social_profiles": 2,
+            "social_profiles": 3,
             "external_profiles": 2
         },
         "social_validation": {
             "report": {
-                "total": 2,
-                "valid": 2,
-                "official": 2,
+                "total": 3,
+                "valid": 3,
+                "official": 3,
                 "platforms": [
                     "facebook",
-                    "linkedin"
+                    "linkedin",
+                    "twitter"
                 ]
             },
             "details": {
@@ -205,9 +207,17 @@
                 },
                 "facebook": {
                     "platform": "facebook",
-                    "original": "https://facebook.com/cbinsights",
+                    "original": "https://www.facebook.com/cbinsights",
                     "normalized": "https://facebook.com/cbinsights",
                     "username": "cbinsights",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/CBinsights",
+                    "normalized": "https://twitter.com/CBinsights",
+                    "username": "CBinsights",
                     "valid": true,
                     "official": true
                 }

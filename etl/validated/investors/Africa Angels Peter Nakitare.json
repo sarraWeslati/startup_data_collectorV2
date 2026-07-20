@@ -172,6 +172,7 @@
     "geographic_focus": [
         "Africa"
     ],
+    "ticket_size": "$10,000 - $100,000",
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\africa_angels_peter_nakitare.json",
     "normalized_name": "africa angels peter nakitare",
     "industries": [],

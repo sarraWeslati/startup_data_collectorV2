@@ -2,7 +2,7 @@
     "name": "Trade and Development Bank (TDB)",
     "description": "African Investor. TDB is a specialized investment grade bank financing trade and projects in Eastern and Southern Africa.",
     "organization_type": "",
-    "country": "Rwanda",
+    "country": "Angola",
     "city": "",
     "website": "https://www.tdbgroup.org",
     "linkedin": "",
@@ -175,14 +175,14 @@
             ]
         },
         "country_detection": {
-            "selected_country": "Rwanda",
+            "selected_country": "Angola",
             "selected_source": "website_content",
             "confidence": 0.6,
             "report": {
                 "count": 1,
                 "candidates": [
                     {
-                        "country": "Rwanda",
+                        "country": "Angola",
                         "source": "website_content",
                         "confidence": 0.6
                     }

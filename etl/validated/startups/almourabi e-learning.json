@@ -6,7 +6,7 @@
     "industry": "EdTech",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Nabeul",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
@@ -230,11 +230,16 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 2,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "domain",
@@ -257,9 +262,9 @@
             "removed": 3,
             "duplicates": 0,
             "invalid": [
-                "1220220",
-                "835599",
-                "1000117954218"
+                "+2161220220",
+                "+216835599",
+                "+2161000117954218"
             ]
         }
     }

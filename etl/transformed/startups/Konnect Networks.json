@@ -153,11 +153,16 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "website_content",

@@ -124,10 +124,7 @@
         }
     },
     "sources": [],
-    "external_profiles": {
-        "website": "https://www.ashburtoninvestments.com/za",
-        "linkedin": "https://za.linkedin.com/company/ashburton-investments"
-    },
+    "external_profiles": {},
     "tavily": {
         "query": "Ashburton Investments",
         "answer": "Ashburton Investments' official website is www.ashburtoninvestments.com. The company is based in Jersey and regulated by the Jersey Financial Services Commission. It offers investment management services globally.\nAshburton Investments is an investment management firm founded in 1982, with over 50 employees and a LinkedIn presence. It specializes in various investment strategies and asset management. The firm is part of the FirstRand Group.\nAshburton Investments is a financial services company based in Jersey, offering investment management services. It was established in 1982 and is part of the FirstRand Group. The company focuses on providing diversified investment strategies.\nAshburton Investments is a diversified investment firm based in Jersey, offering portfolios and investment management services. Wellfound is a startup focused on AI-driven recruiting tools. Ashburton and Wellfound are unrelated entities in different industries.\nAshburton Investments is a Jersey-based investment firm regulated by the Jersey Financial Services Commission. Dealroom.co is a global data provider for tech ecosystems, raising €5.8 million in 2026 for expansion.",
@@ -191,7 +188,7 @@
             "website_domain": "momentum.co.za",
             "website_type": "official",
             "social_profiles": 1,
-            "external_profiles": 2
+            "external_profiles": 0
         },
         "social_validation": {
             "report": {

@@ -19,7 +19,9 @@
         "youtube": "https://youtube.com/channel/UCDbpFFyAeVdE5t8KR6OIQ6g"
     },
     "contact": {
-        "emails": [],
+        "emails": [
+            "hello@aeroleads.com"
+        ],
         "phones": [],
         "address": "",
         "primary_social": "https://linkedin.com/company/advantry-x"
@@ -133,11 +135,13 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
-            "official_count": 0,
-            "domains": []
+            "official_count": 1,
+            "domains": [
+                "aeroleads.com"
+            ]
         },
         "phones": {
             "count": 0,
@@ -235,14 +239,29 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
-                "official": 0,
-                "domains": []
+                "official": 1,
+                "domains": [
+                    "aeroleads.com"
+                ]
             },
-            "official": [],
-            "details": []
+            "official": [
+                "hello@aeroleads.com"
+            ],
+            "details": [
+                {
+                    "original": "hello@aeroleads.com",
+                    "normalized": "hello@aeroleads.com",
+                    "domain": "aeroleads.com",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -260,16 +279,17 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "hello@aeroleads.com",
     "quality": {
         "phones": {
-            "total": 3,
+            "total": 4,
             "valid": 0,
-            "removed": 3,
+            "removed": 4,
             "duplicates": 0,
             "invalid": [
                 "20726562",
                 "125",
+                "+16282824380",
                 "173362"
             ]
         }

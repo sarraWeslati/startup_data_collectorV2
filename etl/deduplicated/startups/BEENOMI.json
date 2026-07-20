@@ -13,16 +13,37 @@
     "startup_label": true,
     "website": "https://beenomi.com",
     "linkedin_url": null,
-    "social_media": {},
+    "social_media": {
+        "linkedin": "https://linkedin.com/company/beenomi",
+        "facebook": "https://facebook.com/beenomi",
+        "instagram": "https://instagram.com/beenomi"
+    },
     "contact": {
         "emails": [
             "haifa.tlaila@beenomi.com"
         ],
         "phones": [],
         "address": null,
-        "primary_social": ""
+        "primary_social": "https://linkedin.com/company/beenomi"
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Hayfa Tlaila",
+            "role": "Co-Founder & CEO"
+        },
+        {
+            "name": "Ahmed Sassi",
+            "role": "Co-Founder"
+        },
+        {
+            "name": "Mohamed Yassine Karaouli",
+            "role": "Co-Founder"
+        },
+        {
+            "name": "Tarek Loukil",
+            "role": "Co-Founder"
+        }
+    ],
     "leadership": [],
     "employee_count": null,
     "employee_range": null,
@@ -103,10 +124,10 @@
         "leadership_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 0,
-            "linkedin": false,
-            "facebook": false,
-            "instagram": false,
+            "profiles_count": 3,
+            "linkedin": true,
+            "facebook": true,
+            "instagram": true,
             "twitter": false,
             "x": false,
             "youtube": false,
@@ -151,17 +172,46 @@
             "website_valid": true,
             "website_domain": "beenomi.com",
             "website_type": "official",
-            "social_profiles": 0,
+            "social_profiles": 3,
             "external_profiles": 0
         },
         "social_validation": {
             "report": {
-                "total": 0,
-                "valid": 0,
-                "official": 0,
-                "platforms": []
+                "total": 3,
+                "valid": 3,
+                "official": 3,
+                "platforms": [
+                    "facebook",
+                    "instagram",
+                    "linkedin"
+                ]
             },
-            "details": {}
+            "details": {
+                "linkedin": {
+                    "platform": "linkedin",
+                    "original": "https://www.linkedin.com/company/beenomi",
+                    "normalized": "https://linkedin.com/company/beenomi",
+                    "username": "beenomi",
+                    "valid": true,
+                    "official": true
+                },
+                "facebook": {
+                    "platform": "facebook",
+                    "original": "https://www.facebook.com/beenomi",
+                    "normalized": "https://facebook.com/beenomi",
+                    "username": "beenomi",
+                    "valid": true,
+                    "official": true
+                },
+                "instagram": {
+                    "platform": "instagram",
+                    "original": "https://www.instagram.com/beenomi",
+                    "normalized": "https://instagram.com/beenomi",
+                    "username": "beenomi",
+                    "valid": true,
+                    "official": true
+                }
+            }
         },
         "email_validation": {
             "report": {

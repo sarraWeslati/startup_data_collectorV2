@@ -7,19 +7,19 @@
     "keywords": [],
     "country": "Tunisia",
     "city": null,
-    "headquarters": null,
+    "headquarters": "El Manar, Tunis, Tunisia",
     "founded_year": null,
     "startup_stage": null,
     "startup_label": true,
     "website": "https://bioinnov-a8.com",
-    "linkedin_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/bioinnov8",
     "social_media": {},
     "contact": {
         "emails": [
             "marwa.louati@bioinnov-a8.com"
         ],
         "phones": [],
-        "address": null,
+        "address": "3 Impasse Abdelaziz El Saoud, El Manar, Tunis, Tunisia",
         "primary_social": ""
     },
     "founders": [],
@@ -191,12 +191,17 @@
             "selected_source": "country",
             "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
                     {
                         "country": "Tunisia",
                         "source": "country",
                         "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "headquarters",
+                        "confidence": 0.9
                     }
                 ]
             }

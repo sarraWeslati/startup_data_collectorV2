@@ -157,9 +157,14 @@
             "website_matches": false
         },
         "confidence": {
-            "score": 68,
+            "score": 76,
             "level": "Medium"
         },
+        "phones": [
+            "0 0 792 612",
+            "222222222222222222222",
+            "22222222"
+        ],
         "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\caleb_consulting_ltd_uganda.json",
         "normalized_name": "caleb consulting ltd uganda",
         "industries": [],

@@ -6,7 +6,9 @@
     "city": "Lagos",
     "website": "https://siga.gov.gh/entity/african-reinsurance-corporation",
     "linkedin": "https://ng.linkedin.com/company/africa-re",
-    "investment_focus": [],
+    "investment_focus": [
+        "reinsurance"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -157,9 +159,9 @@
         "has_dealroom": true,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 1,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 4,
         "partners_count": 4,
         "team_members_count": 0,
         "social_profiles": 3,
@@ -319,5 +321,11 @@
     },
     "phones": [
         "145900362"
+    ],
+    "geographic_focus": [
+        "Africa",
+        "Asia",
+        "Brazil",
+        "Middle East"
     ]
 }

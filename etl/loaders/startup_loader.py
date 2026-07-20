@@ -30,6 +30,15 @@ def load_startups(
         STARTUPS_COLLECTION
     ]
 
+    print("\n")
+    print("=" * 60)
+    print("LOADING STARTUPS")
+    print("=" * 60)
+
+    print(
+        f"Total startups : {len(startups)}"
+    )
+
     inserted = 0
     updated = 0
     skipped = 0
@@ -55,6 +64,22 @@ def load_startups(
         else:
 
             skipped += 1
+
+    print(f"Loading : {startups.get('name')}")
+
+    print()
+
+    print(
+        f"Inserted : {inserted}"
+    )
+
+    print(
+        f"Updated : {updated}"
+    )
+
+    print(
+        f"Skipped : {skipped}"
+    )
 
     return {
 

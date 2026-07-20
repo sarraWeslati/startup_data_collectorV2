@@ -156,6 +156,7 @@ def filter_official_websites(
 
 
 def extract_official_website(
+    company_name: str,
     tavily_result: Dict
 ) -> Optional[str]:
     """
@@ -171,7 +172,8 @@ def extract_official_website(
         return None
 
     return resolve_official_website(
-        *websites
+        company_name,
+        websites
     )
 
 def normalize_company_name(
@@ -451,6 +453,7 @@ def extract_social_links(
 # =====================================================
 
 def extract_external_profiles(
+    company_name: str,
     tavily_result: Dict
 ) -> Dict:
 
@@ -458,6 +461,7 @@ def extract_external_profiles(
 
         "website":
         extract_official_website(
+            company_name,
             tavily_result
         ),
 
@@ -725,6 +729,7 @@ def build_enrichment_package(
 
         "website":
         extract_official_website(
+            company_name,
             filtered_tavily
         ),
 

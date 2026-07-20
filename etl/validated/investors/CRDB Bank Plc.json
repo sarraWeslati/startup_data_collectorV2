@@ -66,7 +66,7 @@
         "portfolio_count": 0,
         "investment_focus_count": 0,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 3,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 1,
@@ -217,6 +217,11 @@
     },
     "phones": [
         "+255222197700)"
+    ],
+    "geographic_focus": [
+        "Tanzania",
+        "Burundi",
+        "Congo"
     ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\crdb_bank_plc.json",
     "normalized_name": "crdb bank plc",

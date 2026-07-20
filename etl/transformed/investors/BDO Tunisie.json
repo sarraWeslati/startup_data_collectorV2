@@ -6,7 +6,9 @@
     "city": "Tunis",
     "website": "https://www.atic.org.tn/portfolio/bdo-tunisie",
     "linkedin": "https://linkedin.com/company/bdo-tunisie",
-    "investment_focus": [],
+    "investment_focus": [
+        "Venture Capital"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -69,7 +71,7 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 1,
         "investment_stages_count": 0,
         "geographic_focus_count": 1,
         "partners_count": 2,

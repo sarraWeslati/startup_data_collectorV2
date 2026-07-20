@@ -8,7 +8,7 @@
     "country": "Tunisia",
     "city": null,
     "headquarters": null,
-    "founded_year": null,
+    "founded_year": "2022",
     "startup_stage": null,
     "startup_label": true,
     "website": "https://mramma.tn",
@@ -16,13 +16,33 @@
     "social_media": {},
     "contact": {
         "emails": [
-            "marwen.bmzoughia@mramma.tn"
+            "marwen.bmzoughia@mramma.tn",
+            "contact@mramma.tn"
         ],
         "phones": [],
         "address": null,
         "primary_social": ""
     },
-    "founders": [],
+    "founders": [
+        {
+            "name": "Akram Bsila",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Marwen Ben Mzoughia",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Nizar Said",
+            "role": "",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
     "employee_count": null,
     "employee_range": null,
@@ -67,24 +87,22 @@
         "registration_number": null
     },
     "extra_notes": null,
-    "sources": [
-        {
-            "type": "pdf",
-            "url": "pdf",
-            "confidence": 1.0
-        },
-        {
-            "type": "website",
-            "url": "https://mramma.tn",
-            "confidence": 1.0
-        }
-    ],
+    "sources": [],
     "confidence": {
         "score": 61,
-        "level": "Medium"
+        "level": "Medium",
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
     },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
         "sources": [
             "website",
             "tavily",
@@ -93,7 +111,12 @@
         "date": "2026-06-30T15:17:07.499787",
         "website_enriched": true,
         "tavily_results": 0,
-        "llm_enriched": true
+        "llm_enriched": true,
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": ""
     },
     "stats": {
         "has_website": true,
@@ -101,7 +124,7 @@
         "has_crunchbase": false,
         "has_wellfound": false,
         "has_github": false,
-        "founders_count": 0,
+        "founders_count": 3,
         "team_members_count": 0,
         "investors_count": 0,
         "products_count": 0,
@@ -135,7 +158,9 @@
             "count": 0,
             "countries": [],
             "valid": 0
-        }
+        },
+        "leadership_count": 0,
+        "news_count": 0
     },
     "website_content": "[Aller au contenu principal](https://www.mramma.tn/#main-content)\n[ ![Accueil](https://www.mramma.tn/sites/default/files/logo_mobile.png) ](https://www.mramma.tn/ \"Accueil\")\n* [Accueil](https://www.mramma.tn/)\n* Espaces\n*       1. [Résidentiel](https://www.mramma.tn/espace/r%C3%A9sidentiel \"Résidentiel\")\n2. [Culturel](https://www.mramma.tn/espace/culturel \"Culturel\")\n3. [Commercial](https://www.mramma.tn/espace/commercial \"Commercial\")\n4. [Industriel](https://www.mramma.tn/espace/industriel \"Industriel\")\n5. [Bureautique](https://www.mramma.tn/espace/bureautique \"Bureautique\")\n* TROUVER DES PROS\n*       1. [Etudes](https://www.mramma.tn/professionels/etudes \"Etudes\")\n1. [Architecte](https://www.mramma.tn/professionels/etudes/architecte \"Architecte\")\n2. [designer d'intérieur](https://www.mramma.tn/professionels/etudes/designer-dint%C3%A9rieur \"designer d'intérieur\")\n3. [Bureau d'etude](https://www.mramma.tn/professionels/etudes/bureau-detude \"Bureau d'etude\")\n4. [Topographe](https://www.mramma.tn/professionels/etudes/topographe \"Topographe\")\n2. [Execution](https://www.mramma.tn/professionels/execution \"Execution\")\n1. [Entreprise de construction](https://www.mramma.tn/professionels/execution/entreprise-de-construction \"Entreprise de construction\")\n2. [Enduit et peinture](https://www.mramma.tn/professionels/execution/enduit-et-peinture \"Enduit et peinture\")\n3. [Plomberie](https://www.mramma.tn/professionels/execution/plomberie \"Plomberie\")\n4. [Electricité](https://www.mramma.tn/professionels/execution/electricit%C3%A9 \"Electricité\")\n5. [Pisciniste](https://www.mramma.tn/professionels/execution/pisciniste \"Pisciniste\")\n6. [Isolation etanchéité et cuvelage](https://www.mramma.tn/professionels/execution/isolation-etanch%C3%A9it%C3%A9-et-cuvelage \"Isolation etanchéité et cuvelage\")\n7. [Travaux publics](https://www.mramma.tn/professionels/execution/travaux-publics \"Travaux publics\")\n8. [Ferronnerie](https://www.mramma.tn/professionels/execution/ferronnerie \"Ferronnerie\")\n3. [Finition](https://www.mramma.tn/professionels/finition \"Finition\")\n1. [Menuiserie bois](https://www.mramma.tn/professionels/finition/menuiserie-bois \"Menuiserie bois\")\n2. [Menuiserie aluminium](https://www.mramma.tn/professionels/finition/menuiserie-aluminium \"Menuiserie aluminium\")\n3. [Cuisiniste](https://www.mramma.tn/professionels/finition/cuisiniste \"Cuisiniste\")\n4. [Faux plafond et placo-plâtre](https://www.mramma.tn/professionels/finition/faux-plafond-et-placo-pl%C3%A2tre \"Faux plafond et placo-plâtre\")\n5. [Revêtement et sanitaire](https://www.mramma.tn/professionels/finition/rev%C3%AAtement-et-sanitaire \"Revêtement et sanitaire\")\n6. [Ponçage et lustrage](https://www.mramma.tn/professionels/finition/pon%C3%A7age-et-lustrage \"Ponçage et lustrage\")\n7. [Paysagiste](https://www.mramma.tn/professionels/finition/paysagiste \"Paysagiste\")\n8. [Quincaillerie](https://www.mramma.tn/professionels/finition/quincaillerie \"Quincaillerie\")\n4. [Equipements](https://www.mramma.tn/professionels/equipements \"Equipements\")\n1. [Eclairage](https://www.mramma.tn/professionels/equipements/eclairage \"Eclairage\")\n2. [Sécurité et domotique](https://www.mramma.tn/professionels/equipements/s%C3%A9curit%C3%A9-et-domotique \"Sécurité et domotique\")\n3. [Energie renouvelable](https://www.mramma.tn/professionels/equipements/energie-renouvelable \"Energie renouvelable\")\n4. [Equipements hotelier](https://www.mramma.tn/professionels/equipements/equipements-hotelier \"Equipements hotelier\")\n5. [Automatisme des portes](https://www.mramma.tn/professionels/equipements/automatisme-des-portes \"Automatisme des portes\")\n6. [Ascenseurs et monte charges](https://www.mramma.tn/professionels/equipements/ascenseurs-et-monte-charges \"Ascenseurs et monte charges\")\n5. [Mobilier et Agencement](https://www.mramma.tn/professionels/mobilier-et-agencement \"Mobilier et Agencement\")\n6. [Promoteurs Immobiliers](https://www.mramma.tn/professionels/promoteurs-immobiliers \"Promoteurs Immobiliers\")\n* [Actualités](https://www.mramma.tn/actualites)\n* [Contact](https://www.mramma.tn/contact)\n* [Se connecter](https://www.mramma.tn/modal_forms/nojs/login)\n* [S'inscrire](https://www.mramma.tn/register)\n# mramma.tn\nTout le nécessaire est là pour vous aider, de l'infiniment petit à l'infiniment grand,\nl'univers de la construction n'aura plus de secret pour vous .\n- Tout - Etudes -Architecte -designer d'intérieur -Bureau d'etude -Topographe Execution -Entreprise de construction -Enduit et peinture -Plomberie -Electricité -Pisciniste -Isolation etanchéité et cuvelage -Travaux publics -Ferronnerie Finition -Menuiserie bois -Menuiserie aluminium -Cuisiniste -Faux plafond et placo-plâtre -Revêtement et sanitaire -Ponçage et lustrage -Paysagiste -Quincaillerie Equipements -Eclairage -Sécurité et domotique -Energie renouvelable -Equipements hotelier -Automatisme des portes -Ascenseurs et monte charges Mobilier et Agencement Promoteurs Immobiliers\n- Tout -\nSearch\n## Catégorie à la une\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/architecte%20d%27int%C3%A9rieur.png?itok=MUtrpxTn)\n#### [designer d'intérieur](https://www.mramma.tn/professionels/etudes/designer-dint%C3%A9rieur)\n**32**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/architecturer.png?itok=VA0JsD9S)\n#### [Architecte](https://www.mramma.tn/professionels/etudes/architecte)\n**100**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Menuiserie%20bois_0.png?itok=il1OH8pD)\n#### [Menuiserie bois](https://www.mramma.tn/professionels/finition/menuiserie-bois)\n**34**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/entreprises.png?itok=1nFKebQj)\n#### [Entreprise de constructio](https://www.mramma.tn/professionels/execution/entreprise-de-construction)\n**126**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Eclairage_0.png?itok=UMtYKVLb)\n#### [Eclairage](https://www.mramma.tn/professionels/equipements/eclairage)\n**56**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Promoteurs%20Immobiliers_0.png?itok=8QdvOtr2)\n#### [Promoteurs Immobiliers](https://www.mramma.tn/professionels/promoteurs-immobiliers)\n**73**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Mobilier%20et%20Agencement_0.png?itok=zbTCvhCq)\n#### [Mobilier et Agencement](https://www.mramma.tn/professionels/mobilier-et-agencement)\n**87**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/%C3%89quipements.png?itok=uQ1myHPz)\n#### [Equipements](https://www.mramma.tn/professionels/equipements)\n**186**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Finition_0.png?itok=NEpVUdq_)\n#### [Finition](https://www.mramma.tn/professionels/finition)\n**370**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Execution_0.png?itok=vvDrPvHU)\n#### [Execution](https://www.mramma.tn/professionels/execution)\n**450**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Quincailler_0.png?itok=U2co6NRs)\n#### [Quincaillerie](https://www.mramma.tn/professionels/finition/quincaillerie)\n**47**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Ferronnerie_0.png?itok=finpKPe4)\n#### [Ferronnerie](https://www.mramma.tn/professionels/execution/ferronnerie)\n**37**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Travaux%20publice_0.png?itok=0EiSAiSn)\n#### [Travaux publics](https://www.mramma.tn/professionels/execution/travaux-publics)\n**8**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Paysagiste_0.png?itok=J6m5l0Be)\n#### [Paysagiste](https://www.mramma.tn/professionels/finition/paysagiste)\n**37**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Pon%C3%A7age_0.png?itok=w6_9j84F)\n#### [Ponçage et lustrage](https://www.mramma.tn/professionels/finition/pon%C3%A7age-et-lustrage)\n**10**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Isolation_0.png?itok=sXsEr-9E)\n#### [Isolation etanchéité et c](https://www.mramma.tn/professionels/execution/isolation-etanch%C3%A9it%C3%A9-et-cuvelage)\n**32**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/ascenseur%20tunisie.png?itok=p0pnMI6b)\n#### [Ascenseurs et monte charg](https://www.mramma.tn/professionels/equipements/ascenseurs-et-monte-charges)\n**7**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/porte%20automatique.png?itok=7Ld6d3a-)\n#### [Automatisme des portes](https://www.mramma.tn/professionels/equipements/automatisme-des-portes)\n**6**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Rev%C3%AAtement_0.png?itok=seDG9DIJ)\n#### [Revêtement et sanitaire](https://www.mramma.tn/professionels/finition/rev%C3%AAtement-et-sanitaire)\n**84**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Pisciniste_0.png?itok=9xTmtjDW)\n#### [Pisciniste](https://www.mramma.tn/professionels/execution/pisciniste)\n**56**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Etudes.png?itok=u_zJip0R)\n#### [Etudes](https://www.mramma.tn/professionels/etudes)\n**195**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Topographe%20_0.png?itok=WuPuQigb)\n#### [Topographe](https://www.mramma.tn/professionels/etudes/topographe)\n**23**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Faux%20plafon_0.png?itok=0ogax3QY)\n#### [Faux plafond et placo-plâ](https://www.mramma.tn/professionels/finition/faux-plafond-et-placo-pl%C3%A2tre)\n**20**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Equipements%20hotelier_0.png?itok=rJkjJfLa)\n#### [Equipements hotelier](https://www.mramma.tn/professionels/equipements/equipements-hotelier)\n**15**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Electricit%C3%A9_0.png?itok=QhJ87qot)\n#### [Electricité](https://www.mramma.tn/professionels/execution/electricit%C3%A9)\n**92**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Plomberie%20_0.png?itok=Jycdxh4K)\n#### [Plomberie](https://www.mramma.tn/professionels/execution/plomberie)\n**52**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/%C3%89nergie%20renouvelable.png?itok=HSi79sTO)\n#### [Energie renouvelable](https://www.mramma.tn/professionels/equipements/energie-renouvelable)\n**31**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Cuisiniste_0.png?itok=NgbdO6Vl)\n#### [Cuisiniste](https://www.mramma.tn/professionels/finition/cuisiniste)\n**36**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/bureau.png?itok=3MViUNQV)\n#### [Bureau d'etude](https://www.mramma.tn/professionels/etudes/bureau-detude)\n**37**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/S%C3%A9curit%C3%A9_0.png?itok=rmr5i_Bv)\n#### [Sécurité et domotique](https://www.mramma.tn/professionels/equipements/s%C3%A9curit%C3%A9-et-domotique)\n**67**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Menuiserie%20aluminium_0.png?itok=ZihaqsjO)\n#### [Menuiserie aluminium](https://www.mramma.tn/professionels/finition/menuiserie-aluminium)\n**92**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/peinture_0.png?itok=hWCLFB6k)\n#### [Enduit et peinture](https://www.mramma.tn/professionels/execution/enduit-et-peinture)\n**35**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/architecte%20d%27int%C3%A9rieur.png?itok=MUtrpxTn)\n#### [designer d'intérieur](https://www.mramma.tn/professionels/etudes/designer-dint%C3%A9rieur)\n**32**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/architecturer.png?itok=VA0JsD9S)\n#### [Architecte](https://www.mramma.tn/professionels/etudes/architecte)\n**100**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Menuiserie%20bois_0.png?itok=il1OH8pD)\n#### [Menuiserie bois](https://www.mramma.tn/professionels/finition/menuiserie-bois)\n**34**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/entreprises.png?itok=1nFKebQj)\n#### [Entreprise de constructio](https://www.mramma.tn/professionels/execution/entreprise-de-construction)\n**126**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Eclairage_0.png?itok=UMtYKVLb)\n#### [Eclairage](https://www.mramma.tn/professionels/equipements/eclairage)\n**56**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Promoteurs%20Immobiliers_0.png?itok=8QdvOtr2)\n#### [Promoteurs Immobiliers](https://www.mramma.tn/professionels/promoteurs-immobiliers)\n**73**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Mobilier%20et%20Agencement_0.png?itok=zbTCvhCq)\n#### [Mobilier et Agencement](https://www.mramma.tn/professionels/mobilier-et-agencement)\n**87**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/%C3%89quipements.png?itok=uQ1myHPz)\n#### [Equipements](https://www.mramma.tn/professionels/equipements)\n**186**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Finition_0.png?itok=NEpVUdq_)\n#### [Finition](https://www.mramma.tn/professionels/finition)\n**370**\n* ![](https://www.mramma.tn/sites/default/files/styles/category_icons/public/category-icons/Execution_0.png?itok=vvDrPvHU)\n#### [Execution](https://www.mramma.tn/professionels/execution)\n**450**\n[ Voir Tout ](https://www.mramma.tn/categories)\n# Accueil\n##  Actualités et évenements\nvenez découvrir des news sur l'univers du bâtiment.\nToutes les actualités sont là . Restez branchés .\n[AKRAM BSILA](https://www.mramma.tn/users/akram-bsila \"Voir le profil utilisateur.\") février 18, 2020\n###  [La perle du lac : Un dehors exceptionnel](https://www.mramma.tn/actualites/la-perle-du-lac-un-dehors-exceptionnel-qui-se-construit)\n[![](https://www.mramma.tn/sites/default/files/styles/blog_front_left/public/field/image/LAC%207.jpg?itok=VurCyJEQ)](https://www.mramma.tn/actualites/la-perle-du-lac-un-dehors-exceptionnel-qui-se-construit)\n[AKRAM BSILA](https://www.mramma.tn/users/akram-bsila \"Voir le profil utilisateur.\") décembre 13",
     "website_metadata": {
@@ -189,18 +214,7 @@
             "official": [
                 "marwen.bmzoughia@mramma.tn"
             ],
-            "details": [
-                {
-                    "original": "marwen.bmzoughia@mramma.tn",
-                    "normalized": "marwen.bmzoughia@mramma.tn",
-                    "domain": "mramma.tn",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": true,
-                    "source": "website"
-                }
-            ]
+            "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -208,23 +222,7 @@
             "confidence": 1.0,
             "report": {
                 "count": 3,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "domain",
-                        "confidence": 0.8
-                    },
-                    {
-                        "country": "Morocco",
-                        "source": "website_content",
-                        "confidence": 0.6
-                    }
-                ]
+                "candidates": []
             }
         }
     },
@@ -237,5 +235,9 @@
             "duplicates": 0,
             "invalid": []
         }
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Jun-22"
     }
 }

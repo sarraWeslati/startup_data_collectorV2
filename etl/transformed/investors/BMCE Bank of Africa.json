@@ -17,7 +17,8 @@
     "social_media": {
         "linkedin": "https://linkedin.com/company/bank-of-africa-bmce-group",
         "instagram": "https://instagram.com/bank_of_africa",
-        "youtube": "https://youtube.com/watch"
+        "youtube": "https://youtube.com/watch",
+        "twitter": "https://twitter.com/Bank_OfAfrica"
     },
     "geographic_focus": [
         "Africa"
@@ -92,11 +93,11 @@
         "technologies_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 3,
+            "profiles_count": 4,
             "linkedin": true,
             "facebook": false,
             "instagram": true,
-            "twitter": false,
+            "twitter": true,
             "x": false,
             "youtube": true,
             "github": false,
@@ -162,9 +163,14 @@
         "website_matches": false
     },
     "confidence": {
-        "score": 63,
+        "score": 71,
         "level": "Medium"
     },
+    "phones": [
+        "515211306)",
+        "102381215)",
+        "212645400000)"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\bmce_bank_of_africa.json",
     "normalized_name": "bmce bank of africa",
     "industries": [],
@@ -177,17 +183,18 @@
             "website_valid": true,
             "website_domain": "bankofafrica.ma",
             "website_type": "official",
-            "social_profiles": 4,
+            "social_profiles": 5,
             "external_profiles": 2
         },
         "social_validation": {
             "report": {
-                "total": 3,
-                "valid": 3,
-                "official": 3,
+                "total": 4,
+                "valid": 4,
+                "official": 4,
                 "platforms": [
                     "instagram",
                     "linkedin",
+                    "twitter",
                     "youtube"
                 ]
             },
@@ -213,6 +220,14 @@
                     "original": "https://www.youtube.com/watch?v=GicFfRUVHr0",
                     "normalized": "https://youtube.com/watch",
                     "username": "watch",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/Bank_OfAfrica",
+                    "normalized": "https://twitter.com/Bank_OfAfrica",
+                    "username": "Bank_OfAfrica",
                     "valid": true,
                     "official": true
                 }

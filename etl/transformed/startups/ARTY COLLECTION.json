@@ -6,7 +6,7 @@
     "industry": "Commerce and shopping",
     "keywords": [],
     "country": "Morocco",
-    "city": "",
+    "city": "Casablanca",
     "headquarters": "",
     "founded_year": "2021",
     "startup_stage": "",
@@ -247,11 +247,16 @@
         },
         "country_detection": {
             "selected_country": "Morocco",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 2,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Morocco",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Morocco",
                         "source": "domain",
@@ -276,8 +281,8 @@
             "invalid": [
                 "+212674010104",
                 "+212674010104",
-                "212674010104",
-                "212674010104"
+                "+212212674010104",
+                "+212212674010104"
             ]
         }
     }

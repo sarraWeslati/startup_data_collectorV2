@@ -1,10 +1,16 @@
 {
     "entity_type": "startup",
     "name": "KidzRise",
-    "description": "KidzRise se distingue par son approche novatrice qui allie intelligence artificielle et éducation. Notre plateforme utilise des algorithmes pour détecter les talents spécifiques de chaque enfant dès leur jeune âge, offrant ainsi des programmes d'apprentissage personnalisés adaptés à leurs besoins uniques. Contrairement aux méthodes éducatives traditionnelles qui se concentrent sur les faiblesses, KidzRise célèbre la diversité des talents en mettant l'accent sur les forces individuelles. Pour récompenser leurs succès, les enfants reçoivent des badges et des certificats. Ils peuvent partager leurs réussites avec leurs amis sur la plateforme KidzRise, ce qui encourage l'inspiration et la motivation. Les parents peuvent suivre les progrès et recevoir des retours instantanés, participant activement au développement de leurs enfants.",
+    "description": "KidzRise se distingue par son approche novatrice qui allie intelligence artificielle et éducation. La plateforme utilise des algorithmes pour détecter les talents spécifiques de chaque enfant dès leur jeune âge, offrant des programmes d'apprentissage personnalisés adaptés à leurs besoins uniques. Contrairement aux méthodes éducatives traditionnelles, KidzRise met l'accent sur les forces individuelles et récompense les succès par des badges et certificats. Les enfants peuvent partager leurs réussites sur la plateforme, tandis que les parents suivent les progrès en temps réel.",
     "tagline": "",
     "industry": "EdTech",
-    "keywords": [],
+    "keywords": [
+        "intelligence artificielle",
+        "éducation personnalisée",
+        "talents enfants",
+        "EdTech",
+        "apprentissage adaptatif"
+    ],
     "country": "Tunisia",
     "city": "",
     "headquarters": "",
@@ -33,13 +39,13 @@
     "founders": [
         {
             "name": "Wiem Ben Mahmoud",
-            "role": "",
+            "role": "Co-fondatrice",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Dhia EL ARBI",
-            "role": "",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         }
@@ -48,13 +54,31 @@
     "employee_count": null,
     "employee_range": "",
     "team_size": "",
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": "",
-    "operating_countries": [],
-    "languages_supported": [],
+    "products": [
+        "Plateforme KidzRise"
+    ],
+    "services": [
+        "Programmes d'apprentissage personnalisés",
+        "Détection des talents par IA",
+        "Suivi parental en temps réel"
+    ],
+    "technologies": [
+        "Intelligence artificielle",
+        "Algorithmes de détection de talents",
+        "Plateforme web et mobile"
+    ],
+    "customer_segments": [
+        "Parents",
+        "Enfants",
+        "Écoles primaires et maternelles"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
@@ -83,7 +107,7 @@
         "company_type": "",
         "registration_number": ""
     },
-    "extra_notes": "",
+    "extra_notes": "KidzRise se positionne comme une startup tunisienne EdTech innovante, célébrant la diversité des talents et favorisant une éducation positive et personnalisée.",
     "sources": [],
     "confidence": {
         "overall": 0.0,
@@ -110,9 +134,9 @@
         "founders_count": 2,
         "leadership_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
+        "products_count": 1,
+        "services_count": 3,
+        "technologies_count": 3,
         "news_count": 0,
         "social": {
             "profiles_count": 0,
@@ -194,15 +218,25 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "phone",
-            "confidence": 0.95,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "phone",
                         "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
                     }
                 ]
             }

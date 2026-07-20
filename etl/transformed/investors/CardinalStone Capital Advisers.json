@@ -27,7 +27,8 @@
     },
     "social_media": {
         "linkedin": "https://linkedin.com/company/cb-insights/)[![Facebook](https://public-pages.cbinsights.com/public-site/656239/_next/static/public/images/fb-icon.svg",
-        "facebook": "https://facebook.com/cbinsights"
+        "facebook": "https://facebook.com/cbinsights",
+        "twitter": "https://twitter.com/CBinsights"
     },
     "enrichment": {
         "status": "completed",
@@ -90,11 +91,11 @@
         "technologies_count": 0,
         "news_count": 0,
         "social": {
-            "profiles_count": 2,
+            "profiles_count": 3,
             "linkedin": true,
             "facebook": true,
             "instagram": false,
-            "twitter": false,
+            "twitter": true,
             "x": false,
             "youtube": false,
             "github": false,
@@ -170,7 +171,8 @@
     "sources": [],
     "phones": [
         "+234-1-710-0433",
-        "+234-1-710-0434"
+        "+234-1-710-0434",
+        "+12122923148"
     ],
     "geographic_focus": [
         "Nigeria",
@@ -183,9 +185,12 @@
         "website_matches": true
     },
     "confidence": {
-        "score": 76,
+        "score": 84,
         "level": "Medium"
     },
+    "emails": [
+        "info@cbinsights.com"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\cardinalstone_capital_advisers.json",
     "normalized_name": "cardinalstone capital advisers",
     "industries": [],
@@ -198,17 +203,18 @@
             "website_valid": true,
             "website_domain": "cbinsights.com",
             "website_type": "official",
-            "social_profiles": 2,
+            "social_profiles": 3,
             "external_profiles": 2
         },
         "social_validation": {
             "report": {
-                "total": 2,
-                "valid": 2,
-                "official": 2,
+                "total": 3,
+                "valid": 3,
+                "official": 3,
                 "platforms": [
                     "facebook",
-                    "linkedin"
+                    "linkedin",
+                    "twitter"
                 ]
             },
             "details": {
@@ -225,6 +231,14 @@
                     "original": "https://facebook.com/cbinsights",
                     "normalized": "https://facebook.com/cbinsights",
                     "username": "cbinsights",
+                    "valid": true,
+                    "official": true
+                },
+                "twitter": {
+                    "platform": "twitter",
+                    "original": "https://twitter.com/CBinsights",
+                    "normalized": "https://twitter.com/CBinsights",
+                    "username": "CBinsights",
                     "valid": true,
                     "official": true
                 }
@@ -269,7 +283,7 @@
                         "confidence": 1.0
                     },
                     {
-                        "country": "Niger",
+                        "country": "Nigeria",
                         "source": "headquarters",
                         "confidence": 0.9
                     },

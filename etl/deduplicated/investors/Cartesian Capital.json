@@ -33,10 +33,10 @@
             }
         ],
         "address": "",
-        "primary_social": "https://linkedin.com/company/cartesian-capital"
+        "primary_social": "https://linkedin.com/company/cartesian-capital-group"
     },
     "social_media": {
-        "linkedin": "https://linkedin.com/company/cartesian-capital",
+        "linkedin": "https://linkedin.com/company/cartesian-capital-group",
         "x": "https://x.com/CartesianCap"
     },
     "founders": [],
@@ -233,9 +233,9 @@
             "details": {
                 "linkedin": {
                     "platform": "linkedin",
-                    "original": "https://www.linkedin.com/company/cartesian-capital",
-                    "normalized": "https://linkedin.com/company/cartesian-capital",
-                    "username": "cartesian-capital",
+                    "original": "https://www.linkedin.com/company/cartesian-capital-group",
+                    "normalized": "https://linkedin.com/company/cartesian-capital-group",
+                    "username": "cartesian-capital-group",
                     "valid": true,
                     "official": true
                 },

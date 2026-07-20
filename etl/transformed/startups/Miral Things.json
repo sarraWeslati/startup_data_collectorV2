@@ -194,11 +194,16 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "phone",
-            "confidence": 0.95,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "phone",

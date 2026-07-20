@@ -6,7 +6,9 @@
     "city": "Lagos",
     "website": "https://www.africa-re.com/contact",
     "linkedin": "https://linkedin.com/company/africa-re",
-    "investment_focus": [],
+    "investment_focus": [
+        "reinsurance"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -72,9 +74,9 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 1,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 4,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 3,
@@ -184,6 +186,12 @@
     "sources": [],
     "phones": [
         "145900362"
+    ],
+    "geographic_focus": [
+        "Africa",
+        "Asia",
+        "Brazil",
+        "Middle East"
     ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\african_reinsurance_corporation.json",
     "normalized_name": "african reinsurance corporation",

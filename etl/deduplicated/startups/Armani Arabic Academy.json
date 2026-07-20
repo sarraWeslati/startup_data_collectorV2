@@ -1,12 +1,18 @@
 {
     "entity_type": "startup",
     "name": "Armani Arabic Academy",
-    "description": "Arsek DripBox est une solution d'irrigation innovante qui contribue à la lutte contre le changement climatique en optimisant l'utilisation de l'eau pour les agriculteurs.",
+    "description": "IHSCEN for Startups est un incubateur & accélérateur virtuel qui accompagne les Startups de la région Middle East et Afrique du stage idée jusqu'à l'épanouissement international. Si vous cherchez à vous faire accompagner à une vitesse de 100X, vous êtes à la bonne adresse, glissez un email.",
     "tagline": "",
     "industry": "Business Software and services",
-    "keywords": [],
+    "keywords": [
+        "incubateur virtuel",
+        "accélérateur",
+        "startups",
+        "Middle East",
+        "Afrique"
+    ],
     "country": "Tunisia",
-    "city": "",
+    "city": "Ben Arous",
     "headquarters": "",
     "founded_year": "2017",
     "startup_stage": "",
@@ -18,7 +24,11 @@
         "linkedin": "https://linkedin.com/posts/bassem-ben-jmeaa-949a6755_etl-autoshop-activity-6708797658238115840-7ukb"
     },
     "contact": {
-        "emails": [],
+        "emails": [
+            "dg@air-communications.com.tn",
+            "arsek.dripbox@gmail.com",
+            "ihscenforstartups@gmail.com"
+        ],
         "phones": [],
         "address": "",
         "primary_social": "https://linkedin.com/posts/bassem-ben-jmeaa-949a6755_etl-autoshop-activity-6708797658238115840-7ukb"
@@ -101,19 +111,48 @@
             "role": "",
             "linkedin": "",
             "bio": ""
+        },
+        {
+            "name": "Nadia Kanoun",
+            "role": "Co-fondatrice",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Najia Dhiab",
+            "role": "Co-fondatrice",
+            "linkedin": "",
+            "bio": ""
         }
     ],
     "leadership": [],
     "employee_count": null,
     "employee_range": "",
     "team_size": "",
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": "",
-    "operating_countries": [],
-    "languages_supported": [],
+    "products": [
+        "Programme IHSCEN for Startups"
+    ],
+    "services": [
+        "Incubation virtuelle",
+        "Accélération de startups",
+        "Accompagnement international"
+    ],
+    "technologies": [
+        "Plateforme digitale",
+        "Outils EdTech"
+    ],
+    "customer_segments": [
+        "Startups early-stage",
+        "Entrepreneurs Middle East & Afrique"
+    ],
+    "target_market": "Middle East et Afrique",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français",
+        "Anglais"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
@@ -142,11 +181,20 @@
         "company_type": "",
         "registration_number": ""
     },
-    "extra_notes": "",
+    "extra_notes": "IHSCEN for Startups se positionne comme un incubateur virtuel tunisien innovant, dédié à l’accompagnement des startups de la région MENA et Afrique.",
     "sources": [],
     "confidence": {
         "score": 71,
-        "level": "Medium"
+        "level": "Medium",
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
     },
     "enrichment": {
         "status": "csv_import",
@@ -175,9 +223,9 @@
         "founders_count": 2,
         "team_members_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
+        "products_count": 1,
+        "services_count": 3,
+        "technologies_count": 2,
         "partners_count": 0,
         "awards_count": 0,
         "social_profiles": 1,
@@ -196,16 +244,21 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
-            "generic_count": 0,
+            "count": 1,
+            "business_count": 1,
+            "generic_count": 1,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "air-communications.com.tn",
+                "gmail.com"
+            ]
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 1,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 1
         }
     },
     "others": {
@@ -335,18 +388,21 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
-                "generic": 0,
+                "total": 1,
+                "business": 1,
+                "generic": 1,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "air-communications.com.tn",
+                    "gmail.com"
+                ]
             },
             "official": [],
             "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
+            "selected_source": "country",
             "confidence": 0.8,
             "report": {
                 "count": 1,
@@ -354,23 +410,22 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "dg@air-communications.com.tn",
     "quality": {
         "phones": {
             "total": 1,
-            "valid": 0,
+            "valid": 1,
             "removed": 1,
             "duplicates": 0,
             "invalid": [
                 "00842595",
                 "00792612",
-                "77777",
-                "276035381",
-                "505306387",
-                "276035202",
-                "7275554",
-                "01406208",
-                "14901961"
+                "+21677777",
+                "+216276035381",
+                "+216505306387",
+                "+216276035202",
+                "+2167275554",
+                "+21621655570747"
             ]
         }
     }

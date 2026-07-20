@@ -6,7 +6,11 @@
     "city": "Nairobi",
     "website": "https://www.cassiacapitalpartners.com/wp-content/uploads/2020/07/PrivacyPolicy_Cassia_6.2020.pdf",
     "linkedin": "https://www.linkedin.com/company/cassia-capital-partners-llc",
-    "investment_focus": [],
+    "investment_focus": [
+        "growth capital",
+        "management buy-out",
+        "buy-in"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -110,9 +114,9 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 3,
         "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "geographic_focus_count": 1,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 1,
@@ -166,6 +170,9 @@
         "level": "Medium"
     },
     "aum": "251M USD",
+    "geographic_focus": [
+        "East Africa"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\cassia_capital_partners.json",
     "normalized_name": "cassia capital partners",
     "industries": [],

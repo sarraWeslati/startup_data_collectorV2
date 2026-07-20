@@ -6,7 +6,7 @@
     "industry": "Commerce and shopping",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Tunis",
     "headquarters": "",
     "founded_year": "2020",
     "startup_stage": "",
@@ -20,7 +20,36 @@
     },
     "contact": {
         "emails": [],
-        "phones": [],
+        "phones": [
+            {
+                "number": "+21646246181",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620200828",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21629445395",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21620190621",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/company/amonak"
     },
@@ -138,9 +167,11 @@
             "domains": []
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 4,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 4
         }
     },
     "others": {
@@ -242,11 +273,21 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "website_content",
@@ -260,16 +301,12 @@
     "quality": {
         "phones": {
             "total": 6,
-            "valid": 0,
-            "removed": 6,
+            "valid": 4,
+            "removed": 2,
             "duplicates": 0,
             "invalid": [
-                "9709440",
-                "46246181",
-                "20200828",
-                "29445395",
-                "3795057",
-                "20190621"
+                "+2169709440",
+                "+2163795057"
             ]
         }
     }

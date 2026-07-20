@@ -18,7 +18,22 @@
     },
     "contact": {
         "emails": [],
-        "phones": [],
+        "phones": [
+            {
+                "number": "+21600792612",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            },
+            {
+                "number": "+21614901961",
+                "country": "Tunisia",
+                "country_code": "+216",
+                "valid": true,
+                "source": "website"
+            }
+        ],
         "address": "",
         "primary_social": "https://linkedin.com/posts/bassem-ben-jmeaa-949a6755_etl-autoshop-activity-6708797658238115840-7ukb"
     },
@@ -142,9 +157,11 @@
             "domains": []
         },
         "phones": {
-            "count": 0,
-            "countries": [],
-            "valid": 0
+            "count": 2,
+            "countries": [
+                "Tunisia"
+            ],
+            "valid": 2
         }
     },
     "others": {
@@ -221,11 +238,21 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "phone",
+                        "confidence": 0.95
+                    },
                     {
                         "country": "Tunisia",
                         "source": "domain",
@@ -239,13 +266,10 @@
     "quality": {
         "phones": {
             "total": 2,
-            "valid": 0,
-            "removed": 2,
+            "valid": 2,
+            "removed": 0,
             "duplicates": 0,
-            "invalid": [
-                "00792612",
-                "14901961"
-            ]
+            "invalid": []
         }
     }
 }

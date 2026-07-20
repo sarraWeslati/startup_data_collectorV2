@@ -1,13 +1,26 @@
 {
     "name": "AMEN CAPITAL",
-    "description": "",
+    "description": "L’ATIC fédère et représente les opérateurs Tunisiens du Capital investissement ce qui lui confère une forte légitimité en qualité de porte-parole de la profession auprès des pouvoirs publics.",
     "organization_type": "",
     "country": "Tunisia",
-    "city": "",
+    "city": "Tunis",
     "website": "https://www.atic.org.tn/portfolio/amen-capital",
     "linkedin": "https://linkedin.com/in/wassimbenyedder",
-    "investment_focus": [],
-    "investment_stages": [],
+    "investment_focus": [
+        "Agro-alimentaire",
+        "pharmaceutique",
+        "plasturgie",
+        "santé",
+        "biens d’équipements",
+        "services financiers",
+        "Industriel"
+    ],
+    "investment_stages": [
+        "creation",
+        "development",
+        "transmission",
+        "return"
+    ],
     "portfolio_startups": [],
     "entity_type": "investor",
     "external_profiles": {
@@ -66,9 +79,9 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
-        "investment_stages_count": 0,
-        "geographic_focus_count": 0,
+        "investment_focus_count": 7,
+        "investment_stages_count": 4,
+        "geographic_focus_count": 2,
         "partners_count": 0,
         "team_members_count": 0,
         "social_profiles": 3,
@@ -175,9 +188,23 @@
         "website_matches": true
     },
     "confidence": {
-        "score": 57,
-        "level": "Low"
+        "score": 88,
+        "level": "High"
     },
+    "emails": [
+        "contact@amencapital.com"
+    ],
+    "phones": [
+        "71 833 346",
+        "71 830 442",
+        "360045507411602"
+    ],
+    "aum": "27 mDT",
+    "ticket_size": "250 mDT - 2.250 MDT",
+    "geographic_focus": [
+        "ZDR",
+        "other"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\amen_capital.json",
     "normalized_name": "amen capital",
     "industries": [],

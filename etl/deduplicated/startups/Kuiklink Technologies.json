@@ -1,0 +1,280 @@
+{
+    "entity_type": "startup",
+    "name": "Kuiklink Technologies",
+    "description": "KLINK.BOOKING (2020)\nSecteur d’activité / Sector : Autre; Industrie créative\nklink.tn\nFondateur / Founder\nE-mail\nAdresse / Address\nSHERAZADE AMOUS / COMGURU (SOCIÉTÉ)\nsherazade.amous@gmail.com\n000,imm express A8-3, centre urbain nord\nActivité Klink est une plateforme de booking, de \nproduction d'artistes et de projets culturels dans les arts \ndu spectacle.\nAspect Technologique Klink.tn est une plateforme de \nbooking d'artistes en ligne.\nOriginalité valoriser de démocratiser les métiers artistiques.\nActivity Klink is a platform for booking, artist \nproductions and cultural projects in the performing arts.\nTechnological Aspect Klink.tn is an online artist booking \nplatform.\nOriginality \nenhance \nthe \ndemocratization \nof \nartistic \nprofessions.\nFR\nEN",
+    "tagline": "",
+    "industry": "Business Software and services",
+    "keywords": [
+        "booking artistique",
+        "événements",
+        "mise en relation",
+        "plateforme digitale",
+        "WiFi",
+        "hotspot",
+        "WISP",
+        "QoE",
+        "solutions personnalisées"
+    ],
+    "country": "Tunisia",
+    "city": "",
+    "headquarters": "",
+    "founded_year": "2020",
+    "startup_stage": "",
+    "startup_label": true,
+    "website": "https://KLINK.BOOKING",
+    "linkedin_url": "",
+    "social_media": {},
+    "contact": {
+        "emails": [
+            "sherazade.amous@gmail.com"
+        ],
+        "phones": [],
+        "address": "",
+        "primary_social": ""
+    },
+    "founders": [
+        {
+            "name": "Sherazade Amous",
+            "role": "Co-fondatrice",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Sendy Zardi",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Hichem Zidi",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Zied Hagui",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Lotfi Aguerbaoui",
+            "role": "Fondateur",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
+    "leadership": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Plateforme Klink",
+        "Appliances hotspot",
+        "Solutions WISP"
+    ],
+    "services": [
+        "Mise en relation artistes-organisateurs",
+        "Booking artistique digitalisé",
+        "Développement de terminaux WiFi",
+        "Implémentation de solutions personnalisées",
+        "Optimisation de la QoE"
+    ],
+    "technologies": [
+        "Plateforme web",
+        "Application mobile",
+        "WiFi",
+        "Hotspot appliances",
+        "WISP technologies"
+    ],
+    "customer_segments": [
+        "Artistes",
+        "Organisateurs d’événements",
+        "Agences culturelles",
+        "Entreprises",
+        "Fournisseurs de services Internet",
+        "Organisations nécessitant des solutions WiFi avancées"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
+    "notable_customers": [],
+    "partners": [],
+    "accelerators": [],
+    "incubators": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
+    "awards": [],
+    "certifications": [],
+    "patents": [],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "Kuiklink Technologies se positionne comme une startup tunisienne innovante dans le domaine des solutions WiFi et WISP, avec un focus sur l'amélioration de la qualité d'expérience (QoE).",
+    "sources": [],
+    "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0,
+        "score": 53,
+        "level": "Low"
+    },
+    "enrichment": {
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": "",
+        "sources": [
+            "website",
+            "tavily",
+            "llm"
+        ],
+        "date": "2026-06-30T14:56:35.176219",
+        "website_enriched": false,
+        "tavily_results": 0,
+        "llm_enriched": true
+    },
+    "stats": {
+        "has_website": true,
+        "has_linkedin": false,
+        "founders_count": 4,
+        "leadership_count": 0,
+        "investors_count": 0,
+        "products_count": 1,
+        "services_count": 2,
+        "technologies_count": 2,
+        "news_count": 0,
+        "social": {
+            "profiles_count": 0,
+            "linkedin": false,
+            "facebook": false,
+            "instagram": false,
+            "twitter": false,
+            "x": false,
+            "youtube": false,
+            "github": false,
+            "tiktok": false,
+            "medium": false
+        },
+        "emails": {
+            "count": 1,
+            "business_count": 0,
+            "generic_count": 1,
+            "official_count": 0,
+            "domains": [
+                "gmail.com"
+            ]
+        },
+        "phones": {
+            "count": 0,
+            "countries": [],
+            "valid": 0
+        },
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "team_members_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0
+    },
+    "others": {
+        "logo": "undefined",
+        "label_date": "Aug-20"
+    },
+    "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\kuiklink_technologies.json",
+    "normalized_name": "kuiklink technologies",
+    "industries": [],
+    "external_profiles": {},
+    "etl": {
+        "website_validation": {
+            "website_valid": true,
+            "website_domain": "klink.booking",
+            "website_type": "official",
+            "social_profiles": 0,
+            "external_profiles": 0
+        },
+        "social_validation": {
+            "report": {
+                "total": 0,
+                "valid": 0,
+                "official": 0,
+                "platforms": []
+            },
+            "details": {}
+        },
+        "email_validation": {
+            "report": {
+                "total": 1,
+                "business": 0,
+                "generic": 1,
+                "official": 0,
+                "domains": [
+                    "gmail.com"
+                ]
+            },
+            "official": [],
+            "details": []
+        },
+        "country_detection": {
+            "selected_country": "Tunisia",
+            "selected_source": "country",
+            "confidence": 1.0,
+            "report": {
+                "count": 2,
+                "candidates": []
+            }
+        }
+    },
+    "primary_email": "sherazade.amous@gmail.com",
+    "quality": {
+        "phones": {
+            "total": 0,
+            "valid": 0,
+            "removed": 0,
+            "duplicates": 0,
+            "invalid": []
+        }
+    },
+    "emails": [
+        "sherazade.amous@gmail.com"
+    ],
+    "tavily": {
+        "query": "KLINK.BOOKING",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": true,
+        "website_matches": true
+    }
+}

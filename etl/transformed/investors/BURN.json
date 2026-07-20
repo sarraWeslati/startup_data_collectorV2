@@ -177,9 +177,26 @@
         "website_matches": true
     },
     "confidence": {
-        "score": 68,
+        "score": 76,
         "level": "Medium"
     },
+    "phones": [
+        "77794715)",
+        "0-8838-6",
+        "58678439",
+        "4651-817",
+        "68-4841-9876-50422",
+        "45-9722-4",
+        "8562-307",
+        "389-3148-442",
+        "45-4099-4897-8",
+        "616827187",
+        "3146-024",
+        "662-2929-4",
+        "04-40299",
+        "189569-5",
+        "53-4201-"
+    ],
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\investors\\burn.json",
     "normalized_name": "burn",
     "industries": [],

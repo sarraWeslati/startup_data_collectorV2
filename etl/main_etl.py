@@ -1,6 +1,6 @@
 # etl/main_etl.py
 
-from pymongo import MongoClient
+#from pymongo import MongoClient
 
 from etl.extractor import (
     load_entities
@@ -18,17 +18,17 @@ from etl.deduplicator import (
     deduplicate_entities
 )
 
-from etl.mongodb_loader import (
-    load_to_mongodb
-)
+#from etl.mongodb_loader import (
+ #   load_to_mongodb
+#)
 
 from etl.statistics import (
     ETLStatistics
 )
 
-from etl.config import (
-    DATABASE_NAME
-)
+#from etl.config import (
+ #   MONGO_URI
+#)
 
 from etl.file_storage import (
     save_transformed_entities,
@@ -258,7 +258,7 @@ def main():
     # LOAD
     # =================================================
 
-    #client = MongoClient()
+    #client = MongoClient(MONGO_URI)
 
     #loading = load_to_mongodb(
 

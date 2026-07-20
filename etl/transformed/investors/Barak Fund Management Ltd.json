@@ -8,7 +8,9 @@
     "linkedin": "https://www.linkedin.com/company/barak-wealth-management-ltd-",
     "investment_focus": [
         "African commodity markets",
-        "Asset-backed loans"
+        "Asset-backed loans",
+        "Soft agricultural and food-related sectors",
+        "Mining, energy and other commodity sectors"
     ],
     "investment_stages": [],
     "portfolio_startups": [],
@@ -239,7 +241,7 @@
                         "confidence": 1.0
                     },
                     {
-                        "country": "Kenya",
+                        "country": "Côte d'Ivoire",
                         "source": "website_content",
                         "confidence": 0.6
                     }

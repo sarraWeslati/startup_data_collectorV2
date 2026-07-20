@@ -1,61 +1,119 @@
 {
+    "entity_type": "startup",
     "name": "Konnect Networks",
     "description": "Konnectnetwork est une plateforme de référence pour les paiements transfrontaliers, destinée à simplifier les flux financiers complexes.",
+    "tagline": "",
     "industry": "Fintech",
+    "keywords": [
+        "marketplace",
+        "paiement intégré",
+        "services à la demande",
+        "fintech",
+        "marque blanche"
+    ],
     "country": "Tunisia",
     "city": "",
+    "headquarters": "",
+    "founded_year": "2021",
+    "startup_stage": "",
+    "startup_label": true,
     "website": "https://konnect.network",
-    "linkedin": "",
-    "founders": [],
-    "entity_type": "startup",
-    "website_content": "[![konnect Logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/logo_konnect_23a791d66b.svg)](https://konnect.network/ \"konnect Logo\")\n[Services](https://konnect.network/ \"Services\")\n[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_1_1c06bb2be4.svg) Liens de paiement](https://konnect.network/services/payment-link/ \"/services/payment-link\")[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_2_004c0ab03f.svg) Plugins](https://konnect.network/services/plugins/ \"/services/plugins\")[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_3_1c675ab814.svg) APIs](https://konnect.network/services/api-info/ \"/services/api-info\")[![World earth Logo](https://konnect.network/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fdbayqmufu%2Fimage%2Fupload%2Fv1708543301%2Fpngtree_world_earth_logo_vector_design_png_image_6514310_2_bb75ef6872.png&w=32&q=75) Planet](https://konnect.network/services/planet/ \"/services/planet\")\n[Documentation API](https://docs.konnect.network/docs/fr/overview/getting-started \"Documentation API\")\n[Tarification](https://konnect.network/pricing/ \"Tarification\")\n[A Propos](https://konnect.network/ \"A Propos\")\n[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_1_251fcffeba.svg) Ils parlent de nous](https://konnect.network/a-propos/mentions/ \"/a-propos/mentions\")[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_2_2719d8d58d.svg) Qui sommes-nous ?](https://konnect.network/a-propos/who/ \"/a-propos/who\")[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_3_eb3af2139f.svg) Contact](https://konnect.network/a-propos/contact/ \"/a-propos/contact\")[![](https://s3.eu-west-3.amazonaws.com/konnect.network.public/briefcase_8d6ab293d3.svg) Jobs](https://jobs.konnect.network \"https://jobs.konnect.network\")\n[Blog](https://konnect.network/blog/ \"Blog\")\nFrench\nEnglish\n[S’inscrire](https://dashboard.konnect.network/auth/register \"S’inscrire\")\n[Connexion](https://dashboard.konnect.network/auth \"Connexion\")\nServices\n[Documentation API](https://docs.konnect.network/docs/fr/overview/getting-started \"Documentation API\")\n[Tarification](https://konnect.network/pricing/ \"Tarification\")\nA Propos\n[Blog](https://konnect.network/blog/ \"Blog\")\nFrench\nEnglish\n[S’inscrire](https://dashboard.konnect.network/auth/register \"S’inscrire\")\n[Connexion](https://dashboard.konnect.network/auth \"Connexion\")\n# La Solution De Paiement En Ligne\nSimple, rapide, personnalisée, sécurisée et pour tous !\nCommencez, c'est gratuit\n![dashboard konnect](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fdashboard_konnect_8f435eed3d.png&w=3840&q=75)\n# Intermédiaire de paiement agréé par la Banque Centrale de Tunisie\n![Central_bank](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FCentral_bank_6982ced0fe.webp&w=3840&q=75)\n# NOS CLIENTS\n**Nous Font Confiance**\n![smart-capital](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsmart_capital_3f97b61798.webp&w=640&q=100)\n![yessir](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fyessir_6177e51ac7.webp&w=256&q=100)\n![soul-planet](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsoul_planet_aee7d6fd75.webp&w=384&q=100)\n![club](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fclub_cdc8e50a16.webp&w=256&q=100)\n![ijeni](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fijeni_c928293e70.webp&w=384&q=100)\n![tiktak-pro-sell-and-gow](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Ftiktak_pro_sell_and_gow_544539aa3b.webp&w=640&q=100)\n![ija](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fija_c7858d7764.webp&w=256&q=100)\n![kabylis](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkabylis_eae6772c08.webp&w=640&q=100)\n![TSLcontact](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FTS_Lcontact_dffc29da20.webp&w=256&q=100)\n![comar-assurance](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fcomar_assurance_8f7a720954.webp&w=640&q=100)\n##\nPourquoi Choisir Konnect\n## Large Gamme de Méthodes de Paiement en Ligne\nNous prenons en charge plusieurs méthodes de paiement, offrant ainsi une flexibilité pour répondre aux besoins de votre entreprise et de vos clients.\n![konnect-payment](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_payment_0a30a2ce28.webp&w=828&q=75)\n## Paiements Instantanés\nAvec Konnect, les transactions sont effectuées rapidement, garantissant des paiements rapides et efficaces pour vos clients et votre entreprise.\n## Sécurité PCI DSS Compliant\nNous sommes certifiés PCI DSS, garantissant ainsi la sécurité et la confidentialité des données sensibles des transactions\n![secure-pci-dss-logo](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsecure_pci_dss_logo_03ceb708f2.webp&w=750&q=75)\n# Divers types d'entreprises\n## Notre solution s’adapte aux différents acteurs du commerce électronique\n![company800](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_800_99483cd06d.webp&w=1920&q=75)\n# Freelances, entrepreneurs et startups\nCréez un compte et commencez à accepter des paiements en ligne ou en magasin en quelques minutes avec la solution Konnect e-commerce et mobile.\nLiens de paiement instantanés\nNotifications de paiements\nTotale transparence Des coûts\nPaiements depuis l'international\nSuivi Des Revenus En Temps Réel\nPaiement par QR code\n![company700](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_700_eb8fdf5c13.webp&w=1920&q=75)\n# Petites et moyennes entreprises\nProlongez l’expérience utilisateur jusqu’à la page de paiement en offrant un environnement personnalisé à l’image de votre marque. Minimisez ainsi l’abandon de panier et renforcez le sentiment de sécurité.\nTransferts en toute simplicité\nPlusieurs comptes bancaires\nAccès à l'API\nGestion d'accès pour l'équipe\nInterface d'administration avancée\nPrésence sur notre marketplace\n![company500](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_500_6b9969fc85.webp&w=1920&q=75)\n# Grandes entreprises grands besoins\nNotre plateforme en marque blanche de paiement mobile vous permet d’offrir une expérience utilisateur complète, multicanale et personnalisée aux couleurs de votre marque. Elle est parfaitement adaptée aux entreprises qui souhaitent disposer d’une marketplace de services avec une solution de paiement intégrée.\nGestion d'accès pour l'équipe\nPaiement depuis l'international\nFonctionnalités sur mesure\nRapports mensuels automatisés\nSupport personnalisé\nPaiements par abonnement\n# Comment Fonctionne Konnect\n* * *\nDécouvrez nos solutions pour tous vos besoins. Créez aisément des liens de paiement pour des transactions instantanées, idéales pour les particuliers et les freelances.\nIntégrez également notre passerelle de paiement sécurisée pour les e-commerces, offrant une expérience fluide et sécurisée à vos clients en ligne.\n![Link logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/lien_ba2d21f86b.svg)\n## Lien de paiement instantané\n![Plugin logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/plugin_2d92ef728c.svg)\n## Plugins pour les sites e-commerce\n![api logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/api_f2b2122e57.svg)\n## API simple et securisé\nLien de paiement instantané\n![Ouvrir un compte Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002683_3879fbf322.svg)\n# Ouvrir un compte Konnect\nCréez votre compte Konnect avec votre adresse mail, votre compte Facebook, ou votre compte Google.\n![Créez un lien de paiement en 3 clics](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002794_80a8f7d5f9.svg)\n# Créez un lien de paiement en 3 clics\nGénérez un lien de paiement avec un code QR en seulement 3 clics.\n![Recevez vos paiements](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002795_260db417e4.svg)\n# Recevez vos paiements\nPartagez le lien de paiement avec vos clients pour recevoir des paiements rapides et sécurisés.\nPlugins pour les sites e-commerce\n![Ouvrir un compte Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002683_3879fbf322.svg)\n# Créez un compte marchand\nInscrivez-vous facilement en tant que marchand sur la plateforme Konnect pour bénéficier de nos solutions de paiement innovantes.\n![Téléchargez le Plugin Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002797_1b51d74c42.svg)\n# Téléchargez le Plugin Konnect\nObtenez notre plugin dédié pour votre plateforme e-commerce (WordPress, PrestaShop, etc.) et intégrez rapidement nos fonctionnalités de paiement sécurisées.\n![Installez le gateway](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002774_fc3a6da75b.svg)\n# Installez le gateway\nActivez le gateway Konnect sur votre site marchand et commencez à accepter des paiements de manière simple et sécurisée.\nAPI simple et securisé\n![Intégration de l'API Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002796_6c549cc89a.svg)\n# Intégration de l'API Konnect\nCommencez par intégrer facilement l'API Konnect à votre site e-commerce en quelques étapes simples.\n![Configuration Personnalisée](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002797_1_24841774af.svg)\n# Configuration Personnalisée\nConfigurez votre système pour accepter les paiements en ligne en utilisant notre solution de paiement sécurisée.\n![Suivi en Temps Réel](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002798_c02f601026.svg)\n# Suivi en Temps Réel\nUne fois l'API installée, accédez à votre tableau de bord centralisé sur Konnect.\n## Un compte unique pour tous vos encaissements\nDécouvrez nos offres omnicanales pour compléter votre e-shop et rester au plus près de vos clients\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Intersect_a0a7764e17.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Intersect_a0a7764e17.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/mastercard_logo_mastercard_logo_png_vector_download_19_1_3d1cf7c06f.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/mastercard_logo_mastercard_logo_png_vector_download_19_1_3d1cf7c06f.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/E_Dinar_1_1853770f56.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/E_Dinar_1_1853770f56.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002675_180b6af3fa.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002675_180b6af3fa.svg)\n### Installation rapide\nUne installation rapide grâce à nos modules CMS et une API bien documentée.\nEn savoir plus\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002676_2e0efe809b.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002676_2e0efe809b.svg)\n### Moyens de paiements\nUne multitude de moyens d’encaissement. Ne passez plus à côté de vos ventes.\nS'inscrire\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002673_57774bae23.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002673_57774bae23.svg)\n### Tarification\nUne tarification totalement transparente. Payez uniquement sur vos transactions réussies.\nVoir nos tarifs\n# Ce que nos clients disent de Konnect\nDécouvrez comment Konnect a simplifié les paiements en ligne de ses clients\n![partner logo ija](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_2_fd105086e2.svg)\n![Hatem Drida](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FHatem_Drida_7e61659761.webp&w=256&q=75)\n# Hatem Drida\n## CEO & founder\nKonnect est une solution de paiement flexible, évolutive et parfaitement opérationnelle. C’est notre partenaire de paiement en ligne.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_3_cb391eac0b.svg)\n![Sami Tounsi](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FSami_Tounsi_9b44c451ee.webp&w=256&q=75)\n# Sami Tounsi\n## CEO & founder\nLa solution en marque blanche entièrement adaptable et personnalisable que propose KONNECT nous a permis de créer une plateforme qui rend possible le développement du service ‘food delivery’ en Tunisie. L’ensemble du réseau de livreurs, restaurants et clients bénéficient de cette solution de paiement souple, flexible et particulièrement efficace.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/etandart_4ffbdc6564.svg)\n![Ismail ben Milad](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FIsmail_ben_Milad_0d836d1dbc.webp&w=256&q=75)\n# Ismail ben Milad\n## Créateur de etandart.com produite de lannee.tn\nNous avons testé avec succès la solution Konnect et en moins de 15 minutes nous disposions d’un terminal de paiement sur notre site web marchand alors que nous avions déjà perdu plusieurs semaines à chercher la solution adéquate.\n![profile picture  kamioun review ](https://s3.eu-west-3.amazonaws.com/konnect.network.public/kamioun_e1659787744537_b948d22b6e.svg)\n![Farès Belghith](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FFares_Belghith_a8e49afad0.webp&w=256&q=75)\n# Farès Belghith\n## CEO & founder\nKonnect est une solution facile à utiliser et qui ne présente pas de risques en tant que prestataire de service de paiement.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_4_d1f48fc614.svg)\n![Amen Ben Mlouka](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FAmen_Ben_Mlouka_5b03917e89.webp&w=256&q=75)\n# Amen Ben Mlouka\n## Relation clients\nChoisissez Konnect, le processus d’intégration est simple, ils sont efficaces et évoluent rapidement. Elle permet un gain de temps consid",
-    "website_metadata": {
-        "url": "https://konnect.network",
-        "content_length": 15000
-    },
+    "linkedin_url": "",
+    "social_media": {},
     "contact": {
-        "emails": [],
+        "emails": [
+            "contact@konnect.network"
+        ],
         "phones": [],
         "address": "",
         "primary_social": ""
     },
-    "social_media": {},
+    "founders": [
+        {
+            "name": "Amin Ben Abderrahman",
+            "role": "Fondateur",
+            "linkedin": "",
+            "bio": ""
+        }
+    ],
     "leadership": [],
-    "products": [],
-    "services": [],
-    "technologies": [],
+    "employee_count": null,
+    "employee_range": "",
+    "team_size": "",
+    "products": [
+        "Marketplace Konnect"
+    ],
+    "services": [
+        "Paiement intégré",
+        "Marketplace de services",
+        "Solutions en marque blanche"
+    ],
+    "technologies": [
+        "Plateforme fintech",
+        "Paiement en ligne sécurisé"
+    ],
+    "customer_segments": [
+        "Entreprises de services",
+        "Agences",
+        "Particuliers"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
+    "notable_customers": [],
     "partners": [],
-    "investors": [],
     "accelerators": [],
     "incubators": [],
-    "keywords": [],
-    "customer_segments": [],
-    "operating_countries": [],
-    "languages_supported": [],
-    "notable_customers": [],
+    "funding": {
+        "total_raised": null,
+        "currency": "",
+        "stage": "",
+        "rounds": []
+    },
+    "investors": [],
     "awards": [],
     "certifications": [],
     "patents": [],
-    "legal_info": {},
-    "external_profiles": {},
-    "phones": [
-        "1708543301",
-        "1000002683",
-        "1000002794",
-        "1000002795",
-        "1000002797",
-        "1000002774",
-        "1000002796",
-        "24841774",
-        "1000002798",
-        "1000002675",
-        "1000002676",
-        "1000002673",
-        "61659761",
-        "1659787744537"
-    ],
+    "business_metrics": {
+        "users_count": null,
+        "customers_count": null,
+        "downloads": null,
+        "monthly_transactions": null,
+        "annual_revenue": null,
+        "revenue_currency": ""
+    },
+    "recent_news": [],
+    "events": [],
+    "legal_info": {
+        "company_type": "",
+        "registration_number": ""
+    },
+    "extra_notes": "Konnect se positionne comme une startup fintech tunisienne innovante, facilitant la mise en relation et le paiement intégré pour les services.",
+    "sources": [],
+    "confidence": {
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0,
+        "score": 49,
+        "level": "Low"
+    },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
+        "sources_used": [
+            "csv"
+        ],
+        "collection_date": "",
+        "last_updated": "",
         "sources": [
             "website",
             "tavily",
@@ -66,27 +124,16 @@
         "tavily_results": 0,
         "llm_enriched": true
     },
-    "tavily": {
-        "query": "Konnect Networks",
-        "answer": "",
-        "results_count": 0,
-        "urls": []
-    },
     "stats": {
         "has_website": true,
         "has_linkedin": false,
-        "has_crunchbase": false,
-        "has_wellfound": false,
-        "has_github": false,
-        "founders_count": 0,
-        "team_members_count": 0,
+        "founders_count": 1,
+        "leadership_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
-        "partners_count": 0,
-        "awards_count": 0,
-        "social_profiles": 0,
+        "products_count": 1,
+        "services_count": 3,
+        "technologies_count": 2,
+        "news_count": 0,
         "social": {
             "profiles_count": 0,
             "linkedin": false,
@@ -100,29 +147,35 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 1,
+            "business_count": 1,
             "generic_count": 0,
             "official_count": 0,
-            "domains": []
+            "domains": [
+                "konnect.network"
+            ]
         },
         "phones": {
             "count": 0,
             "countries": [],
             "valid": 0
-        }
+        },
+        "has_crunchbase": false,
+        "has_wellfound": false,
+        "has_github": false,
+        "team_members_count": 0,
+        "partners_count": 0,
+        "awards_count": 0,
+        "social_profiles": 0
     },
-    "validation": {
-        "is_african": false,
-        "website_matches": true
-    },
-    "confidence": {
-        "score": 49,
-        "level": "Low"
+    "others": {
+        "logo": "undefined",
+        "label_date": "Mar-21"
     },
     "_source_file": "C:\\Users\\ASUS\\Desktop\\startup_data_collectorV2\\storage\\enriched\\startups\\konnect_networks.json",
     "normalized_name": "konnect networks",
     "industries": [],
+    "external_profiles": {},
     "etl": {
         "website_validation": {
             "website_valid": true,
@@ -142,39 +195,36 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 1,
+                "business": 1,
                 "generic": 0,
                 "official": 0,
-                "domains": []
+                "domains": [
+                    "konnect.network"
+                ]
             },
             "official": [],
             "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "website_content",
-            "confidence": 0.6,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "website_content",
-                        "confidence": 0.6
-                    }
-                ]
+                "count": 2,
+                "candidates": []
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "contact@konnect.network",
     "quality": {
         "phones": {
-            "total": 14,
+            "total": 1,
             "valid": 0,
-            "removed": 14,
+            "removed": 1,
             "duplicates": 0,
             "invalid": [
+                "21624563609",
                 "1708543301",
                 "1000002683",
                 "1000002794",
@@ -191,5 +241,37 @@
                 "1659787744537"
             ]
         }
+    },
+    "linkedin": "",
+    "website_content": "[![konnect Logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/logo_konnect_23a791d66b.svg)](https://konnect.network/ \"konnect Logo\")\n[Services](https://konnect.network/ \"Services\")\n[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_1_1c06bb2be4.svg) Liens de paiement](https://konnect.network/services/payment-link/ \"/services/payment-link\")[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_2_004c0ab03f.svg) Plugins](https://konnect.network/services/plugins/ \"/services/plugins\")[![Services Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/services_icon_3_1c675ab814.svg) APIs](https://konnect.network/services/api-info/ \"/services/api-info\")[![World earth Logo](https://konnect.network/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fdbayqmufu%2Fimage%2Fupload%2Fv1708543301%2Fpngtree_world_earth_logo_vector_design_png_image_6514310_2_bb75ef6872.png&w=32&q=75) Planet](https://konnect.network/services/planet/ \"/services/planet\")\n[Documentation API](https://docs.konnect.network/docs/fr/overview/getting-started \"Documentation API\")\n[Tarification](https://konnect.network/pricing/ \"Tarification\")\n[A Propos](https://konnect.network/ \"A Propos\")\n[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_1_251fcffeba.svg) Ils parlent de nous](https://konnect.network/a-propos/mentions/ \"/a-propos/mentions\")[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_2_2719d8d58d.svg) Qui sommes-nous ?](https://konnect.network/a-propos/who/ \"/a-propos/who\")[![About Icon](https://s3.eu-west-3.amazonaws.com/konnect.network.public/about_icon_3_eb3af2139f.svg) Contact](https://konnect.network/a-propos/contact/ \"/a-propos/contact\")[![](https://s3.eu-west-3.amazonaws.com/konnect.network.public/briefcase_8d6ab293d3.svg) Jobs](https://jobs.konnect.network \"https://jobs.konnect.network\")\n[Blog](https://konnect.network/blog/ \"Blog\")\nFrench\nEnglish\n[S’inscrire](https://dashboard.konnect.network/auth/register \"S’inscrire\")\n[Connexion](https://dashboard.konnect.network/auth \"Connexion\")\nServices\n[Documentation API](https://docs.konnect.network/docs/fr/overview/getting-started \"Documentation API\")\n[Tarification](https://konnect.network/pricing/ \"Tarification\")\nA Propos\n[Blog](https://konnect.network/blog/ \"Blog\")\nFrench\nEnglish\n[S’inscrire](https://dashboard.konnect.network/auth/register \"S’inscrire\")\n[Connexion](https://dashboard.konnect.network/auth \"Connexion\")\n# La Solution De Paiement En Ligne\nSimple, rapide, personnalisée, sécurisée et pour tous !\nCommencez, c'est gratuit\n![dashboard konnect](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fdashboard_konnect_8f435eed3d.png&w=3840&q=75)\n# Intermédiaire de paiement agréé par la Banque Centrale de Tunisie\n![Central_bank](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FCentral_bank_6982ced0fe.webp&w=3840&q=75)\n# NOS CLIENTS\n**Nous Font Confiance**\n![smart-capital](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsmart_capital_3f97b61798.webp&w=640&q=100)\n![yessir](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fyessir_6177e51ac7.webp&w=256&q=100)\n![soul-planet](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsoul_planet_aee7d6fd75.webp&w=384&q=100)\n![club](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fclub_cdc8e50a16.webp&w=256&q=100)\n![ijeni](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fijeni_c928293e70.webp&w=384&q=100)\n![tiktak-pro-sell-and-gow](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Ftiktak_pro_sell_and_gow_544539aa3b.webp&w=640&q=100)\n![ija](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fija_c7858d7764.webp&w=256&q=100)\n![kabylis](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkabylis_eae6772c08.webp&w=640&q=100)\n![TSLcontact](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FTS_Lcontact_dffc29da20.webp&w=256&q=100)\n![comar-assurance](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fcomar_assurance_8f7a720954.webp&w=640&q=100)\n##\nPourquoi Choisir Konnect\n## Large Gamme de Méthodes de Paiement en Ligne\nNous prenons en charge plusieurs méthodes de paiement, offrant ainsi une flexibilité pour répondre aux besoins de votre entreprise et de vos clients.\n![konnect-payment](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_payment_0a30a2ce28.webp&w=828&q=75)\n## Paiements Instantanés\nAvec Konnect, les transactions sont effectuées rapidement, garantissant des paiements rapides et efficaces pour vos clients et votre entreprise.\n## Sécurité PCI DSS Compliant\nNous sommes certifiés PCI DSS, garantissant ainsi la sécurité et la confidentialité des données sensibles des transactions\n![secure-pci-dss-logo](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fsecure_pci_dss_logo_03ceb708f2.webp&w=750&q=75)\n# Divers types d'entreprises\n## Notre solution s’adapte aux différents acteurs du commerce électronique\n![company800](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_800_99483cd06d.webp&w=1920&q=75)\n# Freelances, entrepreneurs et startups\nCréez un compte et commencez à accepter des paiements en ligne ou en magasin en quelques minutes avec la solution Konnect e-commerce et mobile.\nLiens de paiement instantanés\nNotifications de paiements\nTotale transparence Des coûts\nPaiements depuis l'international\nSuivi Des Revenus En Temps Réel\nPaiement par QR code\n![company700](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_700_eb8fdf5c13.webp&w=1920&q=75)\n# Petites et moyennes entreprises\nProlongez l’expérience utilisateur jusqu’à la page de paiement en offrant un environnement personnalisé à l’image de votre marque. Minimisez ainsi l’abandon de panier et renforcez le sentiment de sécurité.\nTransferts en toute simplicité\nPlusieurs comptes bancaires\nAccès à l'API\nGestion d'accès pour l'équipe\nInterface d'administration avancée\nPrésence sur notre marketplace\n![company500](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2Fkonnect_company_type_500_6b9969fc85.webp&w=1920&q=75)\n# Grandes entreprises grands besoins\nNotre plateforme en marque blanche de paiement mobile vous permet d’offrir une expérience utilisateur complète, multicanale et personnalisée aux couleurs de votre marque. Elle est parfaitement adaptée aux entreprises qui souhaitent disposer d’une marketplace de services avec une solution de paiement intégrée.\nGestion d'accès pour l'équipe\nPaiement depuis l'international\nFonctionnalités sur mesure\nRapports mensuels automatisés\nSupport personnalisé\nPaiements par abonnement\n# Comment Fonctionne Konnect\n* * *\nDécouvrez nos solutions pour tous vos besoins. Créez aisément des liens de paiement pour des transactions instantanées, idéales pour les particuliers et les freelances.\nIntégrez également notre passerelle de paiement sécurisée pour les e-commerces, offrant une expérience fluide et sécurisée à vos clients en ligne.\n![Link logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/lien_ba2d21f86b.svg)\n## Lien de paiement instantané\n![Plugin logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/plugin_2d92ef728c.svg)\n## Plugins pour les sites e-commerce\n![api logo](https://s3.eu-west-3.amazonaws.com/konnect.network.public/api_f2b2122e57.svg)\n## API simple et securisé\nLien de paiement instantané\n![Ouvrir un compte Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002683_3879fbf322.svg)\n# Ouvrir un compte Konnect\nCréez votre compte Konnect avec votre adresse mail, votre compte Facebook, ou votre compte Google.\n![Créez un lien de paiement en 3 clics](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002794_80a8f7d5f9.svg)\n# Créez un lien de paiement en 3 clics\nGénérez un lien de paiement avec un code QR en seulement 3 clics.\n![Recevez vos paiements](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002795_260db417e4.svg)\n# Recevez vos paiements\nPartagez le lien de paiement avec vos clients pour recevoir des paiements rapides et sécurisés.\nPlugins pour les sites e-commerce\n![Ouvrir un compte Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002683_3879fbf322.svg)\n# Créez un compte marchand\nInscrivez-vous facilement en tant que marchand sur la plateforme Konnect pour bénéficier de nos solutions de paiement innovantes.\n![Téléchargez le Plugin Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002797_1b51d74c42.svg)\n# Téléchargez le Plugin Konnect\nObtenez notre plugin dédié pour votre plateforme e-commerce (WordPress, PrestaShop, etc.) et intégrez rapidement nos fonctionnalités de paiement sécurisées.\n![Installez le gateway](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002774_fc3a6da75b.svg)\n# Installez le gateway\nActivez le gateway Konnect sur votre site marchand et commencez à accepter des paiements de manière simple et sécurisée.\nAPI simple et securisé\n![Intégration de l'API Konnect](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002796_6c549cc89a.svg)\n# Intégration de l'API Konnect\nCommencez par intégrer facilement l'API Konnect à votre site e-commerce en quelques étapes simples.\n![Configuration Personnalisée](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002797_1_24841774af.svg)\n# Configuration Personnalisée\nConfigurez votre système pour accepter les paiements en ligne en utilisant notre solution de paiement sécurisée.\n![Suivi en Temps Réel](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Frame_1000002798_c02f601026.svg)\n# Suivi en Temps Réel\nUne fois l'API installée, accédez à votre tableau de bord centralisé sur Konnect.\n## Un compte unique pour tous vos encaissements\nDécouvrez nos offres omnicanales pour compléter votre e-shop et rester au plus près de vos clients\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Intersect_a0a7764e17.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Intersect_a0a7764e17.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/mastercard_logo_mastercard_logo_png_vector_download_19_1_3d1cf7c06f.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/mastercard_logo_mastercard_logo_png_vector_download_19_1_3d1cf7c06f.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/E_Dinar_1_1853770f56.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/E_Dinar_1_1853770f56.svg)\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002675_180b6af3fa.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002675_180b6af3fa.svg)\n### Installation rapide\nUne installation rapide grâce à nos modules CMS et une API bien documentée.\nEn savoir plus\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002676_2e0efe809b.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002676_2e0efe809b.svg)\n### Moyens de paiements\nUne multitude de moyens d’encaissement. Ne passez plus à côté de vos ventes.\nS'inscrire\n![https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002673_57774bae23.svg](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_1000002673_57774bae23.svg)\n### Tarification\nUne tarification totalement transparente. Payez uniquement sur vos transactions réussies.\nVoir nos tarifs\n# Ce que nos clients disent de Konnect\nDécouvrez comment Konnect a simplifié les paiements en ligne de ses clients\n![partner logo ija](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_2_fd105086e2.svg)\n![Hatem Drida](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FHatem_Drida_7e61659761.webp&w=256&q=75)\n# Hatem Drida\n## CEO & founder\nKonnect est une solution de paiement flexible, évolutive et parfaitement opérationnelle. C’est notre partenaire de paiement en ligne.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_3_cb391eac0b.svg)\n![Sami Tounsi](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FSami_Tounsi_9b44c451ee.webp&w=256&q=75)\n# Sami Tounsi\n## CEO & founder\nLa solution en marque blanche entièrement adaptable et personnalisable que propose KONNECT nous a permis de créer une plateforme qui rend possible le développement du service ‘food delivery’ en Tunisie. L’ensemble du réseau de livreurs, restaurants et clients bénéficient de cette solution de paiement souple, flexible et particulièrement efficace.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/etandart_4ffbdc6564.svg)\n![Ismail ben Milad](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FIsmail_ben_Milad_0d836d1dbc.webp&w=256&q=75)\n# Ismail ben Milad\n## Créateur de etandart.com produite de lannee.tn\nNous avons testé avec succès la solution Konnect et en moins de 15 minutes nous disposions d’un terminal de paiement sur notre site web marchand alors que nous avions déjà perdu plusieurs semaines à chercher la solution adéquate.\n![profile picture  kamioun review ](https://s3.eu-west-3.amazonaws.com/konnect.network.public/kamioun_e1659787744537_b948d22b6e.svg)\n![Farès Belghith](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FFares_Belghith_a8e49afad0.webp&w=256&q=75)\n# Farès Belghith\n## CEO & founder\nKonnect est une solution facile à utiliser et qui ne présente pas de risques en tant que prestataire de service de paiement.\n![profile picture review](https://s3.eu-west-3.amazonaws.com/konnect.network.public/Group_4_d1f48fc614.svg)\n![Amen Ben Mlouka](https://konnect.network/_next/image/?url=https%3A%2F%2Fs3.eu-west-3.amazonaws.com%2Fkonnect.network.public%2FAmen_Ben_Mlouka_5b03917e89.webp&w=256&q=75)\n# Amen Ben Mlouka\n## Relation clients\nChoisissez Konnect, le processus d’intégration est simple, ils sont efficaces et évoluent rapidement. Elle permet un gain de temps consid",
+    "website_metadata": {
+        "url": "https://konnect.network",
+        "content_length": 15000
+    },
+    "phones": [
+        "1708543301",
+        "1000002683",
+        "1000002794",
+        "1000002795",
+        "1000002797",
+        "1000002774",
+        "1000002796",
+        "24841774",
+        "1000002798",
+        "1000002675",
+        "1000002676",
+        "1000002673",
+        "61659761",
+        "1659787744537"
+    ],
+    "tavily": {
+        "query": "Konnect Networks",
+        "answer": "",
+        "results_count": 0,
+        "urls": []
+    },
+    "validation": {
+        "is_african": false,
+        "website_matches": true
     }
 }

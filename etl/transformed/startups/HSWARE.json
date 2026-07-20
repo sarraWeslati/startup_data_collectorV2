@@ -1,10 +1,16 @@
 {
     "entity_type": "startup",
     "name": "HSWARE",
-    "description": "Développement des agents pilotés par l'intelligence artificielle qui sont capable de :\n - Exécuter des tâches planifiées\n - Collecter et d’envoyer des données en temps réel à partir des capteurs\n - Prendre des mesures correctives\n - Générer des alertes et des notifications\n L'agent se compose de deux parties :\n - Une partie hardware (carte électronique)\n - Une partie software (algorithme de pilotage et d'intelligence artificielle)",
+    "description": "Développement des agents pilotés par l'intelligence artificielle capables d'exécuter des tâches planifiées, collecter et envoyer des données en temps réel à partir des capteurs, prendre des mesures correctives et générer des alertes et notifications. L'agent se compose d'une partie hardware (carte électronique) et d'une partie software (algorithme de pilotage et d'intelligence artificielle).",
     "tagline": "",
     "industry": "Advanced Manufacturing & Robotics",
-    "keywords": [],
+    "keywords": [
+        "intelligence artificielle",
+        "agents autonomes",
+        "hardware",
+        "software",
+        "robotique"
+    ],
     "country": "Tunisia",
     "city": "",
     "headquarters": "",
@@ -33,13 +39,13 @@
     "founders": [
         {
             "name": "Chaker Trabelsi",
-            "role": "",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Imen Jridi",
-            "role": "",
+            "role": "Co-fondatrice",
             "linkedin": "",
             "bio": ""
         }
@@ -48,13 +54,31 @@
     "employee_count": null,
     "employee_range": "",
     "team_size": "",
-    "products": [],
-    "services": [],
-    "technologies": [],
-    "customer_segments": [],
-    "target_market": "",
-    "operating_countries": [],
-    "languages_supported": [],
+    "products": [
+        "Agents IA HSWARE"
+    ],
+    "services": [
+        "Développement d'agents intelligents",
+        "Solutions hardware et software intégrées"
+    ],
+    "technologies": [
+        "Intelligence artificielle",
+        "Capteurs IoT",
+        "Hardware embarqué",
+        "Algorithmes de pilotage"
+    ],
+    "customer_segments": [
+        "Industries",
+        "Entreprises technologiques",
+        "Secteur IoT et robotique"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
@@ -83,7 +107,7 @@
         "company_type": "",
         "registration_number": ""
     },
-    "extra_notes": "",
+    "extra_notes": "HSWARE se positionne comme une startup tunisienne innovante dans la robotique et l’IA appliquée aux agents autonomes.",
     "sources": [],
     "confidence": {
         "overall": 0.0,
@@ -110,9 +134,9 @@
         "founders_count": 2,
         "leadership_count": 0,
         "investors_count": 0,
-        "products_count": 0,
-        "services_count": 0,
-        "technologies_count": 0,
+        "products_count": 1,
+        "services_count": 2,
+        "technologies_count": 4,
         "news_count": 0,
         "social": {
             "profiles_count": 0,
@@ -194,15 +218,25 @@
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "phone",
-            "confidence": 0.95,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 3,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "phone",
                         "confidence": 0.95
+                    },
+                    {
+                        "country": "Tunisia",
+                        "source": "operating",
+                        "confidence": 0.85
                     }
                 ]
             }

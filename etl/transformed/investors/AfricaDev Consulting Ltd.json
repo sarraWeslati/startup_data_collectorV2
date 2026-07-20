@@ -6,7 +6,11 @@
     "city": "",
     "website": "https://www.africadevconsulting.com",
     "linkedin": "https://www.linkedin.com/company/africadev-consulting",
-    "investment_focus": [],
+    "investment_focus": [
+        "African expansion",
+        "financial advisory",
+        "investment opportunities"
+    ],
     "investment_stages": [],
     "portfolio_startups": [],
     "entity_type": "investor",
@@ -61,7 +65,7 @@
         "has_dealroom": false,
         "has_pitchbook": false,
         "portfolio_count": 0,
-        "investment_focus_count": 0,
+        "investment_focus_count": 3,
         "investment_stages_count": 0,
         "geographic_focus_count": 1,
         "partners_count": 2,
@@ -171,7 +175,8 @@
         "contact@africadevconsulting.com"
     ],
     "geographic_focus": [
-        "Africa"
+        "Africa",
+        "Middle East"
     ],
     "validation": {
         "is_african": false,

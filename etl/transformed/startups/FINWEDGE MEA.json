@@ -1,10 +1,15 @@
 {
     "entity_type": "startup",
     "name": "FINWEDGE MEA",
-    "description": "Une société innovante développeuse d’une plateforme digitale\n a fait recours à l’intelligence artificielle pour fournir des\n opportunités d'investissement aux entreprises et aux institutions\n financières, proposer différents services et boîtes à outils\n numériques qui permettent aux investisseurs et aux entreprises\n d'élaborer et de suivre leur propre stratégie en ligne et, en\n particulier, aux gestionnaires de fonds de diversifier leur\n portefeuille de private equity dans différents secteurs et\n régions.",
+    "description": "Une société innovante développeuse d’une plateforme digitale a fait recours à l’intelligence artificielle pour fournir des opportunités d'investissement aux entreprises et aux institutions financières, proposer différents services et boîtes à outils numériques qui permettent aux investisseurs et aux entreprises d'élaborer et de suivre leur propre stratégie en ligne et, en particulier, aux gestionnaires de fonds de diversifier leur portefeuille de private equity dans différents secteurs et régions.",
     "tagline": "",
     "industry": "Fintech",
-    "keywords": [],
+    "keywords": [
+        "intelligence artificielle",
+        "investissement",
+        "private equity",
+        "plateforme digitale"
+    ],
     "country": "",
     "city": "",
     "headquarters": "",
@@ -25,13 +30,13 @@
     "founders": [
         {
             "name": "Chaouki Charfeddine",
-            "role": "",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         },
         {
             "name": "Delphine MONTI",
-            "role": "",
+            "role": "Co-fondatrice",
             "linkedin": "",
             "bio": ""
         }
@@ -93,7 +98,7 @@
             "tavily",
             "llm"
         ],
-        "date": "2026-07-08T23:57:07.236851",
+        "date": "2026-07-19T17:12:00",
         "website_enriched": false,
         "tavily_results": 0,
         "llm_enriched": true

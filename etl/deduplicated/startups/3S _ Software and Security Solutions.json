@@ -14,7 +14,12 @@
         "Smart Education",
         "Smart Agriculture",
         "Smart Health",
-        "Transformation digitale"
+        "Transformation digitale",
+        "musique",
+        "monétisation",
+        "fans",
+        "plateforme digitale",
+        "creative tech"
     ],
     "country": "Tunisia",
     "city": "",
@@ -31,22 +36,7 @@
         "emails": [
             "contact@sss.com.tn"
         ],
-        "phones": [
-            {
-                "number": "+21658000908",
-                "country": "Tunisia",
-                "country_code": "+216",
-                "valid": true,
-                "source": "website"
-            },
-            {
-                "number": "+21652910006",
-                "country": "Tunisia",
-                "country_code": "+216",
-                "valid": true,
-                "source": "website"
-            }
-        ],
+        "phones": [],
         "address": "",
         "primary_social": "https://linkedin.com/company/3ssoftware"
     },
@@ -60,6 +50,18 @@
         {
             "name": "Wrida Ben Yagouta",
             "role": "",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Khalil Zammeli",
+            "role": "Co-fondateur",
+            "linkedin": "",
+            "bio": ""
+        },
+        {
+            "name": "Hosn el Oujoud Tebourski",
+            "role": "Co-fondateur",
             "linkedin": "",
             "bio": ""
         }
@@ -81,18 +83,32 @@
         "Digitalisation",
         "Solutions métiers",
         "Plateformes cloud",
-        "Ingénierie de solutions intelligentes"
+        "Ingénierie de solutions intelligentes",
+        "Monétisation musicale",
+        "Solutions digitales pour artistes",
+        "Engagement des fans"
     ],
     "technologies": [
         "IoT",
         "IA",
         "Cloud",
-        "Microservices"
+        "Microservices",
+        "Plateforme web",
+        "Creative Tech",
+        "Solutions digitales"
     ],
-    "customer_segments": [],
-    "target_market": "",
-    "operating_countries": [],
-    "languages_supported": [],
+    "customer_segments": [
+        "Artistes musiciens",
+        "Fans",
+        "Labels indépendants"
+    ],
+    "target_market": "Tunisie et international",
+    "operating_countries": [
+        "Tunisie"
+    ],
+    "languages_supported": [
+        "Français"
+    ],
     "notable_customers": [],
     "partners": [],
     "accelerators": [],
@@ -121,14 +137,23 @@
         "company_type": "",
         "registration_number": ""
     },
-    "extra_notes": "",
+    "extra_notes": "Lisssen se positionne comme une startup tunisienne innovante dans la Creative Tech, dédiée à la monétisation musicale et à la digitalisation de la relation artiste-fan.",
     "sources": [],
     "confidence": {
         "score": 83,
-        "level": "Medium"
+        "level": "Medium",
+        "overall": 0.0,
+        "description": 0.0,
+        "founders": 0.0,
+        "leadership": 0.0,
+        "employees": 0.0,
+        "funding": 0.0,
+        "investors": 0.0,
+        "products": 0.0,
+        "technologies": 0.0
     },
     "enrichment": {
-        "status": "completed",
+        "status": "csv_import",
         "sources": [
             "website",
             "tavily",
@@ -276,18 +301,7 @@
             "official": [
                 "contact@sss.com.tn"
             ],
-            "details": [
-                {
-                    "original": "contact@sss.com.tn",
-                    "normalized": "contact@sss.com.tn",
-                    "domain": "sss.com.tn",
-                    "valid": true,
-                    "generic": false,
-                    "business": true,
-                    "official": true,
-                    "source": "website"
-                }
-            ]
+            "details": []
         },
         "country_detection": {
             "selected_country": "Tunisia",
@@ -295,28 +309,7 @@
             "confidence": 1.0,
             "report": {
                 "count": 4,
-                "candidates": [
-                    {
-                        "country": "Tunisia",
-                        "source": "country",
-                        "confidence": 1.0
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "phone",
-                        "confidence": 0.95
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "domain",
-                        "confidence": 0.8
-                    },
-                    {
-                        "country": "Tunisia",
-                        "source": "website_content",
-                        "confidence": 0.6
-                    }
-                ]
+                "candidates": []
             }
         }
     },

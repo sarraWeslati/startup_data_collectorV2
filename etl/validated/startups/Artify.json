@@ -6,7 +6,7 @@
     "industry": "Ad Tech and Creative Tech",
     "keywords": [],
     "country": "Tunisia",
-    "city": "",
+    "city": "Tunis",
     "headquarters": "",
     "founded_year": "2019",
     "startup_stage": "",
@@ -21,7 +21,10 @@
         "twitter": "https://twitter.com/artifytn"
     },
     "contact": {
-        "emails": [],
+        "emails": [
+            "contact@artify.tn",
+            "privacy@artify.tn"
+        ],
         "phones": [],
         "address": "",
         "primary_social": "https://linkedin.com/company/artify-ai"
@@ -127,11 +130,13 @@
             "medium": false
         },
         "emails": {
-            "count": 0,
-            "business_count": 0,
+            "count": 2,
+            "business_count": 2,
             "generic_count": 0,
-            "official_count": 0,
-            "domains": []
+            "official_count": 2,
+            "domains": [
+                "artify.tn"
+            ]
         },
         "phones": {
             "count": 0,
@@ -255,22 +260,53 @@
         },
         "email_validation": {
             "report": {
-                "total": 0,
-                "business": 0,
+                "total": 2,
+                "business": 2,
                 "generic": 0,
-                "official": 0,
-                "domains": []
+                "official": 2,
+                "domains": [
+                    "artify.tn"
+                ]
             },
-            "official": [],
-            "details": []
+            "official": [
+                "contact@artify.tn",
+                "privacy@artify.tn"
+            ],
+            "details": [
+                {
+                    "original": "contact@artify.tn",
+                    "normalized": "contact@artify.tn",
+                    "domain": "artify.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                },
+                {
+                    "original": "privacy@artify.tn",
+                    "normalized": "privacy@artify.tn",
+                    "domain": "artify.tn",
+                    "valid": true,
+                    "generic": false,
+                    "business": true,
+                    "official": true,
+                    "source": "website"
+                }
+            ]
         },
         "country_detection": {
             "selected_country": "Tunisia",
-            "selected_source": "domain",
-            "confidence": 0.8,
+            "selected_source": "country",
+            "confidence": 1.0,
             "report": {
-                "count": 1,
+                "count": 2,
                 "candidates": [
+                    {
+                        "country": "Tunisia",
+                        "source": "country",
+                        "confidence": 1.0
+                    },
                     {
                         "country": "Tunisia",
                         "source": "domain",
@@ -280,7 +316,7 @@
             }
         }
     },
-    "primary_email": "",
+    "primary_email": "contact@artify.tn",
     "quality": {
         "phones": {
             "total": 0,

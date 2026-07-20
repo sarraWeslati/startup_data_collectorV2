@@ -12,7 +12,7 @@ class OpenRouterProvider:
 
     NAME = "OpenRouter"
 
-    DEFAULT_MODEL = "openai/gpt-oss-120b:free"
+    DEFAULT_MODEL = "openai/gpt-oss-120b"
 
     def __init__(self):
 
