@@ -24,8 +24,8 @@ URLS = [
     # 🇹🇳 Tunisia
     "https://startup.gov.tn/en/news",
     "https://www.entreprises-magazine.com",
-    "https://www.africanmanager.com",
-    "https://kapitalis.com/tunisie",
+    
+    
     "https://www.ilboursa.com",
     "https://www.tustex.com",
 
