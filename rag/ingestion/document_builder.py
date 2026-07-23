@@ -1,219 +1,557 @@
+# document_builder.py
+
 import json
 from pathlib import Path
+from datetime import datetime
+import hashlib
 
 
-INPUT = Path("../../cleaningNews/clean_news.json")
-OUTPUT = Path("../data/documents.json")
+# =====================================================
+# CONFIGURATION
+# =====================================================
+
+ROOT_DIR = Path(
+    r"C:\Users\Dell\Downloads\startup_data_collectorV2-main\startup_data_collectorV2"
+)
 
 
-def extract_entity_names(items):
+# Articles
+ARTICLES_FILE = (
+    ROOT_DIR
+    / "cleaningNews"
+    / "clean_news.json"
+)
+
+
+# Startups : plusieurs fichiers JSON
+STARTUPS_DIR = (
+    ROOT_DIR
+    / "etl"
+    / "deduplicated"
+    / "startups"
+)
+
+
+# Investors : plusieurs fichiers JSON
+INVESTORS_DIR = (
+    ROOT_DIR
+    / "etl"
+    / "deduplicated"
+    / "investors"
+)
+
+
+# Output RAG
+OUTPUT_FILE = (
+    ROOT_DIR
+    / "rag"
+    / "data"
+    / "documents.json"
+)
+
+
+
+# =====================================================
+# CHAMPS A EXCLURE DU TEXTE RAG
+# =====================================================
+
+IGNORED_FIELDS = {
+
+    "text_for_rag",
+
+    "_source_file",
+
+    "etl",
+
+    "quality",
+
+    "stats",
+
+    "validation",
+
+    "confidence",
+
+    "enrichment",
+
+    "tavily",
+
+}
+
+
+
+# =====================================================
+# LOAD JSON FILE OR DIRECTORY
+# =====================================================
+
+def load_json(path):
+
+    results = []
+
+
+    # -----------------------------
+    # JSON FILE
+    # -----------------------------
+
+    if path.is_file():
+
+        try:
+
+            with open(
+                path,
+                "r",
+                encoding="utf-8"
+            ) as f:
+
+                data = json.load(f)
+
+
+                if isinstance(data, list):
+
+                    results.extend(data)
+
+                else:
+
+                    results.append(data)
+
+
+        except Exception as e:
+
+            print(
+                f"[ERROR] {path} : {e}"
+            )
+
+
+    # -----------------------------
+    # DIRECTORY
+    # -----------------------------
+
+    elif path.is_dir():
+
+
+        files = list(
+            path.glob("*.json")
+        )
+
+
+        print(
+            f"[INFO] {path.name}: {len(files)} JSON files"
+        )
+
+
+        for file in files:
+
+
+            try:
+
+                with open(
+                    file,
+                    "r",
+                    encoding="utf-8"
+                ) as f:
+
+
+                    data = json.load(f)
+
+
+                    if isinstance(data,list):
+
+                        results.extend(data)
+
+                    else:
+
+                        results.append(data)
+
+
+            except Exception as e:
+
+                print(
+                    f"[ERROR] {file}: {e}"
+                )
+
+
+    else:
+
+        print(
+            f"[WARNING] Missing : {path}"
+        )
+
+
+    return results
+
+
+
+# =====================================================
+# CLEAN JSON BEFORE RAG
+# =====================================================
+
+def clean_for_rag(data):
+
     """
-    Transforme une liste d'entités JSON en liste de noms.
-    
-    Exemple:
-    [
-        {"name": "EcoFeed", "founder": "Malek"},
-        {"name": "Bako Motors"}
-    ]
-
-    devient:
-    [
-        "EcoFeed",
-        "Bako Motors"
-    ]
+    Supprime les champs inutiles
+    mais garde raw_data complet
     """
 
-    names = []
+    if isinstance(data, dict):
 
-    for item in items:
-
-        if isinstance(item, dict):
-            name = item.get("name")
-
-            if name:
-                names.append(name)
-
-        else:
-            value = str(item).strip()
-
-            if value:
-                names.append(value)
-
-    return names
+        cleaned = {}
 
 
-
-def build_document(news):
-
-    entities = news.get("entities", {})
+        for key,value in data.items():
 
 
-    # -------------------------
-    # Extraction entités
-    # -------------------------
+            if key in IGNORED_FIELDS:
 
-    startups = extract_entity_names(
-        entities.get("startups", [])
+                continue
+
+
+            cleaned[key] = clean_for_rag(value)
+
+
+        return cleaned
+
+
+
+    elif isinstance(data,list):
+
+        return [
+            clean_for_rag(x)
+            for x in data
+        ]
+
+
+
+    else:
+
+        return data
+
+
+
+# =====================================================
+# FLATTEN JSON
+# =====================================================
+
+def flatten_json(data, prefix=""):
+
+
+    lines = []
+
+
+    if isinstance(data, dict):
+
+
+        for key,value in data.items():
+
+
+            current_key = (
+                f"{prefix}.{key}"
+                if prefix
+                else key
+            )
+
+
+            if isinstance(value,(dict,list)):
+
+
+                lines.extend(
+                    flatten_json(
+                        value,
+                        current_key
+                    )
+                )
+
+
+            else:
+
+
+                if value not in [
+                    "",
+                    None
+                ]:
+
+
+                    lines.append(
+                        f"{current_key}: {value}"
+                    )
+
+
+
+    elif isinstance(data,list):
+
+
+        for index,item in enumerate(data):
+
+
+            lines.extend(
+                flatten_json(
+                    item,
+                    f"{prefix}[{index}]"
+                )
+            )
+
+
+    return lines
+
+
+
+
+# =====================================================
+# UNIQUE ID
+# =====================================================
+
+def generate_id(item):
+
+
+    base = (
+
+        item.get("name")
+
+        or
+
+        item.get("title")
+
+        or
+
+        str(item)
+
     )
 
-    investors = extract_entity_names(
-        entities.get("investors", [])
+
+    return hashlib.md5(
+        base.encode("utf-8")
+    ).hexdigest()[:12]
+
+
+
+# =====================================================
+# CREATE DOCUMENT
+# =====================================================
+
+def create_document(
+        item,
+        entity_type,
+        source
+):
+
+
+    cleaned = clean_for_rag(item)
+
+
+    text = "\n".join(
+        flatten_json(cleaned)
     )
-
-    funds = extract_entity_names(
-        entities.get("funds", [])
-    )
-
-
-    sectors = news.get("sectors", [])
-
-    countries = news.get("countries", [])
-
-
-
-    # -------------------------
-    # Texte utilisé pour embedding
-    # -------------------------
-
-    text = f"""
-Titre:
-{news.get("title", "")}
-
-
-Résumé:
-{news.get("summary", "")}
-
-
-Date:
-{news.get("date", "")}
-
-
-Catégorie:
-{news.get("category", "")}
-
-
-Secteurs:
-{", ".join(sectors)}
-
-
-Pays:
-{", ".join(countries)}
-
-
-Startups mentionnées:
-{", ".join(startups)}
-
-
-Investisseurs:
-{", ".join(investors)}
-
-
-Fonds:
-{", ".join(funds)}
-
-
-Article:
-{news.get("content", "")}
-""".strip()
-
 
 
     return {
 
-        "id": news.get("id"),
+
+        "id":
+            generate_id(item),
 
 
-        # Texte pour embeddings
-        "text": text,
+
+        "entity_type":
+            entity_type,
 
 
-        # Données structurées
-        "title": news.get("title"),
 
-        "summary": news.get("summary"),
-
-        "content": news.get("content"),
-
-        "date": news.get("date"),
-
-        "category": news.get("category"),
-
-
-        "countries": countries,
-
-        "sectors": sectors,
-
-
-        # On garde les objets JSON originaux
-        "startups": entities.get(
-            "startups",
-            []
-        ),
-
-        "investors": entities.get(
-            "investors",
-            []
-        ),
-
-        "funds": entities.get(
-            "funds",
-            []
-        ),
+        "text":
+            text,
 
 
 
         "metadata": {
 
-            "title": news.get("title"),
 
-            "date": news.get("date"),
+            "source":
+                source,
 
-            "category": news.get("category"),
 
-            "countries": countries,
+            "entity_type":
+                entity_type,
 
-            "sectors": sectors,
 
-            "source_url": news.get("source_url")
+            "name":
+                item.get(
+                    "name",
+                    item.get(
+                        "title",
+                        ""
+                    )
+                ),
 
-        }
+
+            "country":
+                item.get(
+                    "country",
+                    ""
+                ),
+
+
+            "city":
+                item.get(
+                    "city",
+                    ""
+                ),
+
+
+            "industry":
+                item.get(
+                    "industry",
+                    item.get(
+                        "sector",
+                        ""
+                    )
+                ),
+
+
+            "date":
+                item.get(
+                    "date",
+                    ""
+                ),
+
+
+            "created_at":
+                datetime.now().isoformat()
+
+        },
+
+
+
+        # ORIGINAL COMPLET
+        "raw_data":
+            item
+
     }
 
 
 
-def main():
 
-    with open(
-        INPUT,
-        "r",
-        encoding="utf-8"
-    ) as f:
 
-        news = json.load(f)
+# =====================================================
+# BUILD DOCUMENTS
+# =====================================================
 
+def build_documents():
 
 
     documents = []
 
-    for article in news:
-
-        doc = build_document(article)
-
-        documents.append(doc)
 
 
+    # -------------------------
+    # STARTUPS
+    # -------------------------
 
-    OUTPUT.parent.mkdir(
+    startups = load_json(
+        STARTUPS_DIR
+    )
+
+
+    print(
+        f"[STARTUPS] {len(startups)}"
+    )
+
+
+    for startup in startups:
+
+
+        documents.append(
+
+            create_document(
+                startup,
+                "startup",
+                "deduplicated/startups"
+            )
+
+        )
+
+
+
+
+    # -------------------------
+    # INVESTORS
+    # -------------------------
+
+    investors = load_json(
+        INVESTORS_DIR
+    )
+
+
+    print(
+        f"[INVESTORS] {len(investors)}"
+    )
+
+
+    for investor in investors:
+
+
+        documents.append(
+
+            create_document(
+                investor,
+                "investor",
+                "deduplicated/investors"
+            )
+
+        )
+
+
+
+
+    # -------------------------
+    # ARTICLES
+    # -------------------------
+
+    articles = load_json(
+        ARTICLES_FILE
+    )
+
+
+    print(
+        f"[ARTICLES] {len(articles)}"
+    )
+
+
+    for article in articles:
+
+
+        documents.append(
+
+            create_document(
+                article,
+                "article",
+                "clean_news.json"
+            )
+
+        )
+
+
+
+    return documents
+
+
+
+
+# =====================================================
+# SAVE
+# =====================================================
+
+def save_documents(documents):
+
+
+    OUTPUT_FILE.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
 
     with open(
-        OUTPUT,
+        OUTPUT_FILE,
         "w",
         encoding="utf-8"
     ) as f:
+
 
         json.dump(
             documents,
@@ -223,11 +561,45 @@ def main():
         )
 
 
+
+
+# =====================================================
+# MAIN
+# =====================================================
+
+if __name__ == "__main__":
+
+
     print(
-        f"{len(documents)} documents created"
+        "\n========== BUILD RAG DOCUMENTS ==========\n"
+    )
+
+
+    docs = build_documents()
+
+
+
+    save_documents(
+        docs
     )
 
 
 
-if __name__ == "__main__":
-    main()
+    print(
+        "\n========================================="
+    )
+
+
+    print(
+        f"TOTAL DOCUMENTS : {len(docs)}"
+    )
+
+
+    print(
+        f"OUTPUT : {OUTPUT_FILE}"
+    )
+
+
+    print(
+        "=========================================\n"
+    )

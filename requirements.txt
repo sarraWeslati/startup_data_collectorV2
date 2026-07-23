@@ -17,23 +17,27 @@ trafilatura
 validators
 
 tldextract
+
 pdfplumber
-config
-fitz
+
+PyMuPDF
 
 phonenumbers
-requests
-trafilatura
-tqdm
+
 google-generativeai
-lxml
-python-dotenv
-Playwright
+
 jiter
-tqdm
+
 langchain-text-splitters
+
 sentence-transformers
+
 faiss-cpu
+
 scipy
-numpy scikit-learn
-openai numpy
+
+numpy
+
+scikit-learn
+
+openai

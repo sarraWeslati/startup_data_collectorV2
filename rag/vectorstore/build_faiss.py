@@ -1,150 +1,205 @@
 import json
-import faiss
-import numpy as np
 import os
-
+import numpy as np
+import faiss
 from pathlib import Path
-from dotenv import load_dotenv
-from openai import OpenAI
-
-
-load_dotenv()
-
-
-client = OpenAI(
-    base_url="https://integrate.api.nvidia.com/v1",
-    api_key=os.getenv("NVIDIA_API_KEY")
-)
-
-
-MODEL_NAME="nvidia/nv-embedqa-e5-v5"
-
-
+from tqdm import tqdm
+from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+INPUT_FILE = BASE_DIR / "data" / "embeddings.json"
 
-INDEX_FILE = (
-    BASE_DIR /
-    "vectorstore" /
-    "index.faiss"
-)
+VECTORSTORE_DIR = BASE_DIR / "vectorstore"
+
+INDEX_FILE = VECTORSTORE_DIR / "index.faiss"
+
+METADATA_FILE = VECTORSTORE_DIR / "metadata.json"
+
+# ==============================
+# LOAD EMBEDDINGS
+# ==============================
+
+def load_chunks():
+
+    print("Loading embedded chunks...")
+
+    if not INPUT_FILE.exists():
+        raise FileNotFoundError(
+            f"File not found: {INPUT_FILE}"
+        )
+
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        chunks = json.load(f)
 
 
-METADATA_FILE = (
-    BASE_DIR /
-    "vectorstore" /
-    "metadata.json"
-)
+    print(f"Chunks loaded : {len(chunks)}")
+
+    return chunks
 
 
 
-class Retriever:
+# ==============================
+# BUILD FAISS INDEX
+# ==============================
+
+def build_index(chunks):
+
+    print("Preparing vectors...")
 
 
-    def __init__(self):
+    vectors = []
 
-        print("Loading FAISS...")
+    for chunk in tqdm(chunks):
 
-        self.index = faiss.read_index(
-            str(INDEX_FILE)
+        embedding = chunk.get("embedding")
+
+        if not embedding:
+            continue
+
+        vectors.append(
+            embedding
         )
 
 
-        with open(
-            METADATA_FILE,
-            encoding="utf-8"
-        ) as f:
-
-            self.metadata=json.load(f)
+    vectors = np.array(
+        vectors,
+        dtype="float32"
+    )
 
 
-        print(
-            f"{len(self.metadata)} documents loaded"
+    print(
+        f"Vectors shape : {vectors.shape}"
+    )
+
+
+    # --------------------------
+    # Normalize vectors
+    # cosine similarity
+    # --------------------------
+
+    faiss.normalize_L2(vectors)
+
+
+    dimension = vectors.shape[1]
+
+
+    print(
+        f"Embedding dimension : {dimension}"
+    )
+
+
+    # --------------------------
+    # FAISS index
+    # --------------------------
+
+    index = faiss.IndexFlatIP(
+        dimension
+    )
+
+
+    index.add(vectors)
+
+
+    print(
+        f"FAISS index size : {index.ntotal}"
+    )
+
+
+    return index
+
+
+
+# ==============================
+# SAVE METADATA
+# ==============================
+
+def save_metadata(chunks):
+
+    metadata = []
+
+
+    for i, chunk in enumerate(chunks):
+
+        item = {
+
+            "index": i,
+
+            "id": chunk.get("id"),
+
+            "text": chunk.get("text"),
+
+            "metadata": chunk.get("metadata")
+
+        }
+
+        metadata.append(item)
+
+
+
+    VECTORSTORE_DIR.mkdir(
+        exist_ok=True
+    )
+
+
+    with open(
+        METADATA_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            metadata,
+            f,
+            ensure_ascii=False,
+            indent=2
         )
 
 
-
-
-    def embed_query(self,query):
-
-
-        response = client.embeddings.create(
-
-            model=MODEL_NAME,
-
-            input=[query],
-
-            extra_body={
-                "input_type":"query"
-            }
-        )
-
-
-        vector=np.array(
-            response.data[0].embedding,
-            dtype="float32"
-        )
-
-
-        vector /= np.linalg.norm(vector)
-
-
-        return vector.reshape(1,-1)
+    print(
+        f"Metadata saved : {METADATA_FILE}"
+    )
 
 
 
+# ==============================
+# MAIN
+# ==============================
 
-    def search(
-        self,
-        query,
-        top_k=5
-    ):
+def main():
 
-
-        embedding=self.embed_query(query)
+    chunks = load_chunks()
 
 
-
-        scores,ids=self.index.search(
-
-            embedding,
-
-            top_k
-
-        )
+    index = build_index(
+        chunks
+    )
 
 
-
-        results=[]
-
-
-
-        for score,idx in zip(
-            scores[0],
-            ids[0]
-        ):
+    VECTORSTORE_DIR.mkdir(
+        exist_ok=True
+    )
 
 
-            if idx == -1:
-                continue
+    faiss.write_index(
+        index,
+        str(INDEX_FILE)
+    )
 
 
+    print(
+        f"FAISS index saved : {INDEX_FILE}"
+    )
 
-            doc=self.metadata[idx]
+
+    save_metadata(
+        chunks
+    )
+
+
+    print("\nDONE ✅")
 
 
 
-            results.append({
-
-                "score":float(score),
-
-                "text":doc["text"],
-
-                "metadata":
-                doc["metadata"]
-
-            })
-
-
-        return results
+if __name__ == "__main__":
+    main()

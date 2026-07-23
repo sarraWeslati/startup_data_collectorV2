@@ -1,434 +1,179 @@
 import os
 import json
-import numpy as np
-
+import requests
+import time
 from pathlib import Path
-from tqdm import tqdm
 from dotenv import load_dotenv
-
-from openai import OpenAI
-
+from tqdm import tqdm
 
 
-# =====================================
-# LOAD ENV
-# =====================================
+# =========================
+# CONFIG
+# =========================
 
 load_dotenv()
 
+API_KEY = os.getenv("NVIDIA_API_KEY")
 
-NVIDIA_API_KEY = os.getenv(
-    "NVIDIA_API_KEY"
-)
+if not API_KEY:
+    raise Exception("NVIDIA_API_KEY missing")
 
 
-if not NVIDIA_API_KEY:
-    raise ValueError(
-        "NVIDIA_API_KEY missing in .env"
+MODEL = "nvidia/nv-embed-v1"
+
+URL = "https://integrate.api.nvidia.com/v1/embeddings"
+
+
+ROOT = Path(__file__).resolve().parent.parent
+
+INPUT_FILE = ROOT / "data" / "chunks.json"
+
+OUTPUT_FILE = ROOT / "data" / "embeddings.json"
+
+
+BATCH_SIZE = 8
+
+
+
+# =========================
+# EMBEDDING FUNCTION
+# =========================
+
+def get_embeddings(texts):
+
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Accept": "application/json",
+        "Content-Type": "application/json"
+    }
+
+
+    payload = {
+        "model": "nvidia/nv-embed-v1",
+        "input": texts
+    }
+
+
+    r = requests.post(
+        URL,
+        headers=headers,
+        json=payload,
+        timeout=120
     )
 
 
-
-# =====================================
-# PATHS
-# =====================================
-
-BASE_DIR = Path(__file__).resolve().parent.parent
+    if r.status_code != 200:
+        print("STATUS :", r.status_code)
+        print(r.text)
+        raise Exception("NVIDIA embedding failed")
 
 
-INPUT_FILE = (
-    BASE_DIR /
-    "data" /
-    "chunks.json"
-)
+    data = r.json()
 
 
-OUTPUT_DIR = (
-    BASE_DIR /
-    "embeddings"
-)
+    return [
+        item["embedding"]
+        for item in data["data"]
+    ]
 
+# =========================
+# LOAD
+# =========================
 
-OUTPUT_EMBEDDINGS = (
-    OUTPUT_DIR /
-    "embeddings.npy"
-)
+def load_chunks():
 
-
-OUTPUT_METADATA = (
-    OUTPUT_DIR /
-    "metadata.json"
-)
+    with open(
+        INPUT_FILE,
+        "r",
+        encoding="utf-8"
+    ) as f:
+        return json.load(f)
 
 
 
-# =====================================
-# NVIDIA CONFIG
-# =====================================
-
-
-MODEL_NAME = (
-    "nvidia/nv-embedqa-e5-v5"
-)
-
-
-
-client = OpenAI(
-
-    base_url=
-    "https://integrate.api.nvidia.com/v1",
-
-    api_key=NVIDIA_API_KEY
-
-)
-
-
-
-# =====================================
-# TEXT LIMIT
-# =====================================
-
-def truncate_text(
-        text,
-        max_chars=1500
-):
-    """
-    NVIDIA nv-embedqa-e5-v5
-    Maximum: 512 tokens
-
-    1500 caractères ≈ 400-500 tokens
-    """
-
-    if len(text) > max_chars:
-
-        return text[:max_chars]
-
-    return text
-
-
-
-# =====================================
+# =========================
 # MAIN
-# =====================================
-
+# =========================
 
 def main():
 
+    print("Loading chunks...")
 
-    OUTPUT_DIR.mkdir(
-        exist_ok=True,
-        parents=True
-    )
-
-
-
-    # -----------------------------
-    # LOAD CHUNKS
-    # -----------------------------
-
+    chunks = load_chunks()
 
     print(
-        "Loading chunks..."
+        "Chunks found :",
+        len(chunks)
     )
-
-
-    with open(
-
-        INPUT_FILE,
-
-        "r",
-
-        encoding="utf-8"
-
-    ) as f:
-
-        chunks = json.load(f)
-
-
-
-    print(
-        f"Chunks loaded: {len(chunks)}"
-    )
-
-
-
-    texts = []
-
-    metadata = []
-
-
-
-    # -----------------------------
-    # PREPARE TEXTS
-    # -----------------------------
-
-
-    for index, chunk in enumerate(chunks):
-
-
-        text = chunk.get(
-            "text",
-            ""
-        )
-
-
-        if not text.strip():
-
-            continue
-
-
-
-        # Protection NVIDIA
-
-        text = truncate_text(
-            text
-        )
-
-
-
-        texts.append(
-            text
-        )
-
-
-
-        metadata.append(
-
-            {
-
-                "index": index,
-
-
-                "chunk_id":
-                chunk.get(
-                    "chunk_id"
-                ),
-
-
-                "metadata":
-                chunk.get(
-                    "metadata",
-                    {}
-                )
-
-            }
-
-        )
-
-
-
-    print(
-        f"Texts ready: {len(texts)}"
-    )
-
-
-
-    # -----------------------------
-    # GENERATE EMBEDDINGS
-    # -----------------------------
 
 
     embeddings = []
 
 
-    batch_size = 32
-
-
-
-    print(
-        "Generating NVIDIA embeddings..."
-    )
-
-
-
     for i in tqdm(
-
-        range(
-            0,
-            len(texts),
-            batch_size
-        )
-
+        range(0, len(chunks), BATCH_SIZE)
     ):
 
+        batch = chunks[i:i+BATCH_SIZE]
 
-        batch = texts[
-            i:i + batch_size
+
+        texts = [
+            x["text"]
+            for x in batch
         ]
 
 
+        vectors = get_embeddings(texts)
 
-        try:
 
+        for chunk, vector in zip(
+            batch,
+            vectors
+        ):
 
-            response = client.embeddings.create(
+            embeddings.append({
 
-                model=MODEL_NAME,
+                "id": chunk["id"],
 
+                "text": chunk["text"],
 
-                input=batch,
+                "metadata": chunk["metadata"],
 
+                "embedding": vector
 
-                extra_body={
+            })
 
-                    "input_type":
-                    "passage"
 
-                }
-
-            )
-
-
-
-            batch_embeddings = [
-
-                item.embedding
-
-                for item in response.data
-
-            ]
-
-
-
-            embeddings.extend(
-
-                batch_embeddings
-
-            )
-
-
-
-        except Exception as e:
-
-
-            print(
-                "\nEmbedding error:",
-                e
-            )
-
-
-            print(
-                "Skipping batch:",
-                i
-            )
-
-
-
-    # -----------------------------
-    # CHECK RESULTS
-    # -----------------------------
-
-
-    embeddings = np.asarray(
-
-        embeddings,
-
-        dtype="float32"
-
-    )
-
-
-
-    print(
-
-        "Embedding shape:",
-
-        embeddings.shape
-
-    )
-
-
-
-    if len(embeddings) == 0:
-
-        raise Exception(
-            "No embeddings generated"
-        )
-
-
-
-    # -----------------------------
-    # SAVE EMBEDDINGS
-    # -----------------------------
-
-
-    np.save(
-
-        OUTPUT_EMBEDDINGS,
-
-        embeddings
-
-    )
-
-
-
-    print(
-        "Embeddings saved:"
-    )
-
-    print(
-        OUTPUT_EMBEDDINGS
-    )
-
-
-
-    # -----------------------------
-    # SAVE METADATA
-    # -----------------------------
-
-
-    # garder uniquement les metadata
-    # correspondant aux embeddings créés
-
-
-    metadata = metadata[
-        :len(embeddings)
-    ]
+        time.sleep(1)
 
 
 
     with open(
-
-        OUTPUT_METADATA,
-
+        OUTPUT_FILE,
         "w",
-
         encoding="utf-8"
-
     ) as f:
 
-
         json.dump(
-
-            metadata,
-
+            embeddings,
             f,
-
             ensure_ascii=False,
-
             indent=2
-
         )
 
 
-
+    print("\nDONE")
     print(
-        "Metadata saved:"
+        "Embeddings:",
+        len(embeddings)
     )
 
     print(
-        OUTPUT_METADATA
+        "Saved:",
+        OUTPUT_FILE
     )
-
-
-
-    print(
-        "\nDONE ✅"
-    )
-
 
 
 
 if __name__ == "__main__":
-
     main()
