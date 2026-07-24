@@ -2,178 +2,442 @@ import os
 import json
 import requests
 import time
+import numpy as np
+import faiss
+
 from pathlib import Path
-from dotenv import load_dotenv
 from tqdm import tqdm
+from dotenv import load_dotenv
 
 
-# =========================
+
+# =====================================
 # CONFIG
-# =========================
+# =====================================
+
 
 load_dotenv()
 
-API_KEY = os.getenv("NVIDIA_API_KEY")
+
+API_KEY = os.getenv(
+    "NVIDIA_API_KEY"
+)
+
 
 if not API_KEY:
-    raise Exception("NVIDIA_API_KEY missing")
+    raise Exception(
+        "NVIDIA_API_KEY missing"
+    )
+
 
 
 MODEL = "nvidia/nv-embed-v1"
 
-URL = "https://integrate.api.nvidia.com/v1/embeddings"
+
+URL = (
+    "https://integrate.api.nvidia.com/v1/embeddings"
+)
+
 
 
 ROOT = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = ROOT / "data" / "chunks.json"
 
-OUTPUT_FILE = ROOT / "data" / "embeddings.json"
+
+INPUT_FILE = (
+    ROOT
+    /
+    "data"
+    /
+    "chunks.json"
+)
+
+
+
+VECTORSTORE_DIR = (
+    ROOT
+    /
+    "vectorstore"
+)
+
+
+
+VECTORSTORE_DIR.mkdir(
+    exist_ok=True
+)
+
+
+
+INDEX_FILE = (
+    VECTORSTORE_DIR
+    /
+    "index.faiss"
+)
+
+
+
+METADATA_FILE = (
+    VECTORSTORE_DIR
+    /
+    "metadata.json"
+)
+
 
 
 BATCH_SIZE = 8
 
 
 
-# =========================
-# EMBEDDING FUNCTION
-# =========================
+
+
+# =====================================
+# EMBEDDING API
+# =====================================
+
 
 def get_embeddings(texts):
 
+
     headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Accept": "application/json",
-        "Content-Type": "application/json"
+
+        "Authorization":
+        f"Bearer {API_KEY}",
+
+        "Accept":
+        "application/json",
+
+        "Content-Type":
+        "application/json"
+
     }
+
 
 
     payload = {
-        "model": "nvidia/nv-embed-v1",
-        "input": texts
+
+
+        "model":
+        MODEL,
+
+
+        "input":
+        texts
+
     }
 
 
-    r = requests.post(
+
+
+    response = requests.post(
+
         URL,
+
         headers=headers,
+
         json=payload,
+
         timeout=120
+
     )
 
 
-    if r.status_code != 200:
-        print("STATUS :", r.status_code)
-        print(r.text)
-        raise Exception("NVIDIA embedding failed")
+
+    if response.status_code != 200:
 
 
-    data = r.json()
+        print(
+            response.text
+        )
+
+
+        raise Exception(
+            "NVIDIA embedding error"
+        )
+
+
+
+
+    data=response.json()
+
 
 
     return [
+
         item["embedding"]
+
         for item in data["data"]
+
     ]
 
-# =========================
-# LOAD
-# =========================
+
+
+
+
+# =====================================
+# LOAD CHUNKS
+# =====================================
+
 
 def load_chunks():
 
+
     with open(
+
         INPUT_FILE,
-        "r",
+
         encoding="utf-8"
+
     ) as f:
+
+
         return json.load(f)
 
 
 
-# =========================
-# MAIN
-# =========================
+
+
+# =====================================
+# BUILD FAISS
+# =====================================
+
 
 def main():
 
-    print("Loading chunks...")
-
-    chunks = load_chunks()
 
     print(
-        "Chunks found :",
-        len(chunks)
+        "\nLoading chunks..."
     )
 
 
-    embeddings = []
+    chunks = load_chunks()
+
+
+
+    print(
+
+        "Chunks:",
+
+        len(chunks)
+
+    )
+
+
+
+
+    vectors=[]
+
+
+    metadata=[]
+
+
 
 
     for i in tqdm(
-        range(0, len(chunks), BATCH_SIZE)
+
+        range(
+
+            0,
+
+            len(chunks),
+
+            BATCH_SIZE
+
+        )
+
     ):
 
-        batch = chunks[i:i+BATCH_SIZE]
 
-
-        texts = [
-            x["text"]
-            for x in batch
+        batch = chunks[
+            i:i+BATCH_SIZE
         ]
 
 
-        vectors = get_embeddings(texts)
+
+        texts=[
+
+            x["text"]
+
+            for x in batch
+
+        ]
 
 
-        for chunk, vector in zip(
+
+        embeddings = get_embeddings(
+            texts
+        )
+
+
+
+        for chunk,vector in zip(
+
             batch,
-            vectors
+
+            embeddings
+
         ):
 
-            embeddings.append({
 
-                "id": chunk["id"],
 
-                "text": chunk["text"],
+            vectors.append(
+                vector
+            )
 
-                "metadata": chunk["metadata"],
 
-                "embedding": vector
+
+            metadata.append({
+
+                "id":
+                chunk["id"],
+
+
+                "text":
+                chunk["text"],
+
+
+                "metadata":
+                chunk["metadata"]
 
             })
+
 
 
         time.sleep(1)
 
 
 
+
+    # ===============================
+    # numpy vectors
+    # ===============================
+
+
+    vectors=np.array(
+
+        vectors,
+
+        dtype="float32"
+
+    )
+
+
+
+    print(
+
+        "Vector shape:",
+
+        vectors.shape
+
+    )
+
+
+
+    # cosine similarity
+
+    faiss.normalize_L2(
+        vectors
+    )
+
+
+
+    dimension = vectors.shape[1]
+
+
+
+    # Index FAISS
+
+    index = faiss.IndexFlatIP(
+        dimension
+    )
+
+
+
+    index.add(
+        vectors
+    )
+
+
+
+    print(
+
+        "FAISS size:",
+
+        index.ntotal
+
+    )
+
+
+
+
+    # save index
+
+
+    faiss.write_index(
+
+        index,
+
+        str(INDEX_FILE)
+
+    )
+
+
+
+
+    # save metadata
+
+
     with open(
-        OUTPUT_FILE,
+
+        METADATA_FILE,
+
         "w",
+
         encoding="utf-8"
+
     ) as f:
 
+
         json.dump(
-            embeddings,
+
+            metadata,
+
             f,
+
             ensure_ascii=False,
+
             indent=2
+
         )
 
 
-    print("\nDONE")
+
+
+    print("\n================")
+    print("DONE ✅")
+    print("================")
+
+
     print(
-        "Embeddings:",
-        len(embeddings)
+
+        "Index:",
+
+        INDEX_FILE
+
     )
 
+
     print(
-        "Saved:",
-        OUTPUT_FILE
+
+        "Metadata:",
+
+        METADATA_FILE
+
     )
 
 
 
-if __name__ == "__main__":
+
+
+if __name__=="__main__":
+
     main()
